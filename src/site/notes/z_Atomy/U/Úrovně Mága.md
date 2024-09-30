@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/urovne-maga/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/urovne-maga/"}
 ---
 
 ## LVL 1

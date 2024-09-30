@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/bourlivak/","title":"Bouřlivák","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/bourlivak/","title":"Bouřlivák"}
 ---
 
 ![Bouřlivák.png|500](/img/user/z_img/Bou%C5%99liv%C3%A1k.png)

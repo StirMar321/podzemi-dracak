@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/privolani-stinu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/privolani-stinu/"}
 ---
 
 ## Přivolání stínu  

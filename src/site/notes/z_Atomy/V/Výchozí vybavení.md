@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vychozi-vybaveni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vychozi-vybaveni/"}
 ---
 
 # Výchozí vybavení  

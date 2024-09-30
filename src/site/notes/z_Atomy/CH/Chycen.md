@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/ch/chycen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/ch/chycen/"}
 ---
 
 ## Chycen

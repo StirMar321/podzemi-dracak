@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/strategie-basty/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/strategie-basty/"}
 ---
 
 ## Strategie Bašty

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/priklady-kontrol-dovednosti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/priklady-kontrol-dovednosti/"}
 ---
 
 

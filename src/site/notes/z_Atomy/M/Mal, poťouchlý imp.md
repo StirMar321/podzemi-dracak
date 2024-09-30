@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/m/mal-potouchly-imp/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/m/mal-potouchly-imp/"}
 ---
 
 ## Mal, poťouchlý imp

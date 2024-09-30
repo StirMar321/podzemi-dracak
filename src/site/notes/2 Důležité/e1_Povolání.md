@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/e1-povolani/","title":"Povolání","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/e1-povolani/","title":"Povolání"}
 ---
 
 # Povolání

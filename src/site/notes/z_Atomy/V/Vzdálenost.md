@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vzdalenost/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vzdalenost/"}
 ---
 
 ### Znázornění pohybu a vzdálenosti

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Hrdinské ne-výhody pro ZH","permalink":"/Hrdinské ne-výhody pro ZH/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Hrdinské ne-výhody pro ZH","permalink":"/Hrdinské ne-výhody pro ZH/"}
 ---
 
 ### Hrdinské (👍) & (👎)  pro ❗

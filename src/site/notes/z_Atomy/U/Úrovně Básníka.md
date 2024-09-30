@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/urovne-basnika/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/urovne-basnika/"}
 ---
 
 ## LVL 1

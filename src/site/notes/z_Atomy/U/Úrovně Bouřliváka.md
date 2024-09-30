@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/urovne-bourlivaka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/urovne-bourlivaka/"}
 ---
 
 ## LVL 1

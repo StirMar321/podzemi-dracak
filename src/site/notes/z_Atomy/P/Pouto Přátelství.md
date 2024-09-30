@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/pouto-pratelstvi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/pouto-pratelstvi/"}
 ---
 
 ## Pouto Přátelství

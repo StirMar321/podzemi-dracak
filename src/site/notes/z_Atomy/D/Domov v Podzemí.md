@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/domov-v-podzemi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/domov-v-podzemi/"}
 ---
 
 ## Domov v Podzemí

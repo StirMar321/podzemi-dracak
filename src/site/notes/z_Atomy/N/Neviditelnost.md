@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/neviditelnost/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/neviditelnost/"}
 ---
 
 ## Neviditelnost 

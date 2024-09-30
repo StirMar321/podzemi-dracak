@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/c/cesta-rudeho-oparu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/c/cesta-rudeho-oparu/"}
 ---
 
 ## Cesta Rudého oparu

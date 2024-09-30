@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/t/tajny-nemrtvy/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/t/tajny-nemrtvy/"}
 ---
 
 ## (Tajný) Nemrtvý

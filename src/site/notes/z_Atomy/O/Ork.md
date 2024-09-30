@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/ork/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/ork/"}
 ---
 
 ## Ork

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/kostena-kosa/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/kostena-kosa/"}
 ---
 
 ## Kostěná kosa  

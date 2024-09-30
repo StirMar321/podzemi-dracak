@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/omracen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/omracen/"}
 ---
 
 ## Omráčen

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/h/hnisajici-rany/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/h/hnisajici-rany/"}
 ---
 
 ## Hnisající rány

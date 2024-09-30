@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/uspechane-utoky/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/uspechane-utoky/"}
 ---
 
 >[!NOTE]+ **Uspěchané útoky**

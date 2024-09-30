@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/e/elektricky-oblouk/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/e/elektricky-oblouk/"}
 ---
 
 ## Elektrický oblouk   

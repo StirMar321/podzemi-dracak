@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zpomalen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zpomalen/"}
 ---
 
 ## Zpomalen

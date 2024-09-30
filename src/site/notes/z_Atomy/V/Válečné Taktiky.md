@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/valecne-taktiky/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/valecne-taktiky/"}
 ---
 
 # Válečné Taktiky

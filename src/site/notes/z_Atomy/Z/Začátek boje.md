@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zacatek-boje/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zacatek-boje/"}
 ---
 
 # Začátek boje

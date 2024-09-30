@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-kouzla/e-zare/","title":"Záře","noteIcon":""}
+{"dg-publish":true,"permalink":"/4-kouzla/e-zare/","title":"Záře"}
 ---
 
 ![Iko_Záře.png](/img/user/z_img/Iko_Z%C3%A1%C5%99e.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/strasidelna-minulost/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/strasidelna-minulost/"}
 ---
 
 ## Strašidelná minulost

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/m/menavec/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/m/menavec/"}
 ---
 
 ## Měňavec

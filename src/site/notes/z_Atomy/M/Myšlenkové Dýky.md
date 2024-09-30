@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/m/myslenkove-dyky/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/m/myslenkove-dyky/"}
 ---
 
 ## Myšlenkové Dýky

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/j-magicke-predmety/","title":"Magické předměty","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/j-magicke-predmety/","title":"Magické předměty"}
 ---
 
 # Magické předměty

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/sfericka-bytost/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/sfericka-bytost/"}
 ---
 
 ## Sférická bytost

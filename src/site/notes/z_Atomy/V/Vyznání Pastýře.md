@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vyznani-pastyre/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vyznani-pastyre/"}
 ---
 
 # Vyznání Pastýře

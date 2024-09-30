@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zmaten/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zmaten/"}
 ---
 
 ## Zmaten

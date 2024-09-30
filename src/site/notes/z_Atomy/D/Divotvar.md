@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/divotvar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/divotvar/"}
 ---
 
 ## Divotvar

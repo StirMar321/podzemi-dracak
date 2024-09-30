@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/sympaticky-smolar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/sympaticky-smolar/"}
 ---
 
 ## Sympatický smolař

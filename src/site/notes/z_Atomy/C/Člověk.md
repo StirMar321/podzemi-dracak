@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/c/clovek/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/c/clovek/"}
 ---
 
 ## Člověk

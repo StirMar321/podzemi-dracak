@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vytribeny-vkus/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vytribeny-vkus/"}
 ---
 
 ## Vytříbený vkus

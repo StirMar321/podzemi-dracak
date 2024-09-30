@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-proaktivni-hrani/f-konflikt/","title":"Konflikt","noteIcon":""}
+{"dg-publish":true,"permalink":"/5-proaktivni-hrani/f-konflikt/","title":"Konflikt"}
 ---
 
 # Jak začít boj

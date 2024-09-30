@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/konstrukt/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/konstrukt/"}
 ---
 
 ## Konstrukt

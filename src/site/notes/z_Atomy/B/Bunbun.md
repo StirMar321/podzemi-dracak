@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/bunbun/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/bunbun/"}
 ---
 
 ## Bunbun

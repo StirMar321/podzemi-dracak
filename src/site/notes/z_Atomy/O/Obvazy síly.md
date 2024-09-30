@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/obvazy-sily/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/obvazy-sily/"}
 ---
 
 ## Obvazy síly  

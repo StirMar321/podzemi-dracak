@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/i-magicke-zbrane/","title":"Magické zbraně","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/i-magicke-zbrane/","title":"Magické zbraně"}
 ---
 
 # Magické zbraně

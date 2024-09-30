@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/urovne-berserka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/urovne-berserka/"}
 ---
 
 ## LVL 1

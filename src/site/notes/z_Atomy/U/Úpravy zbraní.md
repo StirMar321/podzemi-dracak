@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/upravy-zbrani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/upravy-zbrani/"}
 ---
 
 ## Úpravy zbraní  

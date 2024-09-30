@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/r/rozptylen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/r/rozptylen/"}
 ---
 
 ## Rozptýlen

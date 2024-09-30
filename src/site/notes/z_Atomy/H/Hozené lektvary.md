@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/h/hozene-lektvary/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/h/hozene-lektvary/"}
 ---
 
 # Hozené lektvary  

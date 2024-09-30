@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zlodejske-talenty/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zlodejske-talenty/"}
 ---
 
 # Zlodějské talenty

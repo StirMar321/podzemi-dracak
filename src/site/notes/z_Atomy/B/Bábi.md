@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/babi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/babi/"}
 ---
 
 ## Bábi

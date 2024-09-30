@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/dech-zivota/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/dech-zivota/"}
 ---
 
 ## Dech života  

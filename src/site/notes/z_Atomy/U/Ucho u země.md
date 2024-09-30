@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/ucho-u-zeme/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/ucho-u-zeme/"}
 ---
 
 ## Ucho u země

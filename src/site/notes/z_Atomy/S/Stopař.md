@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/stopar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/stopar/"}
 ---
 
 ## Zaměření Stopař

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/dupak/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/dupak/"}
 ---
 
 ## Dupák

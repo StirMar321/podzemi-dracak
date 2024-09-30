@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/d-odpocinek-a-mezidobi/","title":"Odpočinek a Mezidobí","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/d-odpocinek-a-mezidobi/","title":"Odpočinek a Mezidobí"}
 ---
 
 # Odpočinek a Mezidobí

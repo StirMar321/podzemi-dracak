@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-proaktivni-hrani/a-co-to-je/","title":"Co to je?","noteIcon":""}
+{"dg-publish":true,"permalink":"/5-proaktivni-hrani/a-co-to-je/","title":"Co to je?"}
 ---
 
 Překlad pomocí ChatGPT začátku super knížky

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/l/lasik/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/l/lasik/"}
 ---
 
 ## Lasík

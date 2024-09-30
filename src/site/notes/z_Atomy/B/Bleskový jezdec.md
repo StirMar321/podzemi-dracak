@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/bleskovy-jezdec/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/bleskovy-jezdec/"}
 ---
 
 ## Bleskový jezdec

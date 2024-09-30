@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zakladni-schopnosti-nepratel/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zakladni-schopnosti-nepratel/"}
 ---
 
 # Základní schopnosti nepřátel

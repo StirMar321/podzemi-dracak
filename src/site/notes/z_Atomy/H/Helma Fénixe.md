@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/h/helma-fenixe/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/h/helma-fenixe/"}
 ---
 
 ## Helma Fénixe

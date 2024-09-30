@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/l/lecivy-lektvar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/l/lecivy-lektvar/"}
 ---
 
 # Léčivý lektvar

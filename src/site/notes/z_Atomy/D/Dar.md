@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/dar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/dar/"}
 ---
 
 # Dar

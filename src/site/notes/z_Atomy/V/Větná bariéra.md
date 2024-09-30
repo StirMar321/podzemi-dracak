@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vetna-bariera/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vetna-bariera/"}
 ---
 
 ## Větná bariéra

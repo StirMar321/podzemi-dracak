@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/m/myslenkova-pijavice/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/m/myslenkova-pijavice/"}
 ---
 
 ## Myšlenková pijavice

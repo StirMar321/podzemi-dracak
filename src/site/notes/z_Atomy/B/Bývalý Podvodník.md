@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/byvaly-podvodnik/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/byvaly-podvodnik/"}
 ---
 
 ## (Bývalý) Podvodník

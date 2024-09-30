@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/uzdraveni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/uzdraveni/"}
 ---
 
 ## Uzdravení

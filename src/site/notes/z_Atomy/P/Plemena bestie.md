@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/plemena-bestie/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/plemena-bestie/"}
 ---
 
 # Plemena bestie

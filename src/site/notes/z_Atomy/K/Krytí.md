@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/kryti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/kryti/"}
 ---
 
 # Krytí

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/kriticke-leceni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/kriticke-leceni/"}
 ---
 
 # Kritické Léčení  

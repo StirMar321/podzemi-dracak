@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zbrane-bolesti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zbrane-bolesti/"}
 ---
 
 ## Zbraně Bolesti  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/platova-zbroj/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/platova-zbroj/"}
 ---
 
 ## Plátová zbroj

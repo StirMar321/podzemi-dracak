@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zamereni-lovce/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zamereni-lovce/"}
 ---
 
 # Zaměření Lovce

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/bezvedomi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/bezvedomi/"}
 ---
 
 ## Bezvědomí

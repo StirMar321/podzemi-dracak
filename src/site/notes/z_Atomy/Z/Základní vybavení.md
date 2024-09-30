@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zakladni-vybaveni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zakladni-vybaveni/"}
 ---
 
 # Základní vybavení

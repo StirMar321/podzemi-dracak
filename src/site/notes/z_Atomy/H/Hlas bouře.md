@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/h/hlas-boure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/h/hlas-boure/"}
 ---
 
 ## Hlas bouře

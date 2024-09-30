@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zalesak/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zalesak/"}
 ---
 
 ## Zaměření Zálesák

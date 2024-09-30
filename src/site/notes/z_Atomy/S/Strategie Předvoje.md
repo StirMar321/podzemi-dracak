@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/strategie-predvoje/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/strategie-predvoje/"}
 ---
 
 ## Strategie Předvoje

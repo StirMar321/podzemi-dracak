@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/ptaci-lid/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/ptaci-lid/"}
 ---
 
 ## Ptačí lid

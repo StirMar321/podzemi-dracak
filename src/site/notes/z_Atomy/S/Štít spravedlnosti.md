@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/stit-spravedlnosti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/stit-spravedlnosti/"}
 ---
 
 ## Štít spravedlnosti  

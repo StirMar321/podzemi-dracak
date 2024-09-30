@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Historie-I","permalink":"/Historie-I/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Historie-I","permalink":"/Historie-I/"}
 ---
 
 ## Historie (🎓)

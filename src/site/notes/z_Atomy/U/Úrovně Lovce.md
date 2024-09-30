@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/urovne-lovce/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/urovne-lovce/"}
 ---
 
 ## LVL 1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/l/ledovy-strep/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/l/ledovy-strep/"}
 ---
 
 ## Ledový střep

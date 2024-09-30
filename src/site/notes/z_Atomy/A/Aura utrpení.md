@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/a/aura-utrpeni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/a/aura-utrpeni/"}
 ---
 
 ## Aura utrpení 

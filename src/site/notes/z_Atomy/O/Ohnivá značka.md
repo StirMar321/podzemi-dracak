@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/ohniva-znacka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/ohniva-znacka/"}
 ---
 
 ## Ohnivá značka

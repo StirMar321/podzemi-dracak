@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/preskoceni-jiskry/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/preskoceni-jiskry/"}
 ---
 
 ## Přeskočení jiskry

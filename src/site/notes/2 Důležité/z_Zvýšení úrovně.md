@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/z-zvyseni-urovne/","title":"Zvýšení úrovně","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/z-zvyseni-urovne/","title":"Zvýšení úrovně"}
 ---
 
 # Zvýšení úrovně

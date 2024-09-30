@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Vnímání-M","permalink":"/Vnímání-M/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Vnímání-M","permalink":"/Vnímání-M/"}
 ---
 
 ## Vnímání (🦉)

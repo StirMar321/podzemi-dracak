@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/t/tisic-seku/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/t/tisic-seku/"}
 ---
 
 ## Tisíc seků  

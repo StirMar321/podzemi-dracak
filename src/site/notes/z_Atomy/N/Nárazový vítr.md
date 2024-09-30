@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/narazovy-vitr/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/narazovy-vitr/"}
 ---
 
 ## Nárazový vítr  

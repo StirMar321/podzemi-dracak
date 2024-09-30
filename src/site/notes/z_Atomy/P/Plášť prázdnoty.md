@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/plast-prazdnoty/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/plast-prazdnoty/"}
 ---
 
 ## Plášť prázdnoty

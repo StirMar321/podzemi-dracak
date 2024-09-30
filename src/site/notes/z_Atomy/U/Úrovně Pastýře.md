@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/urovne-pastyre/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/urovne-pastyre/"}
 ---
 
 ## LVL 1

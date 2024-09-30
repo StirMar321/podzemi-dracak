@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/prekvapeni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/prekvapeni/"}
 ---
 
 ### Překvapení

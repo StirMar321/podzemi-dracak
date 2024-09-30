@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vykoupeni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vykoupeni/"}
 ---
 
 ## Vykoupení  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/smrt/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/smrt/"}
 ---
 
 # Smrt

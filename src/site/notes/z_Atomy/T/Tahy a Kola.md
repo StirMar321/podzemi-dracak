@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/t/tahy-a-kola/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/t/tahy-a-kola/"}
 ---
 
 # Tahy a Kola

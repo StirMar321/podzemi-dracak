@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vice-trid-multiclassing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vice-trid-multiclassing/"}
 ---
 
 # Více tříd (Multiclassing)

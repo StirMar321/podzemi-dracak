@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/prizpusobene-kostky-zbrani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/prizpusobene-kostky-zbrani/"}
 ---
 
 # Přizpůsobené kostky zbraní

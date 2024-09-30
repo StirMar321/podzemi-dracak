@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/kolej-odvahy/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/kolej-odvahy/"}
 ---
 
 ## Kolej Odvahy

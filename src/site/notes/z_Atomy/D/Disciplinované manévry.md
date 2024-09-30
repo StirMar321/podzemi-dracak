@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/disciplinovane-manevry/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/disciplinovane-manevry/"}
 ---
 
 ## Disciplinované manévry

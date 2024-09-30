@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/r/roby/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/r/roby/"}
 ---
 
 ## Róby

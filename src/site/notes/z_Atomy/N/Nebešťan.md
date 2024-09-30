@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/nebestan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/nebestan/"}
 ---
 
 ## Nebešťan

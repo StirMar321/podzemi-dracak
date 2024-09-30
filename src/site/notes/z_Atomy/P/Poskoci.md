@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/poskoci/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/poskoci/"}
 ---
 
 ### Poskoci

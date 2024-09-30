@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/r/rady-zephyra/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/r/rady-zephyra/"}
 ---
 
 # Řády Zephyra

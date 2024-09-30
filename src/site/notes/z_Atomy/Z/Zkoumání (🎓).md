@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Zkoumání-I","permalink":"/Zkoumání-I/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Zkoumání-I","permalink":"/Zkoumání-I/"}
 ---
 
 ## Zkoumání (🎓)

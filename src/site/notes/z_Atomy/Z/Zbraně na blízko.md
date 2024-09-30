@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zbrane-na-blizko/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zbrane-na-blizko/"}
 ---
 
 >[!NOTE]- **Příchuť je zdarma.** 

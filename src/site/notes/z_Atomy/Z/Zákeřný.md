@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zakerny/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zakerny/"}
 ---
 
 ## Zákeřný  

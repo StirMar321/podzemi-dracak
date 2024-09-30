@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/nebojacny/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/nebojacny/"}
 ---
 
 ## Nebojácný

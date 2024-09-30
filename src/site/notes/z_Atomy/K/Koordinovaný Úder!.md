@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/koordinovany-uder/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/koordinovany-uder/"}
 ---
 
 ## Koordinovaný Úder! 

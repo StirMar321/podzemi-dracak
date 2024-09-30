@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/nevyslovitelne-slovo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/nevyslovitelne-slovo/"}
 ---
 
 ## Nevyslovitelné slovo  

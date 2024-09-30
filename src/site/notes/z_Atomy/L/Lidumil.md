@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/l/lidumil/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/l/lidumil/"}
 ---
 
 # Lidumil

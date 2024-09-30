@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/svetlo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/svetlo/"}
 ---
 
 ## Světlo

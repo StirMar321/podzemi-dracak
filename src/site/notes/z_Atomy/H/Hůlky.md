@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/h/hulky/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/h/hulky/"}
 ---
 
 # Hůlky  

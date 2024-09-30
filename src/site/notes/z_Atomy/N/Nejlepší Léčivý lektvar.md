@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/nejlepsi-lecivy-lektvar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/nejlepsi-lecivy-lektvar/"}
 ---
 
 **1 akce**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Moc-S","permalink":"/Moc-S/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Moc-S","permalink":"/Moc-S/"}
 ---
 
 ## Moc (💪)

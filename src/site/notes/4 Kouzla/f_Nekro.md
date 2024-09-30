@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-kouzla/f-nekro/","title":"Nekro","noteIcon":""}
+{"dg-publish":true,"permalink":"/4-kouzla/f-nekro/","title":"Nekro"}
 ---
 
 ![Iko_Nekro.png](/img/user/z_img/Iko_Nekro.png)

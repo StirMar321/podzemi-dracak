@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/predmety/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/predmety/"}
 ---
 
 Ceny běžných předmětů se obvykle pohybují od několika [[z_Atomy/0-9/⚪\|⚪]] stříbrných po několik [[z_Atomy/0-9/🟡\|🟡]] zlatých. Pokud najdete řemeslníka, můžete si u něj objednat výrobu téměř čehokoli, co jejich úroveň technologie umožňuje. Čím je předmět zdobenější, tím vyšší bude jeho cena. Cena za výrobu speciálního předmětu obvykle začíná na 50 [[z_Atomy/0-9/🟡\|🟡]] a dále už jen stoupá. Menší města budou mít méně předmětů a řemeslníků než velká města.

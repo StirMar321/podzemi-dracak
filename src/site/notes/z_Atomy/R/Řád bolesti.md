@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/r/rad-bolesti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/r/rad-bolesti/"}
 ---
 
 ## Řád bolesti

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zlomyslny-vysmech/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zlomyslny-vysmech/"}
 ---
 
 ## Zlomyslný výsměch

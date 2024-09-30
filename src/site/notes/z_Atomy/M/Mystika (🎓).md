@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Mystika (I)","permalink":"/Mystika (I)/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Mystika (I)","permalink":"/Mystika (I)/"}
 ---
 
 ## Mystika (🎓)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/domov-na-mori/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/domov-na-mori/"}
 ---
 
 ## Domov na Moři

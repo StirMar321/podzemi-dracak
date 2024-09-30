@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/urovne-velitele/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/urovne-velitele/"}
 ---
 
 ## LVL 1

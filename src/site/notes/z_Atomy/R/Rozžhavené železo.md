@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/r/rozzhavene-zelezo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/r/rozzhavene-zelezo/"}
 ---
 
 ## Rozžhavené železo

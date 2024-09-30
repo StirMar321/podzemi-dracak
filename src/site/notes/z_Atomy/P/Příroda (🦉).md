@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Příroda-M","permalink":"/Příroda-M/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Příroda-M","permalink":"/Příroda-M/"}
 ---
 
 ## Příroda (🦉)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/oslepen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/oslepen/"}
 ---
 
 ## Oslepen

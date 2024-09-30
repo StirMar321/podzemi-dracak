@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zvednuti-vetru/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zvednuti-vetru/"}
 ---
 
 ## Zvednutí větru

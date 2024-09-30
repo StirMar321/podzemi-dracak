@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/naladeni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/naladeni/"}
 ---
 
 # Naladění na Magické Předměty

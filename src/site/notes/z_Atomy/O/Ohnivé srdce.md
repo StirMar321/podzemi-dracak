@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/ohnive-srdce/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/ohnive-srdce/"}
 ---
 
 ## Ohnivé srdce

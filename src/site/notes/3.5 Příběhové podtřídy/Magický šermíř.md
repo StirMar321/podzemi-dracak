@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-5-pribehove-podtridy/magicky-sermir/","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-5-pribehove-podtridy/magicky-sermir/"}
 ---
 
 ![Spellblade.png|500](/img/user/z_img/Spellblade.png)

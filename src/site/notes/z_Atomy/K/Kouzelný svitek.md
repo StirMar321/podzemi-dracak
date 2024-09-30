@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/kouzelny-svitek/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/kouzelny-svitek/"}
 ---
 
 # Kouzelný svitek  

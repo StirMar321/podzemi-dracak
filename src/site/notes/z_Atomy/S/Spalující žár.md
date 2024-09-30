@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/spalujici-zar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/spalujici-zar/"}
 ---
 
 ## Spalující žár

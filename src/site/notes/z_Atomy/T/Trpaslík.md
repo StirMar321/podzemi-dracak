@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/t/trpaslik/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/t/trpaslik/"}
 ---
 
 ## Trpaslík

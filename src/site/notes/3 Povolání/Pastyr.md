@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/pastyr/","title":"Pastýř","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/pastyr/","title":"Pastýř"}
 ---
 
 ![Pastýř.png|500](/img/user/z_img/Past%C3%BD%C5%99.png)

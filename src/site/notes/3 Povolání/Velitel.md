@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/velitel/","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/velitel/"}
 ---
 
 ![Velitel.png|500](/img/user/z_img/Velitel.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/mag/","title":"Mág","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/mag/","title":"Mág"}
 ---
 
 ![Mág.png|500](/img/user/z_img/M%C3%A1g.png)

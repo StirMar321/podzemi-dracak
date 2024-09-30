@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/udelal-jsem-spatne-rozhodnuti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/udelal-jsem-spatne-rozhodnuti/"}
 ---
 
 ## Udělal jsem ŠPATNÉ rozhodnutí

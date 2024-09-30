@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/k-z/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/k-z/"}
 ---
 
 # k-Ž = Kostky Života 

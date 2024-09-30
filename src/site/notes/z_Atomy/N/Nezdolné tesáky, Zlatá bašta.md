@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/nezdolne-tesaky-zlata-basta/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/nezdolne-tesaky-zlata-basta/"}
 ---
 
 ## Nezdolné tesáky, Zlatá bašta

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/nemotorny-akrobat/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/nemotorny-akrobat/"}
 ---
 
 ## Nemotorný akrobat

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/e2-rasy/","title":"Rasy","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/e2-rasy/","title":"Rasy"}
 ---
 
 >[!NOTE]- **Fantazii se meze nekladou**

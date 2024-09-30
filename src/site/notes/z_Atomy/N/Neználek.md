@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/neznalek/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/neznalek/"}
 ---
 
 ## Neználek

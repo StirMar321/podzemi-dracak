@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/podly-uder/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/podly-uder/"}
 ---
 
 # Podlý úder  

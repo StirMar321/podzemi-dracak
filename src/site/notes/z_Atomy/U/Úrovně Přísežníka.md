@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/urovne-priseznika/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/urovne-priseznika/"}
 ---
 
 ## LVL 1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zbrane-na-dalku/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zbrane-na-dalku/"}
 ---
 
 | **Zbraně na dálku** | **Poškození**         | **Vlastnosti**                                                               | **Cena** |

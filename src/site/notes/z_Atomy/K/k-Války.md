@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/k-valky/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/k-valky/"}
 ---
 
 # Kostky Války

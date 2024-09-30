@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/kozena-zbroj/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/kozena-zbroj/"}
 ---
 
 ## Kožená zbroj

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/velikost/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/velikost/"}
 ---
 
 # Velikost

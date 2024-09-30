@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/korist/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/korist/"}
 ---
 
 # Kořist

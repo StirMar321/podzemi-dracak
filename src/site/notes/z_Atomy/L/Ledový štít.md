@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/l/ledovy-stit/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/l/ledovy-stit/"}
 ---
 
 ## Ledový štít

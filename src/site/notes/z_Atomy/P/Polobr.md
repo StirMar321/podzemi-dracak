@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/polobr/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/polobr/"}
 ---
 
 ## Polobr

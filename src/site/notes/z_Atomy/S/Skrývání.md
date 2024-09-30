@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/skryvani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/skryvani/"}
 ---
 
 # Skrývání

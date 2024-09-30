@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/lovec/","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/lovec/"}
 ---
 
 ![Lovec.png|500](/img/user/z_img/Lovec.png)

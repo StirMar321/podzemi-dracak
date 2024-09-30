@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zkrat/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zkrat/"}
 ---
 
 ## Zkrat

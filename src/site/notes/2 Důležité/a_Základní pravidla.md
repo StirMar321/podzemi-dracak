@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/a-zakladni-pravidla/","title":"Základní pravidla","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/a-zakladni-pravidla/","title":"Základní pravidla"}
 ---
 
 # Základní pravidla

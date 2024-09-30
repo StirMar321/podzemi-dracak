@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-kouzla/a-ohen/","title":"Oheň","noteIcon":""}
+{"dg-publish":true,"permalink":"/4-kouzla/a-ohen/","title":"Oheň"}
 ---
 
 ![Iko_Oheň.png](/img/user/z_img/Iko_Ohe%C5%88.png)

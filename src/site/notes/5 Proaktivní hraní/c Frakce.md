@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-proaktivni-hrani/c-frakce/","title":"Frakce","noteIcon":""}
+{"dg-publish":true,"permalink":"/5-proaktivni-hrani/c-frakce/","title":"Frakce"}
 ---
 
 - Slouží jako **opozice hráčů** (nebo jako neutrální síla)

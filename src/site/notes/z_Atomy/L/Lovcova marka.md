@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/l/lovcova-marka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/l/lovcova-marka/"}
 ---
 
 ## Lovcova Marka

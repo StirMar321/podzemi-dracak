@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/otraven/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/otraven/"}
 ---
 
 ## Otráven

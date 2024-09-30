@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/l/ledoborec/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/l/ledoborec/"}
 ---
 
 ## Ledoborec

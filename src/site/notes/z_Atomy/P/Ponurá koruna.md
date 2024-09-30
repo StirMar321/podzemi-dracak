@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/ponura-koruna/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/ponura-koruna/"}
 ---
 
 ## Ponurá koruna  

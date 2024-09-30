@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/kruh-tesaku-a-drapu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/kruh-tesaku-a-drapu/"}
 ---
 
 ## Kruh tesáků a drápů

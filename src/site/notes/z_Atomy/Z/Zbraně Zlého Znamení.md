@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zbrane-zleho-znameni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zbrane-zleho-znameni/"}
 ---
 
 ## Zbraně Zlého Znamení  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/pozehnani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/pozehnani/"}
 ---
 
 # Požehnání

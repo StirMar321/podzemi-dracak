@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/ch/chvaty-a-hmaty/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/ch/chvaty-a-hmaty/"}
 ---
 
 # Chvaty a Hmaty

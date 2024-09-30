@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zazeh/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zazeh/"}
 ---
 
 ## Zážeh

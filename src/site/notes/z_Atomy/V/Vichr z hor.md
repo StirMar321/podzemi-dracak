@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vichr-z-hor/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vichr-z-hor/"}
 ---
 
 ## Vichr z hor

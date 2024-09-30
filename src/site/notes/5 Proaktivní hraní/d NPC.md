@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-proaktivni-hrani/d-npc/","title":"NPC","noteIcon":""}
+{"dg-publish":true,"permalink":"/5-proaktivni-hrani/d-npc/","title":"NPC"}
 ---
 
 **Tváře frakcí** ([[5 Proaktivní hraní/c Frakce\|c Frakce]])

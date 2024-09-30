@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/e/elektro-nabiti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/e/elektro-nabiti/"}
 ---
 
 ## Elektro-nabití  

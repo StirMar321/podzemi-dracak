@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/nektere-kouzelne-hulky/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/nektere-kouzelne-hulky/"}
 ---
 
 # Některé kouzelné hůlky

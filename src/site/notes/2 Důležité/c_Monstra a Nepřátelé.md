@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/c-monstra-a-nepratele/","title":"Monstra a Nepřátelé","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/c-monstra-a-nepratele/","title":"Monstra a Nepřátelé"}
 ---
 
 # Monstra a Nepřátelé

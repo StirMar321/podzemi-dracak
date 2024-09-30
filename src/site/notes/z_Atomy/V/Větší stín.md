@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vetsi-stin/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vetsi-stin/"}
 ---
 
 ## Větší stín

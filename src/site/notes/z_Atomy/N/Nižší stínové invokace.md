@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/nizsi-stinove-invokace/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/nizsi-stinove-invokace/"}
 ---
 
 # Nižší stínové invokace

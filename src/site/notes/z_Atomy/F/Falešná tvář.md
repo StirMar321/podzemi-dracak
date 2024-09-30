@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/f/falesna-tvar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/f/falesna-tvar/"}
 ---
 
 ## Falešná tvář 

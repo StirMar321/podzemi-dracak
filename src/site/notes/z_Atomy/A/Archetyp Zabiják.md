@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/a/archetyp-zabijak/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/a/archetyp-zabijak/"}
 ---
 
 ## Archetyp Zabiják

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/poradi-tahu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/poradi-tahu/"}
 ---
 
 ### Pořadí tahů

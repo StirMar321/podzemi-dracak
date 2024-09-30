@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/ocarovan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/ocarovan/"}
 ---
 
 ## Očarován

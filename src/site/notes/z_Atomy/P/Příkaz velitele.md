@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/prikaz-velitele/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/prikaz-velitele/"}
 ---
 
 # Příkaz Velitele! 

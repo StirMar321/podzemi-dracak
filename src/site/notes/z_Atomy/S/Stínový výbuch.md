@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/stinovy-vybuch/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/stinovy-vybuch/"}
 ---
 
 ## Stínový výbuch  

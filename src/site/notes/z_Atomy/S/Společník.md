@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/spolecnik/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/spolecnik/"}
 ---
 
 ## Společník

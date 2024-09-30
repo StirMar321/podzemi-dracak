@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/bestie-nocnich-mur/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/bestie-nocnich-mur/"}
 ---
 
 ## Bestie Nočních Můr

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/ohniva-sipka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/ohniva-sipka/"}
 ---
 
 ## Ohnivá šipka

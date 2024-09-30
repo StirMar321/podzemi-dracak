@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/urovne-cernokneznika/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/urovne-cernokneznika/"}
 ---
 
 ## LVL 1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/body-dovednosti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/body-dovednosti/"}
 ---
 
 # Body Dovedností

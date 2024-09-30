@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Plížení-O","permalink":"/Plížení-O/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Plížení-O","permalink":"/Plížení-O/"}
 ---
 
 ## Plížení (🎯)

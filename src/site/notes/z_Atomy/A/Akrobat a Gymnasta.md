@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/a/akrobat-a-gymnasta/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/a/akrobat-a-gymnasta/"}
 ---
 
 ## Akrobat/Gymnasta

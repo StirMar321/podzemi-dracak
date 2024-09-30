@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zkrasleni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zkrasleni/"}
 ---
 
 ## Zkrášlení 

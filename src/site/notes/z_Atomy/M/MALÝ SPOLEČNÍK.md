@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/m/maly-spolecnik/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/m/maly-spolecnik/"}
 ---
 
 # MALÝ SPOLEČNÍK 

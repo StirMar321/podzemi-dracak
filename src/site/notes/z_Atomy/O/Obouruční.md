@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/obourucni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/obourucni/"}
 ---
 
 ## Boj dvěma zbraněmi

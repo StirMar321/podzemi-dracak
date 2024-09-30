@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/urovne-fixlaka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/urovne-fixlaka/"}
 ---
 
 ## LVL 1

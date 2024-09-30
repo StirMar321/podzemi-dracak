@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/l/ledovy-disk/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/l/ledovy-disk/"}
 ---
 
 # Ledový disk

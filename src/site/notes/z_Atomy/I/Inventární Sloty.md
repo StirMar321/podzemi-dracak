@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/i/inventarni-sloty/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/i/inventarni-sloty/"}
 ---
 
 ## Inventární Sloty 

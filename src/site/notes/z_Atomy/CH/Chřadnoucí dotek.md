@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/ch/chradnouci-dotek/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/ch/chradnouci-dotek/"}
 ---
 
 ## Chřadnoucí dotek

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/oddany-ochrance/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/oddany-ochrance/"}
 ---
 
 ## Oddaný Ochránce

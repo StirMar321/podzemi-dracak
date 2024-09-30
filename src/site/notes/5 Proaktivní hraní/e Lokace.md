@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-proaktivni-hrani/e-lokace/","title":"Lokace","noteIcon":""}
+{"dg-publish":true,"permalink":"/5-proaktivni-hrani/e-lokace/","title":"Lokace"}
 ---
 
 # Lokace jako Motivace

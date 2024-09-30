@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-kouzla/b-led/","title":"Led","noteIcon":""}
+{"dg-publish":true,"permalink":"/4-kouzla/b-led/","title":"Led"}
 ---
 
 ![Iko_Led.png](/img/user/z_img/Iko_Led.png)

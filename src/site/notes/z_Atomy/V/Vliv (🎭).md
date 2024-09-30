@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Vliv-CH","permalink":"/Vliv-CH/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Vliv-CH","permalink":"/Vliv-CH/"}
 ---
 
 ## Vliv (🎭)

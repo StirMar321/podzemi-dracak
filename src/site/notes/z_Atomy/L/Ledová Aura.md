@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/l/ledova-aura/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/l/ledova-aura/"}
 ---
 
 ## Ledová Aura  

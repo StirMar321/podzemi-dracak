@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/t/trvani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/t/trvani/"}
 ---
 
 # Trvání efektů

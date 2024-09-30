@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/ch/chaoticky-vybuch/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/ch/chaoticky-vybuch/"}
 ---
 
 ## Chaotický výbuch

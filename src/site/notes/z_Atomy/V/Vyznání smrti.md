@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vyznani-smrti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vyznani-smrti/"}
 ---
 
 ## Vyznání smrti

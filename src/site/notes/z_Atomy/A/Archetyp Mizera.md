@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/a/archetyp-mizera/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/a/archetyp-mizera/"}
 ---
 
 ## Archetyp Mizera

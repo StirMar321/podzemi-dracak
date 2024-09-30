@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Zručnost-O","permalink":"/Zručnost-O/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Zručnost-O","permalink":"/Zručnost-O/"}
 ---
 
 ## Zručnost (🎯)

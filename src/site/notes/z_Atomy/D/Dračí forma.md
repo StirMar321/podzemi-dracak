@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/draci-forma/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/draci-forma/"}
 ---
 
 ## Dračí forma

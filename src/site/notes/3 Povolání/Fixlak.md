@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/fixlak/","title":"Fixlák","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/fixlak/","title":"Fixlák"}
 ---
 
 ![Fixlák.png|500](/img/user/z_img/Fixl%C3%A1k.png)

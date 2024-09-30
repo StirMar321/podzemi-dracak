@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/berserk/","title":"Berserk","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/berserk/","title":"Berserk"}
 ---
 
 ![Berserk.png|500](/img/user/z_img/Berserk.png)

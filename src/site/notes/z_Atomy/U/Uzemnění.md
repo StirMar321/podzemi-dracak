@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/uzemneni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/uzemneni/"}
 ---
 
 ## Uzemnění

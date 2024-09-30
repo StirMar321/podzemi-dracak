@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/y-volitelna-pravidla/","title":"Volitelná pravidla","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/y-volitelna-pravidla/","title":"Volitelná pravidla"}
 ---
 
 # Volitelná pravidla

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-proaktivni-hrani/g-odmena/","title":"Odměny","noteIcon":""}
+{"dg-publish":true,"permalink":"/5-proaktivni-hrani/g-odmena/","title":"Odměny"}
 ---
 
 # Funkce odměn

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/bestie-smecky/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/bestie-smecky/"}
 ---
 
 ## Bestie Smečky 

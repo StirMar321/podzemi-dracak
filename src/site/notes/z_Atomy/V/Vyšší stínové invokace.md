@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vyssi-stinove-invokace/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vyssi-stinove-invokace/"}
 ---
 
 # Vyšší stínové invokace

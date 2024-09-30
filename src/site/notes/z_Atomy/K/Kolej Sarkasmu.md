@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/kolej-sarkasmu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/kolej-sarkasmu/"}
 ---
 
 ## Kolej Sarkasmu

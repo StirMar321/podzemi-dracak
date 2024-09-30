@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/krvave-brko/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/krvave-brko/"}
 ---
 
 ## Krvavé brko

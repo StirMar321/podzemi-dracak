@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/komplexni-hrdina/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/komplexni-hrdina/"}
 ---
 
 # Komplexní Hrdina

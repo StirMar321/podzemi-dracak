@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/h/hrani-si-na-mrtveho/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/h/hrani-si-na-mrtveho/"}
 ---
 
 # Hraní si na mrtvého  

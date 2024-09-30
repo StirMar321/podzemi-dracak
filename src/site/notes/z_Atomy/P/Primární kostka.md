@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/primarni-kostka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/primarni-kostka/"}
 ---
 
 # Primární kostka

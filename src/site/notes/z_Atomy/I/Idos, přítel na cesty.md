@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/i/idos-pritel-na-cesty/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/i/idos-pritel-na-cesty/"}
 ---
 
 ## Idos, přítel na cesty

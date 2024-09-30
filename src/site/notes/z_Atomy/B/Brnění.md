@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/brneni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/brneni/"}
 ---
 
 # Brnění

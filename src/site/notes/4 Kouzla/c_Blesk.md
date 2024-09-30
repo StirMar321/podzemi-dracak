@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-kouzla/c-blesk/","title":"Blesk","noteIcon":""}
+{"dg-publish":true,"permalink":"/4-kouzla/c-blesk/","title":"Blesk"}
 ---
 
 ![Iko_Blesk.png](/img/user/z_img/Iko_Blesk.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-zacni-zde/b-zacnete-zde/","title":"Začněte ZDE","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-zacni-zde/b-zacnete-zde/","title":"Začněte ZDE"}
 ---
 
 # Takže ty chceš hrát "Dračák"...

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/g/goblin/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/g/goblin/"}
 ---
 
 ## Goblin

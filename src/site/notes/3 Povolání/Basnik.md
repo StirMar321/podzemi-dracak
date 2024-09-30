@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/basnik/","title":"Básník","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/basnik/","title":"Básník"}
 ---
 
 ![Básník.png|500](/img/user/z_img/B%C3%A1sn%C3%ADk.png)

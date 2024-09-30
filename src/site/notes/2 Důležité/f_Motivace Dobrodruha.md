@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/f-motivace-dobrodruha/","title":"Motivace Dobrodruha","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/f-motivace-dobrodruha/","title":"Motivace Dobrodruha"}
 ---
 
 # Motivace Dobrodruha

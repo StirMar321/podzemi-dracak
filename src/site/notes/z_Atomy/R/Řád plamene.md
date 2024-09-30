@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/r/rad-plamene/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/r/rad-plamene/"}
 ---
 
 ## Řád plamene

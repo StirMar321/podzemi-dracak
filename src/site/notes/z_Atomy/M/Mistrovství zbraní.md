@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/m/mistrovstvi-zbrani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/m/mistrovstvi-zbrani/"}
 ---
 
 # Mistrovství zbraní

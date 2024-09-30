@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zvireci-magnetismus/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zvireci-magnetismus/"}
 ---
 
 ## Zvířecí magnetismus

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/prisahy-priseznika/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/prisahy-priseznika/"}
 ---
 
 # Přísahy Přísežníka

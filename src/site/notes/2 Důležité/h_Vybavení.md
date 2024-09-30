@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/h-vybaveni/","title":"Vybavení","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/h-vybaveni/","title":"Vybavení"}
 ---
 
 # Vybavení

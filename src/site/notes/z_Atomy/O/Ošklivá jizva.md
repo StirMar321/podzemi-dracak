@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/oskliva-jizva/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/oskliva-jizva/"}
 ---
 
 ## Ošklivá jizva

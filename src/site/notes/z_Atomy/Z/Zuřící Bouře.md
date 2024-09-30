@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zurici-boure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zurici-boure/"}
 ---
 
 ## Zuřící Bouře  

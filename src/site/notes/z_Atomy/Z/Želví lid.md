@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zelvi-lid/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zelvi-lid/"}
 ---
 
 ## Želví lid

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/h/historicky-nadsenec/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/h/historicky-nadsenec/"}
 ---
 
 ## Historický Nadšenec

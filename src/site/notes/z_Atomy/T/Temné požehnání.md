@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/t/temne-pozehnani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/t/temne-pozehnani/"}
 ---
 
 ## Temné požehnání 

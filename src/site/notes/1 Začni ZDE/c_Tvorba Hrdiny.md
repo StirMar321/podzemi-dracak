@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-zacni-zde/c-tvorba-hrdiny/","title":"Tvorba Hrdiny","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-zacni-zde/c-tvorba-hrdiny/","title":"Tvorba Hrdiny"}
 ---
 
 # Tvorba Hrdiny

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/srazen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/srazen/"}
 ---
 
 ## Sražen

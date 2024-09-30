@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/obet/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/obet/"}
 ---
 
 ## Oběť  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/septani-vanku/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/septani-vanku/"}
 ---
 
 ## Šeptání vánku

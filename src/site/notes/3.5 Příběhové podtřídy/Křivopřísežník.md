@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-5-pribehove-podtridy/krivopriseznik/","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-5-pribehove-podtridy/krivopriseznik/"}
 ---
 
 ![Křivopřísežník.png|500](/img/user/z_img/K%C5%99ivop%C5%99%C3%ADse%C5%BEn%C3%ADk.png)

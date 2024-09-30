@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/r/retezovy-blesk/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/r/retezovy-blesk/"}
 ---
 
 ## Řetězový blesk

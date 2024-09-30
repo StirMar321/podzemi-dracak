@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vyhody-a-nevyhody/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vyhody-a-nevyhody/"}
 ---
 
 

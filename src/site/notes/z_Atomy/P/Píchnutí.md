@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/pichnuti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/pichnuti/"}
 ---
 
 ### Píchnutí

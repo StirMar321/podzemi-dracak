@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/pomsta/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/pomsta/"}
 ---
 
 ## Pomsta  

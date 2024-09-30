@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/pakt-ledove-hlubiny/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/pakt-ledove-hlubiny/"}
 ---
 
 ## Pakt Ledové hlubiny

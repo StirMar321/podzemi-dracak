@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/navrat-z-vysluzby/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/navrat-z-vysluzby/"}
 ---
 
 ## Návrat z Výslužby

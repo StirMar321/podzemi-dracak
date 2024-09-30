@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/i/inspirace/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/i/inspirace/"}
 ---
 
 # Inspirace  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/klic-dveri/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/klic-dveri/"}
 ---
 
 ## Klíč dveří  

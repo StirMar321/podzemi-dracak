@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/privolani-duchovniho-strazce/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/privolani-duchovniho-strazce/"}
 ---
 
 ## Přivolání Duchovního strážce  

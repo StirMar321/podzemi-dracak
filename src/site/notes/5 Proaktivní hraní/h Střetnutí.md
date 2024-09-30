@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-proaktivni-hrani/h-stretnuti/","title":"Střetnutí","noteIcon":""}
+{"dg-publish":true,"permalink":"/5-proaktivni-hrani/h-stretnuti/","title":"Střetnutí"}
 ---
 
 - Konflikt mezi hráči a světem

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/svata-zare/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/svata-zare/"}
 ---
 
 ## Svatá záře

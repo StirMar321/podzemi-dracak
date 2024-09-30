@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/cernokneznik/","title":"Černokněžník","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/cernokneznik/","title":"Černokněžník"}
 ---
 
 ![Černokněžník.png|500](/img/user/z_img/%C4%8Cernokn%C4%9B%C5%BEn%C3%ADk.png)

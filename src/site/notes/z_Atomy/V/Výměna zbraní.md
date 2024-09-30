@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vymena-zbrani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vymena-zbrani/"}
 ---
 
 >[!NOTE]- **Výměna zbraní v boji**

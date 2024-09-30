@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/basnicke-koleje/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/basnicke-koleje/"}
 ---
 
 # Básnické Koleje

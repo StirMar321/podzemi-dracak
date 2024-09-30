@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/e/elf/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/e/elf/"}
 ---
 
 ## Elf

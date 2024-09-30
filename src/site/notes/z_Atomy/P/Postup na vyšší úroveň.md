@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/postup-na-vyssi-uroven/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/postup-na-vyssi-uroven/"}
 ---
 
 # Postup na vyšší úroveň

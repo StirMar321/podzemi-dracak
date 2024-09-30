@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-5-pribehove-podtridy/hubitel-stinu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-5-pribehove-podtridy/hubitel-stinu/"}
 ---
 
 ![Hubitel_stínů.png|500](/img/user/z_img/Hubitel_st%C3%ADn%C5%AF.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/pakt-cerveneho-draka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/pakt-cerveneho-draka/"}
 ---
 
 ## Pakt Červeného draka

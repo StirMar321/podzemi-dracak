@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/sviznost/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/sviznost/"}
 ---
 
 ## Svižnost  

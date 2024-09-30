@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-kouzla/g-tricky/","title":"Tríčky","noteIcon":""}
+{"dg-publish":true,"permalink":"/4-kouzla/g-tricky/","title":"Tríčky"}
 ---
 
 ![Iko_Tríčky.png](/img/user/z_img/Iko_Tr%C3%AD%C4%8Dky.png)

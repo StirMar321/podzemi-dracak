@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/statistiky/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/statistiky/"}
 ---
 
 # Statistiky

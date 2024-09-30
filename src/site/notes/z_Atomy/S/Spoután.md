@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/spoutan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/spoutan/"}
 ---
 
 ## Spoután

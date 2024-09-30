@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/dryady-a-houbaci/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/dryady-a-houbaci/"}
 ---
 
 ## Dryáda a Houbák

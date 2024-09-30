@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/koncentrace/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/koncentrace/"}
 ---
 
 # Koncentrace

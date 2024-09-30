@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/n/nakazliva-smrt/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/n/nakazliva-smrt/"}
 ---
 
 ## Nakažlivá smrt

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/e3-puvod/","title":"Původ","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/e3-puvod/","title":"Původ"}
 ---
 
 >[!NOTE]- **Změň to podle sebe!** 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/zephyr/","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/zephyr/"}
 ---
 
 ![Zephyr.png|500](/img/user/z_img/Zephyr.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/privolani-jiskry/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/privolani-jiskry/"}
 ---
 
 ## Přivolání Jiskry

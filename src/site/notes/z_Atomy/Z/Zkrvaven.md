@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zkrvaven/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zkrvaven/"}
 ---
 
 ## Zkrvaven

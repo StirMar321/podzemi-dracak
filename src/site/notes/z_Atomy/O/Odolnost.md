@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/odolnost/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/odolnost/"}
 ---
 
 # Odolnost

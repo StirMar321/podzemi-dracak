@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/prisaha-utociste/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/prisaha-utociste/"}
 ---
 
 ## Přísaha útočiště

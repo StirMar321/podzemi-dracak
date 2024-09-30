@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vyboj/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vyboj/"}
 ---
 
 ## Výboj  

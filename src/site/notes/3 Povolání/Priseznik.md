@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-povolani/priseznik/","title":"Přísežník","noteIcon":""}
+{"dg-publish":true,"permalink":"/3-povolani/priseznik/","title":"Přísežník"}
 ---
 
 ![Přísežník.png|500](/img/user/z_img/P%C5%99%C3%ADse%C5%BEn%C3%ADk.png)

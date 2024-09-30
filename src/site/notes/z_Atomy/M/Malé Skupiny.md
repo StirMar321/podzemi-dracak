@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/m/male-skupiny/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/m/male-skupiny/"}
 ---
 
 # Malé Skupiny

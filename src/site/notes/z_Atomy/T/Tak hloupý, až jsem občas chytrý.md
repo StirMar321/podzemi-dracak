@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/t/tak-hloupy-az-jsem-obcas-chytry/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/t/tak-hloupy-az-jsem-obcas-chytry/"}
 ---
 
 ## Tak hloupý, až jsem občas chytrý

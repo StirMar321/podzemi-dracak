@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-kouzla/d-vitr/","title":"Vítr","noteIcon":""}
+{"dg-publish":true,"permalink":"/4-kouzla/d-vitr/","title":"Vítr"}
 ---
 
 ![Iko_Vítr.png](/img/user/z_img/Iko_V%C3%ADtr.png)

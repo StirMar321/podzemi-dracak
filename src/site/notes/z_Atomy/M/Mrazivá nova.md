@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/m/mraziva-nova/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/m/mraziva-nova/"}
 ---
 
 ## Mrazivá nova

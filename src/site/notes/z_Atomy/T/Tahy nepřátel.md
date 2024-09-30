@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/t/tahy-nepratel/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/t/tahy-nepratel/"}
 ---
 
 # Tahy nepřátel

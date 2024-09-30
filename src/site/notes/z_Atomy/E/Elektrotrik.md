@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/e/elektrotrik/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/e/elektrotrik/"}
 ---
 
 ## Elektrotrik  

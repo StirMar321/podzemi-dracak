@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/dlouhy-mec-mnoha-rukou/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/dlouhy-mec-mnoha-rukou/"}
 ---
 
 ### **Dlouhý meč Mnoha Rukou** 

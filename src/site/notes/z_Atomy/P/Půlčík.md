@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/pulcik/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/pulcik/"}
 ---
 
 ## Půlčík

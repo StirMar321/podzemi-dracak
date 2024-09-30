@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/r/rasy-a-puvod/","title":"Rasy a Původ","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/r/rasy-a-puvod/","title":"Rasy a Původ"}
 ---
 
 # Rasy a Původ

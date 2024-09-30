@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/bez-zbroje/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/bez-zbroje/"}
 ---
 
 ## Bez Zbroje

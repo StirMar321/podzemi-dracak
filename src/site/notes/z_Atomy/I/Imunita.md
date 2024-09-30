@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/i/imunita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/i/imunita/"}
 ---
 
 # Imunita

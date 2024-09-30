@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Vhled-CH","permalink":"/Vhled-CH/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Vhled-CH","permalink":"/Vhled-CH/"}
 ---
 
 ## Vhled (🎭)

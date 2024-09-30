@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vlastnosti-zbrani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vlastnosti-zbrani/"}
 ---
 
 # Vlastnosti Zbraní

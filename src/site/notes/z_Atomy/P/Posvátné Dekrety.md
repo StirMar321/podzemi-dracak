@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/posvatne-dekrety/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/posvatne-dekrety/"}
 ---
 
 # Posvátné Dekrety

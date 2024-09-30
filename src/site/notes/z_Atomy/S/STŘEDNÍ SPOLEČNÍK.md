@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/stredni-spolecnik/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/stredni-spolecnik/"}
 ---
 
 # STŘEDNÍ SPOLEČNÍK 

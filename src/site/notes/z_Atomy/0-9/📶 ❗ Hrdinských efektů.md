@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"SO ZH Hrdinských efektů","permalink":"/SO ZH Hrdinských efektů/","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"SO ZH Hrdinských efektů","permalink":"/SO ZH Hrdinských efektů/"}
 ---
 
 ### 📶 ❗ Hrdinských efektů

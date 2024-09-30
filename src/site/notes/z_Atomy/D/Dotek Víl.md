@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/dotek-vil/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/dotek-vil/"}
 ---
 
 ## Dotek Víl

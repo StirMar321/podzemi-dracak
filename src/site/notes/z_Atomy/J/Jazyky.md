@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/j/jazyky/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/j/jazyky/"}
 ---
 
 # Jazyky 

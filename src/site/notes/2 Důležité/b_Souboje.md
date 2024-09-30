@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/b-souboje/","title":"Souboje","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/b-souboje/","title":"Souboje"}
 ---
 
 # Souboje

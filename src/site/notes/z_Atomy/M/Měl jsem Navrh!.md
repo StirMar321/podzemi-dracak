@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/m/mel-jsem-navrh/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/m/mel-jsem-navrh/"}
 ---
 
 # Měl jsem Navrh!

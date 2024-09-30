@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/velke-skupiny/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/velke-skupiny/"}
 ---
 
 # Velké Skupiny  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/u/umirani/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/u/umirani/"}
 ---
 
 # Umírání

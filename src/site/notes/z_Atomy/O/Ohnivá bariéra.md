@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/o/ohniva-bariera/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/o/ohniva-bariera/"}
 ---
 
 ## Ohnivá bariéra

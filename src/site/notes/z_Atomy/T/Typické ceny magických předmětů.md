@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/t/typicke-ceny-magickych-predmetu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/t/typicke-ceny-magickych-predmetu/"}
 ---
 
 | **Vzácnost**     | **Cena**         | **Obvykle nalezeno na úrovních**     |

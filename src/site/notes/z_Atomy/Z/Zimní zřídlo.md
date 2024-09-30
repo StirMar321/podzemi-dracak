@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zimni-zridlo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zimni-zridlo/"}
 ---
 
 # Zimní zřídlo

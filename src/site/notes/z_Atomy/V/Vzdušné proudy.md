@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vzdusne-proudy/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vzdusne-proudy/"}
 ---
 
 ## Vzdušné proudy

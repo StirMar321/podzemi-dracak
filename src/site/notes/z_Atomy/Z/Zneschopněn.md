@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zneschopnen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zneschopnen/"}
 ---
 
 ## Zneschopněn

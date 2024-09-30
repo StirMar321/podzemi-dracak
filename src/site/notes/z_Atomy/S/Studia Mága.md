@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/studia-maga/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/studia-maga/"}
 ---
 
 # Studia Mága

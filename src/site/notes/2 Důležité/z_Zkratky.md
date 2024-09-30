@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/z-zkratky/","title":"Zkratky","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/z-zkratky/","title":"Zkratky"}
 ---
 
 # Zkratky

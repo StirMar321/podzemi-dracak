@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/k/kruh-nebe-a-boure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/k/kruh-nebe-a-boure/"}
 ---
 
 ## Kruh nebe a bouře

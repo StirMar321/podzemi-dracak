@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/l/lovecka-horecka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/l/lovecka-horecka/"}
 ---
 
 # Lovecká horečka

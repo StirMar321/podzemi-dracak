@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/d/divoky-arzenal/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/d/divoky-arzenal/"}
 ---
 
 # Divoký arzenál

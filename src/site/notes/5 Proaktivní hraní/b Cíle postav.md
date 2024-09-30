@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-proaktivni-hrani/b-cile-postav/","title":"Cíle hrdinů","noteIcon":""}
+{"dg-publish":true,"permalink":"/5-proaktivni-hrani/b-cile-postav/","title":"Cíle hrdinů"}
 ---
 
 # Cíle postavy

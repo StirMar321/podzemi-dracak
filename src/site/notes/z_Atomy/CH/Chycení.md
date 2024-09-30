@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/ch/chyceni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/ch/chyceni/"}
 ---
 
 # Chycení

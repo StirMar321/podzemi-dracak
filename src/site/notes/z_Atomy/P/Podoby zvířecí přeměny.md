@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/podoby-zvireci-premeny/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/podoby-zvireci-premeny/"}
 ---
 
 # Podoby zvířecí přeměny

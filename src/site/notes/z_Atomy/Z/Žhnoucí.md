@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zhnouci/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zhnouci/"}
 ---
 
 ## Žhnoucí

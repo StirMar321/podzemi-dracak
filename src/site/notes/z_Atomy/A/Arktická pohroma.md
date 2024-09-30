@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/a/arkticka-pohroma/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/a/arkticka-pohroma/"}
 ---
 
 ## Arktická pohroma

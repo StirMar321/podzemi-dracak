@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vzteklina/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vzteklina/"}
 ---
 
 ### Vzteklina

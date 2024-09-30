@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zurivost/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zurivost/"}
 ---
 
 ## Zuřivost

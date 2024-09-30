@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/s/spolknuti-plamene/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/s/spolknuti-plamene/"}
 ---
 
 ## Vzplanutí

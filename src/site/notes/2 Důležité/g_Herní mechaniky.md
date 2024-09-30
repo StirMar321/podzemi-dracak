@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dulezite/g-herni-mechaniky/","title":"Herní mechaniky","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-dulezite/g-herni-mechaniky/","title":"Herní mechaniky"}
 ---
 
 

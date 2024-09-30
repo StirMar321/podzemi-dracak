@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/a/archetyp-fixlaka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/a/archetyp-fixlaka/"}
 ---
 
 # Archetyp Fixláka

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/b/bestie-desu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/b/bestie-desu/"}
 ---
 
 ## Bestie Děsu 

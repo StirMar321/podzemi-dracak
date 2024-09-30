@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/pouziti-akci-ve-vice-kolech/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/pouziti-akci-ve-vice-kolech/"}
 ---
 
 ### Použití Akcí ve více kolech

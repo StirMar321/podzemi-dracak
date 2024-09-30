@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/past-temnoty/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/p/past-temnoty/"}
 ---
 
 ## Past temnoty

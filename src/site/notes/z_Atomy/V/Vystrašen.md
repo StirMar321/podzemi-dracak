@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/v/vystrasen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/v/vystrasen/"}
 ---
 
 ## Vystrašen 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/z/zakerny-utok/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-atomy/z/zakerny-utok/"}
 ---
 
 ## Zákeřný útok
