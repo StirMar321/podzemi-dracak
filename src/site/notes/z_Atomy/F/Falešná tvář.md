@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/z-atomy/f/falesna-tvar/","noteIcon":""}
+---
+
+## Falešná tvář 
+**Trvání 10 minut**
+
+**Změňte** svou podobu. Vyžaduje **část** tvora nebo osoby, jehož podobu chcete napodobit.

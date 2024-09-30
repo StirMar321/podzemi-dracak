@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/z-atomy/v/vymena-zbrani/","noteIcon":""}
+---
+
+>[!NOTE]- **Výměna zbraní v boji**
+>Hrdina může **jednou** za [[z_Atomy/K/Kolo\|Kolo]] **zdarma** schovat zbraň, se kterou je [[z_Atomy/Z/Zdatnost\|Zdatný]], a tasit jinou.

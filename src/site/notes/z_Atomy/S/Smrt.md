@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/z-atomy/s/smrt/","noteIcon":""}
+---
+
+# Smrt
+Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (obvykle 6). Můžou existovat způsoby, jak oživit hrdinu který zemřel, ale není to nic lehkého. Duši lze přivést zpět do světa živých jen párkrát, než se úplně odpoutá (nebo něco horšího). Mluvte s Vaším [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]].
+
+> [!NOTE]- **Alternativní pravidla Smrti**
+> Pro náročnější nebo „old school“ styl hry snižte maximální počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], která hrdina může utržit. Můžeš nastavit maximum na 5 zranění pro lehce obtížnější hru, nebo až na 0 zranění pro velmi smrtící hru!
