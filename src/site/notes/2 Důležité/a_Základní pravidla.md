@@ -19,7 +19,7 @@ Hrdinové mají 5 hlavních statistik. Dvě z nich jsou **Klíčové statistiky*
 
 
 ## SÍLA (💪) 
-Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžší zbroje, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při [[z_Atomy/U/Umírání\|Umírání]], schopnost udržet [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], počet obnovených [[z_Atomy/K/k-Ž\|k-Ž]] během [[z_Atomy/0-9/🔋\|🔋]], [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]).
+Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžší zbroje, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při [[z_Atomy/0-9/🩸\|🩸]], schopnost udržet [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], počet obnovených [[z_Atomy/K/k-Ž\|k-Ž]] během [[z_Atomy/0-9/🔋\|🔋]], [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]).
 
 </div></div>
 
@@ -279,8 +279,8 @@ Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Ato
 
 
 
-### Hrdinské (👍) & (👎)  pro ❗
-Každý hrdina má pro jeden typ [[z_Atomy/0-9/❗\|❗]] **vždy** ([[z_Atomy/0-9/👍\|👍]]) a jiný typ [[z_Atomy/0-9/❗\|❗]] **vždy** ([[z_Atomy/0-9/👎\|👎]]) a jeden [[z_Atomy/0-9/❗\|❗]] **neutrální**. 
+### Hrdinské (❗)-(👍) & (👎)
+Každý hrdina má pro jeden typ [[z_Atomy/0-9/❗\|❗]] **vždy** ([[z_Atomy/0-9/👍\|👍]]) a jiný typ [[z_Atomy/0-9/❗\|❗]] **vždy** ([[z_Atomy/0-9/👎\|👎]]) a jeden [[z_Atomy/0-9/❗\|❗]] *neutrální*. 
 
 >[!NOTE]- **Příklad**
 >Například [[3 Povolání/Berserk\|Berserk]] (([[z_Atomy/0-9/💪\|💪]])=([[z_Atomy/0-9/👍\|👍]]), [[z_Atomy/0-9/🧠\|🧠]]=([[z_Atomy/0-9/👎\|👎]])) by házel všechny své [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) s ([[z_Atomy/0-9/👍\|👍]]) a všechny své [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]] s ([[z_Atomy/0-9/👎\|👎]]).
@@ -317,7 +317,7 @@ Každý hrdina má pro jeden typ [[z_Atomy/0-9/❗\|❗]] **vždy** ([[z_Atomy/0
 
 
 
-## Výhoda (👍)
+## 👍 = Výhoda
 Pokud vám okolnosti výrazně **přejí**, může vám [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] umožnit provést **hod s výhodou**. 
 Za každou výhodu hoďte 1 další kostku a **odstraňte 1 nejnižší výsledek**.
 
@@ -336,7 +336,7 @@ Pokud hodíte na kostkách stejně, odstranění kostek zleva doprava vždy vede
 
 
 
-## Nevýhoda (👎)
+## 👎 = Nevýhoda
 Pokud vám okolnosti výrazně **nepřejí**, může vám [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] umožnit provést **hod s nevýhodou**.
 Za každou nevýhodu hoďte 1 další kostku a **odstraňte 1 nejvyšší výsledek**.
 
@@ -374,7 +374,7 @@ Znamená že máte 1 výhodu pro váš hod.
 
 # ❤ = Body výdrže
 
-Vaše **Body Výdrže** představují vaši schopnost přijímat poškození a jít dál. Při přijímání poškození se Vaše **❤** snižují. Když klesnete na **0** **❤**, získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a stav [[z_Atomy/U/Umírání\|Umírání]].
+Vaše **Body Výdrže** představují vaši schopnost přijímat poškození a jít dál. Při přijímání poškození se Vaše **❤** snižují. Když klesnete na **0** **❤**, získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a stav [[z_Atomy/0-9/🩸\|🩸]].
 
 Počáteční **Body Výdrže** určíte:
 - Max. hodnota [[z_Atomy/K/k-Ž\|k-Ž]] Vašeho [[2 Důležité/e1_Povolání\|Povolání]] plus hod [[z_Atomy/K/k-Ž\|k-Ž]] s ([[z_Atomy/0-9/👍\|👍]]) nebo 
@@ -398,12 +398,12 @@ Některé schopnosti nebo efekty mohou poskytnout **Dočasné Body Výdrže** (�
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/umirani/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/0-9//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Umírání
+# 🩸 = Umírání
 Když Vaše [[z_Atomy/0-9/❤\|❤]] klesnou na 0, začnete **Umírat**. 
 Má 1 [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/K/Kolo\|Kolo]]. 
 [[z_Atomy/K/Koncentrace\|Koncentrace]] je přerušena a pokračování v boji vám může způsobit [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
@@ -420,25 +420,21 @@ Má 1 [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/K/Kolo\|Kolo]].
 
 
 # ❤️‍🩹 = Zranění
-Vážná zranění která jste utrpěli během [[z_Atomy/U/Umírání\|Umírání]] jsou ukazatelem toho, jak blízko je hrdina [[z_Atomy/S/Smrt\|Smrt]]. Typicky můžete utržit maximálně 6 **Zranění**.
+Vážná zranění která jste utrpěli během [[z_Atomy/0-9/🩸\|🩸]] jsou ukazatelem toho, jak blízko je hrdina [[z_Atomy/0-9/💀\|💀]]. Typicky můžete utržit maximálně 6 **Zranění**.
 
-Během [[z_Atomy/U/Umírání\|Umírání]]:
-- Akce [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]] způsobí [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) - [[z_Atomy/0-9/📶\|📶]] 10. Utrpíte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při neúspěchu.
-- Utržení jakéhokoli poškození způsobí 2 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], [[z_Atomy/0-9/💥\|💥]] způsobí 3 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
-
-Za každé **Zranění** máte **(–1)** pro **všechny** hody mimo boj. 
+Za každé **Zranění** máte **(–1)** pro **všechny** hody mimo boj.
 
 [[z_Atomy/0-9/❤\|❤]] se obvykle obnoví rychle a snadno, ale vyléčit **Zranění** může trvat mnoho dní odpočinku, aby se úplně uzdravila. (Obvykle 1 **Zranění** během [[z_Atomy/0-9/🔋\|🔋]]. [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může změnit.)
 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/s/smrt/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/0-9//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Smrt
+# 💀 = Smrt
 Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (obvykle 6). Můžou existovat způsoby, jak oživit hrdinu který zemřel, ale není to nic lehkého. Duši lze přivést zpět do světa živých jen párkrát, než se úplně odpoutá (nebo něco horšího). Mluvte s Vaším [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]].
 
 > [!NOTE]- **Alternativní pravidla Smrti**

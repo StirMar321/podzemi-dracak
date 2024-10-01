@@ -12,7 +12,7 @@
 
 
 
-## Výhoda (👍)
+## 👍 = Výhoda
 Pokud vám okolnosti výrazně **přejí**, může vám [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] umožnit provést **hod s výhodou**. 
 Za každou výhodu hoďte 1 další kostku a **odstraňte 1 nejnižší výsledek**.
 
@@ -31,7 +31,7 @@ Pokud hodíte na kostkách stejně, odstranění kostek zleva doprava vždy vede
 
 
 
-## Nevýhoda (👎)
+## 👎 = Nevýhoda
 Pokud vám okolnosti výrazně **nepřejí**, může vám [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] umožnit provést **hod s nevýhodou**.
 Za každou nevýhodu hoďte 1 další kostku a **odstraňte 1 nejvyšší výsledek**.
 

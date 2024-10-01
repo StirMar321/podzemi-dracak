@@ -244,7 +244,7 @@ Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🚩\|🚩]] s ([[z_Ato
 
 
 
-# Brnění nepřátel
+# (⛉⛊) = Brnění nepřátel
 - **Žádné brnění**. Utrží všechno poškození. Utrží poškození ze součtu kostek plus bonusy.
 - **[[z_Atomy/0-9/⛉\|⛉]] Střední brnění = Pouze kostky!** Monstra se středním brněním ignorují všechny bonusy poškození. Utrží poškození pouze z hodu kostek.
 - **[[z_Atomy/0-9/⛊\|⛊]]** **Těžké brnění = Polovina kostek!** Monstra s těžkým brněním ignorují bonusy poškození a utrží polovinu poškození z hodu kostek (zaokrouhleno nahoru).

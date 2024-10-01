@@ -69,7 +69,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Mistr bojových umění (7)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
 - **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🎯\|🎯]]) / ([[z_Atomy/0-9/🦉\|🦉]]).
 ## LVL 17
-- **Nezdolná duše**. Když [[z_Atomy/U/Umírání\|Umíráte]], Vaše [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) mají ([[z_Atomy/0-9/👍\|👍]]), 
+- **Nezdolná duše**. Když [[z_Atomy/0-9/🩸\|Umíráte]], Vaše [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) mají ([[z_Atomy/0-9/👍\|👍]]), 
 - **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/💪\|💪]]) / ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🎭\|🎭]]).
 ## LVL 18
 - **Mistr bojových umění (8)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
@@ -79,4 +79,4 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Větrný poutník**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
 	- Když se hází [[z_Atomy/0-9/🚩\|🚩]], získáte **+1 Bod disciplíny**. 
-	- Vždy máte **1 [[z_Atomy/A/AKCE\|Akci]]**. Když [[z_Atomy/U/Umírání\|Umíráte]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]**.
+	- Vždy máte **1 [[z_Atomy/A/AKCE\|Akci]]**. Když [[z_Atomy/0-9/🩸\|Umíráte]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]**.

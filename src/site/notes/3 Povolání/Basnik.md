@@ -22,7 +22,7 @@ Jako Básník můžete:
 
 | [[z_Atomy/0-9/🗝\|🗝]]: [[z_Atomy/0-9/🎭\|🎭]], [[z_Atomy/0-9/🎓\|🎓]]                                      | [[z_Atomy/K/k-Ž\|k-Ž]]: **1k8**                                            | [[z_Atomy/0-9/❤\|❤]] na 1. úrovni: **13**                         |
 | ------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
-| [[z_Atomy/H/Hrdinské (👍) & (👎)  pro ❗\|Hrdinské (👍) & (👎)  pro ❗]]: <br>[[z_Atomy/0-9/🧠\|🧠]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/R/Róby\|Róby]], [[z_Atomy/K/Kožená zbroj\|Kožená zbroj]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/H/Hůlky\|Hůlky]] |
+| [[z_Atomy/H/Hrdinské (❗)-(👍) & (👎)\|Hrdinské (❗)-(👍) & (👎)]]: <br>[[z_Atomy/0-9/🧠\|🧠]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/R/Róby\|Róby]], [[z_Atomy/K/Kožená zbroj\|Kožená zbroj]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/H/Hůlky\|Hůlky]] |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-basnika/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -67,7 +67,7 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 
 ## LVL 2
 - **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** ve školách, které znáte. Vaše [[z_Atomy/0-9/🌀\|🌀]] je (([[z_Atomy/0-9/🎭\|🎭]])+[[z_Atomy/L/LVL\|LVL]])x2) a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
-- **Všeuměl**. Během [[z_Atomy/0-9/🔋\|🔋]] můžete přesunout **jeden** [[z_Atomy/B/Body Dovedností\|Bod Dovednosti]], jako byste získali další [[z_Atomy/L/LVL\|LVL]].
+- **Všeuměl**. Během [[z_Atomy/0-9/🔋\|🔋]] můžete přesunout **jeden** [[z_Atomy/B/Body ⚙️\|Bod Dovednosti]], jako byste získali další [[z_Atomy/L/LVL\|LVL]].
 - **Píseň odpočinku**. 1/Den. Kdykoli za [[z_Atomy/0-9/🪫\|🪫]] můžete spojencům zahrát a umožnit každému, kdo použil [[z_Atomy/K/k-Ž\|k-Ž]], obnovit [[z_Atomy/0-9/❤\|❤]] rovné Vašemu ([[z_Atomy/0-9/🎭\|🎭]]).
 ## LVL 3
 - **Básnické Koleje**. Vyberte si **podtřídu** [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
@@ -143,7 +143,7 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 ⠀
 - **Hrdinská balada**. +1 maximální nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] písní navíc přidává spojenci +([[z_Atomy/0-9/🎭\|🎭]]) k poškození jeho útoku.
 ⠀
-- **Inspirativní Hymna**. 1/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**. Dáte všem [[z_Atomy/U/Umírání\|Umírajícím]] spojencům: 1 [[z_Atomy/0-9/❤\|❤]] a 1 Akci.
+- **Inspirativní Hymna**. 1/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**. Dáte všem [[z_Atomy/0-9/🩸\|Umírajícím]] spojencům: 1 [[z_Atomy/0-9/❤\|❤]] a 1 Akci.
 ⠀
 - **Pýcha předchází pád**. Když hodíte 4+ pro [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], můžete použít 1 nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]], abyste dočasně potlačili jakékoli speciální schopnosti cíle až do konce jeho příštího tahu. Mohou dělat jen to, co by zvládl průměrný vesničan: útočit pouze jednou za **1k4** poškození a pohybovat se až o 6 metrů (žádné [[z_Atomy/0-9/⛉⛊\|⛉⛊]], kouzlení, [[z_Atomy/L/Létání\|Létání]], regenerace, odolnosti/imunity, další vrozené nebo vycvičené schopnosti).
 

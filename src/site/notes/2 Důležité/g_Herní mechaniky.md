@@ -3,12 +3,12 @@
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/b/body-dovednosti/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/b/body/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Body Dovedností
+# Body ⚙️
 Na 1. úrovni si hrdina zaznamená své [[z_Atomy/S/Statistiky\|Statistiky]] do příslušných dovedností (např. hrdina s +2 ([[z_Atomy/0-9/🎯\|🎯]]) by si zaznamenal +2 pro [[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] a [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]]) 
 a poté může umístit **5 dalších bodů** (rozložených do min. 3 různých dovedností) dle svého výběru. 
 
@@ -72,7 +72,7 @@ Všichni hrdinové mluví automaticky **Obecným jazykem**, některé [[2 Důle�
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Zvyšte své max [[z_Atomy/0-9/❤\|❤]]** | Hod **1** [[z_Atomy/K/k-Ž\|k-Ž]] s **([[z_Atomy/0-9/👍\|👍]])** a přičtěte výsledek k vašim maximálním **Bodům Výdrže** ([[z_Atomy/0-9/❤\|❤]]).                                                                                                                    |
 | **Větší výdrž**           | Váš maximální počet [[z_Atomy/K/k-Ž\|k-Ž]] se **zvýší** o **1** (obvykle jsou rovny [[z_Atomy/L/LVL\|LVL]]).                                                                                                                                       |
-| **Lepší Dovednosti**      | Získáte **1** [[z_Atomy/B/Body Dovedností\|bod dovednosti]] a můžete **přesunout** **1** kladný bod dovednosti k jiné dovednosti.                                                                                              |
+| **Lepší Dovednosti**      | Získáte **1** [[z_Atomy/B/Body ⚙️\|bod dovednosti]] a můžete **přesunout** **1** kladný bod dovednosti k jiné dovednosti.                                                                                              |
 | **Schopnosti povolání**   | Získáte **nové** schopnosti [[2 Důležité/e1_Povolání\|Povolání]] pro vaši úroveň. To může znamenat **+max** [[z_Atomy/0-9/🌀\|🌀]], **nové** [[2 Důležité/Kouzla\|Kouzla]] nebo výběr **podtřídy**!                                                              |
 | **Další úpravy**          | Pokud se některá z vašich základních statistik zvýší, **nezapomeňte** podle potřeby upravit závislé bonusy na Vašem **Listu Hrdiny**.<br>([[z_Atomy/0-9/⚙️\|⚙️]], [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], [[z_Atomy/0-9/🚩\|🚩]], [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/J/Jazyky\|Jazyky]]...) |
 

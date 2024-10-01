@@ -30,7 +30,7 @@ Začnete **Zuřit**. Hoďte **[[z_Atomy/K/k-Vztek\|k-Vztek]]** (1k6) a odložte 
 - **Cesta Berserka**. Vyberte si **podtřídu** [[z_Atomy/C/Cesty Berserka\|Cesty Berserka]].
 - **Krvežíznivost**. Utraťte Vaše [[z_Atomy/K/k-Vztek\|k-Vztek]] během svého tahu a **pohněte** se zdarma až o ([[z_Atomy/0-9/🎯\|🎯]]) metrů za každou z nich.
 ## LVL 4
-- **Vytrvalá zuřivost.** Když máte stav [[z_Atomy/U/Umírání\|Umírání]] na začátku svého tahu, automaticky zdarma spustíte [[z_Atomy/Z/Zuřivost\|Zuřivost]]. Během [[z_Atomy/U/Umírání\|Umírání]] máte **2 Akce** a **ignorujete** [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) když útočíte.
+- **Vytrvalá zuřivost.** Když máte stav [[z_Atomy/0-9/🩸\|🩸]] na začátku svého tahu, automaticky zdarma spustíte [[z_Atomy/Z/Zuřivost\|Zuřivost]]. Během [[z_Atomy/0-9/🩸\|🩸]] máte **2 Akce** a **ignorujete** [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) když útočíte.
 - **Divoký arzenál**. Získejte **jednu** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]]. Kdykoli provedete pozoruhodný čin destrukce nebo síly, můžete vyměnit **jednu** schopnost Divokého arzenálu za jinou.
 - **Zvýšení klíčové statistiky.** +1 ([[z_Atomy/0-9/💪\|💪]]) / ([[z_Atomy/0-9/🎯\|🎯]]).
 ## LVL 5

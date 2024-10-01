@@ -12,6 +12,6 @@
 ⠀
 - **Hrdinská balada**. +1 maximální nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] písní navíc přidává spojenci +([[z_Atomy/0-9/🎭\|🎭]]) k poškození jeho útoku.
 ⠀
-- **Inspirativní Hymna**. 1/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**. Dáte všem [[z_Atomy/U/Umírání\|Umírajícím]] spojencům: 1 [[z_Atomy/0-9/❤\|❤]] a 1 Akci.
+- **Inspirativní Hymna**. 1/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**. Dáte všem [[z_Atomy/0-9/🩸\|Umírajícím]] spojencům: 1 [[z_Atomy/0-9/❤\|❤]] a 1 Akci.
 ⠀
 - **Pýcha předchází pád**. Když hodíte 4+ pro [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], můžete použít 1 nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]], abyste dočasně potlačili jakékoli speciální schopnosti cíle až do konce jeho příštího tahu. Mohou dělat jen to, co by zvládl průměrný vesničan: útočit pouze jednou za **1k4** poškození a pohybovat se až o 6 metrů (žádné [[z_Atomy/0-9/⛉⛊\|⛉⛊]], kouzlení, [[z_Atomy/L/Létání\|Létání]], regenerace, odolnosti/imunity, další vrozené nebo vycvičené schopnosti).

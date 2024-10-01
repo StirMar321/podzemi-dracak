@@ -22,7 +22,7 @@ Opravdová známka Přísežníka je však jejich ochota položit svůj život z
 
 | [[z_Atomy/0-9/🗝\|🗝]]: [[z_Atomy/0-9/💪\|💪]], [[z_Atomy/0-9/🎭\|🎭]]                                    | [[z_Atomy/K/k-Ž\|k-Ž]]: **1k10**                        | [[z_Atomy/0-9/❤\|❤]] na 1. úrovni: **17**              |
 | ----------------------------------------------------------- | ---------------------------------------- | --------------------------------------- |
-| [[z_Atomy/H/Hrdinské (👍) & (👎)  pro ❗\|Hrdinské (👍) & (👎)  pro ❗]]: <br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>Všechny | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/💪\|💪]] |
+| [[z_Atomy/H/Hrdinské (❗)-(👍) & (👎)\|Hrdinské (❗)-(👍) & (👎)]]: <br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>Všechny | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/💪\|💪]] |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-priseznika/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -129,14 +129,14 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/❤\|❤]] rovné utraceným nabití.
 
 - **Oslepující aura**. 1/[[z_Atomy/0-9/🔋\|🔋]]. [[z_Atomy/A/AKCE\|AKCE]]: Nepřátelé ve vaší auře mají stav [[z_Atomy/O/Oslepen\|Oslepen]] do konce svého příštího tahu. 
 ⠀
-- **Aura odvahy** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když vy nebo jakýkoli spojenec ve vaší auře začne [[z_Atomy/U/Umírání\|Umírat]], místo toho nastavte jeho [[z_Atomy/0-9/❤\|❤]] na **1**.
+- **Aura odvahy** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když vy nebo jakýkoli spojenec ve vaší auře začne [[z_Atomy/0-9/🩸\|Umírat]], místo toho nastavte jeho [[z_Atomy/0-9/❤\|❤]] na **1**.
 ⠀
 - **Explozivní soud**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **3 [[z_Atomy/A/AKCE\|AKCE]]**: Utraťte všechny své [[z_Atomy/K/k-Soudu\|k-Soudu]], způsobte takové množství zářivého poškození všem nepřátelům ve vaší auře.
 ⠀
 - **Vylepšená aura**. Vaše aura zvětší svůj poloměr na 6 metrů.
 ⠀
 - **Zářivá aura**. ([[z_Atomy/0-9/🎭\|🎭]])/[[z_Atomy/0-9/🔋\|🔋]]. **[[z_Atomy/A/AKCE\|AKCE]]**: Ukončete jakýkoli škodlivý stav nebo efekt na sobě nebo jinému ochotnému tvoru ve vaší auře. 
-	- **[[z_Atomy/S/Stavy\|Stavy]]**: Ukončení stavu [[z_Atomy/U/Umírání\|Umírání]] uzdraví 1 [[z_Atomy/0-9/❤\|❤]]. Ukončení stavu [[z_Atomy/Z/Zmaten\|Zmaten]] vrací 1 Akci.
+	- **[[z_Atomy/S/Stavy\|Stavy]]**: Ukončení stavu [[z_Atomy/0-9/🩸\|🩸]] uzdraví 1 [[z_Atomy/0-9/❤\|❤]]. Ukončení stavu [[z_Atomy/Z/Zmaten\|Zmaten]] vrací 1 Akci.
 ⠀
 - **Spolehlivá spravedlnost**. Na začátku Vašeho [[z_Atomy/T/Tah\|tahu]] získáte 1 [[z_Atomy/K/k-Soudu\|k-Soudu]].
 ⠀

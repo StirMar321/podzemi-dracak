@@ -6,7 +6,7 @@
 >[!NOTE]- **Změna je život**
 >Kdykoli provedete pozoruhodný čin destrukce nebo síly, můžete vyměnit **jednu** schopnost Divokého arzenálu za jinou.
 
-- **Nesmrtelná zuřivost.** 1/[[z_Atomy/K/Kolo\|Kolo]]. Když [[z_Atomy/U/Umírání\|Umíráte]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a získat 1 Akci.
+- **Nesmrtelná zuřivost.** 1/[[z_Atomy/K/Kolo\|Kolo]]. Když [[z_Atomy/0-9/🩸\|Umíráte]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a získat 1 Akci.
 ⠀
 - **Bojechtivost.** Vaše [[z_Atomy/0-9/🚩\|🚩]] má ([[z_Atomy/0-9/👍\|👍]]). První [[z_Atomy/T/Tah\|Tah]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]] se můžete volně pohnout o (2x([[z_Atomy/0-9/🎯\|🎯]])) metry.
 ⠀
@@ -14,7 +14,7 @@
 ⠀
 - **Smrtící úder.** Když vaši [[z_Atomy/Z/Zuřivost\|Zuřivost]] ukončí [[z_Atomy/0-9/💥\|💥]], zdvojnásobte hodnotu vašich [[z_Atomy/K/k-Vztek\|k-Vztek]].
 ⠀
-- **Mocná odolnost.** Nyní můžete přežít o 4 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] více než nastane Vaše [[z_Atomy/S/Smrt\|Smrt]].
+- **Mocná odolnost.** Nyní můžete přežít o 4 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] více než nastane Vaše [[z_Atomy/0-9/💀\|💀]].
 ⠀
 - **VÍC KRVE!** 2/[[z_Atomy/0-9/🔋\|🔋]]. Když udělíte [[z_Atomy/0-9/💥\|💥]], Vaše [[z_Atomy/Z/Zuřivost\|Zuřivost]] **neskončí**.
 ⠀
@@ -22,7 +22,7 @@
 ⠀
 - **Rychlá zuřivost.** Kdykoli aktivujete svojí [[z_Atomy/Z/Zuřivost\|Zuřivost]], můžete se zdarma pohnout až o ([[z_Atomy/0-9/🎯\|🎯]]) metrů, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 ⠀
-- **Nezastavitelná síla** [[z_Atomy/Z/Zuřivost\|Zuřivost]] upravuje přijímání poškození ve stavu [[z_Atomy/U/Umírání\|Umírání]]. Utržení poškození způsobí pouze 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] místo 2; [[z_Atomy/0-9/💥\|💥]] způsobí pouze 2 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], místo 3.
+- **Nezastavitelná síla** [[z_Atomy/Z/Zuřivost\|Zuřivost]] upravuje přijímání poškození ve stavu [[z_Atomy/0-9/🩸\|🩸]]. Utržení poškození způsobí pouze 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] místo 2; [[z_Atomy/0-9/💥\|💥]] způsobí pouze 2 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], místo 3.
 ⠀
 - **Hromové kroky.** Když [[z_Atomy/Z/Zuřivost\|Zuříte]] a pohnete se o 4+ metrů, způsobíte všem přilehlým tvorům na místě, kde se zastavíte, ([[z_Atomy/0-9/💪\|💪]]) drtivého poškození.
 ⠀

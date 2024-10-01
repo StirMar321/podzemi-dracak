@@ -21,7 +21,7 @@ Válečníci, stejně zruční jako disciplinovaní, zasvětili své životy boj
 
 | [[z_Atomy/0-9/🗝\|🗝]]: [[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/🦉\|🦉]]                                    | [[z_Atomy/K/k-Ž\|k-Ž]]: **1k8**                                | [[z_Atomy/0-9/❤\|❤]] na 1. úrovni: **13**                            |
 | ----------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------- |
-| [[z_Atomy/H/Hrdinské (👍) & (👎)  pro ❗\|Hrdinské (👍) & (👎)  pro ❗]]: <br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/B/Bez Zbroje\|Bez Zbroje]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/Z/Zbraně na blízko\|Zbraně na blízko]] |
+| [[z_Atomy/H/Hrdinské (❗)-(👍) & (👎)\|Hrdinské (❗)-(👍) & (👎)]]: <br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/B/Bez Zbroje\|Bez Zbroje]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/Z/Zbraně na blízko\|Zbraně na blízko]] |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-zephyra/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -95,7 +95,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Mistr bojových umění (7)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
 - **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🎯\|🎯]]) / ([[z_Atomy/0-9/🦉\|🦉]]).
 ## LVL 17
-- **Nezdolná duše**. Když [[z_Atomy/U/Umírání\|Umíráte]], Vaše [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) mají ([[z_Atomy/0-9/👍\|👍]]), 
+- **Nezdolná duše**. Když [[z_Atomy/0-9/🩸\|Umíráte]], Vaše [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) mají ([[z_Atomy/0-9/👍\|👍]]), 
 - **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/💪\|💪]]) / ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🎭\|🎭]]).
 ## LVL 18
 - **Mistr bojových umění (8)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
@@ -105,7 +105,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Větrný poutník**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
 	- Když se hází [[z_Atomy/0-9/🚩\|🚩]], získáte **+1 Bod disciplíny**. 
-	- Vždy máte **1 [[z_Atomy/A/AKCE\|Akci]]**. Když [[z_Atomy/U/Umírání\|Umíráte]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]**.
+	- Vždy máte **1 [[z_Atomy/A/AKCE\|Akci]]**. Když [[z_Atomy/0-9/🩸\|Umíráte]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]**.
 
 </div></div>
 
@@ -169,7 +169,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Bolest zostřuje mysl**. 1/[[z_Atomy/T/Tah\|Tah]]. Když jste [[z_Atomy/Z/Zkrvaven\|Zkrvaven]], Vaše [[z_Atomy/0-9/❗\|❗]] mají ([[z_Atomy/0-9/👍\|👍]]) a každý první [[z_Atomy/0-9/⚔️\|⚔️]] ve Vašem tahu má ([[z_Atomy/0-9/👍\|👍]]).
 
 ### LVL 15
-- **Ještě jsem neskončil**. Když [[z_Atomy/U/Umírání\|Umíráte]], můžete použít schopnost **Infuze života** na sebe zdarma. Když vám dojde poslední [[z_Atomy/K/k-Ž\|k-Ž]], můžete utržit +1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a obnovit si +1 [[z_Atomy/K/k-Ž\|k-Ž]].
+- **Ještě jsem neskončil**. Když [[z_Atomy/0-9/🩸\|Umíráte]], můžete použít schopnost **Infuze života** na sebe zdarma. Když vám dojde poslední [[z_Atomy/K/k-Ž\|k-Ž]], můžete utržit +1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a obnovit si +1 [[z_Atomy/K/k-Ž\|k-Ž]].
 
 </div></div>
 

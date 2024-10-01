@@ -16,7 +16,7 @@ Vždy když splníte krok, můžete ho **zavřít**.
 >Zaznamenejte své **[[z_Atomy/K/k-Ž\|k-Ž]]** a své **[[z_Atomy/0-9/❤\|❤]]** podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 >[!NOTE]+ **Hrdinské (+) a (-)**
->Zaznamenejte si své [[z_Atomy/H/Hrdinské (👍) & (👎)  pro ❗\|Hrdinské (👍) & (👎)  pro ❗]] podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
+>Zaznamenejte si své [[z_Atomy/H/Hrdinské (❗)-(👍) & (👎)\|Hrdinské (❗)-(👍) & (👎)]] podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 >[!NOTE]+ **Velikost**
 >Zaznamenejte si [[z_Atomy/V/Velikost\|Velikost]] a [[z_Atomy/0-9/🏃\|🏃]] Vašeho Hrdiny.
@@ -28,7 +28,7 @@ Vždy když splníte krok, můžete ho **zavřít**.
 >>**Min–Max:** +3, +1, +1, +0, -2
 
 >[!NOTE]+ **Dovednosti**
->Vyplňte své bonusy [[z_Atomy/0-9/⚙️\|⚙️]] podle svých statistik a poté přidělte **dalších 5 [[z_Atomy/B/Body Dovedností\|Body Dovedností]]** (do alespoň 3 různých dovedností).
+>Vyplňte své bonusy [[z_Atomy/0-9/⚙️\|⚙️]] podle svých statistik a poté přidělte **dalších 5 [[z_Atomy/B/Body ⚙️\|Body ⚙️]]** (do alespoň 3 různých dovedností).
 
 >[!NOTE]+ **Iniciativa**
 >Zaznamenejte si bonusy [[z_Atomy/0-9/🚩\|🚩]].

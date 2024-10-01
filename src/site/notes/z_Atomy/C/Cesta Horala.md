@@ -11,4 +11,4 @@
 ### LVL 11
 - **Rozzuřený Titán**. Kdykoli minete útok nebo byste obdrželi [[z_Atomy/0-9/💥\|💥]], začnete zdarma [[z_Atomy/Z/Zuřivost\|Zuřit]].
 ### LVL 15
-- **Věčná Hora**. Nemůžete utržit [[z_Atomy/0-9/💥\|💥]] během [[z_Atomy/U/Umírání\|Umírání]]. Pokud byste byli zasaženi kritickým úderem, hod útoku se přehodí a spustí se schopnost **Rozzuřený Titán**.
+- **Věčná Hora**. Nemůžete utržit [[z_Atomy/0-9/💥\|💥]] během [[z_Atomy/0-9/🩸\|🩸]]. Pokud byste byli zasaženi kritickým úderem, hod útoku se přehodí a spustí se schopnost **Rozzuřený Titán**.

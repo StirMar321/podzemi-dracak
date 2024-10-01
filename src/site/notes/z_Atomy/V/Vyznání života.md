@@ -4,7 +4,7 @@
 
 ## Vyznání života
 ### LVL 3
-- **Milosrdné léčení**. Když váš efekt obnoví [[z_Atomy/0-9/❤\|❤]] [[z_Atomy/U/Umírání\|Umírajícímu]] tvoru, vyléčí ho za dvojnásobek. Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] může jednat 1/[[z_Atomy/K/Kolo\|Kolo]] zdarma, zatímco vy [[z_Atomy/U/Umírání\|Umíráte]].
+- **Milosrdné léčení**. Když váš efekt obnoví [[z_Atomy/0-9/❤\|❤]] [[z_Atomy/0-9/🩸\|Umírajícímu]] tvoru, vyléčí ho za dvojnásobek. Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] může jednat 1/[[z_Atomy/K/Kolo\|Kolo]] zdarma, zatímco vy [[z_Atomy/0-9/🩸\|Umíráte]].
 - **Svět je krásný**. Neškodní a krásní tvorové, jako motýli a kolibříci, jsou přitahováni vaší přítomností a často Vás následují. Květiny kvetou ve vaší přítomnosti.
 
 ### LVL 7
