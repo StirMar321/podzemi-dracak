@@ -70,7 +70,7 @@ Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš
 
 
 ## Sympatický smolař
-(Požadavek: 0 >= ([[z_Atomy/0-9/💪\|💪]])). Jednou za den můžeš přehodit neúspěšný hod související s ([[z_Atomy/0-9/💪\|💪]]) a místo toho použít jiný atribut.
+(Požadavek: 0 >= [[z_Atomy/0-9/💪\|💪]]). Jednou za den můžeš přehodit neúspěšný hod související s [[z_Atomy/0-9/💪\|💪]] a místo toho použít jiný atribut.
 
 </div></div>
 
@@ -108,7 +108,7 @@ Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš
 
 
 ## Pardón, chtěl jsem říci...
-(Požadavek: 0 >= ([[z_Atomy/0-9/🎭\|🎭]])) Kdykoli selžeš v ([[z_Atomy/0-9/🎭\|🎭]]) [[z_Atomy/0-9/❓\|❓]], můžeš získat jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (ze ztrapnění) a hodit znovu.
+(Požadavek: 0 >= [[z_Atomy/0-9/🎭\|🎭]]) Kdykoli selžeš v [[z_Atomy/0-9/🎭\|🎭]] [[z_Atomy/0-9/❓\|❓]], můžeš utržit jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (ze ztrapnění) a hodit znovu.
 
 </div></div>
 
@@ -119,7 +119,7 @@ Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš
 
 
 ## Akrobat/Gymnasta
-(Požadavek: Malá [[z_Atomy/V/Velikost\|Velikost]]) Silný spojenec tě může hodit. OPRAVDU daleko. Poloviční poškození z pádu a [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]].
+(Požadavek: Malá [[z_Atomy/V/Velikost\|Velikost]]) Silný spojenec tě může hodit. OPRAVDU daleko. Poloviční poškození z pádu. Viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]].
 
 </div></div>
 
@@ -130,7 +130,7 @@ Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš
 
 
 ## Nemotorný akrobat
-(Požadavek: 0 >= ([[z_Atomy/0-9/🎯\|🎯]])) Kdykoli selžeš v [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/🎯\|🎯]]), můžeš hodit znovu. Pokud opět selžeš, následky jsou ŠPATNÉ.
+(Požadavek: 0 >= [[z_Atomy/0-9/🎯\|🎯]]) Kdykoli selžeš v [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🎯\|🎯]], můžeš hodit znovu. Pokud opět selžeš, následky jsou ŠPATNÉ.
 
 </div></div>
 
@@ -167,7 +167,7 @@ Utržíte polovinu poškození ze všech magických efektů, dvojnásobné pošk
 
 
 ## Survivalista
-Nikdy ti nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně snažíš! ([[z_Atomy/0-9/👍\|👍]]) pro jedové [[z_Atomy/0-9/❗\|❗]]. +1 k maximálním [[z_Atomy/K/k-Ž\|k-Ž]].
+Nikdy ti nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně snažíš! [[z_Atomy/0-9/👍\|👍]] pro jedové [[z_Atomy/0-9/❗\|❗]]. +1 k maximálním [[z_Atomy/K/k-Ž\|k-Ž]].
 
 </div></div>
 
@@ -178,7 +178,7 @@ Nikdy ti nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně sna�
 
 
 ## Domov na Moři
-Zotavíš se dvakrát tolik [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a [[z_Atomy/0-9/❤\|❤]] při odpočinku na lodi nebo blízko vody. V případě nouze můžeš nahradit prvního důstojníka nebo kapitána. ([[z_Atomy/0-9/👍\|👍]]) na kontroly související s vodou.
+Zotavíš se dvakrát tolik [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a [[z_Atomy/0-9/❤\|❤]] při odpočinku na lodi nebo blízko vody. V případě nouze můžeš nahradit prvního důstojníka nebo kapitána. [[z_Atomy/0-9/👍\|👍]] na kontroly související s vodou.
 
 </div></div>
 
@@ -200,7 +200,7 @@ Můžeš kopat dvakrát rychleji než ostatní. Bezpečné odpočinkové lokace 
 
 
 ## (Tajný) Nemrtvý
-**Neobvyklá odolnost**: Jsi imunní vůči nemocem a jedům, utrpíš poloviční poškození z nekrotických efektů a nepotřebuješ jíst, pít nebo dýchat. Děti, zvířata a nebeské bytosti jsou ve tvé přítomnosti nesvé. (**-1**) ([[z_Atomy/0-9/🎭\|🎭]]).
+**Neobvyklá odolnost**: Jsi imunní vůči nemocem a jedům, utrpíš poloviční poškození z nekrotických efektů a nepotřebuješ jíst, pít nebo dýchat. Děti, zvířata a nebeské bytosti jsou ve tvé přítomnosti nesvé. **-1** [[z_Atomy/0-9/🎭\|🎭]].
 
 </div></div>
 
@@ -211,7 +211,7 @@ Můžeš kopat dvakrát rychleji než ostatní. Bezpečné odpočinkové lokace 
 
 
 ## Ošklivá jizva
-Exotické rasy a divoká zvířata jsou k tobě příznivěji nakloněna, "civilizovaní" lidé už méně. ([[z_Atomy/0-9/👍\|👍]]) při zastrašování.
+Exotické rasy a divoká zvířata jsou k tobě příznivěji nakloněna, "civilizovaní" lidé už méně. [[z_Atomy/0-9/👍\|👍]] při zastrašování.
 
 </div></div>
 
@@ -223,7 +223,7 @@ Exotické rasy a divoká zvířata jsou k tobě příznivěji nakloněna, "civil
 
 
 ## Vytříbený vkus
-Vždy máš aktuální znalosti o zvycích a oblékání vyšší třídy a můžeš znát mnoho jejich tajemství. ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] kontroly s vyšší třídou, dokud neuspěješ.
+Vždy máš aktuální znalosti o zvycích a oblékání vyšší třídy a můžeš znát mnoho jejich tajemství. [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] kontroly s vyšší třídou, dokud neuspěješ.
 
 </div></div>
 
@@ -234,7 +234,7 @@ Vždy máš aktuální znalosti o zvycích a oblékání vyšší třídy a mů�
 
 
 ## Historický Nadšenec
-Máte ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] týkající se znalostí o předmětech, faktech nebo událostech, které se staly před 100 a více lety.
+Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] týkající se znalostí o předmětech, faktech nebo událostech, které se staly před 100 a více lety.
 
 </div></div>
 
@@ -246,7 +246,7 @@ Máte ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/H/Hist
 
 
 ## Nebojácný
-Nic tě nemůže vyděsit. Nikdo tě nemůže zastrašit. -1 [[z_Atomy/B/Brnění\|Brnění]].
+Nic tě nemůže vyděsit. Nikdo tě nemůže zastrašit. **-1** [[z_Atomy/B/Brnění\|Brnění]].
 
 </div></div>
 
@@ -257,7 +257,7 @@ Nic tě nemůže vyděsit. Nikdo tě nemůže zastrašit. -1 [[z_Atomy/B/Brněn�
 
 
 ## Tak hloupý, až jsem občas chytrý
-(Požadavek: 0 >= ([[z_Atomy/0-9/🎓\|🎓]])) Jednou za den můžeš přehodit ([[z_Atomy/0-9/🎓\|🎓]]) [[z_Atomy/0-9/❓\|❓]]. 
+(Požadavek: 0 >= [[z_Atomy/0-9/🎓\|🎓]]) Jednou za den můžeš přehodit [[z_Atomy/0-9/🎓\|🎓]] [[z_Atomy/0-9/❓\|❓]]. 
 Jednou za [[z_Atomy/0-9/🔋\|🔋]]  můžeš přehodit [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
@@ -269,6 +269,6 @@ Jednou za [[z_Atomy/0-9/🔋\|🔋]]  můžeš přehodit [[z_Atomy/0-9/❗\|❗]
 
 
 ## Neználek
-(Požadavek: 0 >= ([[z_Atomy/0-9/🦉\|🦉]])). Výsledek 1 nebo méně na jakémkoli hodu souvisejícím s ([[z_Atomy/0-9/🦉\|🦉]]) se počítá jako přirozená 20.
+(Požadavek: 0 >= [[z_Atomy/0-9/🦉\|🦉]]). Výsledek 1 nebo méně na jakémkoli hodu souvisejícím s [[z_Atomy/0-9/🦉\|🦉]] se počítá jako přirozená 20.
 
 </div></div>

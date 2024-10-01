@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-atomy/p/pady-a-nuceny-pohyb/"}
+{"dg-publish":true,"dg-permalink":"Pády a Nucený pohyb","permalink":"/Pády a Nucený pohyb/"}
 ---
 
 >[!NOTE]+ **Pády a Nucený pohyb**

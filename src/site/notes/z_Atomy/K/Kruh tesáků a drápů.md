@@ -9,8 +9,8 @@
 - **Přítel zvířat**. Bestie a zvířata na vás nezaútočí, dokud jim neublížíte.
 ### LVL 7
 - **Ušlechtilé bestie**. [[z_Atomy/D/Divotvar\|Divotvar]] má navíc tyto schopnosti:
-	- **Bleskové tesáky**. Vaše schopnost [[z_Atomy/V/Vzteklina\|Vzteklina]] způsobuje +([[z_Atomy/0-9/🦉\|🦉]]) bleskového poškození.
-	- **Trnitá srst**. Vaše [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]] navíc získává +([[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]. Nepřátelé útočící na blízko utrpí ([[z_Atomy/0-9/🎯\|🎯]]) sečného poškození (ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]).
+	- **Bleskové tesáky**. Vaše schopnost [[z_Atomy/V/Vzteklina\|Vzteklina]] způsobuje +[[z_Atomy/0-9/🦉\|🦉]] bleskového poškození.
+	- **Trnitá srst**. Vaše [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]] navíc získává +[[z_Atomy/0-9/🎯\|🎯]] [[z_Atomy/B/Brnění\|Brnění]]. Nepřátelé útočící na blízko utrpí [[z_Atomy/0-9/🎯\|🎯]] sečného poškození (ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]).
 	- **Hbitý horor**. [[z_Atomy/0-9/🏃\|🏃]] vaší [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]] se zvýší na 4 metry. [[z_Atomy/P/Píchnutí\|Píchnutí]] způsobí [[z_Atomy/Z/Zmaten\|Zmaten]].
 ### LVL 11
 - **Mistr forem**. Znáte **všechny** [[z_Atomy/P/Plemena bestie\|Plemena bestie]]. Můžete mít **dvě** plemena najednou.
@@ -25,7 +25,7 @@
 **1 Akce**
 [[z_Atomy/0-9/👊\|👊]] 12 metrů
 
-Můžete toto kouzlo seslat, když jste přeměněni. Cíl provede [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]]. Když selže, teleportuje se vedle Vás.
+Můžete toto kouzlo seslat, když jste přeměněni. Cíl provede [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]]. Když selže, teleportuje se vedle Vás.
 
 </div></div>
 

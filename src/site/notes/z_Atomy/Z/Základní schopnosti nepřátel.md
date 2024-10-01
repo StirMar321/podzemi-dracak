@@ -3,7 +3,7 @@
 ---
 
 # Základní schopnosti nepřátel
-Pokud není uvedeno jinak, nepřátelé:
-- nemají [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
-- mají [[z_Atomy/0-9/🏃\|🏃]] 6 metrů
-- [[z_Atomy/0-9/❗\|❗]] nemodifikovaný hod 1k20 bez ([[z_Atomy/0-9/👍\|👍]]) nebo ([[z_Atomy/0-9/👎\|👎]])
+Pokud není uvedeno jinak.
+- žádné [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
+- [[z_Atomy/0-9/🏃\|🏃]] 6 metrů
+- [[z_Atomy/0-9/❗\|❗]] nemodifikovaný hod **1k20** bez [[z_Atomy/0-9/👍\|👍]]/[[z_Atomy/0-9/👎\|👎]]

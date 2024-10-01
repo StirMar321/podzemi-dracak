@@ -12,19 +12,19 @@
 # Výchozí vybavení  
 Pokud nechcete nakupovat vlastní [[2 Důležité/h_Vybavení\|Vybavení]], můžete použít předem připravenou výbavu pro své [[2 Důležité/e1_Povolání\|Povolání]]:
 
-| [[2 Důležité/e1_Povolání\|Povolání]]          | [[z_Atomy/Z/Zbraně\|Zbraně]]                                                                                        | [[z_Atomy/Z/Zbroje\|Zbroje]]                                                                                | [[z_Atomy/P/Předměty\|Předměty]]                       |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------- |
-| **[[3 Povolání/Basnik\|Básník]]**             | Dýka **1k4**+([[z_Atomy/0-9/🎯\|🎯]])                                                                             | Levná kůže: <br>(**3**+([[z_Atomy/0-9/🎯\|🎯]])) [[z_Atomy/B/Brnění\|Brnění]]                                               | Loutna; Zrcadlo; <br>Píšťalka      |
-| **[[3 Povolání/Berserk\|Berserk]]**                    | Dvoubřitá Sekera **1k10**+([[z_Atomy/0-9/💪\|💪]]); <br>Oštěp **1k6**+([[z_Atomy/0-9/💪\|💪]]) (sada 4)                           | [[z_Atomy/B/Bez Zbroje\|Bez Zbroje]]                                                                            | Kbelík                             |
-| **[[3 Povolání/Bourlivak\|Bouřlivák]]**       | Hůl **1k8**+([[z_Atomy/0-9/💪\|💪]])                                                                              | Levná kůže: <br>(**3**+([[z_Atomy/0-9/🎯\|🎯]])) [[z_Atomy/B/Brnění\|Brnění]]                                               | Lano; <br>Divná rostlina           |
-| **[[3 Povolání/Cernokneznik\|Černokněžník]]** | Srp **1k4**+([[z_Atomy/0-9/🎯\|🎯]]) ([[z_Atomy/Z/Zákeřný\|Zákeřný]])                                                                | Róba dobrodruha: <br>(**2**+([[z_Atomy/0-9/🎯\|🎯]])) [[z_Atomy/B/Brnění\|Brnění]]                                          | Pila; Lopata; Kosti                |
-| **[[3 Povolání/Fixlak\|Fixlák]]**             | 2 Dýky **1k4**+([[z_Atomy/0-9/🎯\|🎯]]) ([[z_Atomy/O/Obouruční\|Obouruční]]);<br>Krátký luk **1k6**+([[z_Atomy/0-9/🎯\|🎯]])  ([[z_Atomy/0-9/🏹\|🏹]]2-18m) | Levná kůže: <br>(**3**+([[z_Atomy/0-9/🎯\|🎯]])) [[z_Atomy/B/Brnění\|Brnění]]                                               | Křída; Paklíče; <br>Lesklý předmět |
-| **[[3 Povolání/Lovec\|Lovec]]**                      | Krátký luk **1k6**+([[z_Atomy/0-9/🎯\|🎯]]) ([[z_Atomy/0-9/🏹\|🏹]]2-18m); <br>Ruční Sekera **1k6**+([[z_Atomy/0-9/💪\|💪]])                      | Levná kůže: <br>(**3**+([[z_Atomy/0-9/🎯\|🎯]])) [[z_Atomy/B/Brnění\|Brnění]]                                               | 2x Divná rostlina                  |
-| **[[3 Povolání/Mag\|Mág]]**                   | Hůl **1k8**+([[z_Atomy/0-9/💪\|💪]])                                                                              | Róba dobrodruha: <br>(**2**+([[z_Atomy/0-9/🎯\|🎯]])) [[z_Atomy/B/Brnění\|Brnění]]                                          | Zvonek; Deka; <br>Různé knihy      |
-| **[[3 Povolání/Pastyr\|Pastýř]]**             | Palcát **1k6**+([[z_Atomy/0-9/💪\|💪]])                                                                           | Rezavá zbroj <br>(**6**+([[z_Atomy/0-9/🎯\|🎯]]) (max 2)) [[z_Atomy/B/Brnění\|Brnění]]; <br>Kožený štít (**+1** [[z_Atomy/B/Brnění\|Brnění]]) | Mýdlo                              |
-| **[[3 Povolání/Priseznik\|Přísežník]]**       | Palcát **1k6**+([[z_Atomy/0-9/💪\|💪]])                                                                           | Rezavá plátová zbroj: <br>(**10**) [[z_Atomy/B/Brnění\|Brnění]]; <br>Kožený štít: (**+1** [[z_Atomy/B/Brnění\|Brnění]])       | Visací zámek a klíč                |
-| **[[3 Povolání/Velitel\|Velitel]]**                    | Krátký meč **1k6**+([[z_Atomy/0-9/💪\|💪]]); <br>Sada Oštěpů **1k6**+([[z_Atomy/0-9/💪\|💪]])<br>([[z_Atomy/0-9/🏹\|🏹]]2-12m)                    | Rezavá zbroj <br>(**6**+([[z_Atomy/0-9/🎯\|🎯]]) (max 2)) [[z_Atomy/B/Brnění\|Brnění]]; <br>Pukléř (**+1** [[z_Atomy/B/Brnění\|Brnění]])      | Páčidlo                            |
-| **[[3 Povolání/Zephyr\|Zephyr]]**                     | Hůl **1k8**+([[z_Atomy/0-9/💪\|💪]])                                                                              | [[z_Atomy/B/Bez Zbroje\|Bez Zbroje]]                                                                            | Dalekohled; Hák; <br>Lano          |
+| [[2 Důležité/e1_Povolání\|Povolání]]          | [[z_Atomy/Z/Zbraně\|Zbraně]]                                                                                    | [[z_Atomy/Z/Zbroje\|Zbroje]]                                                                              | [[z_Atomy/P/Předměty\|Předměty]]                       |
+| ---------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------- |
+| **[[3 Povolání/Basnik\|Básník]]**             | Dýka **1k4**+[[z_Atomy/0-9/🎯\|🎯]]                                                                           | Levná kůže: <br>(**3**+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]                                               | Loutna; Zrcadlo; <br>Píšťalka      |
+| **[[3 Povolání/Berserk\|Berserk]]**                    | Dvoubřitá Sekera **1k10**+[[z_Atomy/0-9/💪\|💪]]; <br>Oštěp **1k6**+[[z_Atomy/0-9/💪\|💪]] (sada 4)                           | [[z_Atomy/B/Bez Zbroje\|Bez Zbroje]]                                                                          | Kbelík                             |
+| **[[3 Povolání/Bourlivak\|Bouřlivák]]**       | Hůl **1k8**+[[z_Atomy/0-9/💪\|💪]]                                                                            | Levná kůže: <br>(**3**+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]                                               | Lano; <br>Divná rostlina           |
+| **[[3 Povolání/Cernokneznik\|Černokněžník]]** | Srp **1k4**+[[z_Atomy/0-9/🎯\|🎯]] ([[z_Atomy/Z/Zákeřný\|Zákeřný]])                                                              | Róba dobrodruha: <br>(**2**+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]                                          | Pila; Lopata; Kosti                |
+| **[[3 Povolání/Fixlak\|Fixlák]]**             | 2 Dýky **1k4**+[[z_Atomy/0-9/🎯\|🎯]] ([[z_Atomy/O/Obouruční\|Obouruční]]);<br>Krátký luk **1k6**+[[z_Atomy/0-9/🎯\|🎯]]  ([[z_Atomy/0-9/🏹\|🏹]]2-18m) | Levná kůže: <br>(**3**+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]                                               | Křída; Paklíče; <br>Lesklý předmět |
+| **[[3 Povolání/Lovec\|Lovec]]**                      | Krátký luk **1k6**+[[z_Atomy/0-9/🎯\|🎯]] ([[z_Atomy/0-9/🏹\|🏹]]2-18m); <br>Ruční Sekera **1k6**+[[z_Atomy/0-9/💪\|💪]]                      | Levná kůže: <br>(**3**+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]                                               | 2x Divná rostlina                  |
+| **[[3 Povolání/Mag\|Mág]]**                   | Hůl **1k8**+[[z_Atomy/0-9/💪\|💪]]                                                                            | Róba dobrodruha: <br>(**2**+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]                                          | Zvonek; Deka; <br>Různé knihy      |
+| **[[3 Povolání/Pastyr\|Pastýř]]**             | Palcát **1k6**+[[z_Atomy/0-9/💪\|💪]]                                                                         | Rezavá zbroj <br>(**6**+[[z_Atomy/0-9/🎯\|🎯]] (max 2)) [[z_Atomy/B/Brnění\|Brnění]]; <br>Kožený štít (**+1** [[z_Atomy/B/Brnění\|Brnění]]) | Mýdlo                              |
+| **[[3 Povolání/Priseznik\|Přísežník]]**       | Palcát **1k6**+[[z_Atomy/0-9/💪\|💪]]                                                                         | Rezavá plátová zbroj: <br>(**10**) [[z_Atomy/B/Brnění\|Brnění]]; <br>Kožený štít: (**+1** [[z_Atomy/B/Brnění\|Brnění]])     | Visací zámek a klíč                |
+| **[[3 Povolání/Velitel\|Velitel]]**                    | Krátký meč **1k6**+[[z_Atomy/0-9/💪\|💪]]; <br>Sada Oštěpů **1k6**+[[z_Atomy/0-9/💪\|💪]]<br>([[z_Atomy/0-9/🏹\|🏹]]2-12m)                    | Rezavá zbroj <br>(**6**+[[z_Atomy/0-9/🎯\|🎯]] (max 2)) [[z_Atomy/B/Brnění\|Brnění]]; <br>Pukléř (**+1** [[z_Atomy/B/Brnění\|Brnění]])      | Páčidlo                            |
+| **[[3 Povolání/Zephyr\|Zephyr]]**                     | Hůl **1k8**+[[z_Atomy/0-9/💪\|💪]]                                                                            | [[z_Atomy/B/Bez Zbroje\|Bez Zbroje]]                                                                          | Dalekohled; Hák; <br>Lano          |
 
 
 </div></div>
@@ -168,25 +168,25 @@ Můžete změnit hůl na těžkou palici? Jasně! Použít sai místo dýky? Sam
 >[!NOTE]- **Příchuť je zdarma.** 
 >Můžete najít kováře, který za malý poplatek přetvoří tvůj Velký Palcát s poškozením 1k12 na takový, který způsobuje 2k6 nebo 3k4 poškození? Dokud je součet 12, tak to nenaruší (příliš) rovnováhu hry - zeptej se [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]! Může kovář udělat, aby Vaše Dýka způsobovala více poškození? Ne, bohužel. Můžeš ale přetvořit Dlouhý Meč tak, aby útočil jako Bitevní Sekera? Jasně!
 
-| **Zbraně na blízko**                                       | **Poškození**                                 | **Vlastnosti**                                   | **Cena** |
-| ---------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------ | -------- |
-| **Improvizace**                                            | (1k4/1k6+([[z_Atomy/0-9/💪\|💪]])) ???                        | [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], Kontext                                  | [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]   |
-| **Pěsti**                                                  | 1k4 Zásah = (1+([[z_Atomy/0-9/💪\|💪]])) Drtivé               | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 0[[z_Atomy/0-9/🟡\|🟡]]  |
-| **Dýka**                                                   | (1k4+([[z_Atomy/0-9/🎯\|🎯]])) Bodné                          | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/👊\|👊]] 1m, [[z_Atomy/V/Vrhací\|Vrhací]] 4m | 3[[z_Atomy/0-9/🟡\|🟡]]      |
-| **Srp**                                                    | (1k4+([[z_Atomy/0-9/🎯\|🎯]])) Sečné                          | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, [[z_Atomy/Z/Zákeřný\|Zákeřný]]              | 10[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Palcát/Palice**                                          | (1k6+[[z_Atomy/0-9/💪\|💪]]) Drtivé                           | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 2[[z_Atomy/0-9/🟡\|🟡]]      |
-| **Ruční Sekera**                                           | (1k6+([[z_Atomy/0-9/💪\|💪]])) Sečné                          | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/👊\|👊]] 1m, [[z_Atomy/V/Vrhací\|Vrhací]] 4m | 8[[z_Atomy/0-9/🟡\|🟡]]      |
-| **Krátký Meč**                                             | (1k6+([[z_Atomy/0-9/💪\|💪]])) Sečné/<br>(1k6+([[z_Atomy/0-9/🎯\|🎯]])) Bodné | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/👊\|👊]] 1m                | 10[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Hůl**                                                    | (1k8+([[z_Atomy/0-9/💪\|💪]])) Drtivé                         | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 8[[z_Atomy/0-9/🟡\|🟡]]      |
-| **[Kord](https://cs.wikipedia.org/wiki/Kord)**             | (2k4+([[z_Atomy/0-9/🎯\|🎯]])) Bodné                          | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 60[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Dlouhý Meč**                                             | (1k8+([[z_Atomy/0-9/💪\|💪]])) Sečné                          | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 60[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Dvoubřitá Sekera**                                       | (1k10+([[z_Atomy/0-9/💪\|💪]])) Sečné                         | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 30[[z_Atomy/0-9/🟡\|🟡]]     |
-| **[Kůsa](https://cs.wikipedia.org/wiki/K%C5%AFsa)**        | (1k10+([[z_Atomy/0-9/💪\|💪]])) Sečné                         | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]     |
-| **[Halapartna](https://cs.wikipedia.org/wiki/Halapartna)** | (1k10+([[z_Atomy/0-9/💪\|💪]])) Bodné                         | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]     |
-| **[Řemdih](https://cs.wikipedia.org/wiki/%C5%98emdih)**    | (1k10+([[z_Atomy/0-9/💪\|💪]])) Drtivé                        | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Velký Palcát**                                           | (1k12+([[z_Atomy/0-9/💪\|💪]])) Drtivé                        | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, Min. 2 ([[z_Atomy/0-9/💪\|💪]])          | 80[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Velká Sekera**                                           | (2k6+([[z_Atomy/0-9/💪\|💪]])) Sečné                          | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, Min. 2 ([[z_Atomy/0-9/💪\|💪]])          | 100[[z_Atomy/0-9/🟡\|🟡]]    |
-| **Velký Meč**                                              | (3k4+([[z_Atomy/0-9/💪\|💪]])) Sečné/Bodné                    | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, Min. 2 ([[z_Atomy/0-9/💪\|💪]])          | 120[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Zbraně na blízko**                                       | **Poškození**                             | **Vlastnosti**                                   | **Cena**    |
+| ---------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------ | ----------- |
+| **Improvizace**                                            | (1k4/1k6+[[z_Atomy/0-9/💪\|💪]]) ???                      | [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], Kontext                             | [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] |
+| **Pěsti**                                                  | 1k4; Zásah = (1+[[z_Atomy/0-9/💪\|💪]]) Drtivé            | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 0[[z_Atomy/0-9/🟡\|🟡]]     |
+| **Dýka**                                                   | (1k4+[[z_Atomy/0-9/🎯\|🎯]]) Bodné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/👊\|👊]] 1m, [[z_Atomy/V/Vrhací\|Vrhací]] 4m | 3[[z_Atomy/0-9/🟡\|🟡]]     |
+| **Srp**                                                    | (1k4+[[z_Atomy/0-9/🎯\|🎯]]) Sečné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, [[z_Atomy/Z/Zákeřný\|Zákeřný]]              | 10[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Palcát/Palice**                                          | (1k6+[[z_Atomy/0-9/💪\|💪]]) Drtivé                       | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 2[[z_Atomy/0-9/🟡\|🟡]]     |
+| **Ruční Sekera**                                           | (1k6+[[z_Atomy/0-9/💪\|💪]]) Sečné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/👊\|👊]] 1m, [[z_Atomy/V/Vrhací\|Vrhací]] 4m | 8[[z_Atomy/0-9/🟡\|🟡]]     |
+| **Krátký Meč**                                             | (1k6+[[z_Atomy/0-9/💪\|💪]]) Sečné/<br>(1k6+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/👊\|👊]] 1m                | 10[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Hůl**                                                    | (1k8+[[z_Atomy/0-9/💪\|💪]]) Drtivé                       | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 8[[z_Atomy/0-9/🟡\|🟡]]     |
+| **[Kord](https://cs.wikipedia.org/wiki/Kord)**             | (2k4+[[z_Atomy/0-9/🎯\|🎯]]) Bodné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Dlouhý Meč**                                             | (1k8+[[z_Atomy/0-9/💪\|💪]]) Sečné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Dvoubřitá Sekera**                                       | (1k10+[[z_Atomy/0-9/💪\|💪]]) Sečné                       | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 30[[z_Atomy/0-9/🟡\|🟡]]    |
+| **[Kůsa](https://cs.wikipedia.org/wiki/K%C5%AFsa)**        | (1k10+[[z_Atomy/0-9/💪\|💪]]) Sečné                       | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| **[Halapartna](https://cs.wikipedia.org/wiki/Halapartna)** | (1k10+[[z_Atomy/0-9/💪\|💪]]) Bodné                       | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| **[Řemdih](https://cs.wikipedia.org/wiki/%C5%98emdih)**    | (1k10+[[z_Atomy/0-9/💪\|💪]]) Drtivé                      | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Velký Palcát**                                           | (1k12+[[z_Atomy/0-9/💪\|💪]]) Drtivé                      | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, Min. 2 [[z_Atomy/0-9/💪\|💪]]            | 80[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Velká Sekera**                                           | (2k6+[[z_Atomy/0-9/💪\|💪]]) Sečné                        | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, Min. 2 [[z_Atomy/0-9/💪\|💪]]            | 100[[z_Atomy/0-9/🟡\|🟡]]   |
+| **Velký Meč**                                              | (3k4+[[z_Atomy/0-9/💪\|💪]]) Sečné/Bodné                  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, Min. 2 [[z_Atomy/0-9/💪\|💪]]            | 120[[z_Atomy/0-9/🟡\|🟡]]   |
 
 
 </div></div>
@@ -197,15 +197,15 @@ Můžete změnit hůl na těžkou palici? Jasně! Použít sai místo dýky? Sam
 
 
 
-| **Zbraně na dálku** | **Poškození**         | **Vlastnosti**                                                               | **Cena** |
-| ------------------- | --------------------- | ---------------------------------------------------------------------------- | -------- |
-| **Prak**            | (1k4+([[z_Atomy/0-9/🎯\|🎯]])) Drtivé | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-18 m, [[z_Atomy/Z/Zákeřný\|Zákeřný]]                                      | 4[[z_Atomy/0-9/🟡\|🟡]]      |
-| **Oštěp**           | (1k6+([[z_Atomy/0-9/💪\|💪]])) Bodné  | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m, sada 4                                           | 20[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Vrhací Kladiva**  | (1k6+([[z_Atomy/0-9/💪\|💪]])) Drtivé | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m, sada 4                                           | 25[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Krátký Luk**      | (1k6+([[z_Atomy/0-9/🎯\|🎯]])) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-18 m                                                   | 25[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Dlouhý Luk**      | (1k8+([[z_Atomy/0-9/🎯\|🎯]])) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-24 m                                                   | 30[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Kuše**            | (1k12+([[z_Atomy/0-9/🎯\|🎯]])) Bodné | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m                                                   | 60[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Ruční Balista**   | (1k20+([[z_Atomy/0-9/🎯\|🎯]])) Bodné | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/P/Přebíjení\|Přebíjení]]: 2 [[z_Atomy/A/AKCE\|AKCE]], <br>[[z_Atomy/0-9/🏹\|🏹]] 2-12 m, (Min. 2 ([[z_Atomy/0-9/💪\|💪]])) | 120[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Zbraně na dálku** | **Poškození**       | **Vlastnosti**                                                                 | **Cena**  |
+| ------------------- | ------------------- | ------------------------------------------------------------------------------ | --------- |
+| **Prak**            | (1k4+[[z_Atomy/0-9/🎯\|🎯]]) Drtivé | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-18 m, [[z_Atomy/Z/Zákeřný\|Zákeřný]]                                        | 4[[z_Atomy/0-9/🟡\|🟡]]   |
+| **Oštěp**           | (1k6+[[z_Atomy/0-9/💪\|💪]]) Bodné  | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m, sada 4                                             | 20[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Vrhací Kladiva**  | (1k6+[[z_Atomy/0-9/💪\|💪]]) Drtivé | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m, sada 4                                             | 25[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Krátký Luk**      | (1k6+[[z_Atomy/0-9/🎯\|🎯]]) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-18 m                                                     | 25[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Dlouhý Luk**      | (1k8+[[z_Atomy/0-9/🎯\|🎯]]) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-24 m                                                     | 30[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Kuše**            | (1k12+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m                                                     | 60[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Ruční Balista**   | (1k20+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/P/Přebíjení\|Přebíjení]]: **2** [[z_Atomy/A/AKCE\|AKCE]], <br>[[z_Atomy/0-9/🏹\|🏹]] 2-12 m, (Min. 2 [[z_Atomy/0-9/💪\|💪]]) | 120[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
@@ -240,7 +240,7 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 
 | **Bez Zbroje**                | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena** |
 | ----------------------------- | -------------- | -------- |
-| (Bez zbroje) = Běžné Oblečení | ([[z_Atomy/0-9/🎯\|🎯]])        | 0[[z_Atomy/0-9/🟡\|🟡]]      |
+| (Bez zbroje) = Běžné Oblečení | [[z_Atomy/0-9/🎯\|🎯]]         | 0[[z_Atomy/0-9/🟡\|🟡]]  |
 
 
 </div></div>
@@ -253,12 +253,12 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 
 ## Róby
 
-| **Róby**                  | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena** |
-| ------------------------- | -------------- | -------- |
-| Róba dobrodruha           | 2+([[z_Atomy/0-9/🎯\|🎯]])      | 10[[z_Atomy/0-9/🟡\|🟡]]     |
-| Róba s menším Očarováním  | 3+([[z_Atomy/0-9/🎯\|🎯]])      | 100[[z_Atomy/0-9/🟡\|🟡]]    |
-| Róba s větším Očarováním  | 4+([[z_Atomy/0-9/🎯\|🎯]])      | 1.000[[z_Atomy/0-9/🟡\|🟡]]  |
-| Róba s Epickým Očarováním | 5+([[z_Atomy/0-9/🎯\|🎯]])      | 10.000[[z_Atomy/0-9/🟡\|🟡]] |
+| **Róby**                  | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena**     |
+| ------------------------- | -------------- | ------------ |
+| Róba dobrodruha           | 2+[[z_Atomy/0-9/🎯\|🎯]]       | 10[[z_Atomy/0-9/🟡\|🟡]]     |
+| Róba s menším Očarováním  | 3+[[z_Atomy/0-9/🎯\|🎯]]       | 100[[z_Atomy/0-9/🟡\|🟡]]    |
+| Róba s větším Očarováním  | 4+[[z_Atomy/0-9/🎯\|🎯]]       | 1.000[[z_Atomy/0-9/🟡\|🟡]]  |
+| Róba s Epickým Očarováním | 5+[[z_Atomy/0-9/🎯\|🎯]]       | 10.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
@@ -271,12 +271,12 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 
 ## Kožená zbroj
 
-| **Kožená zbroj**              | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena** |
-| ----------------------------- | -------------- | -------- |
-| Levná kůže                    | 3+([[z_Atomy/0-9/🎯\|🎯]])      | 5[[z_Atomy/0-9/🟡\|🟡]]      |
-| Býčí Kůže                     | 4+([[z_Atomy/0-9/🎯\|🎯]])      | 45[[z_Atomy/0-9/🟡\|🟡]]     |
-| Zdobená kůže (Min. 1 ([[z_Atomy/0-9/💪\|💪]])) | 5+([[z_Atomy/0-9/🎯\|🎯]])      | 300[[z_Atomy/0-9/🟡\|🟡]]    |
-| Dračí Kůže (Min. 1 ([[z_Atomy/0-9/💪\|💪]]))   | 6+([[z_Atomy/0-9/🎯\|🎯]])      | 2.000[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Kožená zbroj**             | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena**    |
+| ---------------------------- | -------------- | ----------- |
+| Levná kůže                   | 3+[[z_Atomy/0-9/🎯\|🎯]]       | 5[[z_Atomy/0-9/🟡\|🟡]]     |
+| Býčí Kůže                    | 4+[[z_Atomy/0-9/🎯\|🎯]]       | 45[[z_Atomy/0-9/🟡\|🟡]]    |
+| Zdobená kůže (Min. 1 [[z_Atomy/0-9/💪\|💪]]) | 5+[[z_Atomy/0-9/🎯\|🎯]]       | 300[[z_Atomy/0-9/🟡\|🟡]]   |
+| Dračí Kůže (Min. 1 [[z_Atomy/0-9/💪\|💪]])   | 6+[[z_Atomy/0-9/🎯\|🎯]]       | 2.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
@@ -289,12 +289,12 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 
 ## Kroužková zbroj
 
-| **Kroužková zbroj**                    | **[[z_Atomy/B/Brnění\|Brnění]]**      | **Cena** |
-| -------------------------------------- | ------------------- | -------- |
-| Rezavá košile                          | 7+([[z_Atomy/0-9/🎯\|🎯]]) (max 2)  | 15[[z_Atomy/0-9/🟡\|🟡]]     |
-| Kroužková košile (Min. 2 ([[z_Atomy/0-9/💪\|💪]]))     | 9+([[z_Atomy/0-9/🎯\|🎯]]) (max 2)  | 60[[z_Atomy/0-9/🟡\|🟡]]     |
-| Šupinová zbroj (Min. 3 ([[z_Atomy/0-9/💪\|💪]]))       | 12+([[z_Atomy/0-9/🎯\|🎯]]) (max 2) | 700[[z_Atomy/0-9/🟡\|🟡]]    |
-| Dračí Šupinová zbroj (Min. 4 ([[z_Atomy/0-9/💪\|💪]])) | 15+([[z_Atomy/0-9/🎯\|🎯]]) (max 2) | 3.000[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Kroužková zbroj**                  | **[[z_Atomy/B/Brnění\|Brnění]]**    | **Cena**    |
+| ------------------------------------ | ----------------- | ----------- |
+| Rezavá košile                        | 7+[[z_Atomy/0-9/🎯\|🎯]] (max 2)  | 15[[z_Atomy/0-9/🟡\|🟡]]    |
+| Kroužková košile (Min. 2 [[z_Atomy/0-9/💪\|💪]])     | 9+[[z_Atomy/0-9/🎯\|🎯]] (max 2)  | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| Šupinová zbroj (Min. 3 [[z_Atomy/0-9/💪\|💪]])       | 12+[[z_Atomy/0-9/🎯\|🎯]] (max 2) | 700[[z_Atomy/0-9/🟡\|🟡]]   |
+| Dračí Šupinová zbroj (Min. 4 [[z_Atomy/0-9/💪\|💪]]) | 15+[[z_Atomy/0-9/🎯\|🎯]] (max 2) | 3.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
@@ -307,12 +307,12 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 
 ## Plátová zbroj
 
-| **Plátová zbroj**                  | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena** |
-| ---------------------------------- | -------------- | -------- |
-| Rezavá zbroj (Min. 2 ([[z_Atomy/0-9/💪\|💪]]))     | 10             | 25[[z_Atomy/0-9/🟡\|🟡]]     |
-| Poloviční zbroj (Min. 3 ([[z_Atomy/0-9/💪\|💪]]))  | 14             | 200[[z_Atomy/0-9/🟡\|🟡]]    |
-| Plná zbroj (Min. 4 ([[z_Atomy/0-9/💪\|💪]]))       | 18             | 2.000[[z_Atomy/0-9/🟡\|🟡]]  |
-| Mithrilová zbroj (Min. 5 ([[z_Atomy/0-9/💪\|💪]])) | 22             | 5.000[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Plátová zbroj**                | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena**    |
+| -------------------------------- | -------------- | ----------- |
+| Rezavá zbroj (Min. 2 [[z_Atomy/0-9/💪\|💪]])     | 10             | 25[[z_Atomy/0-9/🟡\|🟡]]    |
+| Poloviční zbroj (Min. 3 [[z_Atomy/0-9/💪\|💪]])  | 14             | 200[[z_Atomy/0-9/🟡\|🟡]]   |
+| Plná zbroj (Min. 4 [[z_Atomy/0-9/💪\|💪]])       | 18             | 2.000[[z_Atomy/0-9/🟡\|🟡]] |
+| Mithrilová zbroj (Min. 5 [[z_Atomy/0-9/💪\|💪]]) | 22             | 5.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
@@ -327,12 +327,12 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 > [!NOTE]+ **Štíty**
 > Kromě zvýšení Vašeho **Brnění** mohou štíty zdarma snížit poškození z jednoho útoku za [[z_Atomy/K/Kolo\|Kolo]] o hodnotu **Brnění**, kterou poskytují.
 
-| **Štíty**    | **[[z_Atomy/B/Brnění\|Brnění]]** | Vlastnosti                     | **Cena** |
-| ------------ | -------------- | ------------------------------ | -------- |
-| Pukléř       | 1              | [[z_Atomy/0-9/1-ruční\|1-ruční]]                    | 5[[z_Atomy/0-9/🟡\|🟡]]      |
-| Železný Štít | 2              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 2 ([[z_Atomy/0-9/💪\|💪]])) | 30[[z_Atomy/0-9/🟡\|🟡]]     |
-| Velký Štít   | 3              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 3 ([[z_Atomy/0-9/💪\|💪]])) | 500[[z_Atomy/0-9/🟡\|🟡]]    |
-| Dračí Štít   | 4              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 3 ([[z_Atomy/0-9/💪\|💪]])) | 3.000[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Štíty**    | **[[z_Atomy/B/Brnění\|Brnění]]** | Vlastnosti                   | **Cena**    |
+| ------------ | -------------- | ---------------------------- | ----------- |
+| Pukléř       | 1              | [[z_Atomy/0-9/1-ruční\|1-ruční]]                  | 5[[z_Atomy/0-9/🟡\|🟡]]     |
+| Železný Štít | 2              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 2 [[z_Atomy/0-9/💪\|💪]]) | 30[[z_Atomy/0-9/🟡\|🟡]]    |
+| Velký Štít   | 3              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 3 [[z_Atomy/0-9/💪\|💪]]) | 500[[z_Atomy/0-9/🟡\|🟡]]   |
+| Dračí Štít   | 4              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 3 [[z_Atomy/0-9/💪\|💪]]) | 3.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>

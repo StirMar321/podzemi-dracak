@@ -4,7 +4,7 @@
 
 ## Divotvar
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-Max Nabití = ([[z_Atomy/0-9/🦉\|🦉]])/[[z_Atomy/0-9/🔋\|🔋]]
+Max Nabití = [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🔋\|🔋]]
 
 Můžete se přeměnit v neškodného suchozemského tvora.
 *(např. kráva, veverka, myš atd.)*

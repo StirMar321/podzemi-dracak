@@ -3,4 +3,4 @@
 ---
 
 ## Otráven
-Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny Vaše hody
+Máte [[z_Atomy/0-9/👎\|👎]] pro všechny Vaše hody.

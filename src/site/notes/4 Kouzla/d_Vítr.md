@@ -51,9 +51,9 @@ Obnovte 1 [[z_Atomy/0-9/❤\|❤]] tvorovi v dosahu se stavem [[z_Atomy/0-9/🩸
 [[z_Atomy/0-9/🏹\|🏹]] 18m
 
 Cíl v dostřelu utrží **3k4** sečné poškození. 
-Pohnete středním cílem o 1m ([[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]]). ([[z_Atomy/0-9/👍\|👍]]) proti **létajícím** nebo malým cílům a pohnete jimi dvakrát. [[z_Atomy/Z/Zákeřný\|Zákeřný]] 
+Pohnete středním cílem o 1m ([[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]]). [[z_Atomy/0-9/👍\|👍]] proti **létajícím** nebo malým cílům a pohnete jimi dvakrát. [[z_Atomy/Z/Zákeřný\|Zákeřný]] 
 
-**Posílení**: Pohne +1m / +1 Velikost za každou další utracenou manu
+**Posílení**: Pohne +1m / +1 [[z_Atomy/V/Velikost\|Velikost]] za každou další utracenou manu
 
 </div></div>
 
@@ -69,7 +69,7 @@ Pohnete středním cílem o 1m ([[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucen
 [[z_Atomy/R/REAKCE\|REAKCE]], když byste použili [[z_Atomy/0-9/🛡️\|🛡️]]
 [[z_Atomy/T/Trvání\|Trvání]] 1 [[z_Atomy/K/Kolo\|Kolo]]
 
-Útoky na dálku proti vám mají ([[z_Atomy/0-9/👎\|👎]]) až do začátku Vašeho příštího tahu (včetně útoku, kterému se bráníte)
+Útoky na dálku proti vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího tahu (včetně útoku, kterému se bráníte)
 
 Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] se zdarma.
 
@@ -106,10 +106,10 @@ Cíl, kterého se dotknete, je nadnášen proudem silného větru. Po dobu trvá
 **STUPEŇ 4**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/👊\|👊]] 3m
-[[z_Atomy/0-9/📶 ❗ Hrdinských efektů\|📶 ❗ Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Nepřátelé v dosahu utrpí **6k4+10** sečného poškození. 
-Můžete pohnout tvory libovolně v dosahu, pokud neuspějí [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]).
+Můžete pohnout tvory libovolně v dosahu, pokud neuspějí [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
 
 **Posílení**: +1 metr dosahu za každou další utracenou manu.
 
@@ -126,9 +126,9 @@ Můžete pohnout tvory libovolně v dosahu, pokud neuspějí [[z_Atomy/0-9/❗\|
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/👊\|👊]] 12m
 [[z_Atomy/O/Oblast\|Oblast]] 5x5 m
-[[z_Atomy/0-9/📶 ❗ Hrdinských efektů\|📶 ❗ Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Nepřátelé v oblasti hází [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/🎯\|🎯]]), dokud uspějí. Neúspěch = vynesen 12m.
+Nepřátelé v oblasti hází [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]], dokud uspějí. Neúspěch = vynesen 12m.
 
 Na konci Vašeho tahu nepřátelé spadnou a mají stav [[z_Atomy/S/Sražen\|Sražen]]. 
 **1k6** drtivého poškození / 2m pádu.
@@ -167,7 +167,7 @@ Poškození utrží všichni nepřátelé do 1m od cíle.
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/K/Koncentrace\|Koncentrace]], až 1 minuta
 
-Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [[z_Atomy/0-9/🏃\|🏃]] 12 metrů. Můžete se jednou za kolo použít [[z_Atomy/0-9/🥾\|🥾]] zdarma a útoky na dálku proti vám mají ([[z_Atomy/0-9/👎\|👎]]).
+Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [[z_Atomy/0-9/🏃\|🏃]] 12 metrů. Můžete se jednou za kolo použít [[z_Atomy/0-9/🥾\|🥾]] zdarma a útoky na dálku proti vám mají [[z_Atomy/0-9/👎\|👎]].
 
 **Posílení**: +1 minuta / +2 cíle za každou další utracenou manu.
 
@@ -183,7 +183,7 @@ Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [
 
 ## Básníkova Inspirace  
 **VOLNÁ [[z_Atomy/R/REAKCE\|REAKCE]]**
-Max Nabití = ([[z_Atomy/0-9/🎭\|🎭]])/[[z_Atomy/0-9/🔋\|🔋]]
+Max Nabití = [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/R/REAKCE\|REAKCE]] (když spojenec hodí kostku)
 [[z_Atomy/0-9/👊\|👊]] 12m
 
@@ -202,8 +202,8 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/👊\|👊]] 12m
 
-Cíl v dosahu utrží **1k4+([[z_Atomy/0-9/🎓\|🎓]])** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
-Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má ([[z_Atomy/0-9/👎\|👎]]).
+Cíl v dosahu utrží **(1k4+[[z_Atomy/0-9/🎓\|🎓]])** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
+Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
 
 **Vyšší úrovně**: **+3 poškození** každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 

@@ -12,7 +12,7 @@
 
 ## Divotvar
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-Max Nabití = ([[z_Atomy/0-9/🦉\|🦉]])/[[z_Atomy/0-9/🔋\|🔋]]
+Max Nabití = [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🔋\|🔋]]
 
 Můžete se přeměnit v neškodného suchozemského tvora.
 *(např. kráva, veverka, myš atd.)*
@@ -23,7 +23,7 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 </div></div>
 
 ## LVL 2
-- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/d_Vítr\|Větru]] a [[4 Kouzla/c_Blesk\|Blesku]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/🦉\|🦉]])+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
+- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/d_Vítr\|Větru]] a [[4 Kouzla/c_Blesk\|Blesku]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/🦉\|🦉]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
 - **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Smečky\|Bestie Smečky]]
 ## LVL 3
 - **Kruh Bouřliváků**. Vyberte si **podtřídu** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
@@ -31,11 +31,11 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 ## LVL 4
 - **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a vylepšovat kouzla na 2. stupeň
 - **Přivolávač bouří**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/🎯\|🎯]]).
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 5
 - **Mistr malých bestií**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]]
 - **Vylepšené Triky**. Vaše kouzelné triky sílí
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/💪\|💪]]) / ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🎭\|🎭]])
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a vylepšovat kouzla na 3. stupeň
 - **Plemena bestie (1)**.
@@ -46,13 +46,13 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 - **Přivolávač bouří (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
 ## LVL 8
 - **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a vylepšovat kouzla na 4. stupeň
-- **Bouřerozený**. 1/den. Získáte [[z_Atomy/O/Odolnost\|Odolnost]] vůči poškození bleskem. Máte ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/K/Koncentrace\|Koncentrace]].
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/🎯\|🎯]])
+- **Bouřerozený**. 1/den. Získáte [[z_Atomy/O/Odolnost\|Odolnost]] vůči poškození bleskem. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/K/Koncentrace\|Koncentrace]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 9
 - **Plemena bestie (2)**. 
 	- +1 použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. 
 	- Naučte se **další** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]].
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/💪\|💪]]) / ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🎭\|🎭]])
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 10
 - **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a vylepšovat kouzla na 5. stupeň
 - **Vylepšené Triky**. Vaše kouzelné triky sílí
@@ -63,13 +63,13 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 - **Plemena bestie (3)**. 
 	- +1 použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. 
 	- Naučte se **další** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]]
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/🎯\|🎯]])
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 13
 - **Bouřerozený (2)**. Získáte následující schopnosti:
-	- **+([[z_Atomy/0-9/🦉\|🦉]])** k poškození všech kouzel domény [[4 Kouzla/c_Blesk\|c_Blesk]]
-	- Místo hodu kostkami můžete způsobit maximální poškození kouzel domény [[4 Kouzla/d_Vítr\|d_Vítr]] za jedno použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]] (nepočítá se jako [[z_Atomy/0-9/💥\|💥]])
+	- +[[z_Atomy/0-9/🦉\|🦉]] k poškození všech kouzel domény [[4 Kouzla/c_Blesk\|Blesk]]
+	- Místo hodu kostkami můžete způsobit maximální poškození kouzel domény [[4 Kouzla/d_Vítr\|Vítr]] za jedno použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]] (nepočítá se jako [[z_Atomy/0-9/💥\|💥]])
 	- Za 2 many můžete místo hodu kostkami způsobit maximální poškození v boji na blízko (nepočítá se jako [[z_Atomy/0-9/💥\|💥]])
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/💪\|💪]]) / ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🎭\|🎭]])
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 14
 - **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a vylepšovat kouzla na 7. stupeň
 ## LVL 15
@@ -77,12 +77,12 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 - **Vylepšené Triky**. Vaše kouzelné triky sílí
 ## LVL 16
 - **Kouzla 8. stupně**. Nyní můžete sesílat kouzla **8. stupně** a vylepšovat kouzla na 8. stupeň
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/🎯\|🎯]])
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 17
 - **Plemena bestie (4)**. 
 	- +1 použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. 
 	- Naučte se **další** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]]
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/💪\|💪]]) / ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🎭\|🎭]])
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 18
 - **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a vylepšovat kouzla na 9. stupeň
 ## LVL 19

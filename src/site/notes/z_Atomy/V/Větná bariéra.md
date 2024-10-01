@@ -8,7 +8,7 @@
 [[z_Atomy/R/REAKCE\|REAKCE]], když byste použili [[z_Atomy/0-9/🛡️\|🛡️]]
 [[z_Atomy/T/Trvání\|Trvání]] 1 [[z_Atomy/K/Kolo\|Kolo]]
 
-Útoky na dálku proti vám mají ([[z_Atomy/0-9/👎\|👎]]) až do začátku Vašeho příštího tahu (včetně útoku, kterému se bráníte)
+Útoky na dálku proti vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího tahu (včetně útoku, kterému se bráníte)
 
 Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] se zdarma.
 

@@ -52,7 +52,7 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 
 
 >[!NOTE]+ **Uspěchané útoky**
->Hrdina může během svého tahu útočit **vícekrát**, ale každý další [[z_Atomy/0-9/⚔️\|⚔️]] po prvním je **Uspěchaný**. Má +1 ([[z_Atomy/0-9/👎\|👎]])/[[z_Atomy/0-9/⚔️\|⚔️]], což zvyšuje šanci na minutí a snižuje se průměrné poškození. [[2 Důležité/Kouzla\|Kouzla]], která mohou ublížit nepříteli, se počítají do **Uspěchaných útoků**.
+>Hrdina může během svého tahu útočit **vícekrát**, ale každý další [[z_Atomy/0-9/⚔️\|⚔️]] po prvním je **Uspěchaný**. Má +1 [[z_Atomy/0-9/👎\|👎]]/[[z_Atomy/0-9/⚔️\|⚔️]], což zvyšuje šanci na minutí a snižuje se průměrné poškození. [[2 Důležité/Kouzla\|Kouzla]], která mohou ublížit nepříteli, se počítají do **Uspěchaných útoků**.
 
 </div></div>
 
@@ -75,7 +75,7 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 
 
 ## ✨ = Čarování
-[[2 Důležité/Kouzla\|Kouzla]] vyžadují, aby měl hrdina jednu ruku volnou nebo v ní měl kouzelný fokus, schopnost volně mluvit a stojí typicky [[z_Atomy/0-9/🌀\|Manu]] (náklady na manu jsou rovny **Stupni** kouzla. Triky a Tríčky manu nestojí).
+[[2 Důležité/Kouzla\|Kouzla]] vyžadují, aby měl hrdina jednu ruku volnou nebo v ní měl kouzelný fokus, schopnost volně mluvit a stojí typicky [[z_Atomy/0-9/🌀\|🌀]] (náklady na manu jsou rovny **Stupni** kouzla. **Triky** a **Tríčky** manu nestojí).
 
 **Posilování kouzel**. Většina **Kouzel** mají vylepšený účinek, když na ně hrdina použije více many. Hrdina může posílit kouzlo nejvýše do **Stupně**, který má odemčen.
 
@@ -88,7 +88,7 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 
 
 ## 🔍 = Posouzení
-Pokud chcete **více informací** nebo **([[z_Atomy/0-9/👍\|👍]])** v boji, hrdina může použít **Posouzení** k provedení [[z_Atomy/0-9/❓\|❓]] pro odhalení informací, objevil slabinu nebo zranitelnost, pochopil taktiku a plány nepřátel apod. Skvělý způsob, jak začlenit příběhové momenty do [[z_Atomy/S/Střetnutí\|Střetnutí]].
+Pokud chcete **více informací** nebo [[z_Atomy/0-9/👍\|👍]] v boji, hrdina může použít **Posouzení** k provedení [[z_Atomy/0-9/❓\|❓]] pro odhalení informací, objevil slabinu nebo zranitelnost, pochopil taktiku a plány nepřátel apod. Skvělý způsob, jak začlenit příběhové momenty do [[z_Atomy/S/Střetnutí\|Střetnutí]].
 >[!NOTE]- **Příklad** 
 >Proveďte [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]] - [[z_Atomy/0-9/📶\|📶]] **18** pro odhalení slabiny nebo mechanismu magického tvora;
 >Proveďte [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] - [[z_Atomy/0-9/📶\|📶]] **22** pro odhalení měkkého podbřišku nepřítele, což by na jedno [[z_Atomy/K/Kolo\|Kolo]] snížilo jeho [[z_Atomy/0-9/⛉⛊\|⛉⛊]] o jeden stupeň.
@@ -108,7 +108,7 @@ Hráč může použít akci k **Pohybu** do vzdálenosti své [[z_Atomy/0-9/🏃
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/p/pady-a-nuceny-pohyb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Pády a Nucený pohyb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -116,6 +116,7 @@ Hráč může použít akci k **Pohybu** do vzdálenosti své [[z_Atomy/0-9/🏃
 >[!NOTE]+ **Pády a Nucený pohyb**
 >**Nedobrovolný** pohyb efekty mimo Vaší kontrolu. Pokud je tento pohyb zastaven čímkoli v prostředí, tvor utrží **1k6** drtivého poškození za každý metr, o který byl pohyb zkrácen. Pokud **narazí** na jiného tvora, utrží poškození **oba**.
 >**Padání** způsobí **1k6** drtivého poškození za každé 2 metry pádu.
+
 
 </div></div>
 
@@ -173,7 +174,7 @@ Pokud by tvora ve vzdálenosti **2 metrů** zasáhl [[z_Atomy/0-9/⚔️\|⚔️
 
 
 ## ⚠️ = Příležitostný útok
-Zaútočte na **blízko** s **([[z_Atomy/0-9/👎\|👎]])**, když se nepřítel pohyne pryč z [[z_Atomy/0-9/👊\|Dosahu]] Vaší [[z_Atomy/Z/Zbraně\|Zbraně]]. 
+Zaútočte na **blízko** s [[z_Atomy/0-9/👎\|👎]], když se nepřítel pohyne pryč z [[z_Atomy/0-9/👊\|👊]] Vaší [[z_Atomy/Z/Zbraně\|Zbraně]]. 
 
 **Obyčejná monstra nedělají příležitostné útoky!** Mohou je použít pouze **Hrdinové** a **Legendární monstra** (např. bossové).
 
@@ -186,7 +187,7 @@ Zaútočte na **blízko** s **([[z_Atomy/0-9/👎\|👎]])**, když se nepříte
 
 
 ## 🆘 = Pomoc
-Dejte spojenci **([[z_Atomy/0-9/👍\|👍]])** pro [[z_Atomy/0-9/⚔️\|⚔️]], [[z_Atomy/0-9/❓\|❓]] nebo [[z_Atomy/0-9/❗\|❗]], pokud můžete **rozumně** vysvětlit, jak byste mohli v dané situaci pomoct. **Lze pomoci pouze jednou!** [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požadovat [[z_Atomy/0-9/❓\|❓]] nebo automaticky uznat ([[z_Atomy/0-9/👍\|👍]]), v závislosti na tom, jak dobrý máte nápad nebo důvod. Skvělý způsob, jak přinést hraní rolí a kreativitu do bojového [[z_Atomy/S/Střetnutí\|Střetnutí]]!
+Dejte spojenci [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]], [[z_Atomy/0-9/❓\|❓]] nebo [[z_Atomy/0-9/❗\|❗]], pokud můžete **rozumně** vysvětlit, jak byste mohli v dané situaci pomoct. **Lze pomoci pouze jednou!** [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požadovat [[z_Atomy/0-9/❓\|❓]] nebo automaticky uznat [[z_Atomy/0-9/👍\|👍]], v závislosti na tom, jak dobrý máte nápad nebo důvod. Skvělý způsob, jak přinést hraní rolí a kreativitu do bojového [[z_Atomy/S/Střetnutí\|Střetnutí]]!
 
 </div></div>
 
@@ -216,9 +217,9 @@ Bez ohledu na **iniciativu** si na **konci** svého tahu obnovte **všechny 3 ak
 
 
 ### Překvapení
-Občas může skupina manévrovat tak obratně, že je jejich nepřítel **úplně zaskočen**. V tomto případě může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] udělit skupině ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/🚩\|🚩]] nebo v extrémních případech nemusí házet na **Iniciativu** vůbec a začít svůj první [[z_Atomy/T/Tah\|Tah]] se všemi 3 akcemi. Pouhé skrytí nebo první úder není dostačující k získání překvapení. Pokud je nepřítel ve střehu nebo je si vědom vaší přítomnosti, nemůže být překvapen. 
+Občas může skupina manévrovat tak obratně, že je jejich nepřítel **úplně zaskočen**. V tomto případě může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] udělit skupině [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/🚩\|🚩]] nebo v extrémních případech nemusí házet na **Iniciativu** vůbec a začít svůj první [[z_Atomy/T/Tah\|Tah]] se všemi 3 akcemi. Pouhé skrytí nebo první úder není dostačující k získání překvapení. Pokud je nepřítel ve střehu nebo je si vědom vaší přítomnosti, nemůže být překvapen. 
 
-Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🚩\|🚩]] s ([[z_Atomy/0-9/👎\|👎]]) nebo v extrémních případech automaticky začínají [[z_Atomy/S/Střetnutí\|Střetnutí]] pouze s 1 akcí.
+Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🚩\|🚩]] s [[z_Atomy/0-9/👎\|👎]] nebo v extrémních případech automaticky začínají [[z_Atomy/S/Střetnutí\|Střetnutí]] pouze s 1 akcí.
 
 </div></div>
 
@@ -261,7 +262,7 @@ Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🚩\|🚩]] s ([[z_Ato
 
 
 ### Poskoci
-**Poskoci** představují **slabší** ale zato **početnější** nepřátele. Všichni **Poskoci** se pohybují současně a každý z nich používá pro svůj útok jedinou kostku poškození (**1k4** pro slabé Poskoky až **1k20** pro velmi silného Poskoka).
+**Poskoci** představují **slabší** ale zato **početnější** nepřátele. Všichni **Poskoci** se pohybují současně a každý z nich používá pro svůj útok jedinou kostku poškození (**1k4** pro slabé **Poskoky** až **1k20** pro velmi silného **Poskoka**).
 
 Všichni útočící Poskoci k hodu **nic** nepřičítají, **minou** při hodu 1 a **nemohou** způsobit [[z_Atomy/0-9/💥\|💥]]. Hrdinové mohou použít [[z_Atomy/0-9/🛡️\|🛡️]] nebo [[z_Atomy/0-9/🔰\|🔰]] proti vícenásobným útokům **Poskoků**, jako by šlo o jeden útok.
 
@@ -309,7 +310,7 @@ U schopností, které stojí více než 1 [[z_Atomy/A/AKCE\|AKCE]] (typicky kouz
 
 
 # Krytí
-Když je tvor **krytý** v zorném poli (např. za keřem nebo stolem). Když má přibližně **1/2** **krytí**, mají útoky proti němu 1 ([[z_Atomy/0-9/👎\|👎]]). Pokud je tvor **kompletně krytý**, nelze na něj normálně zaútočit.
+Když je tvor **krytý** v zorném poli (např. za keřem nebo stolem). Když má přibližně **1/2** **krytí**, mají útoky proti němu 1 [[z_Atomy/0-9/👎\|👎]]. Pokud je tvor **kompletně krytý**, nelze na něj normálně zaútočit.
 
 </div></div>
 
@@ -322,7 +323,7 @@ Když je tvor **krytý** v zorném poli (např. za keřem nebo stolem). Když m�
 # Skrývání
 Aby se tvor mohl **skrýt**, musí být mimo zorné pole (viz [[z_Atomy/K/Krytí\|Krytí]]) a použít **1 Akci** k provedení **[[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] - [[z_Atomy/0-9/📶\|📶]] 15**. Pokud je tvor **kompletně krytý**, automaticky uspěje .
 
-První [[z_Atomy/0-9/⚔️\|⚔️]] když jste **skrytí** má ([[z_Atomy/0-9/👍\|👍]]) a ukončí Vaše **skrytí**. Pokud tento [[z_Atomy/0-9/⚔️\|⚔️]] zabije nepřítele a nejste v zorném poli nebo v doslechu žádného jiného nepřítele, můžete zůstat **skrytí**. [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může chtít [[z_Atomy/0-9/❓\|❓]].
+První [[z_Atomy/0-9/⚔️\|⚔️]] když jste **skrytí** má [[z_Atomy/0-9/👍\|👍]] a ukončí Vaše **skrytí**. Pokud tento [[z_Atomy/0-9/⚔️\|⚔️]] zabije nepřítele a nejste v zorném poli nebo v doslechu žádného jiného nepřítele, můžete zůstat **skrytí**. [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může chtít [[z_Atomy/0-9/❓\|❓]].
 
 </div></div>
 
@@ -333,7 +334,7 @@ První [[z_Atomy/0-9/⚔️\|⚔️]] když jste **skrytí** má ([[z_Atomy/0-9/
 
 
 # Chycení
-Tvor může použít akci k pokusu o chycení tvora stejné nebo menší [[z_Atomy/V/Velikost\|Velikosti]]. Oba provedou libovolný [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/🎯\|🎯]]) / ([[z_Atomy/0-9/💪\|💪]]). Chycený tvor získá stav [[z_Atomy/CH/Chycen\|Chycen]] (nebo podobně omezen, podle kontextu).
+Tvor může použít akci k pokusu o chycení tvora stejné nebo menší [[z_Atomy/V/Velikost\|Velikosti]]. Oba provedou libovolný [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. Chycený tvor získá stav [[z_Atomy/CH/Chycen\|Chycen]] (nebo podobně omezen, podle kontextu).
 
 </div></div>
 
@@ -346,7 +347,7 @@ Tvor může použít akci k pokusu o chycení tvora stejné nebo menší [[z_Ato
 # Koncentrace
 Některá kouzla mají dlouhotrvající účinek a vyžadují udržení **Koncentrace**, aby jejich efekt pokračoval. Kdykoli hrdina utrží [[z_Atomy/0-9/💥\|💥]] během udržování koncentrace, musí provést [[z_Atomy/0-9/❗\|❗]].
 
-**Proveďte [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) [[z_Atomy/0-9/📶\|📶]] 10**. Pokud neuspěje, koncentrace je přerušena a kouzlo přestane působit. **Koncentrace** je automaticky přerušena, kdykoli hrdina ztratí **všechny** [[z_Atomy/0-9/❤\|❤]].
+**Proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/📶\|📶]] 10**. Pokud neuspěje, koncentrace je přerušena a kouzlo přestane působit. **Koncentrace** je automaticky přerušena, kdykoli hrdina ztratí **všechny** [[z_Atomy/0-9/❤\|❤]].
 
 </div></div>
 
@@ -365,7 +366,7 @@ Některé útoky, pasti, kouzla nebo jiné efekty mohou také způsobit stavy - 
 
 
 ## Očarován
-Vidíte toho, kdo vás očaroval, jako spojence. Očarovatel má proti vámi ([[z_Atomy/0-9/👍\|👍]]) při sociálních interakcích.
+Vidíte toho, kdo vás očaroval, jako spojence. Očarovatel má proti vámi [[z_Atomy/0-9/👍\|👍]] při sociálních interakcích.
 
 </div></div>
 
@@ -376,7 +377,7 @@ Vidíte toho, kdo vás očaroval, jako spojence. Očarovatel má proti vámi ([[
 
 
 ## Oslepen
-Nemůžete vidět. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a Vaše útoky mají ([[z_Atomy/0-9/👎\|👎]])
+Nemůžete vidět. Útoky proti vám mají [[z_Atomy/0-9/👍\|👍]] a Vaše útoky mají [[z_Atomy/0-9/👎\|👎]].
 
 </div></div>
 
@@ -387,7 +388,7 @@ Nemůžete vidět. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a Vaše 
 
 
 ## Otráven
-Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny Vaše hody
+Máte [[z_Atomy/0-9/👎\|👎]] pro všechny Vaše hody.
 
 </div></div>
 
@@ -398,7 +399,7 @@ Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny Vaše hody
 
 
 ## Provokován
-Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny Vaše útoky kromě útoků proti provokatérovi.
+Máte [[z_Atomy/0-9/👎\|👎]] pro všechny Vaše útoky kromě útoků proti provokatérovi.
 
 </div></div>
 
@@ -409,7 +410,7 @@ Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny Vaše útoky kromě útoků prot
 
 
 ## Sražen
-Vaše [[z_Atomy/0-9/🏃\|🏃]] je poloviční a Vaše útoky mají ([[z_Atomy/0-9/👎\|👎]]). Útoky na blízko proti vám mají ([[z_Atomy/0-9/👍\|👍]]), útoky na dálku mají ([[z_Atomy/0-9/👎\|👎]]). Ukončení tohoto stavu stojí 3 metry pohybu.
+Vaše [[z_Atomy/0-9/🏃\|🏃]] je poloviční a Vaše útoky mají [[z_Atomy/0-9/👎\|👎]]. Útoky na blízko proti vám mají [[z_Atomy/0-9/👍\|👍]], útoky na dálku mají [[z_Atomy/0-9/👎\|👎]]. Ukončení tohoto stavu stojí 3 metry pohybu.
 
 </div></div>
 
@@ -420,7 +421,7 @@ Vaše [[z_Atomy/0-9/🏃\|🏃]] je poloviční a Vaše útoky mají ([[z_Atomy/
 
 
 ## Vystrašen 
-Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny hody, pokud je zdroj Bašeho strachu poblíž. [[z_Atomy/0-9/🥾\|🥾]] směrem ke zdroji strachu se počítá jako [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
+Máte [[z_Atomy/0-9/👎\|👎]] pro všechny hody, pokud je zdroj Vašeho strachu poblíž. [[z_Atomy/0-9/🥾\|🥾]] směrem ke zdroji strachu se počítá jako [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 
 </div></div>
 
@@ -442,7 +443,7 @@ Každý váš tah ztratíte 1 Akci.
 
 
 ## Bezvědomí
-Nemůžete nic dělat. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/O/Omráčen\|Omráčen]] a [[z_Atomy/Z/Zneschopněn\|Zneschopněn]].
+Nemůžete nic dělat. Útoky proti vám mají [[z_Atomy/0-9/👍\|👍]] a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/O/Omráčen\|Omráčen]] a [[z_Atomy/Z/Zneschopněn\|Zneschopněn]].
 
 </div></div>
 
@@ -453,7 +454,7 @@ Nemůžete nic dělat. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a ú
 
 
 ## Chycen
-Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají ([[z_Atomy/0-9/👍\|👍]]). Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]]  ([[z_Atomy/0-9/🎯\|🎯]]) / ([[z_Atomy/0-9/💪\|💪]]). [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás drží, může tento stav ukončit.
+Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👍\|👍]]. Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás drží, může tento stav ukončit.
 
 </div></div>
 
@@ -464,7 +465,7 @@ Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají ([[z_At
 
 
 ## Omráčen
-Při získání tohoto stavu nebo pokud jste na začátku svého tahu omráčený, přeskočte celý svůj [[z_Atomy/T/Tah\|Tah]]. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/B/Bezvědomí\|Bezvědomí]] a [[z_Atomy/Z/Zneschopněn\|Zneschopněn]].
+Při získání tohoto stavu nebo pokud jste na začátku svého tahu omráčený, přeskočte celý svůj [[z_Atomy/T/Tah\|Tah]]. Útoky proti vám mají [[z_Atomy/0-9/👍\|👍]] a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/B/Bezvědomí\|Bezvědomí]] a [[z_Atomy/Z/Zneschopněn\|Zneschopněn]].
 
 </div></div>
 
@@ -475,7 +476,7 @@ Při získání tohoto stavu nebo pokud jste na začátku svého tahu omráčen�
 
 
 ## Spoután
-Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají ([[z_Atomy/0-9/👍\|👍]]). Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]]  ([[z_Atomy/0-9/🎯\|🎯]]) / ([[z_Atomy/0-9/💪\|💪]]). [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás poutá, může tento stav ukončit.
+Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👍\|👍]]. Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás poutá, může tento stav ukončit.
 
 </div></div>
 
@@ -486,7 +487,7 @@ Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají ([[z_At
 
 
 ## Zneschopněn
-Nemůžete nic dělat. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/O/Omráčen\|Omráčen]] a [[z_Atomy/B/Bezvědomí\|Bezvědomí]].
+Nemůžete nic dělat. Útoky proti vám mají [[z_Atomy/0-9/👍\|👍]] a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/O/Omráčen\|Omráčen]] a [[z_Atomy/B/Bezvědomí\|Bezvědomí]].
 
 </div></div>
 
@@ -508,7 +509,7 @@ Neschopný jednat. Máte všechny vlastnosti bytí kamenem. Imunní vůči vět�
 
 
 ## Neviditelnost 
-Nikdo Vás nevidí běžnými prostředky. Můžete být detekován hlukem, pachem nebo stopami. Vaše útoky mají ([[z_Atomy/0-9/👍\|👍]]) a útoky proti vám mají ([[z_Atomy/0-9/👎\|👎]]). Skončí pokud zaútočíte.
+Nikdo Vás nevidí běžnými prostředky. Můžete být detekován hlukem, pachem nebo stopami. Vaše útoky mají [[z_Atomy/0-9/👍\|👍]] a útoky proti vám mají [[z_Atomy/0-9/👎\|👎]]. Skončí pokud zaútočíte.
 
 </div></div>
 

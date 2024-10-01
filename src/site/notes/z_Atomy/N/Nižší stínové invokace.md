@@ -14,7 +14,7 @@
 ⠀
 - **Oddaný akolyta**. Naučte se 2 z následujících [[z_Atomy/J/Jazyky\|Jazyků]]: Sférický, Nebeský, Dračí, Prastarý, Pekelný, nebo Elementální.
 ⠀
-- **Tajuplný zrak**. Máte ([[z_Atomy/0-9/👍\|👍]]) pro detekci zamaskovaných nebo skrytých tvorů. Vidíte skutečnou podobu jakéhokoli měňavce nebo tvora skrytého magií, když jste od něj vzdálen do 6 metrů.
+- **Tajuplný zrak**. Máte [[z_Atomy/0-9/👍\|👍]] pro detekci zamaskovaných nebo skrytých tvorů. Vidíte skutečnou podobu jakéhokoli měňavce nebo tvora skrytého magií, když jste od něj vzdálen do 6 metrů.
 ⠀
 - **Pohled dvou myslí**. Dotkněte se ochotného tvora a naladíte se na jeho mysl. Vnímáte skrze tvora dokud udržíte [[z_Atomy/K/Koncentrace\|Koncentrace]].
 ⠀

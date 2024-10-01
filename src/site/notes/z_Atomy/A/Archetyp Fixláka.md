@@ -12,13 +12,13 @@
 ## Archetyp Zabiják
 ### LVL 3
 - **Tichá eliminace**. Pokud cíl zemře v důsledku Vašeho [[z_Atomy/Z/Zákeřný útok\|Zákeřného útoku]], můžete získat [[z_Atomy/N/Neviditelnost\|Neviditelnost]], dokud znovu nezaútočíte nebo do konce Vašeho příštího tahu.
-- **Lehký krok**. Máte ([[z_Atomy/0-9/👍\|👍]]) při [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]], pokud máte max [[z_Atomy/0-9/❤\|❤]].
+- **Lehký krok**. Máte [[z_Atomy/0-9/👍\|👍]] při [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]], pokud máte max [[z_Atomy/0-9/❤\|❤]].
 
 ### LVL 7
-- **Mazaný útok**. 2/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když provedete [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]], můžete přinutit cíl, aby provedl [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) ([[z_Atomy/0-9/📶\|📶]] 10+([[z_Atomy/0-9/🎭\|🎭]]). Při neúspěchu místo házení kostek schopnosti [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] způsobíte maximální možné poškození. Pokud cíl uspěje, nabití Vám zůstává.
+- **Mazaný útok**. 2/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když provedete [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]], můžete přinutit cíl, aby provedl [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]-[[z_Atomy/0-9/📶\|📶]] (10+[[z_Atomy/0-9/🎭\|🎭]]). Při neúspěchu místo házení kostek schopnosti [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] způsobíte maximální možné poškození. Pokud cíl uspěje, nabití Vám zůstává.
 
 ### LVL 11
-- **Profesionální tichošlápek**. Získejte schopnost lezení. Máte ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]].
+- **Profesionální tichošlápek**. Získejte schopnost lezení. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]].
 
 ### LVL 15
 - **VRAŽDA**. [[z_Atomy/0-9/💥\|💥]] proti tvorovi s méně maximálními [[z_Atomy/0-9/❤\|❤]] než máte vy, okamžitě zabije cíl.
@@ -33,11 +33,11 @@
 
 ## Archetyp Mizera
 ### LVL 3
-- **Podpásovka**. Když provedete [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]], můžete utratit **2** [[z_Atomy/A/AKCE\|AKCE]] aby byl váš cíl [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] do konce jeho příštího [[z_Atomy/T/Tah\|tahu]] při neúspěchu v [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) ([[z_Atomy/0-9/📶\|📶]] 10+[[z_Atomy/0-9/🗝\|🗝]]). Ať už uspěje nebo selže, je vámi [[z_Atomy/P/Provokován\|Provokován]] po zbytek bitvy.
-- **Med kolem huby**. Máte ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] proti [[z_Atomy/N/NPC\|NPC]], které jste poprvé potkali. Trvá, dokud nezaznamenáte neúspěch pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] nebo dokud se s nimi nesetkáte podruhé. S [[z_Atomy/N/NPC\|NPC]] máte ([[z_Atomy/0-9/👎\|👎]]) pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] poté, co tuto schopnost použijete.
+- **Podpásovka**. Když provedete [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]], můžete utratit **2** [[z_Atomy/A/AKCE\|AKCE]] aby byl váš cíl [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] do konce jeho příštího [[z_Atomy/T/Tah\|tahu]] při neúspěchu v [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]-[[z_Atomy/0-9/📶\|📶]] (10+[[z_Atomy/0-9/🗝\|🗝]]). Ať už uspěje nebo selže, je vámi [[z_Atomy/P/Provokován\|Provokován]] po zbytek bitvy.
+- **Med kolem huby**. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] proti [[z_Atomy/N/NPC\|NPC]], které jste poprvé potkali. Trvá, dokud nezaznamenáte neúspěch pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] nebo dokud se s nimi nesetkáte podruhé. S [[z_Atomy/N/NPC\|NPC]] máte [[z_Atomy/0-9/👎\|👎]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] poté, co tuto schopnost použijete.
 
 ### LVL 7
-- **Jedna kapsa prázdná...** 2/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Nasbíráte bordel z Vaší kapsy a hodíte ho na nepřítele! Při [[z_Atomy/0-9/🛡️\|🛡️]] proti útoku na blízko přinutíte útočníka přehodit [[z_Atomy/0-9/⚔️\|⚔️]] a získá stav [[z_Atomy/O/Oslepen\|Oslepen]]. Všechny jeho útoky mají ([[z_Atomy/0-9/👎\|👎]]) až do konce jeho příštího tahu. (Pak musíte si nasbírat další bordel do kapes!).
+- **Jedna kapsa prázdná...** 2/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Nasbíráte bordel z Vaší kapsy a hodíte ho na nepřítele! Při [[z_Atomy/0-9/🛡️\|🛡️]] proti útoku na blízko přinutíte útočníka přehodit [[z_Atomy/0-9/⚔️\|⚔️]] a získá stav [[z_Atomy/O/Oslepen\|Oslepen]]. Všechny jeho útoky mají [[z_Atomy/0-9/👎\|👎]] až do konce jeho příštího tahu. (Pak musíte si nasbírat další bordel do kapes!).
 
 ### LVL 11
 - **Únikový plán**. 1/[[z_Atomy/0-9/🔋\|🔋]]. Když byste klesli na 0 [[z_Atomy/0-9/❤\|❤]] nebo utržili [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], tak neutržíte a místo toho dostanete [[z_Atomy/N/Neviditelnost\|Neviditelnost]] na 1 minutu.

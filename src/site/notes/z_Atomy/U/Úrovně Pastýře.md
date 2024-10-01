@@ -13,12 +13,12 @@
 
 ## Svatá záře
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-Max Nabití = ([[z_Atomy/0-9/🦉\|🦉]])/[[z_Atomy/0-9/🔋\|🔋]]
+Max Nabití = [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/0-9/👊\|👊]] 6 metrů
 
 Vyberte jednu možnost:
-- Obnovte (([[z_Atomy/0-9/🦉\|🦉]])k8) [[z_Atomy/0-9/❤\|❤]] [[z_Atomy/0-9/🩸\|Umírajícímu]] tvorovi v dosahu.
-- Udělte (([[z_Atomy/0-9/🦉\|🦉]])k8) nekrotického poškození [[z_Atomy/Z/Zkrvaven\|Zkrvavenému]] nepříteli v dosahu.
+- Obnovte ([[z_Atomy/0-9/🦉\|🦉]]k8) [[z_Atomy/0-9/❤\|❤]] [[z_Atomy/0-9/🩸\|Umírajícímu]] tvorovi v dosahu.
+- Udělte ([[z_Atomy/0-9/🦉\|🦉]]k8) nekrotického poškození [[z_Atomy/Z/Zkrvaven\|Zkrvavenému]] nepříteli v dosahu.
 
 </div></div>
 
@@ -34,7 +34,7 @@ Vyberte jednu možnost:
 **STUPEŇ 1**  
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 
-Přivolejte duchovního společníka, který Vás věrně následuje. Má [[z_Atomy/I/Imunita\|imunitu]] vůči všemu poškození a škodlivým efektům. 
+Přivolejte duchovního společníka, který Vás věrně následuje. Má [[z_Atomy/I/Imunita\|Imunitu]] vůči všemu poškození a škodlivým efektům. 
 Trvá, dokud: toto kouzlo nevyvoláte znovu, [[z_Atomy/0-9/🔋\|🔋]], nebo dokud nevyléčí tolikrát, kolik bylo utraceno many při jeho přivolání.
 
 **Posílení**: Větší kostka (1k6 » 1k8 » 1k10 » 1k12)(k12 je max) za každou další utracenou manu.
@@ -53,9 +53,9 @@ Trvá, dokud: toto kouzlo nevyvoláte znovu, [[z_Atomy/0-9/🔋\|🔋]], nebo do
 X = Cena seslání
 [[z_Atomy/0-9/👊\|👊]] 4m
 
-1 [[z_Atomy/A/AKCE\|AKCE]] + 1 Nabití: Cíl v dosahu obnoví **1k6+([[z_Atomy/0-9/🦉\|🦉]])** [[z_Atomy/0-9/❤\|❤]]
+1 [[z_Atomy/A/AKCE\|AKCE]] + 1 Nabití: Cíl v dosahu obnoví **(1k6+[[z_Atomy/0-9/🦉\|🦉]])** [[z_Atomy/0-9/❤\|❤]]
 
-1 [[z_Atomy/A/AKCE\|AKCE]]: Cíl v dosahu utrží **1k6+([[z_Atomy/0-9/🦉\|🦉]])** zářivého poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
+1 [[z_Atomy/A/AKCE\|AKCE]]: Cíl v dosahu utrží **(1k6+[[z_Atomy/0-9/🦉\|🦉]])** zářivého poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
 
 </div></div>
 
@@ -67,11 +67,11 @@ X = Cena seslání
 - **Mistr soumraku**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z domén Záře a Nekro
 ## LVL 4
 - **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a vylepšovat kouzla na 2. stupeň.
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/💪\|💪]]).
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 5
 - **Požehnání (1)**. Vyberte si **dvě** [[z_Atomy/P/Požehnání\|Požehnání]]. Po strávení dne péčí o posvátné místo nebo službou druhým za [[z_Atomy/0-9/🔋\|🔋]] můžete vyměnit jedno Požehnání které znáte za jiné.
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🎭\|🎭]]) / ([[z_Atomy/0-9/🎯\|🎯]]).
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a vylepšovat kouzla na 3. stupeň.
 - **Mistr soumraku (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z domén Záře a Nekro
@@ -79,10 +79,10 @@ X = Cena seslání
 - **Vyznání Pastýře**. Získáte schopnost **podtřídy** [[z_Atomy/V/Vyznání Pastýře\|Vyznání Pastýře]].
 ## LVL 8
 - **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a vylepšovat kouzla na 4. stupeň.
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/💪\|💪]]).
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 9
 - **Požehnání (2)**. Vyberte si **další** [[z_Atomy/P/Požehnání\|Požehnání]].
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🎭\|🎭]]) / ([[z_Atomy/0-9/🎯\|🎯]]).
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 10
 - **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a vylepšovat kouzla na 5. stupeň.
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.
@@ -91,10 +91,10 @@ X = Cena seslání
 - **Mistr soumraku (3)**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z domén Záře a Nekro
 ## LVL 12
 - **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a vylepšovat kouzla na 6. stupeň.
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/💪\|💪]]).
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 13
 - **Požehnání (3)**. Vyberte si **další** [[z_Atomy/P/Požehnání\|Požehnání]].
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🎭\|🎭]]) / ([[z_Atomy/0-9/🎯\|🎯]]).
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
 - **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a vylepšovat kouzla na 7. stupeň.
 ## LVL 15
@@ -102,16 +102,16 @@ X = Cena seslání
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.
 ## LVL 16
 - **Kouzla 8. stupně**. Nyní můžete sesílat kouzla **8. stupně** a vylepšovat kouzla na 8. stupeň.
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/💪\|💪]]).
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 17
 - **Oživující požehnání**. 1/[[z_Atomy/K/Kolo\|Kolo]]. Kdykoli hodíte 6+ na jakékoli léčivé kostce, cíl si může vyléčit jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🎭\|🎭]]) / ([[z_Atomy/0-9/🎯\|🎯]]).
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 18
 - **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a vylepšovat kouzla na 9. stupeň.
 ## LVL 19
 - **Epický Dar**. Vyberte si jeden [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
 - **Epický Hrdina**. 
-	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
+	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**.
 	- Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] hází dvojnásobný počet kostek.
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.

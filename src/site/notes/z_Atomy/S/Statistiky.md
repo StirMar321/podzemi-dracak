@@ -12,7 +12,7 @@ Hrdinové mají 5 hlavních statistik. Dvě z nich jsou **Klíčové statistiky*
 
 
 ## SÍLA (💪) 
-Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžší zbroje, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při [[z_Atomy/0-9/🩸\|🩸]], schopnost udržet [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], počet obnovených [[z_Atomy/K/k-Ž\|k-Ž]] během [[z_Atomy/0-9/🔋\|🔋]], [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]).
+Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžší zbroje, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při [[z_Atomy/0-9/🩸\|🩸]], schopnost udržet [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], počet obnovených [[z_Atomy/K/k-Ž\|k-Ž]] během [[z_Atomy/0-9/🔋\|🔋]], [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/💪\|💪]].
 
 </div></div>
 
@@ -23,7 +23,7 @@ Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžš
 
 
 ## OBRATNOST (🎯)
- Ovlivňuje poškození některých zbraní a schopností, [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] a [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/🎯\|🎯]]).
+ Ovlivňuje poškození některých zbraní a schopností, [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🎯\|🎯]].
 
 </div></div>
 
@@ -34,7 +34,7 @@ Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžš
 
 
 ## INTELIGENCE (🎓)
-Spolu s ([[z_Atomy/0-9/🦉\|🦉]]) a ([[z_Atomy/0-9/🎭\|🎭]]) se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Určuje známé [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/N/Naladění\|Naladění]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] a [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
+Spolu s [[z_Atomy/0-9/🦉\|🦉]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Určuje známé [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/N/Naladění\|Naladění]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] a [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
@@ -45,7 +45,7 @@ Spolu s ([[z_Atomy/0-9/🦉\|🦉]]) a ([[z_Atomy/0-9/🎭\|🎭]]) se souhrně 
 
 
 ## MOUDROST (🦉)
-Spolu s ([[z_Atomy/0-9/🎓\|🎓]]) a ([[z_Atomy/0-9/🎭\|🎭]]) se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje vaší [[z_Atomy/0-9/🚩\|🚩]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
+Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje vaší [[z_Atomy/0-9/🚩\|🚩]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
@@ -56,7 +56,7 @@ Spolu s ([[z_Atomy/0-9/🎓\|🎓]]) a ([[z_Atomy/0-9/🎭\|🎭]]) se souhrně 
 
 
 ## CHARISMA (🎭)
-Spolu s ([[z_Atomy/0-9/🎓\|🎓]]) a ([[z_Atomy/0-9/🦉\|🦉]]) se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje sociální setkání, [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] a [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
+Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🦉\|🦉]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje sociální setkání, [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] a [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 

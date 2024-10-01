@@ -10,7 +10,7 @@
 ⠀
 - **Píseň davů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **2 [[z_Atomy/A/AKCE\|AKCE]]**. Zahrajete okouzlující melodii. Všichni nepřátelé do 6 metrů, kteří ji slyší, musí provést [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]]. Při neúspěchu je můžete přesunout až o 6 metrů libovolným směrem a nemohou se pohnout ve svém dalším tahu.
 ⠀
-- **Hrdinská balada**. +1 maximální nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] písní navíc přidává spojenci +([[z_Atomy/0-9/🎭\|🎭]]) k poškození jeho útoku.
+- **Hrdinská balada**. +1 maximální nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] písní navíc přidává spojenci +[[z_Atomy/0-9/🎭\|🎭]] k poškození jeho útoku.
 ⠀
 - **Inspirativní Hymna**. 1/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**. Dáte všem [[z_Atomy/0-9/🩸\|Umírajícím]] spojencům: 1 [[z_Atomy/0-9/❤\|❤]] a 1 Akci.
 ⠀

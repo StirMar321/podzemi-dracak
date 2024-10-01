@@ -22,7 +22,7 @@ Fixláky můžete nalézt v každém městě a na každé cestě pod nespočtem 
 
 | [[z_Atomy/0-9/🗝\|🗝]]: [[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/🎭\|🎭]]                                    | [[z_Atomy/K/k-Ž\|k-Ž]]: **1k6**                                  | [[z_Atomy/0-9/❤\|❤]] na 1. úrovni: **10**              |
 | ----------------------------------------------------------- | ------------------------------------------------- | --------------------------------------- |
-| [[z_Atomy/H/Hrdinské (❗)-(👍) & (👎)\|Hrdinské (❗)-(👍) & (👎)]]: <br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/K/Kožená zbroj\|Kožená zbroj]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/🎯\|🎯]] |
+| [[z_Atomy/H/Hrdinské❗👍&👎\|Hrdinské❗👍&👎]]: <br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/K/Kožená zbroj\|Kožená zbroj]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/🎯\|🎯]] |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-fixlaka/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -49,8 +49,8 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Podvodník**. Jste všestranný podvodník. Získáte následující schopnosti:
 	- 1/[[z_Atomy/K/Kolo\|Kolo]] můžete použít zdarma [[z_Atomy/0-9/🥾\|🥾]] nebo se pokusit o [[z_Atomy/S/Skrývání\|Skrývání]].
 	- Pokud hodíte méně než 10 když se hází [[z_Atomy/0-9/🚩\|🚩]], můžete hod změnit na 10.
-	- 1/den můžete změnit svůj hod pro libovolnou [[z_Atomy/0-9/❓\|❓]] na **10+([[z_Atomy/0-9/🎭\|🎭]])**. 
-	- Můžete mít ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/❓\|❓]] při hraní jakýchkoli her, soutěží nebo sázení. Pokud Vás ale chytí...
+	- 1/den můžete změnit svůj hod pro libovolnou [[z_Atomy/0-9/❓\|❓]] na (10+[[z_Atomy/0-9/🎭\|🎭]]). 
+	- Můžete mít [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] při hraní jakýchkoli her, soutěží nebo sázení. Pokud Vás ale chytí...
 >[!Note]- **Magie?** 
 >Fixlák má schopnosti, které vypadají jako magické – možná jsou, ale nemusí být. Prostě máš své způsoby, jasné? Není třeba vysvětlovat, jak jsi to udělal, ani [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] to nemusí vědět!
 ## LVL 3
@@ -59,11 +59,11 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Zlodějská hantýrka**. Naučíte se tajný [[z_Atomy/J/Jazyky\|Jazyk]] tuláků a padouchů.
 ## LVL 4
 - **Zlodějské talenty**. Vyberte si **jeden** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]]. Pamatujte, že kdykoli strávíte noc rozhovory s protřelými týpky, můžete vyměnit jeden Talent za jiný.
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🎯\|🎯]]) / ([[z_Atomy/0-9/🎭\|🎭]]).
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 5
-- **Rychlé posouzení**. Máte ([[z_Atomy/0-9/👍\|👍]]) pro první [[z_Atomy/0-9/🔍\|🔍]] při [[z_Atomy/S/Střetnutí\|Střetnutí]]. Máte ([[z_Atomy/0-9/👍\|👍]]) pro první [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] proti [[z_Atomy/N/NPC\|NPC]], které jste právě potkali.
+- **Rychlé posouzení**. Máte [[z_Atomy/0-9/👍\|👍]] pro první [[z_Atomy/0-9/🔍\|🔍]] při [[z_Atomy/S/Střetnutí\|Střetnutí]]. Máte [[z_Atomy/0-9/👍\|👍]] pro první [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] proti [[z_Atomy/N/NPC\|NPC]], které jste právě potkali.
 - **Zákeřný útok (3)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **3k6**.
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/💪\|💪]]).
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 6
 - **Zlodějské talenty (2)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
 ## LVL 7
@@ -71,10 +71,10 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Zákeřný útok (4)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **4k6**.
 ## LVL 8
 - **Zlodějské talenty (3)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🎯\|🎯]]) nebo CHAR.
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 9
 - **Zákeřný útok (5)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **5k6**.
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/💪\|💪]]).
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 10
 - **Zlodějské talenty (4)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
 ## LVL 11
@@ -82,10 +82,10 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Zákeřný útok (6)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **6k6**.
 ## LVL 12
 - **Zlodějské talenty (5)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🎯\|🎯]]) / ([[z_Atomy/0-9/🎭\|🎭]]).
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 13
 - **Zákeřný útok (7)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **7k6**.
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/💪\|💪]]).
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 14
 - **Zlodějské talenty (6)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
 ## LVL 15
@@ -93,10 +93,10 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Zákeřný útok (8)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **8k6**.
 ## LVL 16
 - **Zlodějské talenty (7)**. Vyberte si další [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
-- **Zvýšení klíčového atributu**. +1 ([[z_Atomy/0-9/🎯\|🎯]]) / ([[z_Atomy/0-9/🎭\|🎭]]).
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 17
 - **Zákeřný útok (9)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **9k6**.
-- **Zvýšení sekundárního atributu**. +1 ([[z_Atomy/0-9/🎓\|🎓]]) / ([[z_Atomy/0-9/🦉\|🦉]]) / ([[z_Atomy/0-9/💪\|💪]]).
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 18
 - **Zlodějské talenty (8)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
 ## LVL 19
@@ -104,7 +104,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Epický Dar**. Vyberte si jeden Epický dar.
 ## LVL 20
 - **Nejlepší exekuce**. 
-	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o +1. 
+	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**. 
 	- Když zaútočíte čepelí a útok nemine, počítá se jako [[z_Atomy/0-9/💥\|💥]].
 
 </div></div>
@@ -157,13 +157,13 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 ## Archetyp Zabiják
 ### LVL 3
 - **Tichá eliminace**. Pokud cíl zemře v důsledku Vašeho [[z_Atomy/Z/Zákeřný útok\|Zákeřného útoku]], můžete získat [[z_Atomy/N/Neviditelnost\|Neviditelnost]], dokud znovu nezaútočíte nebo do konce Vašeho příštího tahu.
-- **Lehký krok**. Máte ([[z_Atomy/0-9/👍\|👍]]) při [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]], pokud máte max [[z_Atomy/0-9/❤\|❤]].
+- **Lehký krok**. Máte [[z_Atomy/0-9/👍\|👍]] při [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]], pokud máte max [[z_Atomy/0-9/❤\|❤]].
 
 ### LVL 7
-- **Mazaný útok**. 2/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když provedete [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]], můžete přinutit cíl, aby provedl [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) ([[z_Atomy/0-9/📶\|📶]] 10+([[z_Atomy/0-9/🎭\|🎭]]). Při neúspěchu místo házení kostek schopnosti [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] způsobíte maximální možné poškození. Pokud cíl uspěje, nabití Vám zůstává.
+- **Mazaný útok**. 2/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když provedete [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]], můžete přinutit cíl, aby provedl [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]-[[z_Atomy/0-9/📶\|📶]] (10+[[z_Atomy/0-9/🎭\|🎭]]). Při neúspěchu místo házení kostek schopnosti [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] způsobíte maximální možné poškození. Pokud cíl uspěje, nabití Vám zůstává.
 
 ### LVL 11
-- **Profesionální tichošlápek**. Získejte schopnost lezení. Máte ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]].
+- **Profesionální tichošlápek**. Získejte schopnost lezení. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]].
 
 ### LVL 15
 - **VRAŽDA**. [[z_Atomy/0-9/💥\|💥]] proti tvorovi s méně maximálními [[z_Atomy/0-9/❤\|❤]] než máte vy, okamžitě zabije cíl.
@@ -178,11 +178,11 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 
 ## Archetyp Mizera
 ### LVL 3
-- **Podpásovka**. Když provedete [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]], můžete utratit **2** [[z_Atomy/A/AKCE\|AKCE]] aby byl váš cíl [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] do konce jeho příštího [[z_Atomy/T/Tah\|tahu]] při neúspěchu v [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) ([[z_Atomy/0-9/📶\|📶]] 10+[[z_Atomy/0-9/🗝\|🗝]]). Ať už uspěje nebo selže, je vámi [[z_Atomy/P/Provokován\|Provokován]] po zbytek bitvy.
-- **Med kolem huby**. Máte ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] proti [[z_Atomy/N/NPC\|NPC]], které jste poprvé potkali. Trvá, dokud nezaznamenáte neúspěch pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] nebo dokud se s nimi nesetkáte podruhé. S [[z_Atomy/N/NPC\|NPC]] máte ([[z_Atomy/0-9/👎\|👎]]) pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] poté, co tuto schopnost použijete.
+- **Podpásovka**. Když provedete [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]], můžete utratit **2** [[z_Atomy/A/AKCE\|AKCE]] aby byl váš cíl [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] do konce jeho příštího [[z_Atomy/T/Tah\|tahu]] při neúspěchu v [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]-[[z_Atomy/0-9/📶\|📶]] (10+[[z_Atomy/0-9/🗝\|🗝]]). Ať už uspěje nebo selže, je vámi [[z_Atomy/P/Provokován\|Provokován]] po zbytek bitvy.
+- **Med kolem huby**. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] proti [[z_Atomy/N/NPC\|NPC]], které jste poprvé potkali. Trvá, dokud nezaznamenáte neúspěch pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] nebo dokud se s nimi nesetkáte podruhé. S [[z_Atomy/N/NPC\|NPC]] máte [[z_Atomy/0-9/👎\|👎]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] poté, co tuto schopnost použijete.
 
 ### LVL 7
-- **Jedna kapsa prázdná...** 2/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Nasbíráte bordel z Vaší kapsy a hodíte ho na nepřítele! Při [[z_Atomy/0-9/🛡️\|🛡️]] proti útoku na blízko přinutíte útočníka přehodit [[z_Atomy/0-9/⚔️\|⚔️]] a získá stav [[z_Atomy/O/Oslepen\|Oslepen]]. Všechny jeho útoky mají ([[z_Atomy/0-9/👎\|👎]]) až do konce jeho příštího tahu. (Pak musíte si nasbírat další bordel do kapes!).
+- **Jedna kapsa prázdná...** 2/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Nasbíráte bordel z Vaší kapsy a hodíte ho na nepřítele! Při [[z_Atomy/0-9/🛡️\|🛡️]] proti útoku na blízko přinutíte útočníka přehodit [[z_Atomy/0-9/⚔️\|⚔️]] a získá stav [[z_Atomy/O/Oslepen\|Oslepen]]. Všechny jeho útoky mají [[z_Atomy/0-9/👎\|👎]] až do konce jeho příštího tahu. (Pak musíte si nasbírat další bordel do kapes!).
 
 ### LVL 11
 - **Únikový plán**. 1/[[z_Atomy/0-9/🔋\|🔋]]. Když byste klesli na 0 [[z_Atomy/0-9/❤\|❤]] nebo utržili [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], tak neutržíte a místo toho dostanete [[z_Atomy/N/Neviditelnost\|Neviditelnost]] na 1 minutu.

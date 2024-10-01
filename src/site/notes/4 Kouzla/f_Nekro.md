@@ -14,9 +14,9 @@
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/👊\|👊]] 12m
-[[z_Atomy/0-9/📶 ❗ Hrdinských efektů\|📶 ❗ Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Pokud cíl v dosahu neuspěje na [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]] utrží **1k6** nekrotického poškození a přesune se 2 metry blíže k vám. Opakujte [[z_Atomy/0-9/❗\|❗]], dokud cíl uspěje nebo se nemůže pohnout blíž.
+Pokud cíl v dosahu neuspěje na [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]] utrží **1k6** nekrotického poškození a přesune se 2 metry blíže k vám. Opakujte [[z_Atomy/0-9/❗\|❗]], dokud cíl uspěje nebo se nemůže pohnout blíž.
 
 **Vyšší úrovně**: Velikost kostky se zvětší (k6»k8»k10»k12»k20) každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
@@ -71,7 +71,7 @@ První tvor, který vstoupí do dosahu utrží **3k12** nekrotického poškozen�
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 Dosah 1m
 
-Obklopíte se děsivým stínem. Útoky na blízko proti vám mají ([[z_Atomy/0-9/👎\|👎]]) a když na Vás zaútočí na blízko, útočník utrží **1k12** nekrotického poškození.
+Obklopíte se děsivým stínem. Útoky na blízko proti vám mají [[z_Atomy/0-9/👎\|👎]] a když na Vás zaútočí na blízko, útočník utrží **1k12** nekrotického poškození.
 
 **Posílení:** +**1k12** poškození za každou dodatečně utracenou manu.
 
@@ -87,10 +87,10 @@ Obklopíte se děsivým stínem. Útoky na blízko proti vám mají ([[z_Atomy/0
 **STUPEŇ 3**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/👊\|👊]] 1m
-[[z_Atomy/0-9/📶 ❗ Hrdinských efektů\|📶 ❗ Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Udělte **4k12** poškození všem tvorům v dosahu a obnovte své [[z_Atomy/0-9/❤\|❤]] rovnající se poškození. 
-Tvorové provedou [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]). Za každého tvora který uspěje získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
+Tvorové provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Za každého tvora který uspěje získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
 **Posílení:** +1 [[z_Atomy/0-9/📶\|📶]] za každou dodatečně utracenou manu
 
@@ -123,10 +123,10 @@ Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|stínových sl
 **STUPEŇ 5**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/👊\|👊]] 4m
-[[z_Atomy/0-9/📶 ❗ Hrdinských efektů\|📶 ❗ Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Zraněný tvor v dosahu, který neuspěje [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) utrpí **6k12** nekrotického poškození.
-Cíl má ([[z_Atomy/0-9/👎\|👎]]), pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvaven]].
+Zraněný tvor v dosahu, který neuspěje [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] utrpí **6k12** nekrotického poškození.
+Cíl má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvaven]].
 
 **Posílení:** **+1k12** poškození za každou dodatečně utracenou manu
 
@@ -144,10 +144,10 @@ Cíl má ([[z_Atomy/0-9/👎\|👎]]), pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvaven]]
 [[z_Atomy/0-9/👊\|👊]] 1m
 [[z_Atomy/0-9/📶\|📶]] [[z_Atomy/0-9/❗\|❗]] 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Cíl v dosahu **zemře** při neúspěchu [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]]. 
+Cíl v dosahu **zemře** při neúspěchu [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
 Úspěch = **Sesílatel** ztratí všechny [[z_Atomy/0-9/❤\|❤]] a začne [[z_Atomy/0-9/🩸\|Umírat]].
 
-Cíl má pro [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/👎\|👎]]), pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvaven]] nebo ([[z_Atomy/0-9/👍\|👍]]), pokud má všechny [[z_Atomy/0-9/❤\|❤]].
+Cíl má pro [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvaven]] nebo [[z_Atomy/0-9/👍\|👍]], pokud má všechny [[z_Atomy/0-9/❤\|❤]].
 
 **Posílení:** +1 k [[z_Atomy/0-9/📶\|📶]] za každou dodatečně utracenou manu.
 
@@ -181,7 +181,7 @@ Udělte **8k12** nekrotického poškození tvorovi v dosahu. Pokud cíl zemře, 
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/👊\|👊]] 12m
 
-Cíl v dosahu utrží **1k12**+([[z_Atomy/0-9/🎭\|🎭]]) nekrotického poškození.
+Cíl v dosahu utrží **(1k12+[[z_Atomy/0-9/🎭\|🎭]])** nekrotického poškození.
 
 **Vyšší úrovně**: +**1d12** poškození každých 5 [[z_Atomy/L/LVL\|LVL]]. (5/10/15/20)
 
@@ -200,7 +200,7 @@ Cíl v dosahu utrží **1k12**+([[z_Atomy/0-9/🎭\|🎭]]) nekrotického poško
 [[z_Atomy/P/Poskoci\|Poskoci]]
 
 Přivolejte **k12 stínového sluhu** v dosahu.
-Můžete mít maximálně tolik přisluhovačů, kolik je Vaše nižší hodnota ([[z_Atomy/0-9/🎓\|🎓]]) nebo [[z_Atomy/L/LVL\|LVL]].
+Můžete mít maximálně tolik přisluhovačů, kolik je Vaše nižší hodnota [[z_Atomy/0-9/🎓\|🎓]] nebo [[z_Atomy/L/LVL\|LVL]].
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/s/stinovy-sluha/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

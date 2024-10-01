@@ -16,7 +16,7 @@ Vždy když splníte krok, můžete ho **zavřít**.
 >Zaznamenejte své **[[z_Atomy/K/k-Ž\|k-Ž]]** a své **[[z_Atomy/0-9/❤\|❤]]** podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 >[!NOTE]+ **Hrdinské (+) a (-)**
->Zaznamenejte si své [[z_Atomy/H/Hrdinské (❗)-(👍) & (👎)\|Hrdinské (❗)-(👍) & (👎)]] podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
+>Zaznamenejte si své [[z_Atomy/H/Hrdinské❗👍&👎\|Hrdinské❗👍&👎]] podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 >[!NOTE]+ **Velikost**
 >Zaznamenejte si [[z_Atomy/V/Velikost\|Velikost]] a [[z_Atomy/0-9/🏃\|🏃]] Vašeho Hrdiny.
@@ -55,5 +55,5 @@ Vždy když splníte krok, můžete ho **zavřít**.
 >Zaznamenejte si své [[z_Atomy/Z/Zbraně\|Zbraně]], [[2 Důležité/Kouzla\|Kouzla]] a útoky.
 
 >[!NOTE]+ **10+[[z_Atomy/0-9/🗝\|🗝]]**
->Zaznamenejte si [[z_Atomy/0-9/📶 ❗ Hrdinských efektů\|📶 ❗ Hrdinských efektů]].
+>Zaznamenejte si [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]].
 

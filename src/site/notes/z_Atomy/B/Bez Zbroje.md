@@ -6,4 +6,4 @@
 
 | **Bez Zbroje**                | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena** |
 | ----------------------------- | -------------- | -------- |
-| (Bez zbroje) = Běžné Oblečení | ([[z_Atomy/0-9/🎯\|🎯]])        | 0[[z_Atomy/0-9/🟡\|🟡]]      |
+| (Bez zbroje) = Běžné Oblečení | [[z_Atomy/0-9/🎯\|🎯]]         | 0[[z_Atomy/0-9/🟡\|🟡]]  |

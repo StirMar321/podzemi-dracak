@@ -18,7 +18,7 @@
 - **Důmyslná disciplína**. Můžete přežít o +4 maximální počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
 ### LVL 11
-- **Bolest zostřuje mysl**. 1/[[z_Atomy/T/Tah\|Tah]]. Když jste [[z_Atomy/Z/Zkrvaven\|Zkrvaven]], Vaše [[z_Atomy/0-9/❗\|❗]] mají ([[z_Atomy/0-9/👍\|👍]]) a každý první [[z_Atomy/0-9/⚔️\|⚔️]] ve Vašem tahu má ([[z_Atomy/0-9/👍\|👍]]).
+- **Bolest zostřuje mysl**. 1/[[z_Atomy/T/Tah\|Tah]]. Když jste [[z_Atomy/Z/Zkrvaven\|Zkrvaven]], Vaše [[z_Atomy/0-9/❗\|❗]] mají [[z_Atomy/0-9/👍\|👍]] a každý první [[z_Atomy/0-9/⚔️\|⚔️]] ve Vašem tahu má [[z_Atomy/0-9/👍\|👍]].
 
 ### LVL 15
 - **Ještě jsem neskončil**. Když [[z_Atomy/0-9/🩸\|Umíráte]], můžete použít schopnost **Infuze života** na sebe zdarma. Když vám dojde poslední [[z_Atomy/K/k-Ž\|k-Ž]], můžete utržit +1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a obnovit si +1 [[z_Atomy/K/k-Ž\|k-Ž]].
@@ -36,13 +36,13 @@
 - **Duševní exploze**. Kdykoli utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] nebo [[z_Atomy/0-9/💥\|💥]] způsobíte [[z_Atomy/L/LVL\|LVL]] ohnivé poškození všem přilehlým nepřátelům a dostanou stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]]. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
 
 ### LVL 7
-- **Plamenná rychlost**. [[z_Atomy/0-9/🏃\|🏃]] +2 metry pro **Krok větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]). Tvorové utrží ([[z_Atomy/0-9/🦉\|🦉]]) ohnivého poškození.
+- **Plamenná rychlost**. [[z_Atomy/0-9/🏃\|🏃]] +2 metry pro **Krok větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]). Tvorové utrží [[z_Atomy/0-9/🦉\|🦉]] ohnivého poškození.
 
 ### LVL 11
-- **Řetězová reakce**. Kdykoli udělíte [[z_Atomy/0-9/💥\|💥]], můžete způsobit (([[z_Atomy/0-9/🦉\|🦉]])+X[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]) ohnivého poškození libovolným cílům přilehlých k cíli. Pak můžete způsobit stejné ohnivé poškození dalším přilehlým tvorům. Opakujte kolikrát chcete. (X = počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]).
+- **Řetězová reakce**. Kdykoli udělíte [[z_Atomy/0-9/💥\|💥]], můžete způsobit ([[z_Atomy/0-9/🦉\|🦉]]+X[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]) ohnivého poškození libovolným cílům přilehlých k cíli. Pak můžete způsobit stejné ohnivé poškození dalším přilehlým tvorům. Opakujte kolikrát chcete. (X = počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]).
 
 ### LVL 15
-- **Planoucí duše**. **Zdvojnásobte** jakékoli Vaše ohnivé poškození.
+- **Planoucí duše**. *Zdvojnásobte* jakékoli Vaše ohnivé poškození.
 
 </div></div>
 

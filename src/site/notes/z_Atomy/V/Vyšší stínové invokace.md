@@ -14,7 +14,7 @@
 ⠀
 - **Brnění stínů**. Snížíte veškeré poškození, které dostáváte o počet vašich [[z_Atomy/S/Stínový sluha\|Stínových přisluhovačů]] na bojišti.
 ⠀
-- **Stínové kopí**. Dosah Vašeho Triku [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] je 18 metrů, ignoruje [[z_Atomy/K/Krytí\|Krytí]] a můžete útočit na cíl, který je [[z_Atomy/S/Sražen\|Sražen]] s ([[z_Atomy/0-9/👍\|👍]]) místo ([[z_Atomy/0-9/👎\|👎]]).
+- **Stínové kopí**. Dosah Vašeho Triku [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] je 18 metrů, ignoruje [[z_Atomy/K/Krytí\|Krytí]] a můžete útočit na cíl, který je [[z_Atomy/S/Sražen\|Sražen]] s [[z_Atomy/0-9/👍\|👍]] místo [[z_Atomy/0-9/👎\|👎]].
 ⠀
 - **Splynutí se stíny**. **Akce**: Když jste v oblasti se šerem nebo tmou, můžete použít tuto akci k tomu, abyste získali [[z_Atomy/N/Neviditelnost\|Neviditelnost]], dokud se nepohnete nebo neprovedete [[z_Atomy/0-9/⚔️\|⚔️]].
 ⠀

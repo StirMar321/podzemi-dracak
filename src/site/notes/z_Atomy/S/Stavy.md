@@ -11,7 +11,7 @@ Některé útoky, pasti, kouzla nebo jiné efekty mohou také způsobit stavy - 
 
 
 ## Očarován
-Vidíte toho, kdo vás očaroval, jako spojence. Očarovatel má proti vámi ([[z_Atomy/0-9/👍\|👍]]) při sociálních interakcích.
+Vidíte toho, kdo vás očaroval, jako spojence. Očarovatel má proti vámi [[z_Atomy/0-9/👍\|👍]] při sociálních interakcích.
 
 </div></div>
 
@@ -22,7 +22,7 @@ Vidíte toho, kdo vás očaroval, jako spojence. Očarovatel má proti vámi ([[
 
 
 ## Oslepen
-Nemůžete vidět. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a Vaše útoky mají ([[z_Atomy/0-9/👎\|👎]])
+Nemůžete vidět. Útoky proti vám mají [[z_Atomy/0-9/👍\|👍]] a Vaše útoky mají [[z_Atomy/0-9/👎\|👎]].
 
 </div></div>
 
@@ -33,7 +33,7 @@ Nemůžete vidět. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a Vaše 
 
 
 ## Otráven
-Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny Vaše hody
+Máte [[z_Atomy/0-9/👎\|👎]] pro všechny Vaše hody.
 
 </div></div>
 
@@ -44,7 +44,7 @@ Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny Vaše hody
 
 
 ## Provokován
-Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny Vaše útoky kromě útoků proti provokatérovi.
+Máte [[z_Atomy/0-9/👎\|👎]] pro všechny Vaše útoky kromě útoků proti provokatérovi.
 
 </div></div>
 
@@ -55,7 +55,7 @@ Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny Vaše útoky kromě útoků prot
 
 
 ## Sražen
-Vaše [[z_Atomy/0-9/🏃\|🏃]] je poloviční a Vaše útoky mají ([[z_Atomy/0-9/👎\|👎]]). Útoky na blízko proti vám mají ([[z_Atomy/0-9/👍\|👍]]), útoky na dálku mají ([[z_Atomy/0-9/👎\|👎]]). Ukončení tohoto stavu stojí 3 metry pohybu.
+Vaše [[z_Atomy/0-9/🏃\|🏃]] je poloviční a Vaše útoky mají [[z_Atomy/0-9/👎\|👎]]. Útoky na blízko proti vám mají [[z_Atomy/0-9/👍\|👍]], útoky na dálku mají [[z_Atomy/0-9/👎\|👎]]. Ukončení tohoto stavu stojí 3 metry pohybu.
 
 </div></div>
 
@@ -66,7 +66,7 @@ Vaše [[z_Atomy/0-9/🏃\|🏃]] je poloviční a Vaše útoky mají ([[z_Atomy/
 
 
 ## Vystrašen 
-Máte ([[z_Atomy/0-9/👎\|👎]]) pro všechny hody, pokud je zdroj Bašeho strachu poblíž. [[z_Atomy/0-9/🥾\|🥾]] směrem ke zdroji strachu se počítá jako [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
+Máte [[z_Atomy/0-9/👎\|👎]] pro všechny hody, pokud je zdroj Vašeho strachu poblíž. [[z_Atomy/0-9/🥾\|🥾]] směrem ke zdroji strachu se počítá jako [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 
 </div></div>
 
@@ -88,7 +88,7 @@ Každý váš tah ztratíte 1 Akci.
 
 
 ## Bezvědomí
-Nemůžete nic dělat. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/O/Omráčen\|Omráčen]] a [[z_Atomy/Z/Zneschopněn\|Zneschopněn]].
+Nemůžete nic dělat. Útoky proti vám mají [[z_Atomy/0-9/👍\|👍]] a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/O/Omráčen\|Omráčen]] a [[z_Atomy/Z/Zneschopněn\|Zneschopněn]].
 
 </div></div>
 
@@ -99,7 +99,7 @@ Nemůžete nic dělat. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a ú
 
 
 ## Chycen
-Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají ([[z_Atomy/0-9/👍\|👍]]). Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]]  ([[z_Atomy/0-9/🎯\|🎯]]) / ([[z_Atomy/0-9/💪\|💪]]). [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás drží, může tento stav ukončit.
+Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👍\|👍]]. Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás drží, může tento stav ukončit.
 
 </div></div>
 
@@ -110,7 +110,7 @@ Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají ([[z_At
 
 
 ## Omráčen
-Při získání tohoto stavu nebo pokud jste na začátku svého tahu omráčený, přeskočte celý svůj [[z_Atomy/T/Tah\|Tah]]. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/B/Bezvědomí\|Bezvědomí]] a [[z_Atomy/Z/Zneschopněn\|Zneschopněn]].
+Při získání tohoto stavu nebo pokud jste na začátku svého tahu omráčený, přeskočte celý svůj [[z_Atomy/T/Tah\|Tah]]. Útoky proti vám mají [[z_Atomy/0-9/👍\|👍]] a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/B/Bezvědomí\|Bezvědomí]] a [[z_Atomy/Z/Zneschopněn\|Zneschopněn]].
 
 </div></div>
 
@@ -121,7 +121,7 @@ Při získání tohoto stavu nebo pokud jste na začátku svého tahu omráčen�
 
 
 ## Spoután
-Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají ([[z_Atomy/0-9/👍\|👍]]). Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]]  ([[z_Atomy/0-9/🎯\|🎯]]) / ([[z_Atomy/0-9/💪\|💪]]). [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás poutá, může tento stav ukončit.
+Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👍\|👍]]. Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás poutá, může tento stav ukončit.
 
 </div></div>
 
@@ -132,7 +132,7 @@ Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají ([[z_At
 
 
 ## Zneschopněn
-Nemůžete nic dělat. Útoky proti vám mají ([[z_Atomy/0-9/👍\|👍]]) a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/O/Omráčen\|Omráčen]] a [[z_Atomy/B/Bezvědomí\|Bezvědomí]].
+Nemůžete nic dělat. Útoky proti vám mají [[z_Atomy/0-9/👍\|👍]] a úspěšné útoky na blízko jsou automaticky [[z_Atomy/0-9/💥\|💥]]. Identické se stavy, [[z_Atomy/O/Omráčen\|Omráčen]] a [[z_Atomy/B/Bezvědomí\|Bezvědomí]].
 
 </div></div>
 
@@ -154,7 +154,7 @@ Neschopný jednat. Máte všechny vlastnosti bytí kamenem. Imunní vůči vět�
 
 
 ## Neviditelnost 
-Nikdo Vás nevidí běžnými prostředky. Můžete být detekován hlukem, pachem nebo stopami. Vaše útoky mají ([[z_Atomy/0-9/👍\|👍]]) a útoky proti vám mají ([[z_Atomy/0-9/👎\|👎]]). Skončí pokud zaútočíte.
+Nikdo Vás nevidí běžnými prostředky. Můžete být detekován hlukem, pachem nebo stopami. Vaše útoky mají [[z_Atomy/0-9/👍\|👍]] a útoky proti vám mají [[z_Atomy/0-9/👎\|👎]]. Skončí pokud zaútočíte.
 
 </div></div>
 

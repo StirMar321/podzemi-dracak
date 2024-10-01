@@ -91,10 +91,10 @@ Lze seslat pouze jednou.
 **STUPEŇ 3**  
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/O/Oblast\|Oblast]] 2x12m od Vás
-[[z_Atomy/0-9/📶 ❗ Hrdinských efektů\|📶 ❗ Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Sešlete 2m široké a 12m dlouhé Blesky a výboje.
-Tvorové v oblasti provedou [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/🎯\|🎯]]).
+Tvorové v oblasti provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
 Neúspěch = **5k8** bleskového poškození.
 Úspěch = poloviční poškození. Tvorové, kteří drží větší množství kovu automaticky neuspějí.
 
@@ -113,10 +113,10 @@ Neúspěch = **5k8** bleskového poškození.
 **2 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/R/REAKCE\|REAKCE]] - Nepřítel koná
 [[z_Atomy/0-9/👊\|👊]] 24m
-[[z_Atomy/0-9/📶 ❗ Hrdinských efektů\|📶 ❗ Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 Stojí 2 many a 1 akci, pokud máte [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/0-9/🩸\|Umíráte]]
 
-Prohoďte místo jednoho ochotného cíle a jiného cíle v dosahu. Neochotný cíl musí uspět na [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]], aby odolal kouzlu. Pokud byl jeden z nich cílem útoku/efektu, druhý se stává novým cílem. 
+Prohoďte místo jednoho ochotného cíle a jiného cíle v dosahu. Neochotný cíl musí uspět na [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]], aby odolal kouzlu. Pokud byl jeden z nich cílem útoku/efektu, druhý se stává novým cílem. 
 
 **Posílení:** +1 [[z_Atomy/0-9/📶\|📶]] kouzla za každou dodatečně utracenou manu.
 
@@ -134,7 +134,7 @@ Prohoďte místo jednoho ochotného cíle a jiného cíle v dosahu. Neochotný c
 [[z_Atomy/0-9/👊\|👊]] Dotyk
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 
-Cíl získá: +1 [[z_Atomy/A/AKCE\|AKCE]], +5 [[z_Atomy/B/Brnění\|Brnění]], 2x [[z_Atomy/0-9/🏃\|🏃]] pohybu a ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/🎯\|🎯]]).
+Cíl získá: +1 [[z_Atomy/A/AKCE\|AKCE]], +5 [[z_Atomy/B/Brnění\|Brnění]], 2x [[z_Atomy/0-9/🏃\|🏃]] pohybu a [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
 
 **Posílení:** +1 minuta [[z_Atomy/T/Trvání\|Trvání]] za každou dodatečně utracenou manu.
 
@@ -151,10 +151,10 @@ Cíl získá: +1 [[z_Atomy/A/AKCE\|AKCE]], +5 [[z_Atomy/B/Brnění\|Brnění]], 
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/👊\|👊]] 24m
 [[z_Atomy/O/Oblast\|Oblast]] 3m
-[[z_Atomy/0-9/📶 ❗ Hrdinských efektů\|📶 ❗ Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Proměníte se v Blesk a teleportujete se do dosahu kouzla. Pokud se na cílovém místě v dosahu nachází ochotný tvor, prohodíte se. 
-Tvorové v oblasti utrpí **10k8** bleskového poškození a provedou [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]).
+Tvorové v oblasti utrpí **10k8** bleskového poškození a provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
 Neúspěch = odhozen o 4m, [[z_Atomy/S/Sražen\|Sražen]] a Ohlušen na 1 den. Neúspěch o (10+) = [[z_Atomy/O/Omráčen\|Omráčen]] na 1 [[z_Atomy/K/Kolo\|Kolo]].
 
 **Posílení:** +12 metrů dosahu a +**10** poškození za každou dodatečně utracenou manu.
@@ -176,7 +176,7 @@ Udržení vyžaduje 3 [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/K/Kolo\|Kolo]]
 [[z_Atomy/O/Odpočinek\|Odpočinek]] 1 týden
 
 Jste obklopeni mrakem o dosahu 4m. 
-Máte schopnost [[z_Atomy/L/Létání\|Létání]] a 1/[[z_Atomy/K/Kolo\|Kolo]] provést [[z_Atomy/0-9/🥾\|🥾]] zdarma. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám má ([[z_Atomy/0-9/👎\|👎]]).
+Máte schopnost [[z_Atomy/L/Létání\|Létání]] a 1/[[z_Atomy/K/Kolo\|Kolo]] provést [[z_Atomy/0-9/🥾\|🥾]] zdarma. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám má [[z_Atomy/0-9/👎\|👎]].
 1/[[z_Atomy/K/Kolo\|Kolo]]: 6 cílů v dosahu utrpí **10k8** bleskového poškození. **Nemůže** minout.
 
 Každé příští [[z_Atomy/K/Kolo\|Kolo]]: +2m dosah, +2 cíle

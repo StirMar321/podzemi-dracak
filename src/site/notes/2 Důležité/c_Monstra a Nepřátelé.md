@@ -10,7 +10,7 @@
 
 
 # Tahy nepřátel
-[[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] ovládá monstra během [[z_Atomy/S/Střetnutí\|Střetnutí]]. Monstra nepoužívají Hrdinské akce/reakce. Mohou se pohybovat, používat akce uvedené na své kartě a poté jejich tah končí. Monstra umřou, když jejich [[z_Atomy/0-9/❤\|❤]] klesnou na 0.
+Nepřátele ovládá [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] a rozhoduje, kdy jsou nepřátelé na tahu (typicky po Hrdinech). Mohou se pohybovat, používat akce uvedené na své kartě a poté jejich tah končí. Monstra umřou, když jejich [[z_Atomy/0-9/❤\|❤]] klesnou na **0**.
 
 </div></div>
 
@@ -37,10 +37,10 @@
 
 
 # Základní schopnosti nepřátel
-Pokud není uvedeno jinak, nepřátelé:
-- nemají [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
-- mají [[z_Atomy/0-9/🏃\|🏃]] 6 metrů
-- [[z_Atomy/0-9/❗\|❗]] nemodifikovaný hod 1k20 bez ([[z_Atomy/0-9/👍\|👍]]) nebo ([[z_Atomy/0-9/👎\|👎]])
+Pokud není uvedeno jinak.
+- žádné [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
+- [[z_Atomy/0-9/🏃\|🏃]] 6 metrů
+- [[z_Atomy/0-9/❗\|❗]] nemodifikovaný hod **1k20** bez [[z_Atomy/0-9/👍\|👍]]/[[z_Atomy/0-9/👎\|👎]]
 
 
 </div></div>

@@ -12,7 +12,7 @@
 
 | **Bez Zbroje**                | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena** |
 | ----------------------------- | -------------- | -------- |
-| (Bez zbroje) = Běžné Oblečení | ([[z_Atomy/0-9/🎯\|🎯]])        | 0[[z_Atomy/0-9/🟡\|🟡]]      |
+| (Bez zbroje) = Běžné Oblečení | [[z_Atomy/0-9/🎯\|🎯]]         | 0[[z_Atomy/0-9/🟡\|🟡]]  |
 
 
 </div></div>
@@ -25,12 +25,12 @@
 
 ## Róby
 
-| **Róby**                  | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena** |
-| ------------------------- | -------------- | -------- |
-| Róba dobrodruha           | 2+([[z_Atomy/0-9/🎯\|🎯]])      | 10[[z_Atomy/0-9/🟡\|🟡]]     |
-| Róba s menším Očarováním  | 3+([[z_Atomy/0-9/🎯\|🎯]])      | 100[[z_Atomy/0-9/🟡\|🟡]]    |
-| Róba s větším Očarováním  | 4+([[z_Atomy/0-9/🎯\|🎯]])      | 1.000[[z_Atomy/0-9/🟡\|🟡]]  |
-| Róba s Epickým Očarováním | 5+([[z_Atomy/0-9/🎯\|🎯]])      | 10.000[[z_Atomy/0-9/🟡\|🟡]] |
+| **Róby**                  | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena**     |
+| ------------------------- | -------------- | ------------ |
+| Róba dobrodruha           | 2+[[z_Atomy/0-9/🎯\|🎯]]       | 10[[z_Atomy/0-9/🟡\|🟡]]     |
+| Róba s menším Očarováním  | 3+[[z_Atomy/0-9/🎯\|🎯]]       | 100[[z_Atomy/0-9/🟡\|🟡]]    |
+| Róba s větším Očarováním  | 4+[[z_Atomy/0-9/🎯\|🎯]]       | 1.000[[z_Atomy/0-9/🟡\|🟡]]  |
+| Róba s Epickým Očarováním | 5+[[z_Atomy/0-9/🎯\|🎯]]       | 10.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
@@ -43,12 +43,12 @@
 
 ## Kožená zbroj
 
-| **Kožená zbroj**              | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena** |
-| ----------------------------- | -------------- | -------- |
-| Levná kůže                    | 3+([[z_Atomy/0-9/🎯\|🎯]])      | 5[[z_Atomy/0-9/🟡\|🟡]]      |
-| Býčí Kůže                     | 4+([[z_Atomy/0-9/🎯\|🎯]])      | 45[[z_Atomy/0-9/🟡\|🟡]]     |
-| Zdobená kůže (Min. 1 ([[z_Atomy/0-9/💪\|💪]])) | 5+([[z_Atomy/0-9/🎯\|🎯]])      | 300[[z_Atomy/0-9/🟡\|🟡]]    |
-| Dračí Kůže (Min. 1 ([[z_Atomy/0-9/💪\|💪]]))   | 6+([[z_Atomy/0-9/🎯\|🎯]])      | 2.000[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Kožená zbroj**             | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena**    |
+| ---------------------------- | -------------- | ----------- |
+| Levná kůže                   | 3+[[z_Atomy/0-9/🎯\|🎯]]       | 5[[z_Atomy/0-9/🟡\|🟡]]     |
+| Býčí Kůže                    | 4+[[z_Atomy/0-9/🎯\|🎯]]       | 45[[z_Atomy/0-9/🟡\|🟡]]    |
+| Zdobená kůže (Min. 1 [[z_Atomy/0-9/💪\|💪]]) | 5+[[z_Atomy/0-9/🎯\|🎯]]       | 300[[z_Atomy/0-9/🟡\|🟡]]   |
+| Dračí Kůže (Min. 1 [[z_Atomy/0-9/💪\|💪]])   | 6+[[z_Atomy/0-9/🎯\|🎯]]       | 2.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
@@ -61,12 +61,12 @@
 
 ## Kroužková zbroj
 
-| **Kroužková zbroj**                    | **[[z_Atomy/B/Brnění\|Brnění]]**      | **Cena** |
-| -------------------------------------- | ------------------- | -------- |
-| Rezavá košile                          | 7+([[z_Atomy/0-9/🎯\|🎯]]) (max 2)  | 15[[z_Atomy/0-9/🟡\|🟡]]     |
-| Kroužková košile (Min. 2 ([[z_Atomy/0-9/💪\|💪]]))     | 9+([[z_Atomy/0-9/🎯\|🎯]]) (max 2)  | 60[[z_Atomy/0-9/🟡\|🟡]]     |
-| Šupinová zbroj (Min. 3 ([[z_Atomy/0-9/💪\|💪]]))       | 12+([[z_Atomy/0-9/🎯\|🎯]]) (max 2) | 700[[z_Atomy/0-9/🟡\|🟡]]    |
-| Dračí Šupinová zbroj (Min. 4 ([[z_Atomy/0-9/💪\|💪]])) | 15+([[z_Atomy/0-9/🎯\|🎯]]) (max 2) | 3.000[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Kroužková zbroj**                  | **[[z_Atomy/B/Brnění\|Brnění]]**    | **Cena**    |
+| ------------------------------------ | ----------------- | ----------- |
+| Rezavá košile                        | 7+[[z_Atomy/0-9/🎯\|🎯]] (max 2)  | 15[[z_Atomy/0-9/🟡\|🟡]]    |
+| Kroužková košile (Min. 2 [[z_Atomy/0-9/💪\|💪]])     | 9+[[z_Atomy/0-9/🎯\|🎯]] (max 2)  | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| Šupinová zbroj (Min. 3 [[z_Atomy/0-9/💪\|💪]])       | 12+[[z_Atomy/0-9/🎯\|🎯]] (max 2) | 700[[z_Atomy/0-9/🟡\|🟡]]   |
+| Dračí Šupinová zbroj (Min. 4 [[z_Atomy/0-9/💪\|💪]]) | 15+[[z_Atomy/0-9/🎯\|🎯]] (max 2) | 3.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
@@ -79,12 +79,12 @@
 
 ## Plátová zbroj
 
-| **Plátová zbroj**                  | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena** |
-| ---------------------------------- | -------------- | -------- |
-| Rezavá zbroj (Min. 2 ([[z_Atomy/0-9/💪\|💪]]))     | 10             | 25[[z_Atomy/0-9/🟡\|🟡]]     |
-| Poloviční zbroj (Min. 3 ([[z_Atomy/0-9/💪\|💪]]))  | 14             | 200[[z_Atomy/0-9/🟡\|🟡]]    |
-| Plná zbroj (Min. 4 ([[z_Atomy/0-9/💪\|💪]]))       | 18             | 2.000[[z_Atomy/0-9/🟡\|🟡]]  |
-| Mithrilová zbroj (Min. 5 ([[z_Atomy/0-9/💪\|💪]])) | 22             | 5.000[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Plátová zbroj**                | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena**    |
+| -------------------------------- | -------------- | ----------- |
+| Rezavá zbroj (Min. 2 [[z_Atomy/0-9/💪\|💪]])     | 10             | 25[[z_Atomy/0-9/🟡\|🟡]]    |
+| Poloviční zbroj (Min. 3 [[z_Atomy/0-9/💪\|💪]])  | 14             | 200[[z_Atomy/0-9/🟡\|🟡]]   |
+| Plná zbroj (Min. 4 [[z_Atomy/0-9/💪\|💪]])       | 18             | 2.000[[z_Atomy/0-9/🟡\|🟡]] |
+| Mithrilová zbroj (Min. 5 [[z_Atomy/0-9/💪\|💪]]) | 22             | 5.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
@@ -99,12 +99,12 @@
 > [!NOTE]+ **Štíty**
 > Kromě zvýšení Vašeho **Brnění** mohou štíty zdarma snížit poškození z jednoho útoku za [[z_Atomy/K/Kolo\|Kolo]] o hodnotu **Brnění**, kterou poskytují.
 
-| **Štíty**    | **[[z_Atomy/B/Brnění\|Brnění]]** | Vlastnosti                     | **Cena** |
-| ------------ | -------------- | ------------------------------ | -------- |
-| Pukléř       | 1              | [[z_Atomy/0-9/1-ruční\|1-ruční]]                    | 5[[z_Atomy/0-9/🟡\|🟡]]      |
-| Železný Štít | 2              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 2 ([[z_Atomy/0-9/💪\|💪]])) | 30[[z_Atomy/0-9/🟡\|🟡]]     |
-| Velký Štít   | 3              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 3 ([[z_Atomy/0-9/💪\|💪]])) | 500[[z_Atomy/0-9/🟡\|🟡]]    |
-| Dračí Štít   | 4              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 3 ([[z_Atomy/0-9/💪\|💪]])) | 3.000[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Štíty**    | **[[z_Atomy/B/Brnění\|Brnění]]** | Vlastnosti                   | **Cena**    |
+| ------------ | -------------- | ---------------------------- | ----------- |
+| Pukléř       | 1              | [[z_Atomy/0-9/1-ruční\|1-ruční]]                  | 5[[z_Atomy/0-9/🟡\|🟡]]     |
+| Železný Štít | 2              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 2 [[z_Atomy/0-9/💪\|💪]]) | 30[[z_Atomy/0-9/🟡\|🟡]]    |
+| Velký Štít   | 3              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 3 [[z_Atomy/0-9/💪\|💪]]) | 500[[z_Atomy/0-9/🟡\|🟡]]   |
+| Dračí Štít   | 4              | [[z_Atomy/0-9/1-ruční\|1-ruční]], (Min. 3 [[z_Atomy/0-9/💪\|💪]]) | 3.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>

@@ -30,4 +30,4 @@ Nepřítel je odstrčen 2 metry od Vás a [[z_Atomy/S/Sražen\|Sražen]] na zem 
 ### LVL 11
 - **Rozkvět chaosu**. Kdykoli **Vyvoláte chaos**, můžete házet **dvakrát** a způsobit oba efekty. 1/[[z_Atomy/0-9/🔋\|🔋]] si místo toho můžete vybrat, který hod použijete.
 ### LVL 15
-- **Mistr chaosu**. **Vyvoláváte chaos** s ([[z_Atomy/0-9/👍\|👍]])
+- **Mistr chaosu**. **Vyvoláváte chaos** s [[z_Atomy/0-9/👍\|👍]].

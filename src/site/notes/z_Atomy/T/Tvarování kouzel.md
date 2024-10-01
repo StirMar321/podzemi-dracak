@@ -8,9 +8,9 @@
 
 - **Extradimenzionální vidění**. (+2 [[z_Atomy/0-9/🌀\|🌀]]) Můžete u kouzlení ignorovat překážky mezi vámi a vašim cílem. Vaše kouzlo projde skrze bariéry a překážky a zasáhne cíl, o kterém víte.
 ⠀
-- **Dimenzionální dosah**. (1+ [[z_Atomy/0-9/🌀\|🌀]]) Zvýšíte [[z_Atomy/0-9/👊\|👊]] kouzla o +6 metrů za každou utracenou manu.
+- **Dimenzionální dosah**. (1+ [[z_Atomy/0-9/🌀\|🌀]]) Zvýšíte [[z_Atomy/0-9/👊\|👊]]/[[z_Atomy/0-9/🏹\|🏹]] kouzla o +6 metrů za každou utracenou manu.
 ⠀
-- **Elementární destrukce**. (1+ [[z_Atomy/0-9/🌀\|🌀]]) Když kouzlem zasáhnete cíl, můžete utratit manu až do vaší ([[z_Atomy/0-9/🦉\|🦉]]) k tomu, abyste přehodili libovolnou kostku za každou extra manu.
+- **Elementární destrukce**. (1+ [[z_Atomy/0-9/🌀\|🌀]]) Když kouzlem zasáhnete cíl, můžete utratit manu až do Vaší [[z_Atomy/0-9/🦉\|🦉]] k tomu, abyste přehodili libovolnou kostku za každou extra manu.
 ⠀
 - **Elementární transmutace**. (+1 [[z_Atomy/0-9/🌀\|🌀]]) Změníte typ poškození kouzla.
 ⠀

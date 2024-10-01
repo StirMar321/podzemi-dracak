@@ -10,13 +10,13 @@
 ⠀
 - **Lezec**. Může chodit po stěnách a stropech, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 ⠀
-- **Rychlonohý**. +2 metry pro vaší [[z_Atomy/0-9/🏃\|🏃]]. Máte ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a proti stavu [[z_Atomy/CH/Chycen\|Chycen]].
+- **Rychlonohý**. +2 metry pro vaší [[z_Atomy/0-9/🏃\|🏃]]. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a proti stavu [[z_Atomy/CH/Chycen\|Chycen]].
 ⠀
 - **Hrabavý**. Může se pohybovat pod zemí a neopracovanou skálou poloviční rychlostí.
 ⠀
-- **Bystrý**. ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/🔍\|🔍]]. Imunita proti stavu [[z_Atomy/O/Oslepen\|Oslepen]].
+- **Bystrý**. [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/🔍\|🔍]]. Imunita proti stavu [[z_Atomy/O/Oslepen\|Oslepen]].
 ⠀
-- **Vůdce smečky**. ([[z_Atomy/0-9/👍\|👍]]) proti stavům [[z_Atomy/V/Vystrašen\|Vystrašen]] a [[z_Atomy/O/Očarován\|Očarován]] pro Vás a spojence do 12 metrů.
+- **Vůdce smečky**. [[z_Atomy/0-9/👍\|👍]] proti stavům [[z_Atomy/V/Vystrašen\|Vystrašen]] a [[z_Atomy/O/Očarován\|Očarován]] pro Vás a spojence do 12 metrů.
 ⠀
 - **Chapadlo**. Tvorové, které zasáhnete v boji na blízko a kteří jsou stejně velcí nebo menší, mají stav [[z_Atomy/CH/Chycen\|Chycen]]. Pokud zasáhnete většího tvora, můžete se s ním pohybovat, když se pohybuje.
 ⠀

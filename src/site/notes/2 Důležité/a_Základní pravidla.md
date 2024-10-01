@@ -19,7 +19,7 @@ Hrdinové mají 5 hlavních statistik. Dvě z nich jsou **Klíčové statistiky*
 
 
 ## SÍLA (💪) 
-Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžší zbroje, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při [[z_Atomy/0-9/🩸\|🩸]], schopnost udržet [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], počet obnovených [[z_Atomy/K/k-Ž\|k-Ž]] během [[z_Atomy/0-9/🔋\|🔋]], [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]).
+Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžší zbroje, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při [[z_Atomy/0-9/🩸\|🩸]], schopnost udržet [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], počet obnovených [[z_Atomy/K/k-Ž\|k-Ž]] během [[z_Atomy/0-9/🔋\|🔋]], [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/💪\|💪]].
 
 </div></div>
 
@@ -30,7 +30,7 @@ Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžš
 
 
 ## OBRATNOST (🎯)
- Ovlivňuje poškození některých zbraní a schopností, [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] a [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/🎯\|🎯]]).
+ Ovlivňuje poškození některých zbraní a schopností, [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🎯\|🎯]].
 
 </div></div>
 
@@ -41,7 +41,7 @@ Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžš
 
 
 ## INTELIGENCE (🎓)
-Spolu s ([[z_Atomy/0-9/🦉\|🦉]]) a ([[z_Atomy/0-9/🎭\|🎭]]) se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Určuje známé [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/N/Naladění\|Naladění]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] a [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
+Spolu s [[z_Atomy/0-9/🦉\|🦉]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Určuje známé [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/N/Naladění\|Naladění]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] a [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
@@ -52,7 +52,7 @@ Spolu s ([[z_Atomy/0-9/🦉\|🦉]]) a ([[z_Atomy/0-9/🎭\|🎭]]) se souhrně 
 
 
 ## MOUDROST (🦉)
-Spolu s ([[z_Atomy/0-9/🎓\|🎓]]) a ([[z_Atomy/0-9/🎭\|🎭]]) se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje vaší [[z_Atomy/0-9/🚩\|🚩]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
+Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje vaší [[z_Atomy/0-9/🚩\|🚩]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
@@ -63,7 +63,7 @@ Spolu s ([[z_Atomy/0-9/🎓\|🎓]]) a ([[z_Atomy/0-9/🎭\|🎭]]) se souhrně 
 
 
 ## CHARISMA (🎭)
-Spolu s ([[z_Atomy/0-9/🎓\|🎓]]) a ([[z_Atomy/0-9/🦉\|🦉]]) se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje sociální setkání, [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] a [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
+Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🦉\|🦉]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje sociální setkání, [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] a [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
@@ -247,7 +247,7 @@ Pro provedení **KD** hoďte **1k20** a přidejte své bonusy dané [[z_Atomy/0-
 
 
 # ❗ = Záchranný hod
-Některá kouzla, schopnosti a jiné nebezpečí testují fyzickou zdatnost nebo odolnost (❗ ([[z_Atomy/0-9/💪\|💪]])), rychlost nebo rovnováhu (❗ ([[z_Atomy/0-9/🎯\|🎯]])) nebo duševní odolnost (❗ [[z_Atomy/0-9/🧠\|🧠]]). 
+Některá kouzla, schopnosti a jiné nebezpečí testují fyzickou zdatnost nebo odolnost (❗ [[z_Atomy/0-9/💪\|💪]]), rychlost nebo rovnováhu (❗ [[z_Atomy/0-9/🎯\|🎯]]) nebo duševní odolnost (❗ [[z_Atomy/0-9/🧠\|🧠]]). 
 
 **Pro provedení záchranného hodu hoďte 1k20 a přidejte modifikace**. 
 Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], která musí být dorovnána hodem a modifikátory pro **úspěch**, jinak se jedná o **neúspěch**. 
@@ -256,9 +256,9 @@ Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], která musí být dorovn
 
 Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Atomy/0-9/💥\|💥]] a ani **nemohou** **minout**.
 
-- ❗ ([[z_Atomy/0-9/💪\|💪]]). Používá se pro [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]], otravu, odolání extrémním teplotám nebo schopnosti udržet se na nohou během vichřice.
-- ❗ ([[z_Atomy/0-9/🎯\|🎯]]). Používá se, když potřebujete skočit do úkrytu před explozí, udržet se na nohou při běhu po zledovatělé podlaze nebo při balancování na okraji útesu.
-- ❗ [[z_Atomy/0-9/🧠\|🧠]]. (Nejvyšší hodnota ([[z_Atomy/0-9/🎓\|🎓]])/([[z_Atomy/0-9/🦉\|🦉]])/([[z_Atomy/0-9/🎭\|🎭]])). Používá se, když potřebujete odolat účinkům působící na mysl, prohlédnout iluze, stavu [[z_Atomy/O/Očarován\|Očarován]], [[z_Atomy/V/Vystrašen\|Vystrašen]] nebo jiným psychickým stavům.
+- ❗ [[z_Atomy/0-9/💪\|💪]]. Používá se pro [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]], otravu, odolání extrémním teplotám nebo schopnosti udržet se na nohou během vichřice.
+- ❗ [[z_Atomy/0-9/🎯\|🎯]]. Používá se, když potřebujete skočit do úkrytu před explozí, udržet se na nohou při běhu po zledovatělé podlaze nebo při balancování na okraji útesu.
+- ❗ [[z_Atomy/0-9/🧠\|🧠]]. (Nejvyšší hodnota [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎭\|🎭]]). Používá se, když potřebujete odolat účinkům působící na mysl, prohlédnout iluze, stavu [[z_Atomy/O/Očarován\|Očarován]], [[z_Atomy/V/Vystrašen\|Vystrašen]] nebo jiným psychickým stavům.
 
 </div></div>
 
@@ -279,8 +279,8 @@ Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Ato
 
 
 
-### Hrdinské (❗)-(👍) & (👎)
-Každý hrdina má pro jeden typ [[z_Atomy/0-9/❗\|❗]] **vždy** ([[z_Atomy/0-9/👍\|👍]]) a jiný typ [[z_Atomy/0-9/❗\|❗]] **vždy** ([[z_Atomy/0-9/👎\|👎]]) a jeden [[z_Atomy/0-9/❗\|❗]] *neutrální*. 
+### Hrdinské❗👍&👎
+Každý hrdina má pro jeden typ [[z_Atomy/0-9/❗\|❗]] **vždy** [[z_Atomy/0-9/👍\|👍]] a jiný typ [[z_Atomy/0-9/❗\|❗]] **vždy** [[z_Atomy/0-9/👎\|👎]] a jeden [[z_Atomy/0-9/❗\|❗]] *neutrální*. 
 
 >[!NOTE]- **Příklad**
 >Například [[3 Povolání/Berserk\|Berserk]] (([[z_Atomy/0-9/💪\|💪]])=([[z_Atomy/0-9/👍\|👍]]), [[z_Atomy/0-9/🧠\|🧠]]=([[z_Atomy/0-9/👎\|👎]])) by házel všechny své [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) s ([[z_Atomy/0-9/👍\|👍]]) a všechny své [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]] s ([[z_Atomy/0-9/👎\|👎]]).
@@ -377,7 +377,7 @@ Znamená že máte 1 výhodu pro váš hod.
 Vaše **Body Výdrže** představují vaši schopnost přijímat poškození a jít dál. Při přijímání poškození se Vaše **❤** snižují. Když klesnete na **0** **❤**, získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a stav [[z_Atomy/0-9/🩸\|🩸]].
 
 Počáteční **Body Výdrže** určíte:
-- Max. hodnota [[z_Atomy/K/k-Ž\|k-Ž]] Vašeho [[2 Důležité/e1_Povolání\|Povolání]] plus hod [[z_Atomy/K/k-Ž\|k-Ž]] s ([[z_Atomy/0-9/👍\|👍]]) nebo 
+- Max. hodnota [[z_Atomy/K/k-Ž\|k-Ž]] Vašeho [[2 Důležité/e1_Povolání\|Povolání]] plus hod [[z_Atomy/K/k-Ž\|k-Ž]] s [[z_Atomy/0-9/👍\|👍]] nebo 
 - Použijete počáteční hodnotu **❤** Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 </div></div>
@@ -408,7 +408,7 @@ Když Vaše [[z_Atomy/0-9/❤\|❤]] klesnou na 0, začnete **Umírat**.
 Má 1 [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/K/Kolo\|Kolo]]. 
 [[z_Atomy/K/Koncentrace\|Koncentrace]] je přerušena a pokračování v boji vám může způsobit [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
-- Akce [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]]: proveďte [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/💪\|💪]]) - [[z_Atomy/0-9/📶\|📶]] **10**. Utrpíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při neúspěchu.
+- Akce [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]]: proveďte [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/💪\|💪]] - [[z_Atomy/0-9/📶\|📶]] **10**. Utrpíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při neúspěchu.
 - Utržení jakéhokoli poškození způsobí **2** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], [[z_Atomy/0-9/💥\|💥]] způsobí **3** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
 </div></div>
@@ -449,7 +449,7 @@ Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|�
 
 
 # k-Ž = Kostky Života 
-**Kostky života** představují , jak rychle dokáže hrdina rozdýchat menší zranění  a vyčerpání.  **Kostky života** se obvykle utrácejí za [[z_Atomy/0-9/🪫\|🪫]] k obnovení [[z_Atomy/0-9/❤\|❤]] a mohou také pohánět speciální schopnosti. Během [[z_Atomy/0-9/🔋\|🔋]] si hrdinové obnoví ([[z_Atomy/0-9/💪\|💪]]) [[z_Atomy/K/k-Ž\|k-Ž]] (minimálně 1).
+**Kostky života** představují , jak rychle dokáže hrdina rozdýchat menší zranění  a vyčerpání.  **Kostky života** se obvykle utrácejí za [[z_Atomy/0-9/🪫\|🪫]] k obnovení [[z_Atomy/0-9/❤\|❤]] a mohou také pohánět speciální schopnosti. Během [[z_Atomy/0-9/🔋\|🔋]] si hrdinové obnoví [[z_Atomy/0-9/💪\|💪]] [[z_Atomy/K/k-Ž\|k-Ž]] (minimálně 1).
 
 </div></div>
 
@@ -460,7 +460,7 @@ Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|�
 
 
 ## Obnova k-Ž
-Během [[z_Atomy/0-9/🔋\|🔋]] hrdinové obnoví ([[z_Atomy/0-9/💪\|💪]]) [[z_Atomy/K/k-Ž\|k-Ž]] (min. 1). Velikost [[z_Atomy/K/k-Ž\|k-Ž]] se pohybuje od **k6** pro méně odolné třídy až po **k12** pro ty odolnější. Hrdinové začínají s **1 Kostkou života** na prvním [[z_Atomy/L/LVL\|LVL]] a při každém postupu na **vyšší** [[z_Atomy/L/LVL\|LVL]] získávají jednu další.
+Během [[z_Atomy/0-9/🔋\|🔋]] hrdinové obnoví [[z_Atomy/0-9/💪\|💪]] [[z_Atomy/K/k-Ž\|k-Ž]] (min. 1). Velikost [[z_Atomy/K/k-Ž\|k-Ž]] se pohybuje od **k6** pro méně odolné třídy až po **k12** pro ty odolnější. Hrdinové začínají s **1 Kostkou života** na prvním [[z_Atomy/L/LVL\|LVL]] a při každém postupu na **vyšší** [[z_Atomy/L/LVL\|LVL]] získávají jednu další.
 
 </div></div>
 
