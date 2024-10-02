@@ -22,13 +22,13 @@ Začnete **Zuřit**. Hoďte **[[z_Atomy/K/k-Vztek\|k-Vztek]]** (**1k6**) a odlo�
 </div></div>
 
 
-- **To je všechno?!** Když jste napaden, můžete utratit Vaše [[z_Atomy/K/k-Vztek\|k-Vztek]] a získáte ([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/0-9/♡\|♡]].
+- **To je všechno?!** Když jste napaden, můžete utratit Vaše [[z_Atomy/K/k-Vztek\|k-Vztek]] a získáte **([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/🎯\|🎯]])** [[z_Atomy/0-9/♡\|♡]].
 ## LVL 2
 - **Intenzivní zuřivost.** Pokud [[z_Atomy/Z/Zuřivost\|Zuříte]] na začátku svého tahu, hoďte jednu [[z_Atomy/K/k-Vztek\|k-Vztek]] (1k6).
 - **Rada předků**. 1/den. Když stojíte před rozhodnutím, jakým směrem se vydat nebo jaký postup zvolit, můžete požádat své předky, aby Vás vedli po **nejnebezpečnější** nebo nejnáročnější cestě.
 ## LVL 3
 - **Cesta Berserka**. Vyberte si **podtřídu** [[z_Atomy/C/Cesty Berserka\|Cesty Berserka]].
-- **Krvežíznivost**. Utraťte Vaše [[z_Atomy/K/k-Vztek\|k-Vztek]] během svého tahu a **pohněte** se zdarma až o ([[z_Atomy/0-9/🎯\|🎯]]) metrů za každou z nich.
+- **Krvežíznivost**. Utraťte Vaše [[z_Atomy/K/k-Vztek\|k-Vztek]] během svého tahu a **pohněte** se zdarma až o [[z_Atomy/0-9/🎯\|🎯]] metrů za každou z nich.
 ## LVL 4
 - **Vytrvalá zuřivost.** Když máte stav [[z_Atomy/0-9/🩸\|🩸]] na začátku svého tahu, automaticky zdarma spustíte [[z_Atomy/Z/Zuřivost\|Zuřivost]]. Během [[z_Atomy/0-9/🩸\|🩸]] máte **2 Akce** a **ignorujete** [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] když útočíte.
 - **Divoký arzenál**. Získejte **jednu** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]]. Kdykoli provedete pozoruhodný čin destrukce nebo síly, můžete vyměnit **jednu** schopnost Divokého arzenálu za jinou.

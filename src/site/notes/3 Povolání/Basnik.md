@@ -137,11 +137,11 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 >[!NOTE]- **Změna je život**
 > Kdykoli vystoupíte na místě, které Vás inspiruje, nebo si měníte příběhy s jinými schopným bardy a poety během [[z_Atomy/0-9/🔋\|🔋]], můžete vyměnit jednu z těchto schopností za jinou.
 
-- **Ne moji krásnou tvář!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Kdykoli použijete reakci [[z_Atomy/0-9/🛡️\|🛡️]], můžete nejprve přinutit útočníka provést [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]]. Při neúspěchu změňte cíl útoku (pokud žádný není v dosahu, útok selže). Pokud neuspěje o 5+, zaútočí na sebe jako trest za to, že si vůbec mysleli, že vám mohou ublížit! 
+- **Ne moji krásnou tvář!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Kdykoli použijete reakci [[z_Atomy/0-9/🛡️\|🛡️]], můžete nejprve přinutit útočníka provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]]. Při neúspěchu změňte cíl útoku (pokud žádný není v dosahu, útok selže). Pokud neuspěje o 5+, zaútočí na sebe jako trest za to, že si vůbec mysleli, že vám mohou ublížit! 
 ⠀
-- **Píseň davů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **2 [[z_Atomy/A/AKCE\|AKCE]]**. Zahrajete okouzlující melodii. Všichni nepřátelé do 6 metrů, kteří ji slyší, musí provést [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]]. Při neúspěchu je můžete přesunout až o 6 metrů libovolným směrem a nemohou se pohnout ve svém dalším tahu.
+- **Píseň davů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **2 [[z_Atomy/A/AKCE\|AKCE]]**. Zahrajete okouzlující melodii. Všichni nepřátelé do 6 metrů, kteří ji slyší, musí provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]]. Při neúspěchu je můžete přesunout až o 6 metrů libovolným směrem a nemohou se pohnout ve svém dalším tahu.
 ⠀
-- **Hrdinská balada**. +1 maximální nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] písní navíc přidává spojenci +[[z_Atomy/0-9/🎭\|🎭]] k poškození jeho útoku.
+- **Hrdinská balada**. +1 maximální nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] písní navíc přidává spojenci **(+[[z_Atomy/0-9/🎭\|🎭]])** k poškození jeho útoku.
 ⠀
 - **Inspirativní Hymna**. 1/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**. Dáte všem [[z_Atomy/0-9/🩸\|Umírajícím]] spojencům: 1 [[z_Atomy/0-9/❤\|❤]] a 1 Akci.
 ⠀
@@ -176,7 +176,7 @@ Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště
 
 ### Dupákovo Dupání
 **1 AKCE**
-[[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] [[z_Atomy/0-9/📶\|📶]] 10, při úspěchu se [[z_Atomy/D/Dupák\|Dupák]] rozběhne až o 6 metrů směrem, který určíte, a způsobí **([[z_Atomy/L/LVL\|LVL]]+[[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]]) drtivého poškození** všemu, co mu stojí v cestě. JAKÉKOLI stvoření do 6 metrů může použít tuto schopnost místo útoku. Při neúspěchu [[z_Atomy/D/Dupák\|Dupák]] dupne směrem k tomu, kdo mu rozkazoval. 
+[[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]][[z_Atomy/0-9/📶\|📶]] **10**, při úspěchu se [[z_Atomy/D/Dupák\|Dupák]] rozběhne až o 6 metrů směrem, který určíte, a způsobí **([[z_Atomy/L/LVL\|LVL]]+[[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]]) drtivého poškození** všemu, co mu stojí v cestě. JAKÉKOLI stvoření do 6 metrů může použít tuto schopnost místo útoku. Při neúspěchu [[z_Atomy/D/Dupák\|Dupák]] dupne směrem k tomu, kdo mu rozkazoval. 
 
 > [!NOTE] **„TY NEJSEŠ KAMARÁD!“**
 
@@ -208,7 +208,7 @@ Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště
 ## Mal, poťouchlý imp
 Přivolejte malého démona na jednu noc. Dokáže zjistit nebezpečné informace, které nemáte nárok vědět! Nebo vyřešit problém s nepatrnou šancí, že se něco pokazí.
 
-[[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]], abyste ho přesvědčili, aby vám pomohl. [[z_Atomy/0-9/👍\|👍]], pokud ho požádáte o něco, co by považoval za nezbedné nebo zábavné. [[z_Atomy/0-9/👎\|👎]], pokud jde o něco, co by považoval za dobré nebo nudné.
+[[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]], abyste ho přesvědčili, aby vám pomohl. [[z_Atomy/0-9/👍\|👍]], pokud ho požádáte o něco, co by považoval za nezbedné nebo zábavné. [[z_Atomy/0-9/👎\|👎]], pokud jde o něco, co by považoval za dobré nebo nudné.
 
 > [!NOTE] **Jsem pro každou špatnost >:P**
 

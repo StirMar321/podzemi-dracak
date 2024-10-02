@@ -20,8 +20,8 @@ Každé [[2 Důležité/e1_Povolání\|Povolání]] má **dvě klíčové [[z_At
 
 
 
-## SÍLA (💪) 
-Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžší zbroje, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při [[z_Atomy/0-9/🩸\|🩸]], schopnost udržet [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], počet obnovených [[z_Atomy/K/k-Ž\|k-Ž]] během [[z_Atomy/0-9/🔋\|🔋]], [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/💪\|💪]].
+## 💪 = SÍLA
+Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžší zbroje, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při [[z_Atomy/0-9/🩸\|🩸]], schopnost udržet [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], počet obnovených [[z_Atomy/K/k-Ž\|k-Ž]] během [[z_Atomy/0-9/🔋\|🔋]], [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
 
 </div></div>
 
@@ -31,8 +31,8 @@ Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžš
 
 
 
-## OBRATNOST (🎯)
- Ovlivňuje poškození některých zbraní a schopností, [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🎯\|🎯]].
+## 🎯 = OBRATNOST
+ Ovlivňuje poškození některých zbraní a schopností, [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
 
 </div></div>
 
@@ -42,8 +42,8 @@ Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžš
 
 
 
-## INTELIGENCE (🎓)
-Spolu s [[z_Atomy/0-9/🦉\|🦉]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Určuje známé [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/N/Naladění\|Naladění]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] a [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
+## 🎓 = INTELIGENCE
+Spolu s [[z_Atomy/0-9/🦉\|🦉]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Určuje známé [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/N/Naladění\|Naladění]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] a [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
@@ -53,8 +53,8 @@ Spolu s [[z_Atomy/0-9/🦉\|🦉]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně naz�
 
 
 
-## MOUDROST (🦉)
-Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje vaší [[z_Atomy/0-9/🚩\|🚩]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
+## 🦉 = MOUDROST
+Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje vaší [[z_Atomy/0-9/🚩\|🚩]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
@@ -64,8 +64,8 @@ Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně naz�
 
 
 
-## CHARISMA (🎭)
-Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🦉\|🦉]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje sociální setkání, [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] a [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] a [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
+## 🎭 = CHARISMA
+Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🦉\|🦉]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje sociální setkání, [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] a [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
@@ -76,7 +76,7 @@ Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🦉\|🦉]] se souhrně naz�
 
 
 # 🧠 = VŮLE
-[[z_Atomy/0-9/🎓\|🎓]], [[z_Atomy/0-9/🦉\|🦉]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **VŮLE**.
+[[z_Atomy/0-9/🎓\|🎓]],[[z_Atomy/0-9/🦉\|🦉]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **VŮLE**.
 
 </div></div>
 
@@ -463,7 +463,7 @@ Pokud hodíte na kostkách stejně, odstranění kostek zleva doprava vždy vede
 # ❓ = Kontrola Dovedností
 Při provádění něčeho náročného (přesvědčování [[z_Atomy/N/NPC\|NPC]], odhalení skrytého tvora, odemykání zámku atd.) může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] požádat hrdinu o provedení **kontroly dovednosti**. 
 
-Pro provedení **KD** hoďte **1k20** a přidejte své bonusy dané [[z_Atomy/0-9/⚙️\|⚙️]] k výsledku. Tento výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], která musí být dorovnána pro **úspěch** a když je hodnota menší jedná se o **neúspěch**.
+Pro provedení **KD** hoďte **1k20** a přidejte své bonus dané [[z_Atomy/0-9/⚙️\|⚙️]] k výsledku. Tento výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], která musí být dorovnána pro **úspěch** a když je hodnota menší jedná se o **neúspěch**.
 [[z_Atomy/0-9/📶\|📶]] určuje [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] a bude se lišit v závislosti na tom, co se pokoušíte udělat.
 
 > [!FAQ]- Pro [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]
@@ -478,7 +478,7 @@ Pro provedení **KD** hoďte **1k20** a přidejte své bonusy dané [[z_Atomy/0-
 
 
 # ❗ = Záchranný hod
-Některá kouzla, schopnosti a jiné nebezpečí testují fyzickou zdatnost nebo odolnost (❗ [[z_Atomy/0-9/💪\|💪]]), rychlost nebo rovnováhu (❗ [[z_Atomy/0-9/🎯\|🎯]]) nebo duševní odolnost (❗ [[z_Atomy/0-9/🧠\|🧠]]). 
+Některá kouzla, schopnosti a jiné nebezpečí testují fyzickou zdatnost nebo odolnost (❗[[z_Atomy/0-9/💪\|💪]]), rychlost nebo rovnováhu (❗[[z_Atomy/0-9/🎯\|🎯]]) nebo duševní odolnost (❗[[z_Atomy/0-9/🧠\|🧠]]). 
 
 **Pro provedení záchranného hodu hoďte 1k20 a přidejte modifikace**. 
 Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], která musí být dorovnána hodem a modifikátory pro **úspěch**, jinak se jedná o **neúspěch**. 
@@ -487,9 +487,9 @@ Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], která musí být dorovn
 
 Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Atomy/0-9/💥\|💥]] a ani **nemohou** **minout**.
 
-- ❗ [[z_Atomy/0-9/💪\|💪]]. Používá se pro [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]], otravu, odolání extrémním teplotám nebo schopnosti udržet se na nohou během vichřice.
-- ❗ [[z_Atomy/0-9/🎯\|🎯]]. Používá se, když potřebujete skočit do úkrytu před explozí, udržet se na nohou při běhu po zledovatělé podlaze nebo při balancování na okraji útesu.
-- ❗ [[z_Atomy/0-9/🧠\|🧠]]. (Nejvyšší hodnota [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎭\|🎭]]). Používá se, když potřebujete odolat účinkům působící na mysl, prohlédnout iluze, stavu [[z_Atomy/O/Očarován\|Očarován]], [[z_Atomy/V/Vystrašen\|Vystrašen]] nebo jiným psychickým stavům.
+- ❗[[z_Atomy/0-9/💪\|💪]]. Používá se pro [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]], otravu, odolání extrémním teplotám nebo schopnosti udržet se na nohou během vichřice.
+- ❗[[z_Atomy/0-9/🎯\|🎯]]. Používá se, když potřebujete skočit do úkrytu před explozí, udržet se na nohou při běhu po zledovatělé podlaze nebo při balancování na okraji útesu.
+- ❗[[z_Atomy/0-9/🧠\|🧠]]. (Nejvyšší hodnota [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎭\|🎭]]). Používá se, když potřebujete odolat účinkům působící na mysl, prohlédnout iluze, stavu [[z_Atomy/O/Očarován\|Očarován]], [[z_Atomy/V/Vystrašen\|Vystrašen]] nebo jiným psychickým stavům.
 
 </div></div>
 
@@ -573,7 +573,7 @@ Když Vaše [[z_Atomy/0-9/❤\|❤]] klesnou na 0, začnete **Umírat**.
 Má 1 [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/K/Kolo\|Kolo]]. 
 [[z_Atomy/K/Koncentrace\|Koncentrace]] je přerušena a pokračování v boji vám může způsobit [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
-- Akce [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]]: proveďte [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/💪\|💪]] - [[z_Atomy/0-9/📶\|📶]] **10**. Utrpíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při neúspěchu.
+- Akce [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]]: proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/📶\|📶]] **10**. Utrpíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při neúspěchu.
 - Utržení jakéhokoli poškození způsobí **2** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], [[z_Atomy/0-9/💥\|💥]] způsobí **3** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
 </div></div>
