@@ -4,7 +4,7 @@
 
 # Tvorba Hrdiny
 Vezměte si [Kartu Hrdiny](https://docs.google.com/spreadsheets/d/11W7PySs31Y6oRy6VHrtDuCUBzXOrV9LvvMbDaOu21D0/edit?usp=sharing) a následujte tento návod odshora dolů.
-Vždy když splníte krok, můžete ho **zavřít**.
+Vždy když splníte krok, můžete ho **"zavřít"**.
 
 >[!NOTE]+ **Kým jste?**
 >Zvolte si Vaše [[2 Důležité/e1_Povolání\|Povolání]]. Toto bude mít největší dopad na ostatní volby a na to, jak budete interagovat se světem hry.

@@ -132,7 +132,7 @@ Reakce jsou "[[z_Atomy/A/AKCE\|AKCE]]" provedené **mimo Váš [[z_Atomy/T/Tah\|
 Základní **Reakce** jsou:
 - [[z_Atomy/0-9/🛡️\|🛡️]] = Bránění
 - [[z_Atomy/0-9/🔰\|🔰]] = Chránění
--  [[z_Atomy/0-9/⚠️\|⚠️]] = Příležitostný útok
+-  [[z_Atomy/0-9/🛑\|🛑]] = Příležitostný útok
 - [[z_Atomy/0-9/🆘\|🆘]] = Pomoc
 
 </div></div>
@@ -173,7 +173,7 @@ Pokud by tvora ve vzdálenosti **2 metrů** zasáhl [[z_Atomy/0-9/⚔️\|⚔️
 
 
 
-## ⚠️ = Příležitostný útok
+## 🛑 = Příležitostný útok
 Zaútočte na **blízko** s [[z_Atomy/0-9/👎\|👎]], když se nepřítel pohyne pryč z [[z_Atomy/0-9/👊\|👊]] Vaší [[z_Atomy/Z/Zbraně\|Zbraně]]. 
 
 **Obyčejná monstra nedělají příležitostné útoky!** Mohou je použít pouze **Hrdinové** a **Legendární monstra** (např. bossové).
@@ -282,7 +282,7 @@ Všichni útočící Poskoci k hodu **nic** nepřičítají, **minou** při hodu
 **[[z_Atomy/S/Střetnutí\|Střetnutí]]** zahrnuje všechny kola souboje.
 
 >[!NOTE]+ **Schopnosti 1/[[z_Atomy/T/Tah\|Tah]]**
->Pokud nějakou vykonáte během svého tahu a najdete způsob, jak ji provést během tahu jiné bytosti, můžete ji použít znovu (například [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] zkombinovaný s [[z_Atomy/0-9/⚠️\|Příležitostným útokem]] nebo s [[z_Atomy/K/Koordinovaný Úder!\|Koordinavaným úderem!]]).
+>Pokud nějakou vykonáte během svého tahu a najdete způsob, jak ji provést během tahu jiné bytosti, můžete ji použít znovu (například [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] zkombinovaný s [[z_Atomy/0-9/🛑\|Příležitostným útokem]] nebo s [[z_Atomy/K/Koordinovaný Úder!\|Koordinavaným úderem!]]).
 
 >[!NOTE]+ **Schopnosti 1/[[z_Atomy/K/Kolo\|Kolo]]**
 >Tyto schopnosti se obnovují vždy na začátku Vašeho vlastního [[z_Atomy/T/Tah\|Tahu]] (například [[z_Atomy/0-9/🛡️\|🛡️]], nemůžete provést znovu, dokud nepřijde Váš další [[z_Atomy/T/Tah\|Tah]]).

@@ -35,7 +35,7 @@
 ### LVL 7
 - **Neuhasitelná krvežíznivost**. Pokud minete útok když [[z_Atomy/Z/Zuřivost\|Zuříte]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a hodit útok znovu.
 ### LVL 11
-- **Příležitostná žíznivost**. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], Váš [[z_Atomy/0-9/⚠️\|⚠️]] nemá [[z_Atomy/0-9/👎\|👎]] a můžete provést [[z_Atomy/0-9/⚠️\|⚠️]], když se nepřítel **vstoupí** do [[z_Atomy/0-9/👊\|👊]] Vaší zbraně.
+- **Příležitostná žíznivost**. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], Váš [[z_Atomy/0-9/🛑\|🛑]] nemá [[z_Atomy/0-9/👎\|👎]] a můžete provést [[z_Atomy/0-9/🛑\|🛑]], když se nepřítel **vstoupí** do [[z_Atomy/0-9/👊\|👊]] Vaší zbraně.
 ### LVL 15
 - **Mord**. 1/[[z_Atomy/T/Tah\|Tah]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], získáte +2 metry pro [[z_Atomy/0-9/🏃\|🏃]] a můžete použít zdarma akci [[z_Atomy/0-9/🥾\|🥾]].
 

@@ -71,7 +71,7 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Lovecká horečka (4)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
 - **Zvýšení klíčové Statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
 ## LVL 9
-- **Neunikneš mi**. Kdykoli uvidíte jednoho nebo více spojenců provést [[z_Atomy/0-9/⚠️\|⚠️]], můžete také provést [[z_Atomy/0-9/⚠️\|⚠️]] **na dálku** proti stejnému cíli.
+- **Neunikneš mi**. Kdykoli uvidíte jednoho nebo více spojenců provést [[z_Atomy/0-9/🛑\|🛑]], můžete také provést [[z_Atomy/0-9/🛑\|🛑]] **na dálku** proti stejnému cíli.
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 10
 - **Zkušený Stopař (2)**. Dostanete +1 nabití Lovcovy horečky když: 

@@ -82,7 +82,7 @@ Zacházejte s lektvary jako s útoky na dálku (dosah 6 - 12 metrů). Hoďte kos
 
 
 # Podlý úder  
-Hráč, která vstává ze země (ze stavu [[z_Atomy/S/Sražen\|Sražen]]), dává nepřátelům příležitost pro [[z_Atomy/0-9/⚠️\|⚠️]].
+Hráč, která vstává ze země (ze stavu [[z_Atomy/S/Sražen\|Sražen]]), dává nepřátelům příležitost pro [[z_Atomy/0-9/🛑\|🛑]].
 
 </div></div>
 

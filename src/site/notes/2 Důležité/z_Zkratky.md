@@ -398,7 +398,7 @@ Pokud by tvora ve vzdálenosti **2 metrů** zasáhl [[z_Atomy/0-9/⚔️\|⚔️
 
 
 
-## ⚠️ = Příležitostný útok
+## 🛑 = Příležitostný útok
 Zaútočte na **blízko** s [[z_Atomy/0-9/👎\|👎]], když se nepřítel pohyne pryč z [[z_Atomy/0-9/👊\|👊]] Vaší [[z_Atomy/Z/Zbraně\|Zbraně]]. 
 
 **Obyčejná monstra nedělají příležitostné útoky!** Mohou je použít pouze **Hrdinové** a **Legendární monstra** (např. bossové).
