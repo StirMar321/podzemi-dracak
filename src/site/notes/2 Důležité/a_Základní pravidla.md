@@ -10,7 +10,7 @@
 
 
 # Statistiky
-Hrdinové mají 5 hlavních statistik. Dvě z nich jsou **Klíčové statistiky** (nejdůležitější pro jednotlivá [[2 Důležité/e1_Povolání\|Povolání]]) a ostatní jsou **sekundární statistiky**. Kdykoli uvidíte „[[z_Atomy/0-9/🗝\|🗝]]“ v popisu schopnosti nebo Kouzla, vyberte **jednu** ze svých **Klíčových statistik** a použijte tuto hodnotu.
+Hrdinové mají **5 hlavních statistik**. Dvě z nich jsou **Klíčové statistiky** (nejdůležitější pro jednotlivá [[2 Důležité/e1_Povolání\|Povolání]]) a ostatní jsou **Sekundární statistiky**. Kdykoli uvidíte „[[z_Atomy/0-9/🗝\|🗝]]“ v popisu schopnosti nebo Kouzla, vyberte **jednu** ze svých **Klíčových statistik** a použijte tuto hodnotu.
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Síla/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
