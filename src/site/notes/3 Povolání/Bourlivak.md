@@ -50,8 +50,8 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 </div></div>
 
 ## LVL 2
-- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/d_Vítr\|Větru]] a [[4 Kouzla/c_Blesk\|Blesku]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/🦉\|🦉]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
-- **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Smečky\|Bestie Smečky]]
+- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/d_Vítr\|Větru]] a [[4 Kouzla/c_Blesk\|Blesku]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je **([[z_Atomy/0-9/🦉\|🦉]]+[[z_Atomy/L/LVL\|LVL]])**x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
+- **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Smečky\|Bestie Smečky]].
 ## LVL 3
 - **Kruh Bouřliváků**. Vyberte si **podtřídu** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
 - **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]]
@@ -73,7 +73,7 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 - **Přivolávač bouří (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
 ## LVL 8
 - **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a vylepšovat kouzla na 4. stupeň
-- **Bouřerozený**. 1/den. Získáte [[z_Atomy/O/Odolnost\|Odolnost]] vůči poškození bleskem. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/K/Koncentrace\|Koncentrace]].
+- **Bouřerozený**. 1/den. Získáte [[z_Atomy/O/Odolnost\|Odolnost]] vůči poškození bleskem. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/K/Koncentrace\|Koncentrace]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 9
 - **Plemena bestie (2)**. 
@@ -172,7 +172,7 @@ Můžete vizuálně přijmout podobu jakékoli velké bestie.
 
 ### Nabrání
 (Musíme mít podobu [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]])
-Útok na blízko, **1k4+[[z_Atomy/L/LVL\|LVL]]** sečné poškození. [[z_Atomy/0-9/💥\|💥]] vám dá +[[z_Atomy/L/LVL\|LVL]] [[z_Atomy/0-9/♡\|♡]].
+Útok na blízko, **(1k4+[[z_Atomy/L/LVL\|LVL]])** sečné poškození. [[z_Atomy/0-9/💥\|💥]] vám dá **(+[[z_Atomy/L/LVL\|LVL]])** [[z_Atomy/0-9/♡\|♡]].
 1 [[z_Atomy/0-9/🌀\|🌀]]: můžete **Nabrání** použít zdarma poté co jste použili reakci [[z_Atomy/0-9/🔰\|🔰]].
 
 </div></div>
@@ -227,11 +227,11 @@ Dosah 0 metrů. Hoďte **1k4**, při zásahu způsobíte 1 bodné poškození a 
 ⠀
 - **Lezec**. Může chodit po stěnách a stropech, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 ⠀
-- **Rychlonohý**. +2 metry pro vaší [[z_Atomy/0-9/🏃\|🏃]]. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a proti stavu [[z_Atomy/CH/Chycen\|Chycen]].
+- **Rychlonohý**. +2 metry pro vaší [[z_Atomy/0-9/🏃\|🏃]]. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a proti stavu [[z_Atomy/CH/Chycen\|Chycen]].
 ⠀
 - **Hrabavý**. Může se pohybovat pod zemí a neopracovanou skálou poloviční rychlostí.
 ⠀
-- **Bystrý**. [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/🔍\|🔍]]. Imunita proti stavu [[z_Atomy/O/Oslepen\|Oslepen]].
+- **Bystrý**. [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/🔍\|🔍]]. Imunita proti stavu [[z_Atomy/O/Oslepen\|Oslepen]].
 ⠀
 - **Vůdce smečky**. [[z_Atomy/0-9/👍\|👍]] proti stavům [[z_Atomy/V/Vystrašen\|Vystrašen]] a [[z_Atomy/O/Očarován\|Očarován]] pro Vás a spojence do 12 metrů.
 ⠀
@@ -259,7 +259,7 @@ Dosah 0 metrů. Hoďte **1k4**, při zásahu způsobíte 1 bodné poškození a 
 ## Kruh nebe a bouře
 ### LVL 3
 - **Prohlubující  studium**. Můžete se naučit kouzla domén [[4 Kouzla/b_Led\|Ledu]] nebo [[4 Kouzla/e_Záře\|Záře]]. Pokaždé, když postoupíte na další [[z_Atomy/L/LVL\|LVL]], můžete změnit vybranou školu.
-- **Sladěný s přírodou**. 1/den. Vaše [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] má +[[z_Atomy/L/LVL\|LVL]].
+- **Sladěný s přírodou**. 1/den. Vaše [[z_Atomy/0-9/❓\|❓]][[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] má +[[z_Atomy/L/LVL\|LVL]].
 ### LVL 7
 - **Plemeno víl**. Můžete sesílat kouzla když jste proměněni schopností [[z_Atomy/D/Divotvar\|Divotvar]].
 - **Nabitá bouře**. Kdykoli zasadíte [[z_Atomy/0-9/💥\|💥]] kouzlem (ne trikem), můžete zdarma seslat Trik ze školy, kterou jste toto [[z_Atomy/K/Kolo\|Kolo]] nepoužili (se stejně [[z_Atomy/0-9/👍\|👍]]/[[z_Atomy/0-9/👎\|👎]]).
