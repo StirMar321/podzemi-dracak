@@ -8,7 +8,7 @@
 **Nechť vládne chaos!** Kde je Tabulka Chaosu? Pokud ji opravdu chcete odhalit, zeptejte se [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]. Stačí říci, že 1 je opravdu špatný, ale 20 je ÚŽASNÝ. 
 
 ### LVL 3
-- **Vyvolání chaosu**. Když udělíte [[z_Atomy/0-9/💥\|💥]], **musíte** Vyvolat chaos.
+- **Vyvolání chaosu**. Když udělíte [[z_Atomy/0-9/💥\|💥]], **musíte** Vyvolat chaos. Hoďte **1k20** a výsledek ohlaste [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]].
 ### LVL 7
 - **Mág Bouří**. Naučte se jeden Trik a jedno Kouzlo z domény [[4 Kouzla/d_Vítr\|Větru]]. Můžete je kdykoli změnit za [[z_Atomy/0-9/🔋\|🔋]].
 - Získáte schopnost [[z_Atomy/CH/Chaotický výbuch\|Chaotický výbuch]].

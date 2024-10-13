@@ -3,7 +3,7 @@
 ---
 
 ## LVL 1
-- **Zákeřný Oportunista**. 1/[[z_Atomy/T/Tah\|Tah]]. Když zasáhnete cíl pomocí [[z_Atomy/Z/Zbraně na blízko\|Zbraně na blízko]] na blízko, můžete změnit hod na [[z_Atomy/P/Primární kostka\|Primární kostce]] na jakýkoli výsledek (změna na maximální hodnotu se počítá jako [[z_Atomy/0-9/💥\|💥]]). Cíl musí být [[z_Atomy/R/Rozptýlen\|Rozptýlen]] (je vedle svého nepřítele, je [[z_Atomy/P/Provokován\|Provokován]], nebo Vás nevidí).
+- **Zákeřný Oportunista**. 1/[[z_Atomy/T/Tah\|Tah]]. Když zasáhnete [[z_Atomy/R/Rozptýlen\|Rozptýlený]] cíl pomocí [[z_Atomy/Z/Zbraně na blízko\|Zbraně na blízko]] zblízka, můžete změnit hod na [[z_Atomy/P/Primární kostka\|Primární kostce]] na jakýkoli výsledek (změna na maximální hodnotu se počítá jako [[z_Atomy/0-9/💥\|💥]]). Cíl musí být [[z_Atomy/R/Rozptýlen\|Rozptýlen]].
 - **Zákeřný útok**. Získáte schopnost [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/z/zakerny-utok/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -14,7 +14,8 @@
 ## Zákeřný útok
 První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|tahu]], způsobí dodatečné poškození **Xk6**.
 
-**X = Počet kostek**. Roste o 1 na [[z_Atomy/L/LVL\|LVL]] 2, 3, 5, 7, 9, 11, 13, 15, 17, 19.
+**X = Počet kostek**. 
+*Roste o 1 na [[z_Atomy/L/LVL\|LVL]] 2, 3, 5, 7, 9, 11, 13, 15, 17, 19.*
 
 </div></div>
 
@@ -74,7 +75,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Zlodějské talenty (8)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
 ## LVL 19
 - **Zákeřný útok (10)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **10k6**.
-- **Epický Dar**. Vyberte si jeden Epický dar.
+- **Epický Dar**. Vyberte si jeden [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
 - **Nejlepší exekuce**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**. 

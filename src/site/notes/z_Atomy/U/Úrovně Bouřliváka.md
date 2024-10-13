@@ -27,17 +27,17 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 - **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Smečky\|Bestie Smečky]].
 ## LVL 3
 - **Kruh Bouřliváků**. Vyberte si **podtřídu** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
-- **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]]
+- **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]].
 ## LVL 4
-- **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a vylepšovat kouzla na 2. stupeň
+- **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a posilovat kouzla na 2. stupeň.
 - **Přivolávač bouří**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 5
-- **Mistr malých bestií**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]]
-- **Vylepšené Triky**. Vaše kouzelné triky sílí
+- **Mistr malých bestií**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]].
+- **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 6
-- **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a vylepšovat kouzla na 3. stupeň
+- **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a posilovat kouzla na 3. stupeň.
 - **Plemena bestie (1)**.
 	- +1 použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. 
 	- Vyberte si **jedno** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]]. Při každé přeměně si můžete vybrat **jedno** Plemeno které můžete mít. Když strávíte [[z_Atomy/0-9/🔋\|🔋]] mezi zvířecími přáteli, můžete vyměnit jedno plemeno za jiné.
@@ -45,7 +45,7 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 - **Kruh Bouřliváků**. Získáte schopnost **podtřídy** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
 - **Přivolávač bouří (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
 ## LVL 8
-- **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a vylepšovat kouzla na 4. stupeň
+- **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a posilovat kouzla na 4. stupeň.
 - **Bouřerozený**. 1/den. Získáte [[z_Atomy/O/Odolnost\|Odolnost]] vůči poškození bleskem. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/K/Koncentrace\|Koncentrace]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 9
@@ -54,15 +54,15 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 	- Naučte se **další** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 10
-- **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a vylepšovat kouzla na 5. stupeň
-- **Vylepšené Triky**. Vaše kouzelné triky sílí
+- **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a posilovat kouzla na 5. stupeň.
+- **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 ## LVL 11
 - **Kruh Bouřliváků**. Získáte schopnost **podtřídy** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
 ## LVL 12
-- **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a vylepšovat kouzla na 6. stupeň
+- **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a posilovat kouzla na 6. stupeň.
 - **Plemena bestie (3)**. 
 	- +1 použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. 
-	- Naučte se **další** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]]
+	- Naučte se **další** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 13
 - **Bouřerozený (2)**. Získáte následující schopnosti:
@@ -71,24 +71,24 @@ Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete ko
 	- Za 2 many můžete místo hodu kostkami způsobit maximální poškození v boji na blízko (nepočítá se jako [[z_Atomy/0-9/💥\|💥]])
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 14
-- **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a vylepšovat kouzla na 7. stupeň
+- **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a posilovat kouzla na 7. stupeň.
 ## LVL 15
 - **Kruh Bouřliváků**. Získáte schopnost **podtřídy** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
-- **Vylepšené Triky**. Vaše kouzelné triky sílí
+- **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 ## LVL 16
-- **Kouzla 8. stupně**. Nyní můžete sesílat kouzla **8. stupně** a vylepšovat kouzla na 8. stupeň
+- **Kouzla 8. stupně**. Nyní můžete sesílat kouzla **8. stupně** a posilovat kouzla na 8. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 17
 - **Plemena bestie (4)**. 
-	- +1 použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. 
-	- Naučte se **další** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]]
+	- +1 použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]].
+	- Naučte se **další** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 18
-- **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a vylepšovat kouzla na 9. stupeň
+- **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a posilovat kouzla na 9. stupeň.
 ## LVL 19
-- **Epický Dar**. Vyberte si jeden Epický dar
+- **Epický Dar**. Vyberte si jeden [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
 - **Arcidruid**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
-	- 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když vstupujete nebo opouštíte [[z_Atomy/D/Divotvar\|Divotvar]], můžete zdarma a za 0 many seslat kouzlo 5. stupně.
-- **Vylepšené Triky**. Vaše kouzelné triky sílí
+	- 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když vstupujete nebo opouštíte [[z_Atomy/D/Divotvar\|Divotvar]], můžete zdarma a za 0 [[z_Atomy/0-9/🌀\|🌀]] seslat kouzlo 5. stupně.
+- **Vylepšené Triky**. Vaše kouzelné Triky sílí.

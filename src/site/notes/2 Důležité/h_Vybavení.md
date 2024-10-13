@@ -15,7 +15,7 @@ Pokud nechcete nakupovat vlastní [[2 Důležité/h_Vybavení\|Vybavení]], mů�
 | [[2 Důležité/e1_Povolání\|Povolání]]          | [[z_Atomy/Z/Zbraně\|Zbraně]]                                                                                    | [[z_Atomy/Z/Zbroje\|Zbroje]]                                                                              | [[z_Atomy/P/Předměty\|Předměty]]                       |
 | ---------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------- |
 | **[[3 Povolání/Basnik\|Básník]]**             | Dýka **1k4**+[[z_Atomy/0-9/🎯\|🎯]]                                                                           | Levná kůže: <br>(**3**+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]                                               | Loutna; Zrcadlo; <br>Píšťalka      |
-| **[[3 Povolání/Berserk\|Berserk]]**                    | Dvoubřitá Sekera **1k10**+[[z_Atomy/0-9/💪\|💪]]; <br>Oštěp **1k6**+[[z_Atomy/0-9/💪\|💪]] (sada 4)                           | [[z_Atomy/B/Bez Zbroje\|Bez Zbroje]]                                                                          | Kbelík                             |
+| **[[3 Povolání/Berserk\|Berserk]]**                    | Dvoubřitá Sekera **1k10**+[[z_Atomy/0-9/💪\|💪]]; <br>Oštěp **1k6**+[[z_Atomy/0-9/💪\|💪]] (sada 4)                           | [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]]                                                                          | Kbelík                             |
 | **[[3 Povolání/Bourlivak\|Bouřlivák]]**       | Hůl **1k8**+[[z_Atomy/0-9/💪\|💪]]                                                                            | Levná kůže: <br>(**3**+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]                                               | Lano; <br>Divná rostlina           |
 | **[[3 Povolání/Cernokneznik\|Černokněžník]]** | Srp **1k4**+[[z_Atomy/0-9/🎯\|🎯]] ([[z_Atomy/Z/Zákeřný\|Zákeřný]])                                                              | Róba dobrodruha: <br>(**2**+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]                                          | Pila; Lopata; Kosti                |
 | **[[3 Povolání/Fixlak\|Fixlák]]**             | 2 Dýky **1k4**+[[z_Atomy/0-9/🎯\|🎯]] ([[z_Atomy/O/Obouruční\|Obouruční]]);<br>Krátký luk **1k6**+[[z_Atomy/0-9/🎯\|🎯]]  ([[z_Atomy/0-9/🏹\|🏹]]2-18m) | Levná kůže: <br>(**3**+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/B/Brnění\|Brnění]]                                               | Křída; Paklíče; <br>Lesklý předmět |
@@ -24,7 +24,7 @@ Pokud nechcete nakupovat vlastní [[2 Důležité/h_Vybavení\|Vybavení]], mů�
 | **[[3 Povolání/Pastyr\|Pastýř]]**             | Palcát **1k6**+[[z_Atomy/0-9/💪\|💪]]                                                                         | Rezavá zbroj <br>(**6**+[[z_Atomy/0-9/🎯\|🎯]] (max 2)) [[z_Atomy/B/Brnění\|Brnění]]; <br>Kožený štít (**+1** [[z_Atomy/B/Brnění\|Brnění]]) | Mýdlo                              |
 | **[[3 Povolání/Priseznik\|Přísežník]]**       | Palcát **1k6**+[[z_Atomy/0-9/💪\|💪]]                                                                         | Rezavá plátová zbroj: <br>(**10**) [[z_Atomy/B/Brnění\|Brnění]]; <br>Kožený štít: (**+1** [[z_Atomy/B/Brnění\|Brnění]])     | Visací zámek a klíč                |
 | **[[3 Povolání/Velitel\|Velitel]]**                    | Krátký meč **1k6**+[[z_Atomy/0-9/💪\|💪]]; <br>Sada Oštěpů **1k6**+[[z_Atomy/0-9/💪\|💪]]<br>([[z_Atomy/0-9/🏹\|🏹]]2-12m)                    | Rezavá zbroj <br>(**6**+[[z_Atomy/0-9/🎯\|🎯]] (max 2)) [[z_Atomy/B/Brnění\|Brnění]]; <br>Pukléř (**+1** [[z_Atomy/B/Brnění\|Brnění]])      | Páčidlo                            |
-| **[[3 Povolání/Zephyr\|Zephyr]]**                     | Hůl **1k8**+[[z_Atomy/0-9/💪\|💪]]                                                                            | [[z_Atomy/B/Bez Zbroje\|Bez Zbroje]]                                                                          | Dalekohled; Hák; <br>Lano          |
+| **[[3 Povolání/Zephyr\|Zephyr]]**                     | Hůl **1k8**+[[z_Atomy/0-9/💪\|💪]]                                                                            | [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]]                                                                          | Dalekohled; Hák; <br>Lano          |
 
 
 </div></div>
@@ -85,7 +85,7 @@ Hrdinové mohou používat jakékoliv [[2 Důležité/h_Vybavení\|Vybavení]], 
 
 
 ## 🏹 = Dostřel
-Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na dálku**. Pokud se vedle Vás nachází nepřítel, Vaše útoky na dálku mají ([[z_Atomy/0-9/👎\|👎]]).
+Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na dálku** a vybrané schopnosti a kouzla. Pokud se vedle Vás nachází nepřítel, Vaše útoky na dálku mají [[z_Atomy/0-9/👎\|👎]].
 
 </div></div>
 
@@ -96,7 +96,7 @@ Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na dálku**. Pokud se vedle Vás nachází 
 
 
 ## 👊 = Dosah
-Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na blízko**. Jak daleko může být cíl, aby byl zasažen.
+Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na blízko** a vybrané schopnosti a kouzla. Jak daleko může být cíl, aby byl zasažen.
 
 </div></div>
 
@@ -231,12 +231,12 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/b/bez-zbroje/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/b/beze-zbroje/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Bez Zbroje
+## Beze Zbroje
 
 | **Bez Zbroje**                | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena** |
 | ----------------------------- | -------------- | -------- |

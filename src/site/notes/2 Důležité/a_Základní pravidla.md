@@ -388,12 +388,12 @@ Počáteční **Body Výdrže** určíte:
 
 
 
-# ♡ = Dočasné Body Výdrže
-Některé schopnosti nebo efekty mohou poskytnout **Dočasné Body Výdrže** (♡). Jsou snižovány jako první při přijímání poškození, před vašimi [[z_Atomy/0-9/❤\|❤]]. 
+# ♡ = Bariéra
+Některé schopnosti nebo efekty mohou poskytnout **Bariéru** (**♡**). Bariéra je snižována jako první při přijímání poškození, před vašimi [[z_Atomy/0-9/❤\|❤]]. 
 
-**DBV se nesčítají**. Například pokud by hrdina se 7 **DBV** získal 10 **DBV**, musí si vybrat, jestli si nechá 7 **DBV**, které má, nebo použije 10 **DBV**, které získal. **Nemůže** sečíst 7+10! 
+**Bariéry se nesčítají**. Například pokud by hrdina se 7 **Bariér** získal 10 **Bariér**, musí si vybrat, jestli si nechá 7 **Bariér**, které má, nebo použije 10 **Bariér**, které získal. **Nemůže** sečíst 7+10! 
 
-**DBV** zmizí během [[z_Atomy/0-9/🔋\|🔋]].
+**Bariéry** zmizí během [[z_Atomy/0-9/🔋\|🔋]].
 
 </div></div>
 

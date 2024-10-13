@@ -10,7 +10,7 @@
 
 
 ## 🏹 = Dostřel
-Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na dálku**. Pokud se vedle Vás nachází nepřítel, Vaše útoky na dálku mají ([[z_Atomy/0-9/👎\|👎]]).
+Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na dálku** a vybrané schopnosti a kouzla. Pokud se vedle Vás nachází nepřítel, Vaše útoky na dálku mají [[z_Atomy/0-9/👎\|👎]].
 
 </div></div>
 
@@ -21,7 +21,7 @@ Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na dálku**. Pokud se vedle Vás nachází 
 
 
 ## 👊 = Dosah
-Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na blízko**. Jak daleko může být cíl, aby byl zasažen.
+Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na blízko** a vybrané schopnosti a kouzla. Jak daleko může být cíl, aby byl zasažen.
 
 </div></div>
 

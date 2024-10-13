@@ -10,7 +10,7 @@
 ⠀
 - **Záplava stínů**. Kdykoli by [[z_Atomy/S/Stínový sluha\|Stínový sluha]] udělil [[z_Atomy/0-9/💥\|💥]], vyvoláte u cíle další stín.
 ⠀
-- **Výbušná pomsta**. Kdykoli [[z_Atomy/S/Stínový sluha\|Stínový sluha]] zemře, můžete seslat [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] jako reakci (i když jste již seslal [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] toto kolo).
+- **Výbušná pomsta**. Kdykoli [[z_Atomy/S/Stínový sluha\|Stínový sluha]] zemře, můžete seslat [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] jako reakci (i když byl [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] toto kolo seslán).
 ⠀
 - **Brnění stínů**. Snížíte veškeré poškození, které dostáváte o počet vašich [[z_Atomy/S/Stínový sluha\|Stínových přisluhovačů]] na bojišti.
 ⠀
@@ -20,10 +20,10 @@
 ⠀
 - **Rázný výbuch**. Když zasáhnete středně velkého nebo menšího tvora Trikem [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]], můžete od Vás tvora odtlačit až o 2 metry.
 ⠀
-- **Cestovatel stíny**. **Akce**: Vyměňte si místo s tvorem do 12 metrů, kterému bylo tento tah způsobeno nekrotické poškození.
+- **Cestovatel stíny**. 1 **[[z_Atomy/A/AKCE\|AKCE]]**: Vyměňte si místo s tvorem do 12 metrů, kterému bylo tento tah způsobeno nekrotické poškození.
 ⠀
-- **Ďábelská smlouva**. Zvýšíte svůj CHA nebo INT o +1. Máte -1 maximálních [[z_Atomy/K/k-Ž\|k-Ž]].
+- **Ďábelská smlouva**. Zvyšte si [[z_Atomy/0-9/🎭\|🎭]] / [[z_Atomy/0-9/🎓\|🎓]] o **+1**. Máte **-1** maximálních [[z_Atomy/K/k-Ž\|k-Ž]].
 ⠀
-- **Stínový magus**. Váš [[z_Atomy/S/Stínový sluha\|Stínový sluha]] získá [[z_Atomy/0-9/🏹\|🏹]] útoků 4 metry a působí k10 poškození místo k12.
+- **Stínový magus**. Váš [[z_Atomy/S/Stínový sluha\|Stínový sluha]] získá [[z_Atomy/0-9/🏹\|🏹]] útoků 4 metry a působí **k10** poškození místo **k12**.
 ⠀
-- **Stínová zteč**. Když váš [[z_Atomy/S/Stínový sluha\|Stínový sluha]] zaútočí, místo házení na poškození můžete udělit maximální poškození a přisluhovače zničit.
+- **Stínová zteč**. Když váš [[z_Atomy/S/Stínový sluha\|Stínový sluha]] zaútočí, místo hodu na útok může udělit maximální poškození a přisluhovač zmizí.
