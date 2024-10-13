@@ -14,7 +14,7 @@
 ⠀
 - **Strážný duch**. Když váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] hodí 6+ na své kostce, cíl začne zářit svatým světlem. Příští útok je proti nim prováděn s Vaší volbou [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
 ⠀
-- **Světlonoš**. Obnovte 1 použití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]], kdykoli se hází [[z_Atomy/0-9/🚩\|🚩]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Světlonoš**. Obnovte 1 použití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]], kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
 - **Pomoz mi, můj příteli**. Kdykoli provedete svůj první útok na blízko každé [[z_Atomy/K/Kolo\|Kolo]], můžete k útoku přidat poškození Vašeho [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]].
 ⠀

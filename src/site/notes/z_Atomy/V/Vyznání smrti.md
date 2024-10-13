@@ -16,4 +16,4 @@
 	- Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] uděluje [[z_Atomy/0-9/💪\|💪]] poškození navíc.
 
 ### LVL 15
-- **Smrtivodič**. Vaše schopnost **Požehnání záhrobí** se obnoví vždy, když se hází [[z_Atomy/0-9/🚩\|🚩]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Smrtivodič**. Vaše schopnost **Požehnání záhrobí** se obnoví vždy, když se hází [[z_Atomy/0-9/🏁\|🏁]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].

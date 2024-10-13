@@ -42,7 +42,7 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 - **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a vylepšovat kouzla na 2. stupeň.
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🦉\|🦉]].
 ## LVL 5
-- **Elementární vlna**. Vlna adrenalinu a Vaše hluboké spojení s elementy vám na začátku boje poskytují dodatečnou sílu. Když se hází [[z_Atomy/0-9/🚩\|🚩]], získejte **(1k4+[[z_Atomy/0-9/🦉\|🦉]])** [[z_Atomy/0-9/🌀\|🌀]] ([[z_Atomy/0-9/🌀\|🌀]] zmizí, když [[z_Atomy/S/Střetnutí\|Střetnutí]] skončí).
+- **Elementární vlna**. Vlna adrenalinu a Vaše hluboké spojení s elementy vám na začátku boje poskytují dodatečnou sílu. Když se hází [[z_Atomy/0-9/🏁\|🏁]], získejte **(1k4+[[z_Atomy/0-9/🦉\|🦉]])** [[z_Atomy/0-9/🌀\|🌀]] ([[z_Atomy/0-9/🌀\|🌀]] zmizí, když [[z_Atomy/S/Střetnutí\|Střetnutí]] skončí).
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 6
@@ -134,7 +134,7 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 ## Studium Kontroly
 
 ## Tabulka kontroly
-Vyberte možnost, která ještě nebyla vybrána. Obnoví se, když hodíte [[z_Atomy/0-9/🚩\|🚩]] nebo když jsou vybrány všechny možnosti.
+Vyberte možnost, která ještě nebyla vybrána. Obnoví se, když hodíte [[z_Atomy/0-9/🏁\|🏁]] nebo když jsou vybrány všechny možnosti.
 
 | Možnost           | Efekt                                                                                         |
 | ----------------- | --------------------------------------------------------------------------------------------- |

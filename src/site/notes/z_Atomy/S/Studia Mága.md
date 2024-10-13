@@ -12,7 +12,7 @@
 ## Studium Kontroly
 
 ## Tabulka kontroly
-Vyberte možnost, která ještě nebyla vybrána. Obnoví se, když hodíte [[z_Atomy/0-9/🚩\|🚩]] nebo když jsou vybrány všechny možnosti.
+Vyberte možnost, která ještě nebyla vybrána. Obnoví se, když hodíte [[z_Atomy/0-9/🏁\|🏁]] nebo když jsou vybrány všechny možnosti.
 
 | Možnost           | Efekt                                                                                         |
 | ----------------- | --------------------------------------------------------------------------------------------- |

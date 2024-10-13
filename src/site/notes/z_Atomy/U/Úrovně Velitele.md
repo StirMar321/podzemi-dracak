@@ -26,7 +26,7 @@ Max Nabití = [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Připravený na bojiště.** Vyberte **jednu** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]]. Kdykoli trénujete se svou skupinou nebo jinými vojáky za [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]] nebo [[z_Atomy/P/Příkaz velitele\|Příkaz velitele]], kterou znáte za jinou, stejného typu.
 - **Zvýšení klíčové statistiky.** +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]].
 ## LVL 5
-- **Koordinátor**. Váš [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] ignoruje [[z_Atomy/0-9/👎\|👎]]. Kdykoli se hází [[z_Atomy/0-9/🚩\|🚩]], obnovíte +1 použití schopnosti [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]). 
+- **Koordinátor**. Váš [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] ignoruje [[z_Atomy/0-9/👎\|👎]]. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte +1 použití schopnosti [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]). 
 - **Mistr Velitel**. Vaše **[[z_Atomy/K/k-Války\|k-Války]]** jsou **k8**.
 - **Zvýšení sekundární statistiky.** +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 6

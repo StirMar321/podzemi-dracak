@@ -11,7 +11,7 @@
 
 - **Postav se mi!** (*Zářící dekret*). [[z_Atomy/R/REAKCE\|REAKCE]] ([[z_Atomy/0-9/💥\|💥]] proti spojenci do 12 metrů): Nepřítel utrpí ([[z_Atomy/0-9/💪\|💪]])k8 zářivé poškození (ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]), je přitažen až o 3 metry k Vám a je Vámi [[z_Atomy/P/Provokován\|Provokován]], dokud Vaše [[z_Atomy/0-9/❤\|❤]] neklesnou na **0**.
 ⠀
-- **Pohyb, pohyb!** (*Větrná síla*). Můžete sobě a jednomu spojenci dát ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/🚩\|🚩]] a [[z_Atomy/0-9/🏃\|🏃]] +3 metry v prvním [[z_Atomy/K/Kolo\|kole]] [[z_Atomy/S/Střetnutí\|Střetnutí]]. Oba se pak můžete zdarma pohnout.
+- **Pohyb, pohyb!** (*Větrná síla*). Můžete sobě a jednomu spojenci dát ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/🏁\|🏁]] a [[z_Atomy/0-9/🏃\|🏃]] +3 metry v prvním [[z_Atomy/K/Kolo\|kole]] [[z_Atomy/S/Střetnutí\|Střetnutí]]. Oba se pak můžete zdarma pohnout.
 ⠀
 - **Drž linii!** (*Krystalová zbroj*). 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (spojencovi [[z_Atomy/0-9/❤\|❤]] klesnou na **0**): Přikážete mu pokračovat v boji! Jeho [[z_Atomy/0-9/❤\|❤]] se obnoví na **(3x[[z_Atomy/L/LVL\|LVL]])** a navíc získá stejně [[z_Atomy/0-9/♡\|♡]]. Dokud má tyto [[z_Atomy/0-9/♡\|♡]], zpomalí útočníky na blízko na poloviční rychlost do konce svého příštího tahu.
 ⠀

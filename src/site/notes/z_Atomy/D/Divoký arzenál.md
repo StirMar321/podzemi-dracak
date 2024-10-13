@@ -6,9 +6,9 @@
 >[!NOTE]- **Změna je život**
 >Kdykoli provedete pozoruhodný čin destrukce nebo síly, můžete vyměnit **jednu** schopnost Divokého arzenálu za jinou.
 
-- **Nesmrtelná zuřivost.** 1/[[z_Atomy/K/Kolo\|Kolo]]. Když [[z_Atomy/0-9/🩸\|Umíráte]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a získat 1 Akci.
+- **Nesmrtelná zuřivost.** 1/[[z_Atomy/K/Kolo\|Kolo]]. Když máte stav [[z_Atomy/0-9/🩸\|🩸]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a získat 1 Akci.
 ⠀
-- **Bojechtivost.** Vaše [[z_Atomy/0-9/🚩\|🚩]] má [[z_Atomy/0-9/👍\|👍]]. První [[z_Atomy/T/Tah\|Tah]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]] se můžete volně pohnout o 2x[[z_Atomy/0-9/🎯\|🎯]] metry.
+- **Bojechtivost.** Vaše [[z_Atomy/0-9/🏁\|🏁]] má [[z_Atomy/0-9/👍\|👍]]. První [[z_Atomy/T/Tah\|Tah]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]] se můžete volně pohnout o 2x[[z_Atomy/0-9/🎯\|🎯]] metry.
 ⠀
 - **Do bitvy.** **1 [[z_Atomy/A/AKCE\|AKCE]]**. Skočte až 2x[[z_Atomy/0-9/🎯\|🎯]] metrů směrem k nepříteli. Pokud přistanete vedle alespoň 2 nepřátel, zdarma zaútočte.
 ⠀

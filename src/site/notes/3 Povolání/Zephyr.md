@@ -34,7 +34,7 @@ Válečníci, stejně zruční jako disciplinovaní, zasvětili své životy boj
 ## LVL 2
 - **Rychlé nohy**. Pokud jste [[z_Atomy/B/Bez Zbroje\|Bez Zbroje]] máte:
 	- +2 metry [[z_Atomy/0-9/🏃\|🏃]]
-	- +[[z_Atomy/L/LVL\|LVL]] k [[z_Atomy/0-9/🚩\|🚩]]
+	- +[[z_Atomy/L/LVL\|LVL]] k [[z_Atomy/0-9/🏁\|🏁]]
 - **Disciplinované manévry**. Umíte [[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/disciplinovane-manevry/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -43,7 +43,7 @@ Válečníci, stejně zruční jako disciplinovaní, zasvětili své životy boj
 
 
 ## Disciplinované manévry
-Když se hází [[z_Atomy/0-9/🚩\|🚩]], získáte **[[z_Atomy/0-9/🦉\|🦉]] bodů disciplíny**. 
+Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte **[[z_Atomy/0-9/🦉\|🦉]] bodů disciplíny**. 
 Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 
 - **Trpělivá obrana**. Můžete použít reakci [[z_Atomy/0-9/🛡️\|🛡️]] zdarma. Vyber si jeden mód.
@@ -78,7 +78,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 10
 - **Mistr bojových umění (4)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
-- **Studnice disciplíny (2)**. Když se hází [[z_Atomy/0-9/🚩\|🚩]], získáte +1 Bod disciplíny.
+- **Studnice disciplíny (2)**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte +1 Bod disciplíny.
 ## LVL 11
 - **Řády Zephyra**. Získáte schopnost **podtřídy** [[z_Atomy/R/Řády Zephyra\|Řádu Zephyra]].
 ## LVL 12
@@ -104,7 +104,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 ## LVL 20
 - **Větrný poutník**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**.
-	- Když se hází [[z_Atomy/0-9/🚩\|🚩]], získáte **+1 Bod disciplíny**. 
+	- Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte **+1 Bod disciplíny**. 
 	- Vždy máte **1 [[z_Atomy/A/AKCE\|Akci]]**. Když [[z_Atomy/0-9/🩸\|Umíráte]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]**.
 
 </div></div>
@@ -134,7 +134,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 ⠀
 - **Štědrá duše**. Když poprvé v tahu obdržíte léčení, můžete obnovit [[z_Atomy/0-9/🦉\|🦉]][[z_Atomy/0-9/❤\|❤]]  jinému tvorovi do vzdálenosti 6 metrů od Vás.
 ⠀
-- **Vytrvalá duše**. Pokaždé, když se hází [[z_Atomy/0-9/🚩\|🚩]], získáte [[z_Atomy/K/k-Ž\|k-Ž]] rovné Akcím, které máte v prvním tahu. Tyto kostky životů vyprší na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Vytrvalá duše**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte [[z_Atomy/K/k-Ž\|k-Ž]] rovné Akcím, které máte v prvním tahu. Tyto kostky životů vyprší na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
 - **Disciplinovaná trpělivost**. Kdykoli minete útok, získáte kumulativní bonus +[[z_Atomy/0-9/🦉\|🦉]] k veškerému poškození, které způsobíte po zbytek tohoto [[z_Atomy/S/Střetnutí\|Střetnutí]] (disciplinovaný bojovník nemine úmyslně).
 ⠀

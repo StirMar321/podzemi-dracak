@@ -21,7 +21,7 @@
 ⠀
 - **Zářivý mandát**. Kdykoli byste získali [[z_Atomy/K/k-Soudu\|k-Soudu]] nad svůj maximální počet, můžete ji místo toho předat spojenci ve vaší auře. [[z_Atomy/0-9/❓\|❓]] k prohlédnutí iluzí mají [[z_Atomy/0-9/👍\|👍]].
 ⠀
-- **Držte se, přátelé!** Kdykoli se hází [[z_Atomy/0-9/🚩\|🚩]], udělte spojencům ([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/🎭\|🎭]]) [[z_Atomy/0-9/♡\|♡]]. Vy a spojenci ve vaší auře máte [[z_Atomy/0-9/👍\|👍]] proti stavům [[z_Atomy/V/Vystrašen\|Vystrašen]], [[z_Atomy/S/Sražen\|Sražen]] a [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]].
+- **Držte se, přátelé!** Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], udělte spojencům ([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/🎭\|🎭]]) [[z_Atomy/0-9/♡\|♡]]. Vy a spojenci ve vaší auře máte [[z_Atomy/0-9/👍\|👍]] proti stavům [[z_Atomy/V/Vystrašen\|Vystrašen]], [[z_Atomy/S/Sražen\|Sražen]] a [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]].
 ⠀
 - **Nezastavitelný ochránce**. [[z_Atomy/0-9/🏃\|🏃]] +1 metr. Můžete provést reakci [[z_Atomy/0-9/🔰\|🔰]] i když jste [[z_Atomy/CH/Chycen\|Chycen]], [[z_Atomy/Z/Zmaten\|Zmaten]] nebo jinak omezen. Pokud provedete [[z_Atomy/0-9/🔰\|🔰]] pro [[z_Atomy/N/NPC\|NPC]], můžete tento [[z_Atomy/T/Tah\|Tah]] provést [[z_Atomy/0-9/🔰\|🔰]] znovu.
 ⠀

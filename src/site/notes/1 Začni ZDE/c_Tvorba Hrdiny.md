@@ -31,7 +31,7 @@ Vždy když splníte krok, můžete ho **"zavřít"**.
 >Vyplňte své bonusy [[z_Atomy/0-9/⚙️\|⚙️]] podle svých statistik a poté přidělte **dalších 5 [[z_Atomy/B/Body ⚙️\|Body ⚙️]]** (do alespoň 3 různých dovedností).
 
 >[!NOTE]+ **Iniciativa**
->Zaznamenejte si bonusy [[z_Atomy/0-9/🚩\|🚩]].
+>Zaznamenejte si bonusy [[z_Atomy/0-9/🏁\|🏁]].
 
 >[!NOTE]+ **Jazyky**
 >Zaznamenejte si [[z_Atomy/J/Jazyky\|Jazyky]] (volitelně [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]]).

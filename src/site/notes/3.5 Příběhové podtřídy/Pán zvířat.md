@@ -14,7 +14,7 @@
 
 
 ## Společník
-Vyberte si [[z_Atomy/M/MALÝ SPOLEČNÍK\|malého]], [[z_Atomy/S/STŘEDNÍ SPOLEČNÍK\|středního]]  nebo [[z_Atomy/V/VELKÝ SPOLEČNÍK\|velkého]] zvířecího společníka. Nezískáváte nabití **Lovecké horečky** při hodu na [[z_Atomy/0-9/🚩\|🚩]]. Místo prvních dvou schopností **Lovecké horečky**, které byste vybírali, získáte schopnosti **Jdi po krku!** a **Chraň mě!**, které můžete použít se svým společníkem.
+Vyberte si [[z_Atomy/M/MALÝ SPOLEČNÍK\|malého]], [[z_Atomy/S/STŘEDNÍ SPOLEČNÍK\|středního]]  nebo [[z_Atomy/V/VELKÝ SPOLEČNÍK\|velkého]] zvířecího společníka. Nezískáváte nabití **Lovecké horečky** při hodu na [[z_Atomy/0-9/🏁\|🏁]]. Místo prvních dvou schopností **Lovecké horečky**, které byste vybírali, získáte schopnosti **Jdi po krku!** a **Chraň mě!**, které můžete použít se svým společníkem.
 
 >[!NOTE]- **Žádné statistiky nebo akce ke sledování!**  
 >Stále máte k dispozici 3 akce, které sdílíte se svým společníkem. Životy a pohyb tvého společníka jsou abstraktní. Ví, kde je nejvíce potřeba, aniž byste mu to museli říkat - ať už Vás brání, nebo útočí na Váš cíl. Je dost chytrý, a Vy se o něj dost staráte, aby nikdy nebyl vystaven smrtelnému nebezpečí.

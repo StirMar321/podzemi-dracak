@@ -230,7 +230,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **VŠICHNI shoříme!** Můžete seslat kouzlo [[z_Atomy/O/Ohnivá koule\|Ohnivá koule]] za 0 many, ale zahrnete do poškození také sebe. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❗\|❗]]. Naučte se 1 [[4 Kouzla/g_Tríčky\|Tríček]] z domény ohně.
 
 ### LVL 11
-- **Srdce spalujícího žáru**. +1 [[z_Atomy/0-9/🌀\|🌀]], když se hází [[z_Atomy/0-9/🚩\|🚩]]. Tato mana zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Srdce spalujícího žáru**. +1 [[z_Atomy/0-9/🌀\|🌀]], když se hází [[z_Atomy/0-9/🏁\|🏁]]. Tato mana zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
 ### LVL 15
 - **Posedlý Patronem**. Utržíte 1k4 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a sešlete kouzlo [[z_Atomy/D/Dračí forma\|Dračí forma]] zdarma a za 0 many.

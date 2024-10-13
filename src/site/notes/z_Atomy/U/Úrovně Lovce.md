@@ -19,7 +19,7 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Sběrač**. Vaše [[z_Atomy/0-9/❓\|❓]] pro hledání jídla a vody mají [[z_Atomy/0-9/👍\|👍]].
 ## LVL 2
 - **Lovecká horečka**. Adrenalin při sledování vaší kořisti vám poskytuje dodatečné schopnosti v boji. Vyberte **2 schopnosti** [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]]. Získáte **1 nabití** Lovecké horečky, když:
-	- se hází [[z_Atomy/0-9/🚩\|🚩]]
+	- se hází [[z_Atomy/0-9/🏁\|🏁]]
 	- když Vy zabijete Vaši [[z_Atomy/K/Kořist\|Kořist]]. 
 	- udeříte [[z_Atomy/K/Kořist\|Kořist]] zbraní na blízko. 
 	- Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].

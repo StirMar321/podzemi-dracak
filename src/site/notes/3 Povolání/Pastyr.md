@@ -162,7 +162,7 @@ X = Cena seslání
 ⠀
 - **Strážný duch**. Když váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] hodí 6+ na své kostce, cíl začne zářit svatým světlem. Příští útok je proti nim prováděn s Vaší volbou [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
 ⠀
-- **Světlonoš**. Obnovte 1 použití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]], kdykoli se hází [[z_Atomy/0-9/🚩\|🚩]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Světlonoš**. Obnovte 1 použití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]], kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
 - **Pomoz mi, můj příteli**. Kdykoli provedete svůj první útok na blízko každé [[z_Atomy/K/Kolo\|Kolo]], můžete k útoku přidat poškození Vašeho [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]].
 ⠀
@@ -197,7 +197,7 @@ X = Cena seslání
 - **Mocný léčitel**. [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🔋\|🔋]]. Kdykoli byste házeli kostkami pro obnovu [[z_Atomy/0-9/❤\|❤]], můžete místo toho léčit maximální množství poškození nebo dát [[z_Atomy/0-9/♡\|♡]].
 
 ### LVL 15
-- **Posílený vodič**. Váš **Světlovodič** může zacílit 1 **další cíl** a když se hází [[z_Atomy/0-9/🚩\|🚩]], obnovte +1 nabití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Posílený vodič**. Váš **Světlovodič** může zacílit 1 **další cíl** a když se hází [[z_Atomy/0-9/🏁\|🏁]], obnovte +1 nabití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
 </div></div>
 
@@ -221,7 +221,7 @@ X = Cena seslání
 	- Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] uděluje [[z_Atomy/0-9/💪\|💪]] poškození navíc.
 
 ### LVL 15
-- **Smrtivodič**. Vaše schopnost **Požehnání záhrobí** se obnoví vždy, když se hází [[z_Atomy/0-9/🚩\|🚩]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Smrtivodič**. Vaše schopnost **Požehnání záhrobí** se obnoví vždy, když se hází [[z_Atomy/0-9/🏁\|🏁]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
 </div></div>
 

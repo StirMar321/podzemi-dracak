@@ -44,7 +44,7 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 - **Píseň odpočinku**. 1/Den. Kdykoli za [[z_Atomy/0-9/🪫\|🪫]] můžete spojencům zahrát a umožnit každému, kdo použil [[z_Atomy/K/k-Ž\|k-Ž]], obnovit [[z_Atomy/0-9/❤\|❤]] rovné Vašemu [[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 3
 - **Básnické Koleje**. Vyberte si **podtřídu** [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
-- **Pohotový důvtip**. Kdykoli se hází [[z_Atomy/0-9/🚩\|🚩]], můžete obnovit 1 nabití [[z_Atomy/B/Básníkova Inspirace\|Básníkovy Inspirace]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]).
+- **Pohotový důvtip**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete obnovit 1 nabití [[z_Atomy/B/Básníkova Inspirace\|Básníkovy Inspirace]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]).
 - **Kecálek**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
 ## LVL 4
 - **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a posilovat kouzla na 2. stupeň.

@@ -14,4 +14,4 @@
 - **Mocný léčitel**. [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🔋\|🔋]]. Kdykoli byste házeli kostkami pro obnovu [[z_Atomy/0-9/❤\|❤]], můžete místo toho léčit maximální množství poškození nebo dát [[z_Atomy/0-9/♡\|♡]].
 
 ### LVL 15
-- **Posílený vodič**. Váš **Světlovodič** může zacílit 1 **další cíl** a když se hází [[z_Atomy/0-9/🚩\|🚩]], obnovte +1 nabití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Posílený vodič**. Váš **Světlovodič** může zacílit 1 **další cíl** a když se hází [[z_Atomy/0-9/🏁\|🏁]], obnovte +1 nabití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].

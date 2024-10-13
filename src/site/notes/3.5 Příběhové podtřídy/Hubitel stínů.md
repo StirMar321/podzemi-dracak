@@ -46,4 +46,4 @@ Vyvolejte magickou **Kostěnou kosu**: zbraň na blízko ([[z_Atomy/0-9/👊\|�
 - **Nadzemská moc**. Máte ([[z_Atomy/0-9/👍\|👍]]) na [[z_Atomy/K/Koncentrace\|Koncentrace]] (místo ([[z_Atomy/0-9/👎\|👎]])), pokud máte alespoň 1 [[z_Atomy/S/Stínový sluha\|Stínového sluhu]].
 
 ### LVL 15
-- **Teď jsem patron já!** Přivolejte 2 [[z_Atomy/S/Stínový sluha\|Stínové sluhy]] zdarma, když se hází [[z_Atomy/0-9/🚩\|🚩]].
+- **Teď jsem patron já!** Přivolejte 2 [[z_Atomy/S/Stínový sluha\|Stínové sluhy]] zdarma, když se hází [[z_Atomy/0-9/🏁\|🏁]].

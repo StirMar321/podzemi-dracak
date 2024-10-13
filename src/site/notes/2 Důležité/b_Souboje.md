@@ -199,7 +199,7 @@ Dejte spojenci [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]], [[
 
 # Začátek boje
 Bojové [[z_Atomy/S/Střetnutí\|Střetnutí]] začíná, když [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] skupině řekne: **„Hoďte si iniciativu!“** 
-Každý hráč hodí 1k20 a přičte svůj bonus [[z_Atomy/0-9/🚩\|🚩]]. 
+Každý hráč hodí 1k20 a přičte svůj bonus [[z_Atomy/0-9/🏁\|🏁]]. 
 
 Výsledky:
 - **1-9**: V prvním tahu máte **1 Akce**
@@ -217,9 +217,9 @@ Bez ohledu na **iniciativu** si na **konci** svého tahu obnovte **všechny 3 ak
 
 
 ### Překvapení
-Občas může skupina manévrovat tak obratně, že je jejich nepřítel **úplně zaskočen**. V tomto případě může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] udělit skupině [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/🚩\|🚩]] nebo v extrémních případech nemusí házet na **Iniciativu** vůbec a začít svůj první [[z_Atomy/T/Tah\|Tah]] se všemi 3 akcemi. Pouhé skrytí nebo první úder není dostačující k získání překvapení. Pokud je nepřítel ve střehu nebo je si vědom vaší přítomnosti, nemůže být překvapen. 
+Občas může skupina manévrovat tak obratně, že je jejich nepřítel **úplně zaskočen**. V tomto případě může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] udělit skupině [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/🏁\|🏁]] nebo v extrémních případech nemusí házet na **Iniciativu** vůbec a začít svůj první [[z_Atomy/T/Tah\|Tah]] se všemi 3 akcemi. Pouhé skrytí nebo první úder není dostačující k získání překvapení. Pokud je nepřítel ve střehu nebo je si vědom vaší přítomnosti, nemůže být překvapen. 
 
-Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🚩\|🚩]] s [[z_Atomy/0-9/👎\|👎]] nebo v extrémních případech automaticky začínají [[z_Atomy/S/Střetnutí\|Střetnutí]] pouze s 1 akcí.
+Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🏁\|🏁]] s [[z_Atomy/0-9/👎\|👎]] nebo v extrémních případech automaticky začínají [[z_Atomy/S/Střetnutí\|Střetnutí]] pouze s 1 akcí.
 
 </div></div>
 

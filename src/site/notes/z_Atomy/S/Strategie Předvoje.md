@@ -10,7 +10,7 @@
 - **Zkušený Velitel**. Váš [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] může zacílit +1 dalšího spojence. Získejte +1 použití [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]]/[[z_Atomy/0-9/🔋\|🔋]]
 
 ### LVL 11
-- **Zkoumání Bojiště**. Pokaždé, když se hází [[z_Atomy/0-9/🚩\|🚩]], obnovíte +1 použití pro [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]]
+- **Zkoumání Bojiště**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte +1 použití pro [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]]
 
 ### LVL 15
 - **Jako Jeden!** Útoky provedené s vaším [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] také poskytují [[z_Atomy/0-9/👍\|👍]] a ignorují [[z_Atomy/0-9/👎\|👎]]. Vybraní spojenci získají 1 akci, kterou mohou použít ve svém příštím tahu.

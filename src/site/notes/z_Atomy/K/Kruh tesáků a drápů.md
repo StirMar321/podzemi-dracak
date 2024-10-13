@@ -4,8 +4,8 @@
 
 ## Kruh tesáků a drápů
 ### LVL 3
-- **Rychlá proměna**. Když se hází [[z_Atomy/0-9/🚩\|🚩]], můžete se zdarma proměnit v [[z_Atomy/D/Divotvar\|Divotvar]] nebo se pohnout.
-- **Bojuj další den**. Když zrušíte svůj [[z_Atomy/D/Divotvar\|Divotvar]], můžete se teleportovat až o 6 metrů na místo, které vidíte. Kdykoliv se hází [[z_Atomy/0-9/🚩\|🚩]], obnovíte jedno použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Rychlá proměna**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], můžete se zdarma proměnit v [[z_Atomy/D/Divotvar\|Divotvar]] nebo se pohnout.
+- **Bojuj další den**. Když zrušíte svůj [[z_Atomy/D/Divotvar\|Divotvar]], můžete se teleportovat až o 6 metrů na místo, které vidíte. Kdykoliv se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte jedno použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 - **Přítel zvířat**. Bestie a zvířata na vás nezaútočí, dokud jim neublížíte.
 ### LVL 7
 - **Ušlechtilé bestie**. [[z_Atomy/D/Divotvar\|Divotvar]] má navíc tyto schopnosti:

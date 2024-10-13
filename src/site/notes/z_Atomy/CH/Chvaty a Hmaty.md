@@ -21,7 +21,7 @@
 ⠀
 - **Štědrá duše**. Když poprvé v tahu obdržíte léčení, můžete obnovit [[z_Atomy/0-9/🦉\|🦉]][[z_Atomy/0-9/❤\|❤]]  jinému tvorovi do vzdálenosti 6 metrů od Vás.
 ⠀
-- **Vytrvalá duše**. Pokaždé, když se hází [[z_Atomy/0-9/🚩\|🚩]], získáte [[z_Atomy/K/k-Ž\|k-Ž]] rovné Akcím, které máte v prvním tahu. Tyto kostky životů vyprší na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Vytrvalá duše**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte [[z_Atomy/K/k-Ž\|k-Ž]] rovné Akcím, které máte v prvním tahu. Tyto kostky životů vyprší na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
 - **Disciplinovaná trpělivost**. Kdykoli minete útok, získáte kumulativní bonus +[[z_Atomy/0-9/🦉\|🦉]] k veškerému poškození, které způsobíte po zbytek tohoto [[z_Atomy/S/Střetnutí\|Střetnutí]] (disciplinovaný bojovník nemine úmyslně).
 ⠀

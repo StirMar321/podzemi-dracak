@@ -54,7 +54,7 @@ Max Nabití = [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Připravený na bojiště.** Vyberte **jednu** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]]. Kdykoli trénujete se svou skupinou nebo jinými vojáky za [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]] nebo [[z_Atomy/P/Příkaz velitele\|Příkaz velitele]], kterou znáte za jinou, stejného typu.
 - **Zvýšení klíčové statistiky.** +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]].
 ## LVL 5
-- **Koordinátor**. Váš [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] ignoruje [[z_Atomy/0-9/👎\|👎]]. Kdykoli se hází [[z_Atomy/0-9/🚩\|🚩]], obnovíte +1 použití schopnosti [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]). 
+- **Koordinátor**. Váš [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] ignoruje [[z_Atomy/0-9/👎\|👎]]. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte +1 použití schopnosti [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]). 
 - **Mistr Velitel**. Vaše **[[z_Atomy/K/k-Války\|k-Války]]** jsou **k8**.
 - **Zvýšení sekundární statistiky.** +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 6
@@ -112,7 +112,7 @@ Max Nabití = [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 
 - **Já jsem tady!** [[z_Atomy/R/REAKCE\|REAKCE]] ([[z_Atomy/0-9/💥\|💥]] proti spojenci do 12 metrů): Můžete přikázat nepříteli, aby vám čelil. Je [[z_Atomy/P/Provokován\|Provokován]], dokud Vaše [[z_Atomy/0-9/❤\|❤]] neklesnou na **0**.
 ⠀
-- **Pohyb, pohyb!** Můžete sobě a jednomu spojenci dát [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/🚩\|🚩]] a +3 metry [[z_Atomy/0-9/🏃\|🏃]] v prvním [[z_Atomy/K/Kolo\|kole]] [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Pohyb, pohyb!** Můžete sobě a jednomu spojenci dát [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/🏁\|🏁]] a +3 metry [[z_Atomy/0-9/🏃\|🏃]] v prvním [[z_Atomy/K/Kolo\|kole]] [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
 - **Drž linii!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (spojencovi [[z_Atomy/0-9/❤\|❤]] klesnou na **0**): Přikážete mu pokračovat v boji! Jeho [[z_Atomy/0-9/❤\|❤]] se obnoví na **(3x[[z_Atomy/L/LVL\|LVL]])**. 
 ⠀
@@ -135,7 +135,7 @@ Max Nabití = [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 >Kdykoli trénujete se svou skupinou nebo jinými vojáky během [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu schopnost [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]], [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] nebo [[z_Atomy/P/Příkaz velitele\|Příkaz velitele]], kterou znáte za jinou, stejného typu.
 
 > [!NOTE]+ **Kostky Války**
-> Kdykoli házíte [[z_Atomy/0-9/🚩\|🚩]], získáte **[[z_Atomy/K/k-Války\|k-Války]]** rovné Vaší ([[z_Atomy/0-9/🎓\|🎓]]) (min. 1). Jejich základní velikost je **k6**. Jednou během [[z_Atomy/0-9/⚔️\|Útoku]] můžete utratit jednu **Válečnou Kostku** pro provedení **Válečné taktiky**.
+> Kdykoli házíte [[z_Atomy/0-9/🏁\|🏁]], získáte **[[z_Atomy/K/k-Války\|k-Války]]** rovné Vaší ([[z_Atomy/0-9/🎓\|🎓]]) (min. 1). Jejich základní velikost je **k6**. Jednou během [[z_Atomy/0-9/⚔️\|Útoku]] můžete utratit jednu **Válečnou Kostku** pro provedení **Válečné taktiky**.
 
 - **Silný úder**. **1** [[z_Atomy/K/k-Války\|k-Války]]. Když Váš [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, odstrčíte **Středního** tvora o [[z_Atomy/0-9/💪\|💪]] metrů a udělíte dodatečné poškození rovné hodnotě hodu **[[z_Atomy/K/k-Války\|k-Války]]**. **Malý** tvor je odtlačen dvakrát tak daleko; **Velký** je odtlačen o polovinu (zaokrouhleno dolů). (viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])
 ⠀
@@ -209,7 +209,7 @@ Max Nabití = [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Zkušený Velitel**. Váš [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] může zacílit +1 dalšího spojence. Získejte +1 použití [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]]/[[z_Atomy/0-9/🔋\|🔋]]
 
 ### LVL 11
-- **Zkoumání Bojiště**. Pokaždé, když se hází [[z_Atomy/0-9/🚩\|🚩]], obnovíte +1 použití pro [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]]
+- **Zkoumání Bojiště**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte +1 použití pro [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]]
 
 ### LVL 15
 - **Jako Jeden!** Útoky provedené s vaším [[z_Atomy/K/Koordinovaný Úder!\|Koordinovaný Úder!]] také poskytují [[z_Atomy/0-9/👍\|👍]] a ignorují [[z_Atomy/0-9/👎\|👎]]. Vybraní spojenci získají 1 akci, kterou mohou použít ve svém příštím tahu.

@@ -46,7 +46,7 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Sběrač**. Vaše [[z_Atomy/0-9/❓\|❓]] pro hledání jídla a vody mají [[z_Atomy/0-9/👍\|👍]].
 ## LVL 2
 - **Lovecká horečka**. Adrenalin při sledování vaší kořisti vám poskytuje dodatečné schopnosti v boji. Vyberte **2 schopnosti** [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]]. Získáte **1 nabití** Lovecké horečky, když:
-	- se hází [[z_Atomy/0-9/🚩\|🚩]]
+	- se hází [[z_Atomy/0-9/🏁\|🏁]]
 	- když Vy zabijete Vaši [[z_Atomy/K/Kořist\|Kořist]]. 
 	- udeříte [[z_Atomy/K/Kořist\|Kořist]] zbraní na blízko. 
 	- Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
@@ -164,7 +164,7 @@ Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová n
 
 ## Zaměření Stopař
 ### LVL 3
-- **Útočník ze zálohy**. Kdykoli se hází [[z_Atomy/0-9/🚩\|🚩]], můžete zdarma seslat schopnost [[z_Atomy/L/Lovcova marka\|Lovcova marka]]. Máte ([[z_Atomy/0-9/👍\|👍]]) pro Váš první útok v každém [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Útočník ze zálohy**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete zdarma seslat schopnost [[z_Atomy/L/Lovcova marka\|Lovcova marka]]. Máte ([[z_Atomy/0-9/👍\|👍]]) pro Váš první útok v každém [[z_Atomy/S/Střetnutí\|Střetnutí]].
 - **Zkušený stopař**. Vaše [[z_Atomy/0-9/❓\|❓]] mají ([[z_Atomy/0-9/👍\|👍]]) při stopování.
 - **Zkušený navigátor**. Nemůžete se ztratit nemagickými prostředky.
 
@@ -177,7 +177,7 @@ Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová n
 ### LVL 15
 - **Vrcholový predátor**. 
 	- Můžete použít schopnost **Predátor** dvakrát za [[z_Atomy/S/Střetnutí\|Střetnutí]]. 
-	- Získáte +1 nabití [[z_Atomy/L/Lovecká horečka\|Lovecká horečka]] když se hází [[z_Atomy/0-9/🚩\|🚩]].
+	- Získáte +1 nabití [[z_Atomy/L/Lovecká horečka\|Lovecká horečka]] když se hází [[z_Atomy/0-9/🏁\|🏁]].
 
 </div></div>
 
