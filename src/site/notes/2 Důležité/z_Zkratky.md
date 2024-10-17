@@ -43,7 +43,7 @@ Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžš
 
 
 ## 🎓 = INTELIGENCE
-Spolu s [[z_Atomy/0-9/🦉\|🦉]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Určuje známé [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/N/Naladění\|Naladění]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] a [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
+Spolu s [[z_Atomy/0-9/🦉\|🦉]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/0-9/✨\|✨]], používaní [[z_Atomy/K/Kouzelný svitek\|Kouzelných svitků]] [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] a [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
@@ -194,9 +194,10 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Vnímání** k odhalení skrytých p�
 Vaše schopnost porozumět lidem a situacím nad běžný rámec.
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Vhled** k odhalení motivů, rozpoznání lží, čtení skrytých emocí, pochopení stop a v situacích nejistoty. Někdy prostě "pochopíte", co se děje.
 
-Vhled lze také *občas* použít k retroaktivní změně situací!
-**Hráč**: "Ach ne! Zapomněl jsem koupit lano ve městě."
-**[[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]**: "Hoď si na **Vhled**, možná na to tvůj hrdina myslel."
+> [!NOTE]- Varianta
+> Vhled lze také *občas* použít k retroaktivní změně situací!
+> **Hráč**: "Ach ne! Zapomněl jsem koupit lano ve městě."
+> **[[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]**: "Hoď si na **Vhled**, možná na to tvůj hrdina myslel."
 
 </div></div>
 
@@ -267,7 +268,7 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 
 
 # (⛉⛊) = Brnění nepřátel
-- **Žádné brnění**. Utrží všechno poškození. Utrží poškození ze součtu kostek plus bonusy.
+- **Žádné brnění**. Většina nepřátel nemá brnění. Utrží všechno poškození. Utrží poškození ze součtu kostek plus bonusy.
 - **[[z_Atomy/0-9/⛉\|⛉]] Střední brnění = Pouze kostky!** Monstra se středním brněním ignorují všechny bonusy poškození. Utrží poškození pouze z hodu kostek.
 - **[[z_Atomy/0-9/⛊\|⛊]]** **Těžké brnění = Polovina kostek!** Monstra s těžkým brněním ignorují bonusy poškození a utrží polovinu poškození z hodu kostek (zaokrouhleno nahoru).
 
@@ -485,7 +486,7 @@ Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], která musí být dorovn
 
 **Přirozená 20 vždy znamená úspěch** bez ohledu na další modifikátory.
 
-Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Atomy/0-9/💥\|💥]] a ani **nemohou** **minout**.
+Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Atomy/0-9/💥\|💥]] a **nemohou** **minout**.
 
 - ❗[[z_Atomy/0-9/💪\|💪]]. Používá se pro [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]], otravu, odolání extrémním teplotám nebo schopnosti udržet se na nohou během vichřice.
 - ❗[[z_Atomy/0-9/🎯\|🎯]]. Používá se, když potřebujete skočit do úkrytu před explozí, udržet se na nohou při běhu po zledovatělé podlaze nebo při balancování na okraji útesu.

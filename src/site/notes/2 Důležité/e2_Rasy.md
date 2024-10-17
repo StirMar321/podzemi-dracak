@@ -254,8 +254,8 @@
 
 ## Nebešťan
 
-| ![nebestan.png](/img/user/z_img/nebestan.png) | Potomci **nebeských bytostí** vyzařují auru vznešenosti a elegance. Díky svému vrozenému spojení s vyššími sférami dokáží odolávat nepřízni osudu a mít jistotu tam, kde by jiní mohli selhat.<br><br>**Urozený**. Tvá ([[z_Atomy/0-9/👎\|👎]]) tvé [[z_Atomy/H/Hrdinské❗👍&👎\|Hrdinské❗👍&👎]] je místo toho *neutrální*. |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![nebestan.png](/img/user/z_img/nebestan.png) | Potomci **nebeských bytostí** vyzařují auru vznešenosti a elegance. Díky svému vrozenému spojení s vyššími sférami dokáží odolávat nepřízni osudu a mít jistotu tam, kde by jiní mohli selhat.<br><br>**Urozený**. Tvá ([[z_Atomy/0-9/👎\|👎]]) tvé [[z_Atomy/H/Hrdinské❗👍&👎\|Hrdinské❗👍&👎]] je místo toho *neutrální*.<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 </div></div>
@@ -268,8 +268,8 @@
 
 ## Dryáda a Houbák
 
-| ![dryada.png](/img/user/z_img/dryada.png) | Svázáni s přírodním světem, **Dryády a Houbáci** zosobňují rovnováhu mezi flórou a faunou. Jejich jedinečná fyziologie uvolňuje při zranění toxické spóry, které slouží jako přirozená obrana proti těm, kteří se je odváží napadnout.<br><br>**Nebezpečné spóry!** Kdykoli utrpíte jedno nebo více [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], vypustíte uspávací spory, které [[z_Atomy/Z/Zmaten\|Zmatou]] všechny sousední nepřátele. |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![dryada.png](/img/user/z_img/dryada.png) | Svázáni s přírodním světem, **Dryády a Houbáci** zosobňují rovnováhu mezi flórou a faunou. Jejich jedinečná fyziologie uvolňuje při zranění toxické spóry, které slouží jako přirozená obrana proti těm, kteří se je odváží napadnout.<br><br>**Nebezpečné spóry!** Kdykoli utrpíte jedno nebo více [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], vypustíte uspávací spory, které [[z_Atomy/Z/Zmaten\|Zmatou]] všechny sousední nepřátele.<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední/Malý |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 </div></div>
@@ -282,8 +282,8 @@
 
 ## Minotaur a Zvířecí lid
 
-| ![minotaur.png](/img/user/z_img/minotaur.png) | **Minotauři a Zvířecí lid** zosobňují prvotní spojení s divočinou, propojují sílu s přírodní obratností. Jejich mocná postava jim umožňuje rychlý pohyb, ať už při manévrování, aby obklíčili nepřátele, nebo při útoku s nezkrotnou silou.<br><br>**Setrvačnost**: 1/[[z_Atomy/K/Kolo\|Kolo]]. Když použijete [[z_Atomy/0-9/🥾\|🥾]] a urazíte 4+ metrů, můžete zdarma odstrčit tvora v/na cestě. Středního 1 metr, Malého 2 metry. |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![minotaur.png](/img/user/z_img/minotaur.png) | **Minotauři a Zvířecí lid** zosobňují prvotní spojení s divočinou, propojují sílu s přírodní obratností. Jejich mocná postava jim umožňuje rychlý pohyb, ať už při manévrování, aby obklíčili nepřátele, nebo při útoku s nezkrotnou silou.<br><br>**Setrvačnost**: 1/[[z_Atomy/K/Kolo\|Kolo]]. Když použijete [[z_Atomy/0-9/🥾\|🥾]] a urazíte 4+ metrů, můžete zdarma odstrčit tvora v/na cestě. Středního 1 metr, Malého 2 metry.<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 </div></div>
@@ -296,8 +296,8 @@
 
 ## Želví lid
 
-| ![zelvak.png](/img/user/z_img/zelvak.png) | Želví lid si dává na čas ve všem co dělají. Jsou trpěliví, odolní a jen tak je něco nerozzlobí. Spoléhají na své silné krunýře, které je chrání, a díky tomu je těžké jim ublížit. Jejich opatrné pohyby však přicházejí na úkor rychlosti.<br><br>**Krunýř**: +3 [[z_Atomy/B/Brnění\|Brnění]]<br>**Pomalý**: -2 metry [[z_Atomy/0-9/🏃\|🏃]] |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![zelvak.png](/img/user/z_img/zelvak.png) | Želví lid si dává na čas ve všem co dělají. Jsou trpěliví, odolní a jen tak je něco nerozzlobí. Spoléhají na své silné krunýře, které je chrání, a díky tomu je těžké jim ublížit. Jejich opatrné pohyby však přicházejí na úkor rychlosti.<br><br>**Krunýř**: +3 [[z_Atomy/B/Brnění\|Brnění]]<br>**Pomalý**: -2 metry [[z_Atomy/0-9/🏃\|🏃]]<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední/Malý |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 </div></div>

@@ -21,7 +21,7 @@ Nepřátele ovládá [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] a rozh
 
 
 # (⛉⛊) = Brnění nepřátel
-- **Žádné brnění**. Utrží všechno poškození. Utrží poškození ze součtu kostek plus bonusy.
+- **Žádné brnění**. Většina nepřátel nemá brnění. Utrží všechno poškození. Utrží poškození ze součtu kostek plus bonusy.
 - **[[z_Atomy/0-9/⛉\|⛉]] Střední brnění = Pouze kostky!** Monstra se středním brněním ignorují všechny bonusy poškození. Utrží poškození pouze z hodu kostek.
 - **[[z_Atomy/0-9/⛊\|⛊]]** **Těžké brnění = Polovina kostek!** Monstra s těžkým brněním ignorují bonusy poškození a utrží polovinu poškození z hodu kostek (zaokrouhleno nahoru).
 

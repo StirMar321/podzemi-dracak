@@ -4,31 +4,17 @@
 
 # Magické zbraně
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/n/naladeni/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-# Naladění na Magické Předměty
-Aby bylo možné používat magické předměty, mohou vyžadovat **Naladění**: sladění duše a předmětu. 
-Hrdina musí držet a soustředit se na magický předmět **1** [[z_Atomy/0-9/🪫\|🪫]], aby se s ním sladil. Většina magických předmětů může být sladěna pouze s 1 hrdinou.
-
-Hrdina může být sladěn s ([[z_Atomy/0-9/🎓\|🎓]]) magickými předměty (ale minimálně 1).
-
-</div></div>
-
-
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/t/typicke-ceny-magickych-predmetu/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-| **Vzácnost**     | **Cena**         | **Obvykle nalezeno na úrovních**     |
-| ---------------- | ---------------- | ------------------------------------ |
-| **Neobvyklé**    | 50–500zl         | Obvykle se nachází na úrovních 3–6   |
-| **Vzácné**       | 1.500–15.000zl   | Obvykle se nachází na úrovních 5–12  |
-| **Velmi vzácné** | 50.000–500.000zl | Obvykle se nachází na úrovních 8–16  |
-| **Legendární**   | 1.000.000zl      | Obvykle se nachází na úrovních 15–20 |
+| **Vzácnost**     | **Obvykle nalezeno na úrovních**     | **Cena**             |
+| ---------------- | ------------------------------------ | -------------------- |
+| **Neobvyklé**    | Obvykle se nachází na úrovních 3–6   | 50–500[[z_Atomy/0-9/🟡\|🟡]]         |
+| **Vzácné**       | Obvykle se nachází na úrovních 5–12  | 1.500–15.000[[z_Atomy/0-9/🟡\|🟡]]   |
+| **Velmi vzácné** | Obvykle se nachází na úrovních 8–16  | 50.000–500.000[[z_Atomy/0-9/🟡\|🟡]] |
+| **Legendární**   | Obvykle se nachází na úrovních 15–20 | 1.000.000[[z_Atomy/0-9/🟡\|🟡]]      |
 
 
 </div></div>
@@ -113,7 +99,7 @@ Když máte tuto zbraň vybavenou, máte -1 pro [[z_Atomy/0-9/❗\|❗]] [[z_Ato
 
 
 ## Myšlenkové Dýky
-*(neobvyklé, vyžaduje [[z_Atomy/N/Naladění\|Naladění]])*
+*neobvyklé*
 
 Dvojice dýk umožňuje sdílení myšlenek mezi každým, kdo jednu z nich drží nebo je jí zasažen.
 
@@ -126,7 +112,7 @@ Dvojice dýk umožňuje sdílení myšlenek mezi každým, kdo jednu z nich drž
 
 
 ## Krvavé brko
-*Neobvyklé, vyžaduje [[z_Atomy/N/Naladění\|Naladění]]*
+*Neobvyklé*
 
 Pokud toto brko namočíš do krve mrtvé inteligentní bytosti, brko se oživí a napíše poslední slova, která tato bytost pronesla.
 
@@ -139,7 +125,7 @@ Pokud toto brko namočíš do krve mrtvé inteligentní bytosti, brko se oživí
 
 
 ## Oči ulice
-*Neobvyklé, vyžaduje [[z_Atomy/N/Naladění\|Naladění]]*
+*Neobvyklé*
 
 Pár brýlí pokrytých špínou, kterou nikdy nelze úplně očistit. Když je nosíš, můžeš se podívat na krysu nebo holuba a získat schopnost vidět a slyšet jejich smysly po dobu 10 minut.  
 Jakmile tuto schopnost použiješ, musíš brýlím pošeptat tajemství, než je budeš moci použít znovu. To tajemství se vždy po nějaké době stane místní fámou…
@@ -153,7 +139,7 @@ Jakmile tuto schopnost použiješ, musíš brýlím pošeptat tajemství, než j
 
 
 ## Obvazy síly  
-*Vzácné, vyžaduje [[z_Atomy/N/Naladění\|Naladění]]*
+*Vzácné*
 
 Když máš tyto obvazy na rukou, můžeš při neozbrojeném útoku odtlačit svůj cíl až o 2 metry a sám se posunout o stejnou vzdálenost opačným směrem. Můžeš místo toho zaútočit na vzduch, aniž bys měl cíl, a vystřelit se tím až o 4 metry libovolným směrem.
 
@@ -166,7 +152,7 @@ Když máš tyto obvazy na rukou, můžeš při neozbrojeném útoku odtlačit s
 
 
 ## Nezdolné tesáky, Zlatá bašta
-*Legendární štít, vyžaduje [[z_Atomy/N/Naladění\|Naladění]]*
+*Legendární štít*
 
 +5 [[z_Atomy/B/Brnění\|Brnění]]. Kdykoli s tímto štítem snížíš poškození útoku na blízko, můžeš použít Reakci k tomu, aby štít útočníka [[z_Atomy/CH/Chycení\|Chytil]], bez ohledu na jeho velikost (unikne, pokud uspěje v [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/💪\|💪]] [[z_Atomy/0-9/📶\|📶]] **20**).
 
@@ -181,7 +167,7 @@ Když máš tyto obvazy na rukou, můžeš při neozbrojeném útoku odtlačit s
 
 
 ## Klíč dveří  
-*Velmi vzácný, vyžaduje [[z_Atomy/N/Naladění\|naladění]]*
+*Velmi vzácný*
 
 Zasuň tento klíč do jakýchkoli zamčených dveří a otevři je. Místo toho, aby se dveře otevřely do místnosti za nimi, stanou se portálem k jakýmkoli dveřím, kterými jsi prošel, zatímco jsi byl naladěný na tento předmět.
 
@@ -194,7 +180,7 @@ Zasuň tento klíč do jakýchkoli zamčených dveří a otevři je. Místo toho
 
 
 ## Ponurá koruna  
-*Velmi vzácná, vyžaduje [[z_Atomy/N/Naladění\|Naladění]]*
+*Velmi vzácná*
 
 Když bys měl zemřít s touto korunou na hlavě, získáš 3 akce a ihned provedeš svůj tah. Na konci svého tahu zemřeš.
 

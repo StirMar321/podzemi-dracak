@@ -3,6 +3,6 @@
 ---
 
 ## Ponurá koruna  
-*Velmi vzácná, vyžaduje [[z_Atomy/N/Naladění\|Naladění]]*
+*Velmi vzácná*
 
 Když bys měl zemřít s touto korunou na hlavě, získáš 3 akce a ihned provedeš svůj tah. Na konci svého tahu zemřeš.

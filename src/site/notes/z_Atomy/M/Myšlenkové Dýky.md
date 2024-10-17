@@ -3,6 +3,6 @@
 ---
 
 ## Myšlenkové Dýky
-*(neobvyklé, vyžaduje [[z_Atomy/N/Naladění\|Naladění]])*
+*neobvyklé*
 
 Dvojice dýk umožňuje sdílení myšlenek mezi každým, kdo jednu z nich drží nebo je jí zasažen.
