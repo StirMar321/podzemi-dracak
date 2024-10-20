@@ -6,13 +6,13 @@
 >[!NOTE]- **Změna je život**
 >Při každé přeměně si můžete vybrat **jedno** Plemeno které znáte. Když strávíte [[z_Atomy/0-9/🔋\|🔋]] mezi zvířecími přáteli, můžete vyměnit jedno plemeno které znáte za jiné.
 
-- **Vodní**. Může se pohybovat, dýchat a bojovat pod vodou bez postihu.
+- **Vodní**. Můžete se pohybovat, dýchat a bojovat pod vodou bez postihu.
 ⠀
-- **Lezec**. Může chodit po stěnách a stropech, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
+- **Lezec**. Můžete chodit po stěnách a stropech, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 ⠀
-- **Rychlonohý**. +2 metry pro vaší [[z_Atomy/0-9/🏃\|🏃]]. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a proti stavu [[z_Atomy/CH/Chycen\|Chycen]].
+- **Rychlonohý**. +2 metry pro Vaší [[z_Atomy/0-9/🏃\|🏃]]. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a proti stavu [[z_Atomy/CH/Chycen\|Chycen]].
 ⠀
-- **Hrabavý**. Může se pohybovat pod zemí a neopracovanou skálou poloviční rychlostí.
+- **Hrabavý**. Může se pohybovat pod zemí a neopracovanou skálou poloviční rychlostí. Zanecháváte za sebou tunel. Máte [[z_Atomy/0-9/👍\|👍]] proti [[z_Atomy/S/Sražen\|Sražení]].
 ⠀
 - **Bystrý**. [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/🔍\|🔍]]. Imunita proti stavu [[z_Atomy/O/Oslepen\|Oslepen]].
 ⠀

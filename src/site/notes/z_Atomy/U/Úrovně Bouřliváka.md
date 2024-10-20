@@ -18,22 +18,22 @@ Můžete se přeměnit v neškodného suchozemského tvora.
 *(např. kráva, veverka, myš atd.)*
 Když jste přeměněni, rozumíte zvířecí řeči.
 
-Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete kouzlo nebo ji sami zdarma ve svém tahu nezrušíte.
+Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/❤\|❤]] na 0, nesešlete kouzlo nebo ji sami zdarma ve svém tahu nezrušíte.
 
 </div></div>
 
 ## LVL 2
 - **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/d_Vítr\|Větru]] a [[4 Kouzla/c_Blesk\|Blesku]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je **([[z_Atomy/0-9/🦉\|🦉]]+[[z_Atomy/L/LVL\|LVL]])**x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
-- **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Smečky\|Bestie Smečky]].
+- **Divoká přeměna**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Smečky\|Bestie Smečky]].
 ## LVL 3
 - **Kruh Bouřliváků**. Vyberte si **podtřídu** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
-- **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]].
+- **Divoká přeměna (2)**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]].
 ## LVL 4
 - **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a posilovat kouzla na 2. stupeň.
 - **Přivolávač bouří**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 5
-- **Mistr malých bestií**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]].
+- **Divoká přeměna (3)**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 6

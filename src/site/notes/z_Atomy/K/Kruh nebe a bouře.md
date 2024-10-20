@@ -18,4 +18,4 @@
 ### LVL 15
 - **Mistr bouře**.
 	- Můžete se mít [[z_Atomy/K/Koncentrace\|Koncentrace]] na 1 kouzlo blesků a 1 kouzlo větru **současně**. 
-	- 1/[[z_Atomy/0-9/🔋\|🔋]]. Můžete seslat kouzlo [[z_Atomy/B/Bleskový jezdec\|Bleskový jezdec]] za 0 many.
+	- 1/[[z_Atomy/0-9/🔋\|🔋]]. Můžete seslat kouzlo [[z_Atomy/B/Bleskový jezdec\|Bleskový jezdec]] za 0 [[z_Atomy/0-9/🌀\|🌀]].

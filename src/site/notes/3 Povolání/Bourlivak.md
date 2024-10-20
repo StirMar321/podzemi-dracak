@@ -43,22 +43,22 @@ Můžete se přeměnit v neškodného suchozemského tvora.
 *(např. kráva, veverka, myš atd.)*
 Když jste přeměněni, rozumíte zvířecí řeči.
 
-Tato podoba trvá, dokud neklesnete na 0 [[z_Atomy/0-9/❤\|❤]], nesešlete kouzlo nebo ji sami zdarma ve svém tahu nezrušíte.
+Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/❤\|❤]] na 0, nesešlete kouzlo nebo ji sami zdarma ve svém tahu nezrušíte.
 
 </div></div>
 
 ## LVL 2
 - **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/d_Vítr\|Větru]] a [[4 Kouzla/c_Blesk\|Blesku]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je **([[z_Atomy/0-9/🦉\|🦉]]+[[z_Atomy/L/LVL\|LVL]])**x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
-- **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Smečky\|Bestie Smečky]].
+- **Divoká přeměna**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Smečky\|Bestie Smečky]].
 ## LVL 3
 - **Kruh Bouřliváků**. Vyberte si **podtřídu** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
-- **Mistr drápu a tesáku**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]].
+- **Divoká přeměna (2)**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]].
 ## LVL 4
 - **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a posilovat kouzla na 2. stupeň.
 - **Přivolávač bouří**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 5
-- **Mistr malých bestií**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]].
+- **Divoká přeměna (3)**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
 ## LVL 6
@@ -145,7 +145,8 @@ Můžete vizuálně přijmout podobu jakékoli středně velké bestie.
 
 ### Vzteklina
 (Musíte mít podobu [[z_Atomy/B/Bestie Smečky\|Bestie Smečky]])
-Útok na blízko, **(1k4+[[z_Atomy/0-9/🎯\|🎯]])** sečné poškození. Pokaždé, když udělíte [[z_Atomy/0-9/💥\|💥]] nebo zabijete tvora, zvýší se velikost kostky (1k4 » 1k6 » 1k8 » 1k10 » 1k12 » 1k20) a Vaše [[z_Atomy/0-9/🏃\|🏃]] se zvýší o 1 metr. 
+Útok na blízko, **(1k4+[[z_Atomy/0-9/🎯\|🎯]])** sečné poškození. 1/[[z_Atomy/0-9/⚔️\|⚔️]]: Můžete za 1 [[z_Atomy/0-9/🌀\|🌀]] hodit další kostku.
+Pokaždé, když udělíte [[z_Atomy/0-9/💥\|💥]] nebo zabijete tvora, zvýší se velikost kostky (1k4 » 1k6 » 1k8 » 1k10 » 1k12 » 1k20) a Vaše [[z_Atomy/0-9/🏃\|🏃]] se zvýší o 1 metr. 
 Resetujte Vzteklinu, když přeměna nebo [[z_Atomy/S/Střetnutí\|Střetnutí]] skončí.
 
 </div></div>
@@ -170,8 +171,9 @@ Můžete vizuálně přijmout podobu jakékoli velké bestie.
 
 ### Nabrání
 (Musíme mít podobu [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]])
-Útok na blízko, **(1k4+[[z_Atomy/L/LVL\|LVL]])** sečné poškození. [[z_Atomy/0-9/💥\|💥]] vám dá **(+[[z_Atomy/L/LVL\|LVL]])** [[z_Atomy/0-9/♡\|♡]].
-1 [[z_Atomy/0-9/🌀\|🌀]]: můžete **Nabrání** použít zdarma poté co jste použili reakci [[z_Atomy/0-9/🔰\|🔰]].
+Útok na blízko, **(1k4+[[z_Atomy/L/LVL\|LVL]])** sečné poškození. Cíl je [[z_Atomy/P/Provokován\|Provokován]] do konce jeho příštího tahu. 
+[[z_Atomy/0-9/💥\|💥]] Vám dá **(+[[z_Atomy/L/LVL\|LVL]])** [[z_Atomy/0-9/♡\|♡]].
+1 [[z_Atomy/0-9/🌀\|🌀]]: můžete **Nabrání** použít zdarma poté, co jste použili reakci [[z_Atomy/0-9/🔰\|🔰]].
 
 </div></div>
 
@@ -221,13 +223,13 @@ Dosah 0 metrů. Hoďte **1k4**, při zásahu způsobíte 1 bodné poškození a 
 >[!NOTE]- **Změna je život**
 >Při každé přeměně si můžete vybrat **jedno** Plemeno které znáte. Když strávíte [[z_Atomy/0-9/🔋\|🔋]] mezi zvířecími přáteli, můžete vyměnit jedno plemeno které znáte za jiné.
 
-- **Vodní**. Může se pohybovat, dýchat a bojovat pod vodou bez postihu.
+- **Vodní**. Můžete se pohybovat, dýchat a bojovat pod vodou bez postihu.
 ⠀
-- **Lezec**. Může chodit po stěnách a stropech, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
+- **Lezec**. Můžete chodit po stěnách a stropech, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 ⠀
-- **Rychlonohý**. +2 metry pro vaší [[z_Atomy/0-9/🏃\|🏃]]. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a proti stavu [[z_Atomy/CH/Chycen\|Chycen]].
+- **Rychlonohý**. +2 metry pro Vaší [[z_Atomy/0-9/🏃\|🏃]]. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a proti stavu [[z_Atomy/CH/Chycen\|Chycen]].
 ⠀
-- **Hrabavý**. Může se pohybovat pod zemí a neopracovanou skálou poloviční rychlostí.
+- **Hrabavý**. Může se pohybovat pod zemí a neopracovanou skálou poloviční rychlostí. Zanecháváte za sebou tunel. Máte [[z_Atomy/0-9/👍\|👍]] proti [[z_Atomy/S/Sražen\|Sražení]].
 ⠀
 - **Bystrý**. [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/🔍\|🔍]]. Imunita proti stavu [[z_Atomy/O/Oslepen\|Oslepen]].
 ⠀
@@ -270,7 +272,7 @@ Dosah 0 metrů. Hoďte **1k4**, při zásahu způsobíte 1 bodné poškození a 
 ### LVL 15
 - **Mistr bouře**.
 	- Můžete se mít [[z_Atomy/K/Koncentrace\|Koncentrace]] na 1 kouzlo blesků a 1 kouzlo větru **současně**. 
-	- 1/[[z_Atomy/0-9/🔋\|🔋]]. Můžete seslat kouzlo [[z_Atomy/B/Bleskový jezdec\|Bleskový jezdec]] za 0 many.
+	- 1/[[z_Atomy/0-9/🔋\|🔋]]. Můžete seslat kouzlo [[z_Atomy/B/Bleskový jezdec\|Bleskový jezdec]] za 0 [[z_Atomy/0-9/🌀\|🌀]].
 
 </div></div>
 
@@ -282,14 +284,14 @@ Dosah 0 metrů. Hoďte **1k4**, při zásahu způsobíte 1 bodné poškození a 
 
 ## Kruh tesáků a drápů
 ### LVL 3
-- **Rychlá proměna**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], můžete se zdarma proměnit v [[z_Atomy/D/Divotvar\|Divotvar]] nebo se pohnout.
+- **Rychlá proměna**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], můžete se **zdarma** proměnit v [[z_Atomy/D/Divotvar\|Divotvar]] nebo [[z_Atomy/0-9/🥾\|🥾]].
 - **Bojuj další den**. Když zrušíte svůj [[z_Atomy/D/Divotvar\|Divotvar]], můžete se teleportovat až o 6 metrů na místo, které vidíte. Kdykoliv se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte jedno použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
-- **Přítel zvířat**. Bestie a zvířata na vás nezaútočí, dokud jim neublížíte.
+- **Přítel zvířat**. Stvoření a zvířata na vás nezaútočí, dokud jim neublížíte.
 ### LVL 7
 - **Ušlechtilé bestie**. [[z_Atomy/D/Divotvar\|Divotvar]] má navíc tyto schopnosti:
 	- **Bleskové tesáky**. Vaše schopnost [[z_Atomy/V/Vzteklina\|Vzteklina]] způsobuje +[[z_Atomy/0-9/🦉\|🦉]] bleskového poškození.
 	- **Trnitá srst**. Vaše [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]] navíc získává +[[z_Atomy/0-9/🎯\|🎯]] [[z_Atomy/B/Brnění\|Brnění]]. Nepřátelé útočící na blízko utrpí [[z_Atomy/0-9/🎯\|🎯]] sečného poškození (ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]).
-	- **Hbitý horor**. [[z_Atomy/0-9/🏃\|🏃]] vaší [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]] se zvýší na 4 metry. [[z_Atomy/P/Píchnutí\|Píchnutí]] způsobí [[z_Atomy/Z/Zmaten\|Zmaten]].
+	- **Hbitý horor**. [[z_Atomy/0-9/🏃\|🏃]] vaší [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]] se zvýší na 4 metry. [[z_Atomy/P/Píchnutí\|Píchnutí]] působí cíli [[z_Atomy/Z/Zmaten\|Zmatení]].
 ### LVL 11
 - **Mistr forem**. Znáte **všechny** [[z_Atomy/P/Plemena bestie\|Plemena bestie]]. Můžete mít **dvě** plemena najednou.
 
@@ -299,11 +301,11 @@ Dosah 0 metrů. Hoďte **1k4**, při zásahu způsobíte 1 bodné poškození a 
 
 
 ## Zvířecí magnetismus
-**2 Mana**
-**1 Akce**
+**2 [[z_Atomy/0-9/🌀\|🌀]]**
+**1 [[z_Atomy/A/AKCE\|Akce]]**
 [[z_Atomy/0-9/👊\|👊]] 12 metrů
 
-Můžete toto kouzlo seslat, když jste přeměněni. Cíl provede [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]]. Když selže, teleportuje se vedle Vás.
+Můžete toto kouzlo seslat, když jste přeměněni. Cíl provede[[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]]. Když selže, teleportuje se vedle Vás.
 
 </div></div>
 

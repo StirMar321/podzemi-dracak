@@ -4,14 +4,14 @@
 
 ## Kruh tesáků a drápů
 ### LVL 3
-- **Rychlá proměna**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], můžete se zdarma proměnit v [[z_Atomy/D/Divotvar\|Divotvar]] nebo se pohnout.
+- **Rychlá proměna**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], můžete se **zdarma** proměnit v [[z_Atomy/D/Divotvar\|Divotvar]] nebo [[z_Atomy/0-9/🥾\|🥾]].
 - **Bojuj další den**. Když zrušíte svůj [[z_Atomy/D/Divotvar\|Divotvar]], můžete se teleportovat až o 6 metrů na místo, které vidíte. Kdykoliv se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte jedno použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
-- **Přítel zvířat**. Bestie a zvířata na vás nezaútočí, dokud jim neublížíte.
+- **Přítel zvířat**. Stvoření a zvířata na vás nezaútočí, dokud jim neublížíte.
 ### LVL 7
 - **Ušlechtilé bestie**. [[z_Atomy/D/Divotvar\|Divotvar]] má navíc tyto schopnosti:
 	- **Bleskové tesáky**. Vaše schopnost [[z_Atomy/V/Vzteklina\|Vzteklina]] způsobuje +[[z_Atomy/0-9/🦉\|🦉]] bleskového poškození.
 	- **Trnitá srst**. Vaše [[z_Atomy/B/Bestie Děsu\|Bestie Děsu]] navíc získává +[[z_Atomy/0-9/🎯\|🎯]] [[z_Atomy/B/Brnění\|Brnění]]. Nepřátelé útočící na blízko utrpí [[z_Atomy/0-9/🎯\|🎯]] sečného poškození (ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]).
-	- **Hbitý horor**. [[z_Atomy/0-9/🏃\|🏃]] vaší [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]] se zvýší na 4 metry. [[z_Atomy/P/Píchnutí\|Píchnutí]] způsobí [[z_Atomy/Z/Zmaten\|Zmaten]].
+	- **Hbitý horor**. [[z_Atomy/0-9/🏃\|🏃]] vaší [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]] se zvýší na 4 metry. [[z_Atomy/P/Píchnutí\|Píchnutí]] působí cíli [[z_Atomy/Z/Zmaten\|Zmatení]].
 ### LVL 11
 - **Mistr forem**. Znáte **všechny** [[z_Atomy/P/Plemena bestie\|Plemena bestie]]. Můžete mít **dvě** plemena najednou.
 
@@ -21,11 +21,11 @@
 
 
 ## Zvířecí magnetismus
-**2 Mana**
-**1 Akce**
+**2 [[z_Atomy/0-9/🌀\|🌀]]**
+**1 [[z_Atomy/A/AKCE\|Akce]]**
 [[z_Atomy/0-9/👊\|👊]] 12 metrů
 
-Můžete toto kouzlo seslat, když jste přeměněni. Cíl provede [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]]. Když selže, teleportuje se vedle Vás.
+Můžete toto kouzlo seslat, když jste přeměněni. Cíl provede[[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]]. Když selže, teleportuje se vedle Vás.
 
 </div></div>
 
