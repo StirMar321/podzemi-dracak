@@ -63,7 +63,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
 - **Rezonující údery**. Naučíte se zaměřit energii a zacílit ji jako **drtivou** sílu do svých úderů. Přidejte **+[[z_Atomy/L/LVL\|LVL]]** drtivého poškození ke všem **útokům na blízko**.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6
 - **Mistr bojových umění (2)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
 - **Studnice disciplíny**. Když utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] získáte **+1 Bod disciplíny**.
@@ -74,7 +74,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 9
 - **Rychlé nohy (2)**. Pokud jste [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]], Vaše [[z_Atomy/0-9/🏃\|🏃]] se **zvýší** o +2 metry.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 10
 - **Mistr bojových umění (4)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
 - **Studnice disciplíny (2)**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte +1 Bod disciplíny.
@@ -85,7 +85,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 13
 - **Obrana bez zbroje (2)**. Pokud jste [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]], Vaše [[z_Atomy/B/Brnění\|Brnění]] je **([[z_Atomy/0-9/🎯\|🎯]]+2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])**.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 14
 - **Mistr bojových umění (6)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
 ## LVL 15
@@ -95,7 +95,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 17
 - **Nezdolná duše**. Když [[z_Atomy/0-9/🩸\|Umíráte]], Vaše [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/💪\|💪]] mají [[z_Atomy/0-9/👍\|👍]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 18
 - **Mistr bojových umění (8)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
 ## LVL 19

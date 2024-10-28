@@ -71,7 +71,7 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 ## LVL 5
 - **Kostky soudu (2)**. Když na Vás zaútočí, získáte 2 [[z_Atomy/K/k-Soudu\|k-Soudu]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a posilovat kouzla na 3. stupeň.
 - **Posvátné Dekrety (2)**. Naučte se **další** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
@@ -83,7 +83,7 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 9
 - **Posvátné Dekrety (3)**. Naučte se **další** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 10
 - **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a posilovat kouzla na 5. stupeň.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
@@ -95,7 +95,7 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 13
 - **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a posilovat kouzla na 6. stupeň.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 14
 - **Posvátné Dekrety (5)**. Naučte se **další** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
 ## LVL 15
@@ -106,7 +106,7 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 17
 - **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a posilovat kouzla na 7. stupeň.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 18
 - **Neutuchající soud**. Vždy máte alespoň 1 [[z_Atomy/K/k-Soudu\|k-Soudu]].
 ## LVL 19

@@ -44,7 +44,7 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 ## LVL 5
 - **Elementární vlna**. Vlna adrenalinu a Vaše hluboké spojení s elementy vám na začátku boje poskytují dodatečnou sílu. Když se hází [[z_Atomy/0-9/🏁\|🏁]], získejte **(1k4+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/🌀\|🌀]] ([[z_Atomy/0-9/🌀\|🌀]] zmizí, když [[z_Atomy/S/Střetnutí\|Střetnutí]] skončí).
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a posílit kouzla na 3. stupeň.
 - **Elementální mistrovství (2)**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] **další** známé domény.
@@ -55,7 +55,7 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 9
 - **Tvarování kouzel (2)**. Naučte se **další** schopnost [[z_Atomy/T/Tvarování kouzel\|Tvarovat kouzla]]. Můžete vyměnit schopnost Tvarování kouzel, kterou znáte, za jinou.
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 10
 - **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a posílit kouzla na 5. stupeň.
 - **Elementární vlna (2)**. Získáte **(2k4+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/🌀\|🌀]].
@@ -67,7 +67,7 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 13
 - **Tvarování kouzel (3)**. Naučte se **další** schopnost [[z_Atomy/T/Tvarování kouzel\|Tvarovat kouzla]]. Můžete vyměnit schopnost Tvarování kouzel, kterou znáte, za jinou.
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
 - **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a posílit kouzla na 7. stupeň.
 - **Elementální mistrovství (3)**. Znáte **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] **všech** známých domén.
@@ -79,7 +79,7 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 17
 - **Elementární vlna (3)**. Získáte **(3k4+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/🌀\|🌀]].
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 18
 - **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a posílit kouzla na 9. stupeň.
 ## LVL 19

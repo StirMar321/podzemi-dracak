@@ -60,7 +60,7 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na 0, neseš
 ## LVL 5
 - **Divoká přeměna (3)**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a posilovat kouzla na 3. stupeň.
 - **Plemena bestie (1)**.
@@ -77,7 +77,7 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na 0, neseš
 - **Plemena bestie (2)**. 
 	- +1 použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]]. 
 	- Naučte se **další** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 10
 - **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a posilovat kouzla na 5. stupeň.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
@@ -94,7 +94,7 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na 0, neseš
 	- +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k poškození všech kouzel domény [[4 Kouzla/c_Blesk\|Blesk]]
 	- Místo hodu kostkami můžete způsobit maximální poškození kouzel domény [[4 Kouzla/d_Vítr\|Vítr]] za jedno použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]] (nepočítá se jako [[z_Atomy/0-9/💥\|💥]])
 	- Za 2 many můžete místo hodu kostkami způsobit maximální poškození v boji na blízko (nepočítá se jako [[z_Atomy/0-9/💥\|💥]])
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 14
 - **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a posilovat kouzla na 7. stupeň.
 ## LVL 15
@@ -107,7 +107,7 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na 0, neseš
 - **Plemena bestie (4)**. 
 	- +1 použití schopnosti [[z_Atomy/D/Divotvar\|Divotvar]].
 	- Naučte se **další** [[z_Atomy/P/Plemena bestie\|Plemeno Bestie]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 18
 - **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a posilovat kouzla na 9. stupeň.
 ## LVL 19

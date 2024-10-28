@@ -64,7 +64,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 ## LVL 5
 - **Rychlé posouzení**. Máte [[z_Atomy/0-9/👍\|👍]] pro první [[z_Atomy/0-9/🔍\|🔍]] při [[z_Atomy/S/Střetnutí\|Střetnutí]]. Máte [[z_Atomy/0-9/👍\|👍]] pro první [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] proti [[z_Atomy/N/NPC\|NPC]], které jste právě potkali.
 - **Zákeřný útok (3)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **3k6**.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 6
 - **Zlodějské talenty (2)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
 ## LVL 7
@@ -75,7 +75,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 9
 - **Zákeřný útok (5)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **5k6**.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 10
 - **Zlodějské talenty (4)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
 ## LVL 11
@@ -86,7 +86,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 13
 - **Zákeřný útok (7)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **7k6**.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 14
 - **Zlodějské talenty (6)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
 ## LVL 15
@@ -97,7 +97,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 17
 - **Zákeřný útok (9)**. Váš [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]] se zvyšuje na **9k6**.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 18
 - **Zlodějské talenty (8)**. Vyberte si **další** [[z_Atomy/Z/Zlodějské talenty\|Zlodějský talent]].
 ## LVL 19

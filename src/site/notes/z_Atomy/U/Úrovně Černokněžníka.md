@@ -66,7 +66,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 ## LVL 5
 - **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a vylepšovat kouzla na 2. stupeň
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
 - **Dar od Pána (2)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
 - **Stínové mistrovství**. Vyberte si **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z domény Nekro.
@@ -79,7 +79,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 9
 - **Dar od Pána (3)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 10
 - **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a vylepšovat kouzla na 4. stupeň.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
@@ -91,7 +91,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 13
 - **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a vylepšovat kouzla na 5. stupeň.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
 - **Dar od Pána (4)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
 - **Stínové mistrovství (3)**. Znáte **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z domény Nekro.
@@ -103,7 +103,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 17
 - **Hrozivé stíny**. Útoky proti [[z_Atomy/S/Stínový sluha\|Stínovým sluhům]] mají [[z_Atomy/0-9/👎\|👎]]. Když [[z_Atomy/S/Stínový sluha\|Stínový sluha]] uspěje na [[z_Atomy/0-9/❗\|❗]], neutrží žádné poškození.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 18
 - **Dar od Pána (5)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
 ## LVL 19

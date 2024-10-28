@@ -71,7 +71,7 @@ X = Cena seslání
 ## LVL 5
 - **Požehnání (1)**. Vyberte si **dvě** [[z_Atomy/P/Požehnání\|Požehnání]]. Po strávení dne péčí o posvátné místo nebo službou druhým za [[z_Atomy/0-9/🔋\|🔋]] můžete vyměnit jedno Požehnání které znáte za jiné.
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🎯\|🎯]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a vylepšovat kouzla na 3. stupeň.
 - **Mistr soumraku (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z domén Záře a Nekro
@@ -82,7 +82,7 @@ X = Cena seslání
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 9
 - **Požehnání (2)**. Vyberte si **další** [[z_Atomy/P/Požehnání\|Požehnání]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🎯\|🎯]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 10
 - **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a vylepšovat kouzla na 5. stupeň.
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.
@@ -94,7 +94,7 @@ X = Cena seslání
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 13
 - **Požehnání (3)**. Vyberte si **další** [[z_Atomy/P/Požehnání\|Požehnání]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🎯\|🎯]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
 - **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a vylepšovat kouzla na 7. stupeň.
 ## LVL 15
@@ -105,7 +105,7 @@ X = Cena seslání
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 17
 - **Oživující požehnání**. 1/[[z_Atomy/K/Kolo\|Kolo]]. Kdykoli hodíte 6+ na jakékoli léčivé kostce, cíl si může vyléčit jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🎯\|🎯]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 18
 - **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a vylepšovat kouzla na 9. stupeň.
 ## LVL 19

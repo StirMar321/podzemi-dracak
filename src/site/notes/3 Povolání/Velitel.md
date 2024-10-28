@@ -68,7 +68,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 9
 - **Mistr Velitel (2).** Vaše [[z_Atomy/K/k-Války\|k-Války]] jsou **k10**. Máte +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 10
 - **Připravený na bojiště (4).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
 - **Mistroství zbraní (2)**. Vyberte si **další** [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]].
@@ -79,7 +79,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 13
 - **Mistr Velitel (3).** Vaše [[z_Atomy/K/k-Války\|k-Války]] jsou **k12**. Máte +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 14
 - **Mistroství zbraní (3)**. Znáte **všechny** [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]].
 ## LVL 15
@@ -89,7 +89,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 17
 - **Mistr Velitel (4).** Vaše [[z_Atomy/K/k-Války\|k-Války]] jsou **k20**. +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 18
 - **Nepřekonatelná Taktika.** Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] poprvé ve [[z_Atomy/S/Střetnutí\|Střetnutí]], **vybraný** spojenec získá 1 další Akci, kterou může použít ve svém příštím tahu.
 ## LVL 19
