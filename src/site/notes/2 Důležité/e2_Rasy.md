@@ -128,8 +128,8 @@
 
 ## Tiefling
 
-| ![tiefling.png](/img/user/z_img/tiefling.png) | Říká se, že byli zrozeni spojením člověka a démona, **Tieflingové** se často ocitají na okraji společnosti. Přesto ztělesňují odhodlání čelit nepřízni osudu. Jejich předci nevystoupili z hlubin Pekel, aby podlehli pozemským překážkám!<br><br>**Zrozen z plamenů**: Váš *neutrální* hod pro [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]] má vždy [[z_Atomy/0-9/👍\|👍]].<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Ďábelský (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![tiefling.png](/img/user/z_img/tiefling.png) | Říká se, že byli zrozeni spojením člověka a démona, **Tieflingové** se často ocitají na okraji společnosti. Přesto ztělesňují odhodlání čelit nepřízni osudu. Jejich předci nevystoupili z hlubin Pekel, aby podlehli pozemským překážkám!<br><br>**Zrozen z plamenů**: Váš *neutrální* hod [[z_Atomy/H/Hrdinské❗\|Hrdinských❗]] má vždy [[z_Atomy/0-9/👍\|👍]].<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Ďábelský (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 </div></div>
@@ -254,8 +254,8 @@
 
 ## Nebešťan
 
-| ![nebestan.png](/img/user/z_img/nebestan.png) | Potomci **nebeských bytostí** vyzařují auru vznešenosti a elegance. Díky svému vrozenému spojení s vyššími sférami dokáží odolávat nepřízni osudu a mít jistotu tam, kde by jiní mohli selhat.<br><br>**Urozený**. Váš [[z_Atomy/0-9/👎\|👎]] Vašich [[z_Atomy/H/Hrdinské❗\|Hrdinských❗👍&👎]] je vždy *neutrální*.<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Nebeský jazyk (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![nebestan.png](/img/user/z_img/nebestan.png) | Potomci **nebeských bytostí** vyzařují auru vznešenosti a elegance. Díky svému vrozenému spojení s vyššími sférami dokáží odolávat nepřízni osudu a mít jistotu tam, kde by jiní mohli selhat.<br><br>**Urozený**. Váš [[z_Atomy/0-9/👎\|👎]] Vašich [[z_Atomy/H/Hrdinské❗\|Hrdinských❗]] je vždy *neutrální*.<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Nebeský jazyk (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 </div></div>
