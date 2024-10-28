@@ -3,7 +3,7 @@
 ---
 
 # Jazyky 
-Každý **nový** bod [[z_Atomy/0-9/🎓\|🎓]] znamená, že se můžete naučit nový jazyk.
+Každý **nový** bod [[z_Atomy/0-9/📖\|📖]] znamená, že se můžete naučit nový jazyk.
 
 Všichni hrdinové mluví automaticky **Obecným jazykem**, některé [[2 Důležité/e3_Původ\|Původy]] nebo [[2 Důležité/e2_Rasy\|Rasy]] mohou poskytnout znalost dalších jazyků. 
 

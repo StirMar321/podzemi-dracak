@@ -36,7 +36,7 @@ Pokud nechcete nakupovat vlastní [[2 Důležité/h_Vybavení\|Vybavení]], mů�
 
 
 ## Inventární Sloty 
-Každý hrdina má **Inventární Sloty** rovné (10 + ([[z_Atomy/0-9/💪\|💪]])) pro nošení vybavení a kořisti. 
+Každý hrdina má **Inventární Sloty** rovné **(10+[[z_Atomy/0-9/💪\|💪]])** pro nošení vybavení a kořisti. 
 
 **1 inventární slot** může obsahovat například: štít, jednoruční zbraň, zbroj, toulce se 20 šípy, sadu oštěpů nebo šipek, 500 zlatých, nebo 2 lektvary. 
 2-ruční zbraň nebo jiný podobně objemný předmět zabírá **2 sloty**.
@@ -95,7 +95,7 @@ Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na dálku** a vybrané schopnosti a kouzla.
 
 
 
-## 👊 = Dosah
+## 🫱 = Dosah
 Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na blízko** a vybrané schopnosti a kouzla. Jak daleko může být cíl, aby byl zasažen.
 
 </div></div>
@@ -171,22 +171,22 @@ Můžete změnit hůl na těžkou palici? Jasně! Použít sai místo dýky? Sam
 | **Zbraně na blízko**                                       | **Poškození**                             | **Vlastnosti**                                   | **Cena**    |
 | ---------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------ | ----------- |
 | **Improvizace**                                            | (1k4/1k6+[[z_Atomy/0-9/💪\|💪]]) ???                      | [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], Kontext                             | [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] |
-| **Pěsti**                                                  | 1k4; Zásah = (1+[[z_Atomy/0-9/💪\|💪]]) Drtivé            | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 0[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Dýka**                                                   | (1k4+[[z_Atomy/0-9/🎯\|🎯]]) Bodné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/👊\|👊]] 1m, [[z_Atomy/V/Vrhací\|Vrhací]] 4m | 3[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Srp**                                                    | (1k4+[[z_Atomy/0-9/🎯\|🎯]]) Sečné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, [[z_Atomy/Z/Zákeřný\|Zákeřný]]              | 10[[z_Atomy/0-9/🟡\|🟡]]    |
-| **Palcát/Palice**                                          | (1k6+[[z_Atomy/0-9/💪\|💪]]) Drtivé                       | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 2[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Ruční Sekera**                                           | (1k6+[[z_Atomy/0-9/💪\|💪]]) Sečné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/👊\|👊]] 1m, [[z_Atomy/V/Vrhací\|Vrhací]] 4m | 8[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Krátký Meč**                                             | (1k6+[[z_Atomy/0-9/💪\|💪]]) Sečné/<br>(1k6+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/👊\|👊]] 1m                | 10[[z_Atomy/0-9/🟡\|🟡]]    |
-| **[Kord](https://cs.wikipedia.org/wiki/Kord)**             | (2k4+[[z_Atomy/0-9/🎯\|🎯]]) Bodné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 60[[z_Atomy/0-9/🟡\|🟡]]    |
-| **Hůl**                                                    | (1k8+[[z_Atomy/0-9/💪\|💪]]) Drtivé                       | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 8[[z_Atomy/0-9/🟡\|🟡]]     |
-| **Dlouhý Meč**                                             | (1k8+[[z_Atomy/0-9/💪\|💪]]) Sečné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 60[[z_Atomy/0-9/🟡\|🟡]]    |
-| **Dvoubřitá Sekera**                                       | (1k10+[[z_Atomy/0-9/💪\|💪]]) Sečné                       | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m                           | 30[[z_Atomy/0-9/🟡\|🟡]]    |
-| **[Řemdih](https://cs.wikipedia.org/wiki/%C5%98emdih)**    | (1k10+[[z_Atomy/0-9/💪\|💪]]) Drtivé                      | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]    |
-| **[Kůsa](https://cs.wikipedia.org/wiki/K%C5%AFsa)**        | (1k10+[[z_Atomy/0-9/💪\|💪]]) Sečné                       | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]    |
-| **[Halapartna](https://cs.wikipedia.org/wiki/Halapartna)** | (1k4+1k6+[[z_Atomy/0-9/💪\|💪]]) Bodné                    | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]    |
-| **Velký Palcát**                                           | (1k12+[[z_Atomy/0-9/💪\|💪]]) Drtivé                      | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, Min. 2 [[z_Atomy/0-9/💪\|💪]]            | 80[[z_Atomy/0-9/🟡\|🟡]]    |
-| **Velká Sekera**                                           | (2k6+[[z_Atomy/0-9/💪\|💪]]) Sečné                        | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, Min. 2 [[z_Atomy/0-9/💪\|💪]]            | 100[[z_Atomy/0-9/🟡\|🟡]]   |
-| **Velký Meč**                                              | (3k4+[[z_Atomy/0-9/💪\|💪]]) Sečné/Bodné                  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/👊\|👊]] 1m, Min. 2 [[z_Atomy/0-9/💪\|💪]]            | 120[[z_Atomy/0-9/🟡\|🟡]]   |
+| **Pěsti**                                                  | 1k4; Zásah = (1+[[z_Atomy/0-9/💪\|💪]]) Drtivé            | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1m                           | 0[[z_Atomy/0-9/🟡\|🟡]]     |
+| **Dýka**                                                   | (1k4+[[z_Atomy/0-9/🎯\|🎯]]) Bodné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/🫱\|🫱]] 1m, [[z_Atomy/V/Vrhací\|Vrhací]] 4m | 3[[z_Atomy/0-9/🟡\|🟡]]     |
+| **Srp**                                                    | (1k4+[[z_Atomy/0-9/🎯\|🎯]]) Sečné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1m, [[z_Atomy/Z/Zákeřný\|Zákeřný]]              | 10[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Palcát/Palice**                                          | (1k6+[[z_Atomy/0-9/💪\|💪]]) Drtivé                       | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1m                           | 2[[z_Atomy/0-9/🟡\|🟡]]     |
+| **Ruční Sekera**                                           | (1k6+[[z_Atomy/0-9/💪\|💪]]) Sečné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/🫱\|🫱]] 1m, [[z_Atomy/V/Vrhací\|Vrhací]] 4m | 8[[z_Atomy/0-9/🟡\|🟡]]     |
+| **Krátký Meč**                                             | (1k6+[[z_Atomy/0-9/💪\|💪]]) Sečné/<br>(1k6+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/L/Lehká\|Lehká]], [[z_Atomy/0-9/🫱\|🫱]] 1m                | 10[[z_Atomy/0-9/🟡\|🟡]]    |
+| **[Kord](https://cs.wikipedia.org/wiki/Kord)**             | (2k4+[[z_Atomy/0-9/🎯\|🎯]]) Bodné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1m                           | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Hůl**                                                    | (1k8+[[z_Atomy/0-9/💪\|💪]]) Drtivé                       | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1m                           | 8[[z_Atomy/0-9/🟡\|🟡]]     |
+| **Dlouhý Meč**                                             | (1k8+[[z_Atomy/0-9/💪\|💪]]) Sečné                        | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1m                           | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Dvoubřitá Sekera**                                       | (1k10+[[z_Atomy/0-9/💪\|💪]]) Sečné                       | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1m                           | 30[[z_Atomy/0-9/🟡\|🟡]]    |
+| **[Řemdih](https://cs.wikipedia.org/wiki/%C5%98emdih)**    | (1k10+[[z_Atomy/0-9/💪\|💪]]) Drtivé                      | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| **[Kůsa](https://cs.wikipedia.org/wiki/K%C5%AFsa)**        | (1k10+[[z_Atomy/0-9/💪\|💪]]) Sečné                       | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| **[Halapartna](https://cs.wikipedia.org/wiki/Halapartna)** | (1k4+1k6+[[z_Atomy/0-9/💪\|💪]]) Bodné                    | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1-2m                         | 60[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Velký Palcát**                                           | (1k12+[[z_Atomy/0-9/💪\|💪]]) Drtivé                      | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1m, Min. 2 [[z_Atomy/0-9/💪\|💪]]            | 80[[z_Atomy/0-9/🟡\|🟡]]    |
+| **Velká Sekera**                                           | (2k6+[[z_Atomy/0-9/💪\|💪]]) Sečné                        | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1m, Min. 2 [[z_Atomy/0-9/💪\|💪]]            | 100[[z_Atomy/0-9/🟡\|🟡]]   |
+| **Velký Meč**                                              | (3k4+[[z_Atomy/0-9/💪\|💪]]) Sečné/Bodné                  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🫱\|🫱]] 1m, Min. 2 [[z_Atomy/0-9/💪\|💪]]            | 120[[z_Atomy/0-9/🟡\|🟡]]   |
 
 
 </div></div>
@@ -374,9 +374,9 @@ Ceny běžných předmětů se obvykle pohybují od několika [[z_Atomy/0-9/⚪\
 
 | PŘEDMĚT                     | POPIS                                                | CENA       |
 | --------------------------- | ---------------------------------------------------- | ---------- |
-| [[z_Atomy/L/Léčivý lektvar\|Léčivý lektvar]]          | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 2k4+4 [[z_Atomy/0-9/❤\|❤]]                      | 50[[z_Atomy/0-9/🟡\|🟡]]   |
-| [[z_Atomy/L/Lepší Léčivý lektvar\|Lepší Léčivý lektvar]]    | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 3k6+6 [[z_Atomy/0-9/❤\|❤]]                      | 150[[z_Atomy/0-9/🟡\|🟡]]  |
-| [[z_Atomy/N/Nejlepší Léčivý lektvar\|Nejlepší Léčivý lektvar]] | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 4k8+8 [[z_Atomy/0-9/❤\|❤]]                      | 450[[z_Atomy/0-9/🟡\|🟡]]  |
+| [[z_Atomy/L/Léčivý lektvar\|Léčivý lektvar]]          | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 2k4+4 [[z_Atomy/0-9/💖\|💖]]                      | 50[[z_Atomy/0-9/🟡\|🟡]]   |
+| [[z_Atomy/L/Lepší Léčivý lektvar\|Lepší Léčivý lektvar]]    | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 3k6+6 [[z_Atomy/0-9/💖\|💖]]                      | 150[[z_Atomy/0-9/🟡\|🟡]]  |
+| [[z_Atomy/N/Nejlepší Léčivý lektvar\|Nejlepší Léčivý lektvar]] | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 4k8+8 [[z_Atomy/0-9/💖\|💖]]                      | 450[[z_Atomy/0-9/🟡\|🟡]]  |
 | Louče                       | Když je tma. Jedno použití. Sada 2.                  | 5[[z_Atomy/0-9/⚪\|⚪]]     |
 | Lucerna a olej              | Jako louč, ale úspornější. (Potřebuje olej, 1[[z_Atomy/0-9/🟡\|🟡]]) | 10[[z_Atomy/0-9/🟡\|🟡]]   |
 | Lahvička smůly              | VELMI hořlavé                                        | 2[[z_Atomy/0-9/🟡\|🟡]]    |

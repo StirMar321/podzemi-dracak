@@ -10,9 +10,9 @@
 
 
 # AKCE
-Hrdinové mají typicky **3 akce** v každém [[z_Atomy/K/Kolo\|Kole]], které mohou během svého tahu použít k útokům, pohybu po bojišti, sesílání kouzel apod. Obecně jakákoli akce během [[z_Atomy/S/Střetnutí\|Střetnutí]] stojí **1 akci**. Některé schopnosti jsou "zdarma“ nebo "volné", tedy nevyžadují akci. Jiná velmi silná kouzla nebo speciální schopnosti mohou zabrat delší dobu a proto stojí více akcí. 
+Hrdinové mají typicky **3 akce** v každém [[z_Atomy/K/Kolo\|Kole]], které mohou během svého tahu použít k útokům, pohybu po bojišti, sesílání kouzel apod. Obecně jakákoli akce během [[z_Atomy/S/Střetnutí\|Střetnutí]] stojí **1 akci**. Některé schopnosti jsou "zdarma“ nebo "volné", tedy nevyžadují akci. Jiná, velmi silná kouzla nebo speciální schopnosti, mohou zabrat delší dobu a proto stojí více akcí. 
 
-**Všechny 3 akce se obnoví na KONCI Vašeho [[z_Atomy/T/Tah\|Tahu]]**, takže není potřeba si je šetřit. Využijte je všechny během svého tahu, protože když ukončíte svůj tah, všechny 3 se vám obnoví!
+**Všechny 3 akce se obnoví na KONCI Vašeho [[z_Atomy/T/Tah\|Tahu]]**, takže není potřeba si je šetřit. Využijte je všechny během svého tahu, protože když ukončíte svůj tah, nevyužité akce budou ztraceny!
 
 Základní **Akce** jsou:
 - [[z_Atomy/0-9/⚔️\|⚔️]] = Útok
@@ -52,7 +52,7 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 
 
 >[!NOTE]+ **Uspěchané útoky**
->Hrdina může během svého tahu útočit **vícekrát**, ale každý další [[z_Atomy/0-9/⚔️\|⚔️]] po prvním je **Uspěchaný**. Má +1 [[z_Atomy/0-9/👎\|👎]]/[[z_Atomy/0-9/⚔️\|⚔️]], což zvyšuje šanci na minutí a snižuje se průměrné poškození. [[2 Důležité/Kouzla\|Kouzla]], která mohou ublížit nepříteli, se počítají do **Uspěchaných útoků**.
+>Hrdina může během svého tahu útočit **vícekrát**, ale každý další [[z_Atomy/0-9/⚔️\|⚔️]] po prvním je **Uspěchaný** a má +1 [[z_Atomy/0-9/👎\|👎]]/[[z_Atomy/0-9/⚔️\|⚔️]], což zvyšuje šanci na minutí a snižuje se průměrné poškození. [[z_Atomy/CH/Chycení\|Chycení]] a [[2 Důležité/Kouzla\|Kouzla]], která mohou ublížit nepříteli, se počítají do **Uspěchaných útoků**.
 
 </div></div>
 
@@ -77,7 +77,7 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 ## ✨ = Čarování
 [[2 Důležité/Kouzla\|Kouzla]] vyžadují, aby měl hrdina jednu ruku volnou nebo v ní měl kouzelný fokus, schopnost volně mluvit a stojí typicky [[z_Atomy/0-9/🌀\|🌀]] (náklady na manu jsou rovny **Stupni** kouzla. **Triky** a **Tríčky** manu nestojí).
 
-**Posilování kouzel**. Většina **Kouzel** mají vylepšený účinek, když na ně hrdina použije více many. Hrdina může posílit kouzlo nejvýše do **Stupně**, který má odemčen.
+**Posilování kouzel**. Většina **Kouzel** mají vylepšený účinek, když na ně hrdina použije více [[z_Atomy/0-9/🌀\|🌀]]. Hrdina může posílit kouzlo nejvýše do **Stupně**, který má odemčen! (viz [[2 Důležité/Kouzla\|Kouzla]])
 
 </div></div>
 
@@ -89,9 +89,13 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 
 ## 🔍 = Posouzení
 Pokud chcete **více informací** nebo [[z_Atomy/0-9/👍\|👍]] v boji, hrdina může použít **Posouzení** k provedení [[z_Atomy/0-9/❓\|❓]] pro odhalení informací, objevil slabinu nebo zranitelnost, pochopil taktiku a plány nepřátel apod. Skvělý způsob, jak začlenit příběhové momenty do [[z_Atomy/S/Střetnutí\|Střetnutí]].
->[!NOTE]- **Příklad** 
->Proveďte [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]] - [[z_Atomy/0-9/📶\|📶]] **18** pro odhalení slabiny nebo mechanismu magického tvora;
->Proveďte [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] - [[z_Atomy/0-9/📶\|📶]] **22** pro odhalení měkkého podbřišku nepřítele, což by na jedno [[z_Atomy/K/Kolo\|Kolo]] snížilo jeho [[z_Atomy/0-9/⛉⛊\|⛉⛊]] o jeden stupeň.
+
+>[!NOTE]- **Přemýšlejte kreativně**
+>Někteří tvorové jsou příliš odolní, abyste je mohli udolat tupou silou. Využijte veškeré prostředky, které máte k dispozici!
+
+> [!NOTE]- **Příklady**
+>Použiju 🔍 na ohnivého salamandra: Proveď [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]] [[z_Atomy/0-9/📶\|📶]] **18** pro odhalení jeho slabin.
+>Použiju 🔍 na Griffona: Proveď [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] [[z_Atomy/0-9/📶\|📶]] **22** pro odhalení měkkého podbřišku, což by na jedno [[z_Atomy/K/Kolo\|Kolo]] snížilo jeho [[z_Atomy/0-9/⛉⛊\|⛉⛊]] o jeden stupeň.
 
 </div></div>
 
@@ -114,7 +118,7 @@ Hráč může použít akci k **Pohybu** do vzdálenosti své [[z_Atomy/0-9/🏃
 
 
 >[!NOTE]+ **Pády a Nucený pohyb**
->**Nedobrovolný** pohyb efekty mimo Vaší kontrolu. Pokud je tento pohyb zastaven čímkoli v prostředí, tvor utrží **1k6** drtivého poškození za každý metr, o který byl pohyb zkrácen. Pokud **narazí** na jiného tvora, utrží poškození **oba**.
+>Když se postava **Nedobrovolně** pohne efekty mimo její kontrolu. Pokud je tento pohyb zastaven  prostředím, postava utrží **1k6** drtivého poškození za každý metr, o který byl pohyb zkrácen. Pokud **narazí** na jiného tvora, utrží poškození **oba**.
 >**Padání** způsobí **1k6** drtivého poškození za každé 2 metry pádu.
 
 
@@ -174,7 +178,7 @@ Pokud by tvora ve vzdálenosti **2 metrů** zasáhl [[z_Atomy/0-9/⚔️\|⚔️
 
 
 ## 🛑 = Příležitostný útok
-Zaútočte na **blízko** s [[z_Atomy/0-9/👎\|👎]], když se nepřítel pohyne pryč z [[z_Atomy/0-9/👊\|👊]] Vaší [[z_Atomy/Z/Zbraně\|Zbraně]]. 
+Zaútočte na **blízko** s [[z_Atomy/0-9/👎\|👎]], když se nepřítel pohyne pryč z [[z_Atomy/0-9/🫱\|🫱]] Vaší [[z_Atomy/Z/Zbraně\|Zbraně]]. 
 
 **Obyčejná monstra nedělají příležitostné útoky!** Mohou je použít pouze **Hrdinové** a **Legendární monstra** (např. bossové).
 
@@ -188,6 +192,24 @@ Zaútočte na **blízko** s [[z_Atomy/0-9/👎\|👎]], když se nepřítel pohy
 
 ## 🆘 = Pomoc
 Dejte spojenci [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]], [[z_Atomy/0-9/❓\|❓]] nebo [[z_Atomy/0-9/❗\|❗]], pokud můžete **rozumně** vysvětlit, jak byste mohli v dané situaci pomoct. **Lze pomoci pouze jednou!** [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požadovat [[z_Atomy/0-9/❓\|❓]] nebo automaticky uznat [[z_Atomy/0-9/👍\|👍]], v závislosti na tom, jak dobrý máte nápad nebo důvod. Skvělý způsob, jak přinést hraní rolí a kreativitu do bojového [[z_Atomy/S/Střetnutí\|Střetnutí]]!
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-dulezite/c-monstra-a-nepratele/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Monstra a Nepřátelé
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/t/tahy-nepratel/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Tahy nepřátel
+Nepřátele ovládá [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] a rozhoduje, kdy jsou nepřátelé na tahu (typicky po Hrdinech). Mohou se pohybovat, používat akce uvedené na své kartě a poté jejich tah končí. Monstra umřou, když jejich [[z_Atomy/0-9/💖\|💖]] klesnou na **0**.
 
 </div></div>
 
@@ -208,6 +230,24 @@ Dejte spojenci [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]], [[
 </div></div>
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/z/zakladni-schopnosti-nepratel/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Základní schopnosti nepřátel
+Pokud není uvedeno jinak, nepřítel má tyto vlastnosti:
+- žádné [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
+- [[z_Atomy/0-9/🏃\|🏃]] 6 metrů
+- [[z_Atomy/0-9/❗\|❗]] nemodifikovaný hod **1k20** bez [[z_Atomy/0-9/👍\|👍]]/[[z_Atomy/0-9/👎\|👎]]
+
+</div></div>
+
+
+
+</div></div>
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/p/poskoci/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -218,7 +258,7 @@ Dejte spojenci [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]], [[
 
 Všichni útočící Poskoci k hodu **nic** nepřičítají, **minou** při hodu 1 a **nemohou** způsobit [[z_Atomy/0-9/💥\|💥]]. Hrdinové mohou použít [[z_Atomy/0-9/🛡️\|🛡️]] nebo [[z_Atomy/0-9/🔰\|🔰]] proti vícenásobným útokům **Poskoků**, jako by šlo o jeden útok.
 
-**Nemusíte sledovat [[z_Atomy/0-9/❤\|❤]] Poskoků.** Kdykoli poskok utrpí poškození, **zemře**. Podle uvážení [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může přebytečné poškození zasáhnout další **Poskoky** v dosahu (např. střela z kuše může zasáhnout další **Poskoky** v řadě). 
+**Nemusíte sledovat [[z_Atomy/0-9/💖\|💖]] Poskoků.** Kdykoli poskok utrpí poškození, **zemře**. Podle uvážení [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může přebytečné poškození zasáhnout další **Poskoky** v dosahu (např. střela z kuše může zasáhnout další **Poskoky** v řadě). 
 
 </div></div>
 
@@ -230,7 +270,21 @@ Všichni útočící Poskoci k hodu **nic** nepřičítají, **minou** při hodu
 
 # Začátek boje
 Bojové [[z_Atomy/S/Střetnutí\|Střetnutí]] začíná, když [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] skupině řekne: **„Hoďte si iniciativu!“** 
-Každý hráč hodí 1k20 a přičte svůj bonus [[z_Atomy/0-9/🏁\|🏁]]. 
+Každý hráč hodí 1k20 a přičte svůj bonus [[z_Atomy/0-9/🏁\|🏁]].
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Iniciativa/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## 🏁 = Iniciativa
+Jak rychle dokážete reagovat na nebezpečí.
+**V základu je rovna [[z_Atomy/0-9/🎯\|🎯]].**
+Může být upravena schopnostmi [[2 Důležité/e1_Povolání\|Povolání]], [[z_Atomy/R/Rasy a Původ\|Rasy a Původ]] nebo pomocí [[z_Atomy/P/Překvapení\|Překvapení]]. Více viz [[z_Atomy/Z/Začátek boje\|Začátek boje]].
+
+</div></div>
+
 
 Výsledky:
 - **1-9**: V prvním tahu máte **1 Akce**
@@ -265,7 +319,7 @@ Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🏁\|🏁]] s [[z_Atom
 
 [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může provést všechny tahy monster na **konci** [[z_Atomy/K/Kolo\|Kola]] nebo je prokládat mezi tahy hrdinů podle jeho uvážení nebo potřeby příběhu. Monstrum (nebo skupina monster) by mělo jednat vždy ve stejném pořadí každé kolo.
 
->[!NOTE]+ **Podporujte spolupráci.** 
+>[!NOTE]+ **Spolupracujte!** 
 >Buďte flexibilní. Pokud chtějí dva hráči strategicky prohodit své tahy na jedno kolo, aby usnadnili týmovou práci nebo realizovali taktický plán, může to [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] podle svého uvážení povolit. Toto by však mělo být prováděno jen občas, aby se předešlo zpomalení hry nebo ztrátě přehledu o tom, kdo už hrál a kdo ne.
 
 </div></div>
@@ -299,6 +353,6 @@ Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🏁\|🏁]] s [[z_Atom
 U schopností, které stojí více než 1 [[z_Atomy/A/AKCE\|AKCE]] (typicky kouzla vyšších stupňů), mohou být Akce "**rozloženy**" do více kol v [[z_Atomy/S/Střetnutí\|Střetnutí]], pokud je udržena [[z_Atomy/K/Koncentrace\|Koncentrace]] a nemůžete provádět jiné Akce. (Ale můžete provádět **volné** Akce).
 
 >[!NOTE]- **Příklad**
-> [[3 Povolání/Mag\|Mag]] Knihomol chce seslat kouzlo [[z_Atomy/O/Ohnivá koule\|Ohnivá koule]] (3 Akce), ale má k dispozici jen 1 Akci. Použije 1 Akci v tomto kole a ve svém příštím kole použije další 2 Akce, aby kouzlo úspěšně seslal.
+> [[3 Povolání/Mag\|Mág]] Knihomol chce seslat kouzlo [[z_Atomy/O/Ohnivá koule\|Ohnivá koule]] (3 Akce), ale má k dispozici jen 1 Akci. Použije 1 Akci v tomto kole a ve svém příštím kole použije další 2 Akce, aby kouzlo úspěšně seslal.
 
 </div></div>

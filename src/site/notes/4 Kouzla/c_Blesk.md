@@ -31,7 +31,7 @@ Pokud Kouzlo mine, Blesk zasáhne Vás. Získáte stav [[z_Atomy/Z/Zkrat\|Zkrat]
 ## Uzemnění
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/👊\|👊]] 2m
+[[z_Atomy/0-9/🫱\|🫱]] 2m
 Podmínka [[z_Atomy/Z/Zkrat\|Zkrat]]
 
 Ukončíte svůj stav [[z_Atomy/Z/Zkrat\|Zkrat]] a tvorové v dosahu utrží **2k8** bleskového poškození.
@@ -112,7 +112,7 @@ Neúspěch = **5k8** bleskového poškození.
 **STUPEŇ 4**  
 **2 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/R/REAKCE\|REAKCE]] - Nepřítel koná
-[[z_Atomy/0-9/👊\|👊]] 24m
+[[z_Atomy/0-9/🫱\|🫱]] 24m
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 Stojí 2 many a 1 akci, pokud máte [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/0-9/🩸\|Umíráte]]
 
@@ -131,7 +131,7 @@ Prohoďte místo jednoho ochotného cíle a jiného cíle v dosahu. Neochotný c
 ## Elektro-nabití  
 **STUPEŇ 5**  
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/👊\|👊]] Dotyk
+[[z_Atomy/0-9/🫱\|🫱]] Dotyk
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 
 Cíl získá: +1 [[z_Atomy/A/AKCE\|AKCE]], +5 [[z_Atomy/B/Brnění\|Brnění]], 2x [[z_Atomy/0-9/🏃\|🏃]] pohybu a [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
@@ -149,7 +149,7 @@ Cíl získá: +1 [[z_Atomy/A/AKCE\|AKCE]], +5 [[z_Atomy/B/Brnění\|Brnění]], 
 ## Bleskový jezdec
 **STUPEŇ 6**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 24m
+[[z_Atomy/0-9/🫱\|🫱]] 24m
 [[z_Atomy/O/Oblast\|Oblast]] 3m
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
@@ -172,7 +172,7 @@ Neúspěch = odhozen o 4m, [[z_Atomy/S/Sražen\|Sražen]] a Ohlušen na 1 den. N
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 Udržení vyžaduje 3 [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/K/Kolo\|Kolo]]
-[[z_Atomy/0-9/👊\|👊]] 4m
+[[z_Atomy/0-9/🫱\|🫱]] 4m
 [[z_Atomy/O/Odpočinek\|Odpočinek]] 1 týden
 
 Jste obklopeni mrakem o dosahu 4m. 

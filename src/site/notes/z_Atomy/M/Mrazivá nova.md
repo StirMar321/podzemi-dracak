@@ -6,7 +6,7 @@
 **STUPEŇ 3**  
 **2 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
-[[z_Atomy/0-9/👊\|👊]] 3 metry
+[[z_Atomy/0-9/🫱\|🫱]] 3 metry
 
 Tvorové v dosahu utrpí **4k6** ledového poškození. 
 Tvorové provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]], neúspěch = [[z_Atomy/S/Sražen\|Sražen]]. 

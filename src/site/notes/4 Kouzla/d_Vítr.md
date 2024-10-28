@@ -30,9 +30,9 @@ Až 2 sousedící cíle v dostřelu utrží **1k4** sečného poškození. [[z_A
 ## Dech života  
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 6m
+[[z_Atomy/0-9/🫱\|🫱]] 6m
 
-Obnovte 1 [[z_Atomy/0-9/❤\|❤]] tvorovi v dosahu se stavem [[z_Atomy/0-9/🩸\|🩸]].
+Obnovte 1 [[z_Atomy/0-9/💖\|💖]] tvorovi v dosahu se stavem [[z_Atomy/0-9/🩸\|🩸]].
 
 **Vyšší úrovně**: +3 metry dosahu každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
@@ -87,7 +87,7 @@ Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] se zdarma.
 **STUPEŇ 3**  
 **2 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/K/Koncentrace\|Koncentrace]], až 10 minut
-[[z_Atomy/0-9/👊\|👊]] Dotyk
+[[z_Atomy/0-9/🫱\|🫱]] Dotyk
 
 Cíl, kterého se dotknete, je nadnášen proudem silného větru. Po dobu trvání koncentrace získá schopnost **[[z_Atomy/L/Létání\|Létání]]**. 
 [[z_Atomy/0-9/🏃\|🏃]] 12 metrů.
@@ -105,7 +105,7 @@ Cíl, kterého se dotknete, je nadnášen proudem silného větru. Po dobu trvá
 ## Oko bouře  
 **STUPEŇ 4**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 3m
+[[z_Atomy/0-9/🫱\|🫱]] 3m
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Nepřátelé v dosahu utrpí **6k4+10** sečného poškození. 
@@ -124,7 +124,7 @@ Můžete pohnout tvory libovolně v dosahu, pokud neuspějí [[z_Atomy/0-9/❗\|
 ## Vichr z hor
 **STUPEŇ 5**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 12m
+[[z_Atomy/0-9/🫱\|🫱]] 12m
 [[z_Atomy/O/Oblast\|Oblast]] 5x5 m
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
@@ -183,9 +183,9 @@ Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [
 
 ## Básníkova Inspirace  
 **VOLNÁ [[z_Atomy/R/REAKCE\|REAKCE]]**
-Max Nabití = [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🔋\|🔋]]
+Max Nabití = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/R/REAKCE\|REAKCE]] (když spojenec hodí kostku)
-[[z_Atomy/0-9/👊\|👊]] 12m
+[[z_Atomy/0-9/🫱\|🫱]] 12m
 
 Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z výsledků.
 
@@ -200,9 +200,9 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 ## Zlomyslný výsměch
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 12m
+[[z_Atomy/0-9/🫱\|🫱]] 12m
 
-Cíl v dosahu utrží **(1k4+[[z_Atomy/0-9/🎓\|🎓]])** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
+Cíl v dosahu utrží **(1k4+[[z_Atomy/0-9/📖\|📖]])** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
 Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
 
 **Vyšší úrovně**: **+3 poškození** každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)

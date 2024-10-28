@@ -12,7 +12,7 @@
 # 🪫 = Krátký odpočinek  
 Krátké odpočinky vyžadují alespoň 15 minut na to, abyste popadli dech a ošetřili své rány, ale může to být také celá noc strávená tábořením pod hvězdami. 
 
-Po dokončení krátkého odpočinku můžete utratit [[z_Atomy/K/k-Ž\|k-Ž]] a získat zpět [[z_Atomy/0-9/❤\|❤]] rovné součtu, který hodíte. Pokud odpočíváte alespoň 6 hodin s jídlem a spánkem, házíte kostky života s ([[z_Atomy/0-9/👍\|👍]]).
+Po dokončení krátkého odpočinku můžete utratit [[z_Atomy/K/🟥\|🟥]] a získat zpět [[z_Atomy/0-9/💖\|💖]] rovné součtu, který hodíte. Pokud odpočíváte alespoň 6 hodin s jídlem a spánkem, házíte kostky života s [[z_Atomy/0-9/👍\|👍]].
 
 </div></div>
 
@@ -25,7 +25,7 @@ Po dokončení krátkého odpočinku můžete utratit [[z_Atomy/K/k-Ž\|k-Ž]] a
 # 🔋 = Dlouhý odpočinek
 **Dlouhé odpočinky** typicky vyžadují alespoň 6 hodin spánku na bezpečném místě určeném vaším [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], obvykle ubytování v hostinci; může to být také v tajné oáze, dobře zásobené chatě v lese, poblíž posvátné svatyně nebo na podobném místě. Kempování v otevřené divočině nebo v podzemí není běžně dostatečné pro získání plnohodnotného **Dlouhého odpočinku**.
 
-Po **dlouhém odpočinku** se hrdinové obnoví všechny [[z_Atomy/0-9/❤\|❤]], many (a dalších specifických zdrojů třídy), [[z_Atomy/K/k-Ž\|k-Ž]] rovno [[z_Atomy/0-9/💪\|💪]] (minimálně 1) a vyléčí jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. **Dlouhé odpočinky** jsou také skvělou příležitostí pro prožívání volného času.
+Po **dlouhém odpočinku** se hrdinové obnoví všechny [[z_Atomy/0-9/💖\|💖]], many (a dalších specifických zdrojů třídy), [[z_Atomy/K/🟥\|🟥]] rovno [[z_Atomy/0-9/💪\|💪]] (minimálně 1) a vyléčí jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. **Dlouhé odpočinky** jsou také skvělou příležitostí pro aktivity v [[z_Atomy/M/Mezidobí\|Mezidobí]].
 
 </div></div>
 
@@ -41,15 +41,15 @@ Po **dlouhém odpočinku** se hrdinové obnoví všechny [[z_Atomy/0-9/❤\|❤]
 Nemusí to zabrat mnoho času u stolu, může to být jen pár minut kladení otázek a vyprávění toho, co se stane. Když se hrdinové lépe propojí s lidmi a prostředím kolem sebe, příběhy mohou mít hlubší význam. Otevírá to možnosti mít přátelství, nepřátelství, být zrazeni, soupeřit, utrácet peníze, předvést se a dát Hrdinům hloubku a charakter.
 
 Několik nápadů na aktivity během času mimo dobrodružství:
-- **Přeškolení.** Strav čas trénováním a přeškol se na některou ze svých zvolených schopností nebo vlastností.
-- **Získávání informací.** Zjišťuj novinky, zvěsti nebo příležitosti k práci.
-- **Vystupování.** Hraj hudbu, vyprávěj příběhy, soutěž nebo vystupuj na veřejnosti a vydělávej zlato nebo slávu.
-- **Řemeslná výroba.** Vytvářej zbraně, zbroj nebo magické předměty pomocí materiálů, které jsi získal.
-- **Společenské aktivity.** Buduj spojenectví, nacházej nové přátele nebo nepřátele.
-- **Investice.** Použij své zlato k investování do podnikání nebo obchodních aktivit pro budoucí zisky.
-- **Mentorství.** Uč dovednost nebo schopnost jiné postavě nebo NPC.
-- **Výzkum.** Vyšetřuj záhady, studuj starověké texty nebo odhaluj skryté znalosti.
-- **Služba.** Služ patronovi nebo božstvu výměnou za laskavost, nebo prováděj charitu pro obyvatele města.
+- **Přeškolení.** Věnujte čas trénování a přeučte si některou ze svých zvolených schopností nebo vlastností.
+- **Získávání informací.** Zjišťujte novinky, zvěsti nebo příležitosti k práci.
+- **Vystupování.** Hrajte hudbu, vyprávějte příběhy, soutěžte nebo vystupujte na veřejnosti a vydělávejte zlato nebo slávu.
+- **Řemeslná výroba.** Vytvářejte zbraně, zbroj nebo magické předměty pomocí materiálů, které jste získali.
+- **Společenské aktivity.** Budujte spojenectví, nacházejte nové přátele nebo nepřátele.
+- **Investice.** Použijte své zlato k investování do podnikání nebo obchodních aktivit pro budoucí zisky.
+- **Mentorství.** Učte dovednost nebo schopnost jiné postavě nebo [[z_Atomy/N/NPC\|NPC]].
+- **Výzkum.** Vyšetřujte záhady, studujte starověké texty nebo odhalujte skryté znalosti.
+- **Služba.** Služte patronovi nebo božstvu výměnou za laskavost, nebo prováděj charitu pro obyvatele města.
 
 > [!NOTE]- **Jak dlouho odpočívat?!** 
 > Pokud Vaše skupina dává přednost tomu, aby se přeskočily aktivity mimo dobrodružství a jednoduše přeskočil týden odpočinku, je to v **pořádku**!

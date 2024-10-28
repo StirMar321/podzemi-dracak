@@ -7,7 +7,7 @@
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 Udržení vyžaduje 3 [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/K/Kolo\|Kolo]]
-[[z_Atomy/0-9/👊\|👊]] 4m
+[[z_Atomy/0-9/🫱\|🫱]] 4m
 [[z_Atomy/O/Odpočinek\|Odpočinek]] 1 týden
 
 Jste obklopeni mrakem o dosahu 4m. 

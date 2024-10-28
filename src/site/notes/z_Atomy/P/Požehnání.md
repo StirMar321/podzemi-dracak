@@ -18,6 +18,6 @@
 ⠀
 - **Pomoz mi, můj příteli**. Kdykoli provedete svůj první útok na blízko každé [[z_Atomy/K/Kolo\|Kolo]], můžete k útoku přidat poškození Vašeho [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]].
 ⠀
-- **Neopouštěj mě!**. Své léčení můžete cílit na tvory, kteří jsou mrtví méně než 1 kolo. Každých 10 [[z_Atomy/0-9/❤\|❤]], které takto vyléčíte, také zahojí 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
+- **Neopouštěj mě!**. Své léčení můžete cílit na tvory, kteří jsou mrtví méně než 1 kolo. Každých 10 [[z_Atomy/0-9/💖\|💖]], které takto vyléčíte, také zahojí 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 ⠀
-- **Světlo soudu**. [[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Tvor do 6 metrů začne zářit světlem po dobu 1 kola a útoky proti nim jsou prováděny s Vaší volbou [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
+- **Světlo soudu**. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Tvor do 6 metrů začne zářit světlem po dobu 1 kola a útoky proti nim jsou prováděny s Vaší volbou [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].

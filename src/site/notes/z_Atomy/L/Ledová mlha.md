@@ -5,7 +5,7 @@
 ## Ledová mlha
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 1 metr
+[[z_Atomy/0-9/🫱\|🫱]] 1 metr
 [[z_Atomy/O/Oblast\|Oblast]] 2x2 metry
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 

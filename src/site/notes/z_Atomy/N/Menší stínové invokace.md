@@ -8,9 +8,9 @@
 
 - **Řeč zatracených**. Umíte mluvit s prokletými, přízraky a nemrtvými (a dalšími nechutnými tvory...).
 ⠀
-- **Klamavý vliv**. 1/den. Můžete přehodit [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]].
+- **Klamavý vliv**. 1/den. Můžete přehodit [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]].
 ⠀
-- **Krvavý zrak**. 1/den. Můžete přehodit [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]]. Můžete detekovat stopy krve i když byly očištěny.
+- **Krvavý zrak**. 1/den. Můžete přehodit [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]]. Můžete detekovat stopy krve i když byly očištěny.
 ⠀
 - **Oddaný akolyta**. Naučte se 2 z následujících [[z_Atomy/J/Jazyky\|Jazyků]]: Sférický, Nebeský, Dračí, Prastarý, Pekelný, nebo Elementální.
 ⠀
@@ -18,7 +18,7 @@
 ⠀
 - **Pohled dvou myslí**. Dotkněte se ochotného tvora a naladíte se na jeho mysl. Vnímáte skrze tvora dokud udržíte [[z_Atomy/K/Koncentrace\|Koncentraci]].
 ⠀
-- **Znalosti z dalšího světa**. Kdykoli neuspějete v [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] / [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste uspěli.
+- **Znalosti z dalšího světa**. Kdykoli neuspějete v [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] / [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste uspěli.
 ⠀
 - **Můj oblíbený mazlíček**. Jeden [[z_Atomy/S/Stínový sluha\|Stínový sluha]] Vás může (neochotně) následovat i mimo [[z_Atomy/S/Střetnutí\|Střetnutí]]. Může (velmi strašidelně) vykonávat jakýkoli menší úkol, který by zvládl průměrný obyčejný člověk.
 ⠀

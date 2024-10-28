@@ -13,9 +13,9 @@
 ## Zlomyslný výsměch
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 12m
+[[z_Atomy/0-9/🫱\|🫱]] 12m
 
-Cíl v dosahu utrží **(1k4+[[z_Atomy/0-9/🎓\|🎓]])** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
+Cíl v dosahu utrží **(1k4+[[z_Atomy/0-9/📖\|📖]])** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
 Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
 
 **Vyšší úrovně**: **+3 poškození** každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
@@ -30,18 +30,18 @@ Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
 
 ## Básníkova Inspirace  
 **VOLNÁ [[z_Atomy/R/REAKCE\|REAKCE]]**
-Max Nabití = [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🔋\|🔋]]
+Max Nabití = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/R/REAKCE\|REAKCE]] (když spojenec hodí kostku)
-[[z_Atomy/0-9/👊\|👊]] 12m
+[[z_Atomy/0-9/🫱\|🫱]] 12m
 
 Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z výsledků.
 
 </div></div>
 
 ## LVL 2
-- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** ve školách, které znáte. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/🎭\|🎭]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
+- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** ve školách, které znáte. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
 - **Všeuměl**. Během [[z_Atomy/0-9/🔋\|🔋]] můžete přesunout **jeden** [[z_Atomy/B/Body ⚙️\|Bod Dovednosti]], jako byste získali další [[z_Atomy/L/LVL\|LVL]].
-- **Píseň odpočinku**. 1/Den. Kdykoli za [[z_Atomy/0-9/🪫\|🪫]] můžete spojencům zahrát a umožnit každému, kdo použil [[z_Atomy/K/k-Ž\|k-Ž]], obnovit [[z_Atomy/0-9/❤\|❤]] rovné Vašemu [[z_Atomy/0-9/🎭\|🎭]].
+- **Píseň odpočinku**. 1/Den. Kdykoli za [[z_Atomy/0-9/🪫\|🪫]] můžete spojencům zahrát a umožnit každému, kdo použil [[z_Atomy/K/🟥\|🟥]], obnovit [[z_Atomy/0-9/💖\|💖]] rovné Vašemu [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 3
 - **Básnické Koleje**. Vyberte si **podtřídu** [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
 - **Pohotový důvtip**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete obnovit 1 nabití [[z_Atomy/B/Básníkova Inspirace\|Básníkovy Inspirace]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]).
@@ -49,11 +49,11 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 ## LVL 4
 - **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a posilovat kouzla na 2. stupeň.
 - **Lyrické zbraně**. Vyberte si 1 schopnost [[z_Atomy/L/Lyrické zbraně\|Lyrických zbraní]]. Kdykoli vystoupíte na místě, které Vás inspiruje, nebo si měníte příběhy s jinými schopným bardy a poety během [[z_Atomy/0-9/🔋\|🔋]], můžete vyměnit jednu z těchto schopností za jinou.
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎓\|🎓]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 5
 - **Lidumil**. Jste přirozený [[z_Atomy/L/Lidumil\|Lidumil]]. Vyberte si **2 přátele**, které můžete dočasně přivolat písní. Každého přítele můžete vyvolat jednou za [[z_Atomy/0-9/🔋\|🔋]].
 - **Vylepšené Triky**. Vaše Triky sílí.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a posilovat kouzla na 3. stupeň.
 - **Kecálek (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
@@ -61,10 +61,10 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 - **Básnické Koleje**. Získáte schopnost [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
 ## LVL 8
 - **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a posilovat kouzla na 4. stupeň.
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎓\|🎓]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 9
 - **Lyrické zbraně (2)**. Vyberte si **další** schopnost [[z_Atomy/L/Lyrické zbraně\|Lyrických zbraní]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 10
 - **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a posilovat kouzla na 5. stupeň.
 - **Vylepšené Triky**. Vaše Triky sílí.
@@ -72,10 +72,10 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 - **Básnické Koleje**. Získáte schopnost [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
 ## LVL 12
 - **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a posilovat kouzla na 6. stupeň.
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎓\|🎓]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 13
 - **Lyrické zbraně (3)**. Vyberte si **další** schopnost [[z_Atomy/L/Lyrické zbraně\|Lyrických zbraní]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 14
 - **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a posilovat kouzla na 7. stupeň.
 - **Kecálek (3)**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z každé známé domény.
@@ -84,10 +84,10 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 - **Vylepšené Triky**. Vaše Triky sílí.
 ## LVL 16
 - **Kouzla 8. stupně**. Nyní můžete sesílat kouzla **8. stupně** a posilovat kouzla na 8. stupeň.
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎓\|🎓]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 17
 - **Lyrické zbraně (4)**. Vyberte si **další** schopnost [[z_Atomy/L/Lyrické zbraně\|Lyrických zbraní]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 18
 - **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a posilovat kouzla na 9. stupeň.
 ## LVL 19

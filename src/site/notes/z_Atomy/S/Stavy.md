@@ -202,7 +202,7 @@ Pasivní stav. Když utrpíte poškození bleskem, jste nabitý elektřinou po d
 
 
 ## Zkrvaven
-Pasivní stav. Vaše [[z_Atomy/0-9/❤\|❤]] klesnou na polovinu.
+Pasivní stav. Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na polovinu.
 
 </div></div>
 

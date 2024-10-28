@@ -5,7 +5,7 @@
 ## Rozžhavené železo
 **STUPEŇ 2**  
 **1 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/👊\|👊]] Dotyk
+[[z_Atomy/0-9/🫱\|🫱]] Dotyk
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 
 Zbraň, které se dotknete, je očarována magickým plamenem.

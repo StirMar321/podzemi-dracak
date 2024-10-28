@@ -11,7 +11,7 @@
 
 # Kouzelný svitek  
 Kouzelný svitek je jednorázový magický předmět, na kterém je zapsáno určité kouzlo. Seslání kouzla pomocí kouzelného svitku nevyžaduje [[z_Atomy/0-9/🌀\|🌀]] ani schopnost [[z_Atomy/0-9/✨\|✨]]. Každý, kdo umí číst jazyk, ve kterém je svitek napsán, jej může použít. Čtení nahlas trvá stejný počet akcí jako běžné seslání kouzla a spotřebuje svitek. 
-Hrdina, který nezná danou doménu kouzel, musí uspět v [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]] - [[z_Atomy/0-9/📶\|📶]] **10**, aby kouzlo úspěšně seslal; v případě neúspěchu je svitek zničen. 
+Hrdina, který nezná danou doménu kouzel, musí uspět v [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]] - [[z_Atomy/0-9/📶\|📶]] **10**, aby kouzlo úspěšně seslal; v případě neúspěchu je svitek zničen. 
 
 Stupeň kouzla a typická cena:
 
@@ -32,14 +32,14 @@ Stupeň kouzla a typická cena:
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/h/hulky/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/h/kouzelne-hulky/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Hůlky  
+# Kouzelné hůlky  
 Podobně jako [[z_Atomy/K/Kouzelný svitek\|Kouzelný svitek]], hůlky umožňují sesílat kouzla bez spotřeby many a bez nutnosti magických schopností. Na rozdíl od svitků lze hůlky opětovně nabíjet a používat znovu. Hrdinové, kteří jsou [[z_Atomy/Z/Zdatnost\|Zdatnost]] v používání hůlek, mohou volně používat hůlky z jakékoli domény kouzel, a to za normální počet akcí potřebných k seslání kouzla. 
-Hrdinové, kteří **nemají** [[z_Atomy/Z/Zdatnost\|Zdatnost]] v používání hůlek provedou [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]] [[z_Atomy/0-9/📶\|📶]] **10**, aby kouzlo úspěšně seslali. 
+Hrdinové, kteří **nemají** [[z_Atomy/Z/Zdatnost\|Zdatnost]] v používání hůlek provedou [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]] [[z_Atomy/0-9/📶\|📶]] **10**, aby kouzlo úspěšně seslali. 
 
 Typické ceny hůlek:
 

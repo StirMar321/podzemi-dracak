@@ -21,7 +21,7 @@ Ať tvé šípy zasáhnou cíl a tětivy nikdy neprasknou.
 (Hraničář)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/🦉\|🦉]]                                | [[z_Atomy/K/k-Ž\|k-Ž]]: **1k8**                                  | [[z_Atomy/0-9/❤\|❤]] na 1. úrovni: **13**              |
+| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/K/🟥\|🟥]]: **1k8**                                  | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **13**              |
 | ---------------------------------------------------- | ------------------------------------------------- | --------------------------------------- |
 | [[z_Atomy/H/Hrdinské❗👍&👎\|Hrdinské❗👍&👎]]: <br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/K/Kožená zbroj\|Kožená zbroj]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/🎯\|🎯]] |
 
@@ -58,11 +58,11 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 ## LVL 4
 - **Lovecká horečka (2)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]]. Kdykoli strávíte [[z_Atomy/0-9/🔋\|🔋]] v divočině, můžete vyměnit jednu schopnost kterou znáte, za jinou.
 - **Průzkumník Divočiny**. +2 metry k Vaší [[z_Atomy/0-9/🏃\|🏃]]. Získáte schopnost **šplhat**.
-- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
 - **Doražení**. 1 nabití Lovecké horečky a 1 [[z_Atomy/A/AKCE\|AKCE]]: Proveďte útok na blízko proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] [[z_Atomy/K/Kořist\|Kořisti]]. Automaticky se počítá jako [[z_Atomy/0-9/💥\|💥]] a zdvojnásobte poškození z [[z_Atomy/L/Lovcova marka\|Lovcovy marky]]. Pokud kořist přežije, udělí vám [[z_Atomy/0-9/💥\|💥]] zpět.
 - **Zkušený Stopař**. Získáte +1 nabití Lovecké horečky, když **VY** zabijete [[z_Atomy/K/Kořist\|Kořist]].
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 6
 - **Mistr Lukostřelby**. Kdykoli zaútočíte s **dlouhým lukem**, můžete házet **2k4** nebo **1k8**. S **kuší** **4k4** nebo **2k8**.
 - **Lovecká horečka (3)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
@@ -70,32 +70,32 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Zaměření Lovce**. Získáte schopnost **podtřídy** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
 ## LVL 8
 - **Lovecká horečka (4)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
-- **Zvýšení klíčové Statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení klíčové Statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 9
 - **Neunikneš mi**. Kdykoli uvidíte jednoho nebo více spojenců provést [[z_Atomy/0-9/🛑\|🛑]], můžete také provést [[z_Atomy/0-9/🛑\|🛑]] **na dálku** proti stejnému cíli.
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 10
 - **Zkušený Stopař (2)**. Dostanete +1 nabití Lovcovy horečky když: 
 	- jste poprvé [[z_Atomy/Z/Zkrvaven\|Zkrvaven]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]].
 	- utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
-- **Bystré oko, pevná ruka**. Přidejte +[[z_Atomy/0-9/🦉\|🦉]] k poškození [[z_Atomy/Z/Zbraně na dálku\|Zbraně na dálku]].
+- **Bystré oko, pevná ruka**. Přidejte +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k poškození [[z_Atomy/Z/Zbraně na dálku\|Zbraně na dálku]].
 ## LVL 11
 - **Zaměření Lovce**. Získáte schopnost **podtřídy** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
 ## LVL 12
 - **Lovecká horečka (5)**. Vyberte si **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
-- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 13
-- **Bystrý Zrak**. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]].
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
+- **Bystrý Zrak**. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 14
 - **Lovecká horečka (6)**. Vyberte si **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
 ## LVL 15
 - **Zaměření Lovce**. Získáte schopnost **podtřídy** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
 ## LVL 16
-- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 17
 - **Bezkonkurenční Lovec**. Můžete použít [[z_Atomy/0-9/🛡️\|🛡️]] proti Vaší [[z_Atomy/K/Kořist\|Kořisti]] zadarmo.
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 18
 - **Divoká Výdrž**. Získáte +1 nabití [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]] na začátku svého [[z_Atomy/T/Tah\|Tahu]].
 ## LVL 19
@@ -132,7 +132,7 @@ Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová n
 ⠀
 - **Odstřelovač**. [[z_Atomy/A/AKCE\|AKCE]]: Pokud jste se tento tah nepohnuli a Vaše [[z_Atomy/K/Kořist\|Kořist]] je 6+ metrů daleko, zaútočte na ni s dvojnásobným poškozením.
 ⠀
-- **Ohnivý šíp**. [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Přidejte **+[[z_Atomy/0-9/🦉\|🦉]]k8** ohnivého poškození.
+- **Ohnivý šíp**. [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Přidejte **+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]k8** ohnivého poškození.
 ⠀
 - **Ostré smysly**. Proveďte [[z_Atomy/0-9/🔍\|🔍]] s [[z_Atomy/0-9/👍\|👍]] zdarma.
 ⠀
@@ -191,18 +191,18 @@ Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová n
 ## Zaměření Zálesák
 ### LVL 3
 - **Mám Navrh!** Když získáte alespoň 1 nabití Lovcovy horečky, můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|rychlosti]] zdarma, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
-- **Působivá Forma**. Máte **+5** max [[z_Atomy/0-9/❤\|❤]] a Vaše [[z_Atomy/K/k-Ž\|k-Ž]] se vylepší na **k10**.
+- **Působivá Forma**. Máte **+5** max [[z_Atomy/0-9/💖\|💖]] a Vaše [[z_Atomy/K/🟥\|🟥]] se vylepší na **k10**.
 
 ### LVL 7
-- **Zásobený Bylinkář**. Kdykoli provádíte [[z_Atomy/0-9/🔋\|🔋]] na místě, kde mohou růst rostliny nebo houby, můžete sbírat léčivé byliny pro výrobu ([[z_Atomy/0-9/🦉\|🦉]]) [[z_Atomy/L/Léčivý lektvar\|Léčivých lektvarů]]  .
-- **Léčivá Mast**. [[z_Atomy/A/AKCE\|AKCE]]: Vylečte sobě nebo přilehlému stvoření (([[z_Atomy/0-9/🦉\|🦉]])k6) [[z_Atomy/0-9/❤\|❤]]. Tuto mast můžete aplikovat pouze vy nebo jiný zkušený bylinkář a mast zmizí za [[z_Atomy/0-9/🔋\|🔋]].
+- **Zásobený Bylinkář**. Kdykoli provádíte [[z_Atomy/0-9/🔋\|🔋]] na místě, kde mohou růst rostliny nebo houby, můžete sbírat léčivé byliny pro výrobu ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]) [[z_Atomy/L/Léčivý lektvar\|Léčivých lektvarů]]  .
+- **Léčivá Mast**. [[z_Atomy/A/AKCE\|AKCE]]: Vylečte sobě nebo přilehlému stvoření (([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])k6) [[z_Atomy/0-9/💖\|💖]]. Tuto mast můžete aplikovat pouze vy nebo jiný zkušený bylinkář a mast zmizí za [[z_Atomy/0-9/🔋\|🔋]].
 
 ### LVL 11
-- **Ha! Tady Jsem!** 1/[[z_Atomy/0-9/🔋\|🔋]]. Pokud by vám útok způsobil pokles na **0** [[z_Atomy/0-9/❤\|❤]], místo toho se přesunete až o polovinu své rychlosti a neobdržíte žádné poškození.
+- **Ha! Tady Jsem!** 1/[[z_Atomy/0-9/🔋\|🔋]]. Pokud by vám útok způsobil pokles na **0** [[z_Atomy/0-9/💖\|💖]], místo toho se přesunete až o polovinu své rychlosti a neobdržíte žádné poškození.
 
 ### LVL 15
 - **Nepřekonatelný Zálesák**. 
-	- Přidejte svou ([[z_Atomy/0-9/🦉\|🦉]]) ke svému [[z_Atomy/B/Brnění\|Brnění]]. 
+	- Přidejte svou ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]) ke svému [[z_Atomy/B/Brnění\|Brnění]]. 
 	- Když útočíte ze [[z_Atomy/Z/Zbraně na dálku\|Zbraně na dálku]], můžete se nejprve zdarma pohnout o polovinu své [[z_Atomy/0-9/🏃\|rychlosti]].
 
 </div></div>

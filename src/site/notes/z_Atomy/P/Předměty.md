@@ -9,9 +9,9 @@ Ceny běžných předmětů se obvykle pohybují od několika [[z_Atomy/0-9/⚪\
 
 | PŘEDMĚT                     | POPIS                                                | CENA       |
 | --------------------------- | ---------------------------------------------------- | ---------- |
-| [[z_Atomy/L/Léčivý lektvar\|Léčivý lektvar]]          | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 2k4+4 [[z_Atomy/0-9/❤\|❤]]                      | 50[[z_Atomy/0-9/🟡\|🟡]]   |
-| [[z_Atomy/L/Lepší Léčivý lektvar\|Lepší Léčivý lektvar]]    | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 3k6+6 [[z_Atomy/0-9/❤\|❤]]                      | 150[[z_Atomy/0-9/🟡\|🟡]]  |
-| [[z_Atomy/N/Nejlepší Léčivý lektvar\|Nejlepší Léčivý lektvar]] | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 4k8+8 [[z_Atomy/0-9/❤\|❤]]                      | 450[[z_Atomy/0-9/🟡\|🟡]]  |
+| [[z_Atomy/L/Léčivý lektvar\|Léčivý lektvar]]          | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 2k4+4 [[z_Atomy/0-9/💖\|💖]]                      | 50[[z_Atomy/0-9/🟡\|🟡]]   |
+| [[z_Atomy/L/Lepší Léčivý lektvar\|Lepší Léčivý lektvar]]    | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 3k6+6 [[z_Atomy/0-9/💖\|💖]]                      | 150[[z_Atomy/0-9/🟡\|🟡]]  |
+| [[z_Atomy/N/Nejlepší Léčivý lektvar\|Nejlepší Léčivý lektvar]] | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 4k8+8 [[z_Atomy/0-9/💖\|💖]]                      | 450[[z_Atomy/0-9/🟡\|🟡]]  |
 | Louče                       | Když je tma. Jedno použití. Sada 2.                  | 5[[z_Atomy/0-9/⚪\|⚪]]     |
 | Lucerna a olej              | Jako louč, ale úspornější. (Potřebuje olej, 1[[z_Atomy/0-9/🟡\|🟡]]) | 10[[z_Atomy/0-9/🟡\|🟡]]   |
 | Lahvička smůly              | VELMI hořlavé                                        | 2[[z_Atomy/0-9/🟡\|🟡]]    |

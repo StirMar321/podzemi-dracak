@@ -21,7 +21,7 @@ Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová n
 ⠀
 - **Odstřelovač**. [[z_Atomy/A/AKCE\|AKCE]]: Pokud jste se tento tah nepohnuli a Vaše [[z_Atomy/K/Kořist\|Kořist]] je 6+ metrů daleko, zaútočte na ni s dvojnásobným poškozením.
 ⠀
-- **Ohnivý šíp**. [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Přidejte **+[[z_Atomy/0-9/🦉\|🦉]]k8** ohnivého poškození.
+- **Ohnivý šíp**. [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Přidejte **+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]k8** ohnivého poškození.
 ⠀
 - **Ostré smysly**. Proveďte [[z_Atomy/0-9/🔍\|🔍]] s [[z_Atomy/0-9/👍\|👍]] zdarma.
 ⠀

@@ -3,7 +3,7 @@
 ---
 
 ## Disciplinované manévry
-Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte **[[z_Atomy/0-9/🦉\|🦉]] bodů disciplíny**. 
+Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte **[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] bodů disciplíny**. 
 Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 
 - **Trpělivá obrana**. Můžete použít reakci [[z_Atomy/0-9/🛡️\|🛡️]] zdarma. Vyber si jeden mód.

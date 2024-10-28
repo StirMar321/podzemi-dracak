@@ -30,7 +30,7 @@ Vyšší úrovně: +**3** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/1
 ## Ledová mlha
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 1 metr
+[[z_Atomy/0-9/🫱\|🫱]] 1 metr
 [[z_Atomy/O/Oblast\|Oblast]] 2x2 metry
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 
@@ -72,9 +72,9 @@ Cíl v dostřelu utrží **3k6** ledového poškození. [[z_Atomy/0-9/💥\|💥
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/R/REAKCE\|REAKCE]], při [[z_Atomy/0-9/🛡️\|🛡️]]
 
-Obdržíte [[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/♡\|♡]] a použijte reakci [[z_Atomy/0-9/🛡️\|🛡️]] zdarma.
+Obdržíte [[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] a použijte reakci [[z_Atomy/0-9/🛡️\|🛡️]] zdarma.
 
-**Posílení**: +[[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/♡\|♡]] za každou utracenou další manu.
+**Posílení**: +[[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] za každou utracenou další manu.
 
 </div></div>
 
@@ -88,7 +88,7 @@ Obdržíte [[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/♡\|♡]] a použijte reakc
 **STUPEŇ 3**  
 **2 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
-[[z_Atomy/0-9/👊\|👊]] 3 metry
+[[z_Atomy/0-9/🫱\|🫱]] 3 metry
 
 Tvorové v dosahu utrpí **4k6** ledového poškození. 
 Tvorové provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]], neúspěch = [[z_Atomy/S/Sražen\|Sražen]]. 
@@ -109,7 +109,7 @@ Pokud již mají stav [[z_Atomy/S/Sražen\|Sražen]], budou [[z_Atomy/O/Omráče
 ## Ledová Aura  
 **STUPEŇ 4**  
 **2 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/👊\|👊]] 18 metrů
+[[z_Atomy/0-9/🫱\|🫱]] 18 metrů
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 
 Povrch v dosahu je [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
@@ -129,7 +129,7 @@ Vy a jeden spojenec v dosahu jste imunní.
 ## Ledoborec
 **STUPEŇ 5**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 18 metrů
+[[z_Atomy/0-9/🫱\|🫱]] 18 metrů
 [[z_Atomy/O/Oblast\|Oblast]] 2x2m
 
 Vyberte [[z_Atomy/O/Oblast\|Oblast]] 2x2 m v dosahu
@@ -151,7 +151,7 @@ Tvorové v oblasti utrpí **8k6** ledového poškození, tvorové sousedící s 
 ## Ledový hrob  
 **STUPEŇ 8**  
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/👊\|👊]] 18 metrů
+[[z_Atomy/0-9/🫱\|🫱]] 18 metrů
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Cíl v dosahu provede [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Když neuspěje je pohřben v ledu. 
@@ -171,7 +171,7 @@ Cíl může zopakovat [[z_Atomy/0-9/❗\|❗]]/10 dní. Velká stvoření mají 
 ## Arktická pohroma
 **STUPEŇ 9**  
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/👊\|👊]] 18m
+[[z_Atomy/0-9/🫱\|🫱]] 18m
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 [[z_Atomy/O/Odpočinek\|Odpočinek]] 1 týden
 

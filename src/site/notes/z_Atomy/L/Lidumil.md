@@ -23,7 +23,7 @@ Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště
 
 ### Dupákovo Dupání
 **1 AKCE**
-[[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]][[z_Atomy/0-9/📶\|📶]] **10**, při úspěchu se [[z_Atomy/D/Dupák\|Dupák]] rozběhne až o 6 metrů směrem, který určíte, a způsobí **([[z_Atomy/L/LVL\|LVL]]+[[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]]) drtivého poškození** všemu, co mu stojí v cestě. JAKÉKOLI stvoření do 6 metrů může použít tuto schopnost místo útoku. Při neúspěchu [[z_Atomy/D/Dupák\|Dupák]] dupne směrem k tomu, kdo mu rozkazoval. 
+[[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]][[z_Atomy/0-9/📶\|📶]] **10**, při úspěchu se [[z_Atomy/D/Dupák\|Dupák]] rozběhne až o 6 metrů směrem, který určíte, a způsobí **([[z_Atomy/L/LVL\|LVL]]+[[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]]) drtivého poškození** všemu, co mu stojí v cestě. JAKÉKOLI stvoření do 6 metrů může použít tuto schopnost místo útoku. Při neúspěchu [[z_Atomy/D/Dupák\|Dupák]] dupne směrem k tomu, kdo mu rozkazoval. 
 
 > [!NOTE] **„TY NEJSEŠ KAMARÁD!“**
 
@@ -40,7 +40,7 @@ Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště
 
 ## Bábi
 (NENÍ čarodějnice)
-1/[[z_Atomy/0-9/🔋\|🔋]] ji můžete vyvolat až na 1 hodinu, aby se o Vás postarala. Upeče a rozdá (CHA+INT) sušenek. Sušenka může obnovit jednu [[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/K/k-Ž\|k-Ž]] nebo [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. Snězte je, dokud jsou teplé! Zmizí do 10 minut.
+1/[[z_Atomy/0-9/🔋\|🔋]] ji můžete vyvolat až na 1 hodinu, aby se o Vás postarala. Upeče a rozdá (CHA+INT) sušenek. Sušenka může obnovit jednu [[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/K/🟥\|🟥]] nebo [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. Snězte je, dokud jsou teplé! Zmizí do 10 minut.
 
 > [!NOTE] **Vyhubovala vám, že málo jíte!**
 
@@ -55,7 +55,7 @@ Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště
 ## Mal, poťouchlý imp
 Přivolejte malého démona na jednu noc. Dokáže zjistit nebezpečné informace, které nemáte nárok vědět! Nebo vyřešit problém s nepatrnou šancí, že se něco pokazí.
 
-[[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]], abyste ho přesvědčili, aby vám pomohl. [[z_Atomy/0-9/👍\|👍]], pokud ho požádáte o něco, co by považoval za nezbedné nebo zábavné. [[z_Atomy/0-9/👎\|👎]], pokud jde o něco, co by považoval za dobré nebo nudné.
+[[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]], abyste ho přesvědčili, aby vám pomohl. [[z_Atomy/0-9/👍\|👍]], pokud ho požádáte o něco, co by považoval za nezbedné nebo zábavné. [[z_Atomy/0-9/👎\|👎]], pokud jde o něco, co by považoval za dobré nebo nudné.
 
 > [!NOTE] **Jsem pro každou špatnost >:P**
 

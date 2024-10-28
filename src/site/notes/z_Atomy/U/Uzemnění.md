@@ -5,7 +5,7 @@
 ## Uzemnění
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/👊\|👊]] 2m
+[[z_Atomy/0-9/🫱\|🫱]] 2m
 Podmínka [[z_Atomy/Z/Zkrat\|Zkrat]]
 
 Ukončíte svůj stav [[z_Atomy/Z/Zkrat\|Zkrat]] a tvorové v dosahu utrží **2k8** bleskového poškození.

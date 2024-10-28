@@ -5,7 +5,7 @@
 ## Spalující žár
 **STUPEŇ 5**
 **2 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 12m
+[[z_Atomy/0-9/🫱\|🫱]] 12m
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta.
 
 Tvorové v dosahu získají stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]]

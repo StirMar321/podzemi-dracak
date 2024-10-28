@@ -30,7 +30,7 @@ Cíl v dostřelu utrží **1k10** ohnivého poškození. [[z_Atomy/0-9/💥\|�
 ## Ohnivé srdce
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 4m
+[[z_Atomy/0-9/🫱\|🫱]] 4m
 
 Spojenec v dosahu získá extra **AKCI**
 
@@ -67,7 +67,7 @@ Ukončíte cíli stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
 ## Rozžhavené železo
 **STUPEŇ 2**  
 **1 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/👊\|👊]] Dotyk
+[[z_Atomy/0-9/🫱\|🫱]] Dotyk
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 
 Zbraň, které se dotknete, je očarována magickým plamenem.
@@ -104,7 +104,7 @@ Použijte [[z_Atomy/0-9/🛡️\|🛡️]] zdarma
 ## Ohnivá koule
 **STUPEŇ 4**  
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/👊\|👊]] 3m
+[[z_Atomy/0-9/🫱\|🫱]] 3m
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Tvorové v dosahu provedou [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/🎯\|🎯]]). 
@@ -126,7 +126,7 @@ Tvorové se stavem [[z_Atomy/Z/Žhnoucí\|Žhnoucí]] automaticky neuspějí
 ## Spalující žár
 **STUPEŇ 5**
 **2 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 12m
+[[z_Atomy/0-9/🫱\|🫱]] 12m
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta.
 
 Tvorové v dosahu získají stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]]
@@ -169,13 +169,13 @@ Na konci tohoto a příštího tahu sešlete kouzlo [[z_Atomy/O/Ohnivá koule\|O
 
 Proměníte se v **Červeného Draka**. 
 
-**Získáte**: 3 [[z_Atomy/A/AKCE\|AKCE]], **(10x[[z_Atomy/L/LVL\|LVL]])** [[z_Atomy/0-9/♡\|♡]], [[z_Atomy/L/Létání\|Létání]], [[z_Atomy/0-9/🏃\|🏃]] 16 metrů, [[z_Atomy/L/LVL\|LVL]] [[z_Atomy/B/Brnění\|Brnění]].
+**Získáte**: 3 [[z_Atomy/A/AKCE\|AKCE]], **(10x[[z_Atomy/L/LVL\|LVL]])** [[z_Atomy/0-9/💗\|💗]], [[z_Atomy/L/Létání\|Létání]], [[z_Atomy/0-9/🏃\|🏃]] 16 metrů, [[z_Atomy/L/LVL\|LVL]] [[z_Atomy/B/Brnění\|Brnění]].
 
-Máte podobu draka, dokud máte [[z_Atomy/0-9/♡\|♡]] získané tímto kouzlem. Když toto kouzlo skončí, klesnete na **0** [[z_Atomy/0-9/❤\|❤]].
+Máte podobu draka, dokud máte [[z_Atomy/0-9/💗\|💗]] získané tímto kouzlem. Když toto kouzlo skončí, klesnete na **0** [[z_Atomy/0-9/💖\|💖]].
 
 Máte tyto útoky:
 - **Zuby a Drápy**. 
-	- [[z_Atomy/A/AKCE\|AKCE]]: [[z_Atomy/0-9/👊\|👊]] 2 metry, **(1k20+[[z_Atomy/L/LVL\|LVL]])** sečné poškození. Způsobuje stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], ignoruje [[z_Atomy/B/Brnění\|Brnění]].
+	- [[z_Atomy/A/AKCE\|AKCE]]: [[z_Atomy/0-9/🫱\|🫱]] 2 metry, **(1k20+[[z_Atomy/L/LVL\|LVL]])** sečné poškození. Způsobuje stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], ignoruje [[z_Atomy/B/Brnění\|Brnění]].
 - **Zničující dech**. 
 	- 2 [[z_Atomy/A/AKCE\|AKCE]]: Kužel o dosahu 12 metrů. Zasažení provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]][[z_Atomy/0-9/📶\|📶]] **20**. Udělte **([[z_Atomy/L/LVL\|LVL]]k6)** ohnivé poškození, úspěch = poloviční poškození. [[z_Atomy/Z/Žhnoucí\|Žhnoucí]] tvorové neuspějí.
 

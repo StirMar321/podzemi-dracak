@@ -20,7 +20,7 @@ Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na dálku** a vybrané schopnosti a kouzla.
 
 
 
-## 👊 = Dosah
+## 🫱 = Dosah
 Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na blízko** a vybrané schopnosti a kouzla. Jak daleko může být cíl, aby byl zasažen.
 
 </div></div>

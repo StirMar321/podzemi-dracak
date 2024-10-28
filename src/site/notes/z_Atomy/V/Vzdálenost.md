@@ -10,8 +10,8 @@ Hra se (často) odehrává na mřížce s čtverci nebo šestiúhelníky o velik
 
 >[!NOTE]- **Alternativní možnosti pohybu**
 >Pokud dáváte přednost, můžete stejně dobře použít abstraktnější systém pohybu. 
->Použijte **krátký**, **střední** a **dlouhý** [[z_Atomy/0-9/👊\|👊]]. Jeden [[z_Atomy/0-9/🥾\|🥾]] může pokrýt vzdálenost z dlouhého dosahu do středního; ze středního do krátkého; a naopak. 
->Schopnosti na blízko nebo dotykové schopnosti mají krátký [[z_Atomy/0-9/👊\|👊]].
->[[2 Důležité/Kouzla\|Kouzla]] a [[z_Atomy/Z/Zbraně\|Zbraně]] s dosahem 6–18 metrů mají střední [[z_Atomy/0-9/👊\|👊]].
->Cokoliv víc je dlouhý [[z_Atomy/0-9/👊\|👊]]. 
+>Použijte **krátký**, **střední** a **dlouhý** [[z_Atomy/0-9/🫱\|🫱]]. Jeden [[z_Atomy/0-9/🥾\|🥾]] může pokrýt vzdálenost z dlouhého dosahu do středního; ze středního do krátkého; a naopak. 
+>Schopnosti na blízko nebo dotykové schopnosti mají krátký [[z_Atomy/0-9/🫱\|🫱]].
+>[[2 Důležité/Kouzla\|Kouzla]] a [[z_Atomy/Z/Zbraně\|Zbraně]] s dosahem 6–18 metrů mají střední [[z_Atomy/0-9/🫱\|🫱]].
+>Cokoliv víc je dlouhý [[z_Atomy/0-9/🫱\|🫱]]. 
 >Jako vždy, [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] rozhodne o nejasných situacích a o tom, které tvory ovlivní schopnosti s efektem na oblast.

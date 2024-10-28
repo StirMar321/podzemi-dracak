@@ -4,7 +4,7 @@
 
 # Kouzelný svitek  
 Kouzelný svitek je jednorázový magický předmět, na kterém je zapsáno určité kouzlo. Seslání kouzla pomocí kouzelného svitku nevyžaduje [[z_Atomy/0-9/🌀\|🌀]] ani schopnost [[z_Atomy/0-9/✨\|✨]]. Každý, kdo umí číst jazyk, ve kterém je svitek napsán, jej může použít. Čtení nahlas trvá stejný počet akcí jako běžné seslání kouzla a spotřebuje svitek. 
-Hrdina, který nezná danou doménu kouzel, musí uspět v [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]] - [[z_Atomy/0-9/📶\|📶]] **10**, aby kouzlo úspěšně seslal; v případě neúspěchu je svitek zničen. 
+Hrdina, který nezná danou doménu kouzel, musí uspět v [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]] - [[z_Atomy/0-9/📶\|📶]] **10**, aby kouzlo úspěšně seslal; v případě neúspěchu je svitek zničen. 
 
 Stupeň kouzla a typická cena:
 

@@ -30,11 +30,11 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 ## LVL 4
 - **Lovecká horečka (2)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]]. Kdykoli strávíte [[z_Atomy/0-9/🔋\|🔋]] v divočině, můžete vyměnit jednu schopnost kterou znáte, za jinou.
 - **Průzkumník Divočiny**. +2 metry k Vaší [[z_Atomy/0-9/🏃\|🏃]]. Získáte schopnost **šplhat**.
-- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
 - **Doražení**. 1 nabití Lovecké horečky a 1 [[z_Atomy/A/AKCE\|AKCE]]: Proveďte útok na blízko proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] [[z_Atomy/K/Kořist\|Kořisti]]. Automaticky se počítá jako [[z_Atomy/0-9/💥\|💥]] a zdvojnásobte poškození z [[z_Atomy/L/Lovcova marka\|Lovcovy marky]]. Pokud kořist přežije, udělí vám [[z_Atomy/0-9/💥\|💥]] zpět.
 - **Zkušený Stopař**. Získáte +1 nabití Lovecké horečky, když **VY** zabijete [[z_Atomy/K/Kořist\|Kořist]].
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 6
 - **Mistr Lukostřelby**. Kdykoli zaútočíte s **dlouhým lukem**, můžete házet **2k4** nebo **1k8**. S **kuší** **4k4** nebo **2k8**.
 - **Lovecká horečka (3)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
@@ -42,32 +42,32 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Zaměření Lovce**. Získáte schopnost **podtřídy** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
 ## LVL 8
 - **Lovecká horečka (4)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
-- **Zvýšení klíčové Statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení klíčové Statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 9
 - **Neunikneš mi**. Kdykoli uvidíte jednoho nebo více spojenců provést [[z_Atomy/0-9/🛑\|🛑]], můžete také provést [[z_Atomy/0-9/🛑\|🛑]] **na dálku** proti stejnému cíli.
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 10
 - **Zkušený Stopař (2)**. Dostanete +1 nabití Lovcovy horečky když: 
 	- jste poprvé [[z_Atomy/Z/Zkrvaven\|Zkrvaven]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]].
 	- utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
-- **Bystré oko, pevná ruka**. Přidejte +[[z_Atomy/0-9/🦉\|🦉]] k poškození [[z_Atomy/Z/Zbraně na dálku\|Zbraně na dálku]].
+- **Bystré oko, pevná ruka**. Přidejte +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k poškození [[z_Atomy/Z/Zbraně na dálku\|Zbraně na dálku]].
 ## LVL 11
 - **Zaměření Lovce**. Získáte schopnost **podtřídy** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
 ## LVL 12
 - **Lovecká horečka (5)**. Vyberte si **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
-- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 13
-- **Bystrý Zrak**. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]].
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
+- **Bystrý Zrak**. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 14
 - **Lovecká horečka (6)**. Vyberte si **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
 ## LVL 15
 - **Zaměření Lovce**. Získáte schopnost **podtřídy** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
 ## LVL 16
-- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 17
 - **Bezkonkurenční Lovec**. Můžete použít [[z_Atomy/0-9/🛡️\|🛡️]] proti Vaší [[z_Atomy/K/Kořist\|Kořisti]] zadarmo.
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🎭\|🎭]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 18
 - **Divoká Výdrž**. Získáte +1 nabití [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]] na začátku svého [[z_Atomy/T/Tah\|Tahu]].
 ## LVL 19

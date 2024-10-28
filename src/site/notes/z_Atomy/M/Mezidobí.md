@@ -8,15 +8,15 @@
 Nemusí to zabrat mnoho času u stolu, může to být jen pár minut kladení otázek a vyprávění toho, co se stane. Když se hrdinové lépe propojí s lidmi a prostředím kolem sebe, příběhy mohou mít hlubší význam. Otevírá to možnosti mít přátelství, nepřátelství, být zrazeni, soupeřit, utrácet peníze, předvést se a dát Hrdinům hloubku a charakter.
 
 Několik nápadů na aktivity během času mimo dobrodružství:
-- **Přeškolení.** Strav čas trénováním a přeškol se na některou ze svých zvolených schopností nebo vlastností.
-- **Získávání informací.** Zjišťuj novinky, zvěsti nebo příležitosti k práci.
-- **Vystupování.** Hraj hudbu, vyprávěj příběhy, soutěž nebo vystupuj na veřejnosti a vydělávej zlato nebo slávu.
-- **Řemeslná výroba.** Vytvářej zbraně, zbroj nebo magické předměty pomocí materiálů, které jsi získal.
-- **Společenské aktivity.** Buduj spojenectví, nacházej nové přátele nebo nepřátele.
-- **Investice.** Použij své zlato k investování do podnikání nebo obchodních aktivit pro budoucí zisky.
-- **Mentorství.** Uč dovednost nebo schopnost jiné postavě nebo NPC.
-- **Výzkum.** Vyšetřuj záhady, studuj starověké texty nebo odhaluj skryté znalosti.
-- **Služba.** Služ patronovi nebo božstvu výměnou za laskavost, nebo prováděj charitu pro obyvatele města.
+- **Přeškolení.** Věnujte čas trénování a přeučte si některou ze svých zvolených schopností nebo vlastností.
+- **Získávání informací.** Zjišťujte novinky, zvěsti nebo příležitosti k práci.
+- **Vystupování.** Hrajte hudbu, vyprávějte příběhy, soutěžte nebo vystupujte na veřejnosti a vydělávejte zlato nebo slávu.
+- **Řemeslná výroba.** Vytvářejte zbraně, zbroj nebo magické předměty pomocí materiálů, které jste získali.
+- **Společenské aktivity.** Budujte spojenectví, nacházejte nové přátele nebo nepřátele.
+- **Investice.** Použijte své zlato k investování do podnikání nebo obchodních aktivit pro budoucí zisky.
+- **Mentorství.** Učte dovednost nebo schopnost jiné postavě nebo [[z_Atomy/N/NPC\|NPC]].
+- **Výzkum.** Vyšetřujte záhady, studujte starověké texty nebo odhalujte skryté znalosti.
+- **Služba.** Služte patronovi nebo božstvu výměnou za laskavost, nebo prováděj charitu pro obyvatele města.
 
 > [!NOTE]- **Jak dlouho odpočívat?!** 
 > Pokud Vaše skupina dává přednost tomu, aby se přeskočily aktivity mimo dobrodružství a jednoduše přeskočil týden odpočinku, je to v **pořádku**!

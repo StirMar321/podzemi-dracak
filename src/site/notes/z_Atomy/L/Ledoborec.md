@@ -5,7 +5,7 @@
 ## Ledoborec
 **STUPEŇ 5**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 18 metrů
+[[z_Atomy/0-9/🫱\|🫱]] 18 metrů
 [[z_Atomy/O/Oblast\|Oblast]] 2x2m
 
 Vyberte [[z_Atomy/O/Oblast\|Oblast]] 2x2 m v dosahu

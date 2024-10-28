@@ -5,9 +5,9 @@
 ## Uzdravení
 **STUPEŇ 1**
 **1 AKCE**
-[[z_Atomy/0-9/👊\|👊]] Dotyk
+[[z_Atomy/0-9/🫱\|🫱]] Dotyk
 
-Dotkněte se tvora a obnovte **(1k6+[[z_Atomy/0-9/🗝\|🗝]])** [[z_Atomy/0-9/❤\|❤]].
+Dotkněte se tvora a obnovte **(1k6+[[z_Atomy/0-9/🗝\|🗝]])** [[z_Atomy/0-9/💖\|💖]].
 
 **Posílení**: Za každou utracenou další manu si vyberte jednu z možností:
 - +1 Cíl

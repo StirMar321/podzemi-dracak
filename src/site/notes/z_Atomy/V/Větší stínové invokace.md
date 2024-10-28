@@ -22,7 +22,7 @@
 ⠀
 - **Cestovatel stíny**. 1 **[[z_Atomy/A/AKCE\|AKCE]]**: Vyměňte si místo s tvorem do 12 metrů, kterému bylo tento tah způsobeno nekrotické poškození.
 ⠀
-- **Ďábelská smlouva**. Zvyšte si [[z_Atomy/0-9/🎭\|🎭]] / [[z_Atomy/0-9/🎓\|🎓]] o **+1**. Máte **-1** maximálních [[z_Atomy/K/k-Ž\|k-Ž]].
+- **Ďábelská smlouva**. Zvyšte si [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] / [[z_Atomy/0-9/📖\|📖]] o **+1**. Máte **-1** maximálních [[z_Atomy/K/🟥\|🟥]].
 ⠀
 - **Stínový magus**. Váš [[z_Atomy/S/Stínový sluha\|Stínový sluha]] získá [[z_Atomy/0-9/🏹\|🏹]] útoků 4 metry a působí **k10** poškození místo **k12**.
 ⠀

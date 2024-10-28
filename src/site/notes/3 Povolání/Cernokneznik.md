@@ -19,9 +19,9 @@ Ne každá PRASTARÁ HRŮZA je stejná. To je jako říkat, že havraní černá
 # Černokněžník
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]= [[z_Atomy/0-9/🎭\|🎭]], [[z_Atomy/0-9/🎓\|🎓]]                              | [[z_Atomy/K/k-Ž\|k-Ž]]: **1k8**                          | [[z_Atomy/0-9/❤\|❤]] na 1. úrovni: **13**                             |
+| [[z_Atomy/0-9/🗝\|🗝]]= [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]], [[z_Atomy/0-9/📖\|📖]]                              | [[z_Atomy/K/🟥\|🟥]]: **1k8**                          | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **13**                             |
 | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------ |
-| [[z_Atomy/H/Hrdinské❗👍&👎\|Hrdinské❗👍&👎]]:<br>[[z_Atomy/0-9/🧠\|🧠]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/R/Róby\|Róby]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>Dýky, Kosy, [[z_Atomy/H/Hůlky\|Hůlky]] |
+| [[z_Atomy/H/Hrdinské❗👍&👎\|Hrdinské❗👍&👎]]:<br>[[z_Atomy/0-9/🧠\|🧠]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/R/Róby\|Róby]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>Dýky, Kosy, [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]] |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-cernokneznika/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -39,9 +39,9 @@ Ne každá PRASTARÁ HRŮZA je stejná. To je jako říkat, že havraní černá
 ## Stínový výbuch  
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 12m
+[[z_Atomy/0-9/🫱\|🫱]] 12m
 
-Cíl v dosahu utrží **(1k12+[[z_Atomy/0-9/🎭\|🎭]])** nekrotického poškození.
+Cíl v dosahu utrží **(1k12+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** nekrotického poškození.
 
 **Vyšší úrovně**: +**1d12** poškození každých 5 [[z_Atomy/L/LVL\|LVL]]. (5/10/15/20)
 
@@ -56,11 +56,11 @@ Cíl v dosahu utrží **(1k12+[[z_Atomy/0-9/🎭\|🎭]])** nekrotického poško
 ## Přivolání stínu  
 **TRIK**  
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 1m
+[[z_Atomy/0-9/🫱\|🫱]] 1m
 [[z_Atomy/P/Poskoci\|Poskoci]]
 
 Přivolejte **k12 stínového sluhu** v dosahu.
-Můžete mít maximálně tolik přisluhovačů, kolik je Vaše nižší hodnota [[z_Atomy/0-9/🎓\|🎓]] nebo [[z_Atomy/L/LVL\|LVL]].
+Můžete mít maximálně tolik přisluhovačů, kolik je Vaše nižší hodnota [[z_Atomy/0-9/📖\|📖]] nebo [[z_Atomy/L/LVL\|LVL]].
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/s/stinovy-sluha/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -70,7 +70,7 @@ Můžete mít maximálně tolik přisluhovačů, kolik je Vaše nižší hodnota
 
 ### Stínový sluha
 Vaši stínoví sluhové se řídí pravidly jako [[z_Atomy/P/Poskoci\|Poskoci]]: 
-Mají 1 [[z_Atomy/0-9/❤\|❤]], minou při hodu 1 a nemohou udělit [[z_Atomy/0-9/💥\|💥]]. 
+Mají 1 [[z_Atomy/0-9/💖\|💖]], minou při hodu 1 a nemohou udělit [[z_Atomy/0-9/💥\|💥]]. 
 Okamžitě Vás opustí po skončení boje.
 
 **1/[[z_Atomy/T/Tah\|Tah]]** 
@@ -83,16 +83,16 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 </div></div>
 
 ## LVL 2
-- **Důvěryhodné médium**. Váš Patron vám propůjčuje triky a [[2 Důležité/Kouzla\|Kouzla]] **1. stupně** domény [[4 Kouzla/f_Nekro\|Nekro]] a poskytuje vám část své vlastní many. Vaše [[z_Atomy/0-9/🌀\|🌀]] je Vaše [[z_Atomy/0-9/🎭\|🎭]]. Vaše Kouzla stojí **vždy** 1 manu a jsou **vždy** sesílána na nejvyšším stupni, který máte odemčen. Tato [[z_Atomy/0-9/🌀\|🌀]] se obnovuje každý [[z_Atomy/0-9/🔋\|🔋]] při komunikaci s vaším patronem.
+- **Důvěryhodné médium**. Váš Patron vám propůjčuje triky a [[2 Důležité/Kouzla\|Kouzla]] **1. stupně** domény [[4 Kouzla/f_Nekro\|Nekro]] a poskytuje vám část své vlastní many. Vaše [[z_Atomy/0-9/🌀\|🌀]] je Vaše [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Vaše Kouzla stojí **vždy** 1 manu a jsou **vždy** sesílána na nejvyšším stupni, který máte odemčen. Tato [[z_Atomy/0-9/🌀\|🌀]] se obnovuje každý [[z_Atomy/0-9/🔋\|🔋]] při komunikaci s vaším patronem.
 ## LVL 3
 - **PAKT JE UZAVŘEN**. Vyberte si [[z_Atomy/P/Pakty Černokněžníka\|Pakty Černokněžníka]] a jednu [[z_Atomy/N/Menší stínové invokace\|Menší stínovou invokaci]]. Kdykoli komunikujete se svým Patronem každý [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit invokaci stejného druhu za jinou (mohou za to něco chtít na oplátku).
 ## LVL 4
 - **Dar od Pána.** Vyberte si jednu [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎓\|🎓]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 5
 - **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a vylepšovat kouzla na 2. stupeň
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 6
 - **Dar od Pána (2)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
 - **Stínové mistrovství**. Vyberte si **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z domény Nekro.
@@ -102,10 +102,10 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 ## LVL 8
 - **Nižší invokace (2)**. Vyberte si **další** [[z_Atomy/N/Menší stínové invokace\|Menší stínovou invokaci]].
 - **Stínové mistrovství (2)**. Vyberte si **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z domény Nekro.
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎓\|🎓]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 9
 - **Dar od Pána (3)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 10
 - **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a vylepšovat kouzla na 4. stupeň.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
@@ -114,10 +114,10 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Nižší invokace (3)**. Vyberte si **další** [[z_Atomy/N/Menší stínové invokace\|Menší stínovou invokaci]].
 ## LVL 12
 - **Nenasytný pakt**. Když máte 0 many, můžete požádat svého patrona o více many, než by Vaše tělo normálně zvládlo. Před sesláním kouzla proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Výsledek 1–9: získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. Výsledek 20+: sešlete kouzlo, jako by bylo o 1 stupeň vyšší.
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎓\|🎓]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 13
 - **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a vylepšovat kouzla na 5. stupeň.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 14
 - **Dar od Pána (4)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
 - **Stínové mistrovství (3)**. Znáte **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z domény Nekro.
@@ -126,10 +126,10 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 ## LVL 16
 - **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a vylepšovat kouzla na 6. stupeň.
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎭\|🎭]]/[[z_Atomy/0-9/🎓\|🎓]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 17
 - **Hrozivé stíny**. Útoky proti [[z_Atomy/S/Stínový sluha\|Stínovým sluhům]] mají [[z_Atomy/0-9/👎\|👎]]. Když [[z_Atomy/S/Stínový sluha\|Stínový sluha]] uspěje na [[z_Atomy/0-9/❗\|❗]], neutrží žádné poškození.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/🦉\|🦉]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 18
 - **Dar od Pána (5)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
 ## LVL 19
@@ -155,9 +155,9 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 
 - **Řeč zatracených**. Umíte mluvit s prokletými, přízraky a nemrtvými (a dalšími nechutnými tvory...).
 ⠀
-- **Klamavý vliv**. 1/den. Můžete přehodit [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]].
+- **Klamavý vliv**. 1/den. Můžete přehodit [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]].
 ⠀
-- **Krvavý zrak**. 1/den. Můžete přehodit [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]]. Můžete detekovat stopy krve i když byly očištěny.
+- **Krvavý zrak**. 1/den. Můžete přehodit [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]]. Můžete detekovat stopy krve i když byly očištěny.
 ⠀
 - **Oddaný akolyta**. Naučte se 2 z následujících [[z_Atomy/J/Jazyky\|Jazyků]]: Sférický, Nebeský, Dračí, Prastarý, Pekelný, nebo Elementální.
 ⠀
@@ -165,7 +165,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 ⠀
 - **Pohled dvou myslí**. Dotkněte se ochotného tvora a naladíte se na jeho mysl. Vnímáte skrze tvora dokud udržíte [[z_Atomy/K/Koncentrace\|Koncentraci]].
 ⠀
-- **Znalosti z dalšího světa**. Kdykoli neuspějete v [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] / [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste uspěli.
+- **Znalosti z dalšího světa**. Kdykoli neuspějete v [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] / [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste uspěli.
 ⠀
 - **Můj oblíbený mazlíček**. Jeden [[z_Atomy/S/Stínový sluha\|Stínový sluha]] Vás může (neochotně) následovat i mimo [[z_Atomy/S/Střetnutí\|Střetnutí]]. Může (velmi strašidelně) vykonávat jakýkoli menší úkol, který by zvládl průměrný obyčejný člověk.
 ⠀
@@ -201,7 +201,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 ⠀
 - **Cestovatel stíny**. 1 **[[z_Atomy/A/AKCE\|AKCE]]**: Vyměňte si místo s tvorem do 12 metrů, kterému bylo tento tah způsobeno nekrotické poškození.
 ⠀
-- **Ďábelská smlouva**. Zvyšte si [[z_Atomy/0-9/🎭\|🎭]] / [[z_Atomy/0-9/🎓\|🎓]] o **+1**. Máte **-1** maximálních [[z_Atomy/K/k-Ž\|k-Ž]].
+- **Ďábelská smlouva**. Zvyšte si [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] / [[z_Atomy/0-9/📖\|📖]] o **+1**. Máte **-1** maximálních [[z_Atomy/K/🟥\|🟥]].
 ⠀
 - **Stínový magus**. Váš [[z_Atomy/S/Stínový sluha\|Stínový sluha]] získá [[z_Atomy/0-9/🏹\|🏹]] útoků 4 metry a působí **k10** poškození místo **k12**.
 ⠀
@@ -245,16 +245,16 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 
 ## Pakt Ledové hlubiny
 ### LVL 3
-- **Mistr nočního mrazu**. Váš Patron vám uděluje znalost kouzel domény [[4 Kouzla/b_Led\|Ledu]]. Získáte schopnost dýchat pod vodou. Vaši [[z_Atomy/S/Stínový sluha\|stínoví sluhové]] se stanou tvory Nočního mrazu. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] a [[z_Atomy/S/Stínový sluha\|Stínový sluha]] může způsobit **ledové** nebo **nekrotické poškození**, a kdykoli by udělili [[z_Atomy/0-9/💥\|💥]], získáte ([[z_Atomy/0-9/🎭\|🎭]]+[[z_Atomy/L/LVL\|LVL]]) [[z_Atomy/0-9/♡\|♡]].
+- **Mistr nočního mrazu**. Váš Patron vám uděluje znalost kouzel domény [[4 Kouzla/b_Led\|Ledu]]. Získáte schopnost dýchat pod vodou. Vaši [[z_Atomy/S/Stínový sluha\|stínoví sluhové]] se stanou tvory Nočního mrazu. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] a [[z_Atomy/S/Stínový sluha\|Stínový sluha]] může způsobit **ledové** nebo **nekrotické poškození**, a kdykoli by udělili [[z_Atomy/0-9/💥\|💥]], získáte ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]]) [[z_Atomy/0-9/💗\|💗]].
 
 ### LVL 7
-- **Stínomráz**. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] cíl navíc [[z_Atomy/Z/Zpomalen\|zpomalí]] a jeho pohyb je považován za pohyb skrz [[z_Atomy/O/Obtížný terén\|Obtížný terén]] během jejich příštího tahu. Můžete seslat kouzlo [[z_Atomy/M/Mrazivá nova\|Mrazivá nova]] za 0 many, ale musíte zaplatit 10 [[z_Atomy/0-9/♡\|♡]]. Naučte se 1 [[4 Kouzla/g_Tríčky\|Tríček]] z domény Ledu.
+- **Stínomráz**. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] cíl navíc [[z_Atomy/Z/Zpomalen\|zpomalí]] a jeho pohyb je považován za pohyb skrz [[z_Atomy/O/Obtížný terén\|Obtížný terén]] během jejich příštího tahu. Můžete seslat kouzlo [[z_Atomy/M/Mrazivá nova\|Mrazivá nova]] za 0 many, ale musíte zaplatit 10 [[z_Atomy/0-9/💗\|💗]]. Naučte se 1 [[4 Kouzla/g_Tríčky\|Tríček]] z domény Ledu.
 
 ### LVL 11
-- **Ledová odolnost**. (Reakce [[z_Atomy/0-9/🛡️\|🛡️]], 1/[[z_Atomy/0-9/🔋\|🔋]]) Získejte (10x[[z_Atomy/L/LVL\|LVL]]) [[z_Atomy/0-9/♡\|♡]] a ukončete VŠECHNY negativní [[z_Atomy/S/Stavy\|Stavy]], které máte. Na začátku Vašeho příštího tahu jsou všechny [[z_Atomy/0-9/♡\|♡]] ztraceny.
+- **Ledová odolnost**. (Reakce [[z_Atomy/0-9/🛡️\|🛡️]], 1/[[z_Atomy/0-9/🔋\|🔋]]) Získejte (10x[[z_Atomy/L/LVL\|LVL]]) [[z_Atomy/0-9/💗\|💗]] a ukončete VŠECHNY negativní [[z_Atomy/S/Stavy\|Stavy]], které máte. Na začátku Vašeho příštího tahu jsou všechny [[z_Atomy/0-9/💗\|💗]] ztraceny.
 
 ### LVL 15
-- **Volání Ledokněžníka**. Zaplaťte polovinu svých max [[z_Atomy/0-9/❤\|❤]] (zaokrouhleno dolů, nemůžete zaplatit [[z_Atomy/0-9/❤\|❤]], které nemáte), abyste seslali JAKÉKOLI kouzlo domény [[4 Kouzla/b_Led\|Ledu]] za 0 many.
+- **Volání Ledokněžníka**. Zaplaťte polovinu svých max [[z_Atomy/0-9/💖\|💖]] (zaokrouhleno dolů, nemůžete zaplatit [[z_Atomy/0-9/💖\|💖]], které nemáte), abyste seslali JAKÉKOLI kouzlo domény [[4 Kouzla/b_Led\|Ledu]] za 0 many.
 
 </div></div>
 

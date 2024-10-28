@@ -6,7 +6,7 @@
 **STUPEŇ 4**  
 **2 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/R/REAKCE\|REAKCE]] - Nepřítel koná
-[[z_Atomy/0-9/👊\|👊]] 24m
+[[z_Atomy/0-9/🫱\|🫱]] 24m
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 Stojí 2 many a 1 akci, pokud máte [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/0-9/🩸\|Umíráte]]
 

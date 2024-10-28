@@ -5,7 +5,7 @@
 ## Ledový hrob  
 **STUPEŇ 8**  
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/👊\|👊]] 18 metrů
+[[z_Atomy/0-9/🫱\|🫱]] 18 metrů
 [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Cíl v dosahu provede [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Když neuspěje je pohřben v ledu. 

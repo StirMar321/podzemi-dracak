@@ -19,7 +19,7 @@ Hrdinové mají **5 hlavních statistik**. Dvě z nich jsou **Klíčové statist
 
 
 ## 💪 = SÍLA
-Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžší zbroje, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při [[z_Atomy/0-9/🩸\|🩸]], schopnost udržet [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], počet obnovených [[z_Atomy/K/k-Ž\|k-Ž]] během [[z_Atomy/0-9/🔋\|🔋]], [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
+Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbraní a schopností, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], udržení [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
 
 </div></div>
 
@@ -30,7 +30,7 @@ Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžš
 
 
 ## 🎯 = OBRATNOST
- Ovlivňuje poškození některých zbraní a schopností, [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
+ Vaše obratnost, reflexy a přesnost s čepelemi a luky. Ovlivňuje poškození 🎯 zbraní a schopností, [[z_Atomy/0-9/🏁\|🏁]], [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
 
 </div></div>
 
@@ -40,30 +40,30 @@ Ovlivňuje poškození některých zbraní a schopností, možnost nosit těžš
 
 
 
-## 🎓 = INTELIGENCE
-Spolu s [[z_Atomy/0-9/🦉\|🦉]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/0-9/✨\|✨]], používaní [[z_Atomy/K/Kouzelný svitek\|Kouzelných svitků]] [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (🎓)\|Mystika (🎓)]], [[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] a [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
+## 📖 = INTELIGENCE
+Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a mazanosti. Spolu s [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/0-9/✨\|✨]], používaní [[z_Atomy/K/Kouzelný svitek\|Kouzelných svitků]] a [[z_Atomy/H/Kouzelné hůlky\|Kouzelných hůlek]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Moudrost/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Vůle/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## 🦉 = MOUDROST
-Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🎭\|🎭]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje vaší [[z_Atomy/0-9/🏁\|🏁]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] a [[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
+## ❤️‍🔥 = VŮLE
+Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodou a společností. Spolu s [[z_Atomy/0-9/📖\|📖]] a [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje Vaše [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]], [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]], [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] a [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Charisma/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Vůle/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## 🎭 = CHARISMA
-Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🦉\|🦉]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje sociální setkání, [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] a [[z_Atomy/V/Vliv (🎭)\|Vliv (🎭)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
+## ❤️‍🔥 = VŮLE
+Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodou a společností. Spolu s [[z_Atomy/0-9/📖\|📖]] a [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje Vaše [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]], [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]], [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] a [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
 
 </div></div>
 
@@ -78,7 +78,8 @@ Spolu s [[z_Atomy/0-9/🎓\|🎓]] a [[z_Atomy/0-9/🦉\|🦉]] se souhrně naz�
 
 
 # ⚙️ = Dovednosti
-Kdykoli chce hrdina interagovat se světem, může chtít použít jednu ze svých **dovedností**. Možnosti hrdiny rozhodně nejsou omezeny pouze na tyto **dovednosti**. Některé z nejběžnějších způsobů interakce jsou uvedeny níže:
+Kdykoli chce hrdina interagovat se světem, může chtít použít jednu ze svých **dovedností**. Možnosti hrdiny rozhodně **nejsou** omezeny pouze na tyto **dovednosti**. Některé z nejběžnějších způsobů interakce jsou uvedeny níže:
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Moc-S/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -116,76 +117,76 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Zručnost** pro činnosti, jako je od
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Historie-I/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Historie/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Historie (🎓)
+## Historie (📖)
 Vaše porozumění dějinám civilizací, království a náboženství. 
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] k vybavení **historických** událostí a pochopení významu kulturních praktik. Tato dovednost zahrnuje také znalosti o Nebeských tvorech, Dracích, Vílách, Démonických tvorech, Obrech, Humanoidech a Nemrtvých a dalších stvořeních a poskytuje vhled do jejich chování a schopností.
 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Mystika (I)/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Mystika/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Mystika (🎓)
+## Mystika (📖)
 Vaše porozumění magickým jevům, kouzlům a zaklínadlům. 
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Mystika** k identifikování magických efektů, rozluštit mystické symboly a rozpoznat vlastnosti magických předmětů. Tato dovednost vám také může pomoci k [[z_Atomy/0-9/🔍\|🔍]] schopností a slabin tvorů.
 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Zkoumání-I/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Zkoumání/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Zkoumání (🎓)
+## Zkoumání (📖)
 Vaše schopnost analýzy a dedukce. 
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Zkoumání** k diagnostikování zranění, určení příčin smrti, odhalování stop, rozklíčování mechanismů pastí nebo manipulaci s mechanickými zařízeními. Tato dovednost vám také může pomoci k [[z_Atomy/0-9/🔍\|🔍]] schopností a slabin tvorů.
 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Příroda-M/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Příroda/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Příroda (🦉)
+## Příroda (❤️‍🔥)
 Vaše odborné znalosti v přežití v divočině, navigaci, stopování a zacházení se zvířaty. 
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Příroda** k tomu, abyste se vyznali v přírodě, identifikovali flóru a faunu a úspěšně vystopovali tvory. Tato dovednost zahrnuje také znalosti o Zvířatech, Monstrech a Rostlinách a poskytuje vhled do jejich chování, stanovišť a charakteristik.
 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Vnímání-M/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Vnímání/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Vnímání (🦉)
+## Vnímání (❤️‍🔥)
 Vaše schopnost všímat si jemných detailů ve Vašem okolí a [[z_Atomy/N/NPC\|NPC]]. 
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Vnímání** k odhalení skrytých předmětů, nalezení tajných průchodů, rozpoznání jemných změn v prostředí a k tomu, abyste vycítili, když jste sledováni nebo pozorováni. Tato dovednost zahrnuje vaši schopnost zachytit nenápadné podněty a rozpoznat přítomnost skrytých hrozeb.
 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Vhled-CH/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Vhled/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Vhled (🎭)
+## Vhled (❤️‍🔥)
 Vaše schopnost porozumět lidem a situacím nad běžný rámec.
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Vhled** k odhalení motivů, rozpoznání lží, čtení skrytých emocí, pochopení stop a v situacích nejistoty. Někdy prostě "pochopíte", co se děje.
 
-> [!NOTE]- Varianta
+> [!NOTE]- **Dobré plánování**
 > Vhled lze také *občas* použít k retroaktivní změně situací!
 > **Hráč**: "Ach ne! Zapomněl jsem koupit lano ve městě."
 > **[[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]**: "Hoď si na **Vhled**, možná na to tvůj hrdina myslel."
@@ -193,12 +194,12 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Vhled** k odhalení motivů, rozpozn�
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Vliv-CH/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Vliv/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Vliv (🎭)
+## Vliv (❤️‍🔥)
 Vaše přesvědčivost, šarm, zastrašování a schopnost ovlivňovat ostatní.
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Vliv** k spřátelení nebo klamání [[z_Atomy/N/NPC\|NPC]], vyjednávání dohod, budování důvěry, získávání spojenců pro svou věc nebo k předvedení poutavého vystoupení.
 
@@ -214,10 +215,10 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Vliv** k spřátelení nebo klamání
 
 
 # ❓ = Kontrola Dovedností
-Při provádění něčeho náročného (přesvědčování [[z_Atomy/N/NPC\|NPC]], odhalení skrytého tvora, odemykání zámku atd.) může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] požádat hrdinu o provedení **kontroly dovednosti**. 
+Když chcete ovlivňovat svět hry při provádění něčeho náročného (přesvědčování [[z_Atomy/N/NPC\|NPC]], odhalení skrytého tvora, odemykání zámku atd.) [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požádat hrdinu o provedení **kontroly dovednosti**. 
 
-Pro provedení **KD** hoďte **1k20** a přidejte své bonus dané [[z_Atomy/0-9/⚙️\|⚙️]] k výsledku. Tento výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], která musí být dorovnána pro **úspěch** a když je hodnota menší jedná se o **neúspěch**.
-[[z_Atomy/0-9/📶\|📶]] určuje [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] a bude se lišit v závislosti na tom, co se pokoušíte udělat.
+**Pro provedení ❓ hoďte 1k20 a přidejte bonus dané [[z_Atomy/0-9/⚙️\|⚙️]] k výsledku.** 
+Výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán pro **úspěch**. Když je hodnota menší jedná se o **neúspěch**. [[z_Atomy/0-9/📶\|📶]] určuje [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] v závislosti na tom, co se pokoušíte udělat.
 
 > [!FAQ]- Pro [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]
 > **Odhalit [[z_Atomy/0-9/📶\|📶]] nebo ho nechat tajný?** Obvykle je stupeň obtížnosti skrytá informace pouze pro [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]. Existují však situace, kdy odhalení stupně obtížnosti před hodem může skutečně zvýšit dramatičnost okamžiku. Podívejte se do knihy [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] pro více informací o tom, kdy a jak vyvolat **kontrolu dovednosti**.
@@ -232,10 +233,10 @@ Pro provedení **KD** hoďte **1k20** a přidejte své bonus dané [[z_Atomy/0-9
 
 
 > [!NOTE]- **Příklady kontrol dovedností**
-> Zpozorování velkého Ogra schovaného za malým keřem může být hod na **[[z_Atomy/V/Vnímání (🦉)\|Vnímání (🦉)]] [[z_Atomy/0-9/📶\|📶]] 8**
->Skrytý průchod za knihovnou může být hod na **[[z_Atomy/Z/Zkoumání (🎓)\|Zkoumání (🎓)]] [[z_Atomy/0-9/📶\|📶]] 12**
->Pokus o uklidnění zraněného Sovověda uvězněného v pasti může být hod na **[[z_Atomy/P/Příroda (🦉)\|Příroda (🦉)]] [[z_Atomy/0-9/📶\|📶]] 16**
->Určit skutečné úmysly vycvičeného Špióna může být hod na **[[z_Atomy/V/Vhled (🎭)\|Vhled (🎭)]] [[z_Atomy/0-9/📶\|📶]] 18**
+> Zpozorování velkého Zlobra schovaného za malým keřem může být hod na **[[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]] [[z_Atomy/0-9/📶\|📶]] 8**
+>Skrytý průchod za knihovnou může být hod na **[[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] [[z_Atomy/0-9/📶\|📶]] 12**
+>Pokus o uklidnění zraněného Sovověda uvězněného v pasti může být hod na **[[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]] [[z_Atomy/0-9/📶\|📶]] 16**
+>Určit skutečné úmysly vycvičeného Špióna může být hod na **[[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] [[z_Atomy/0-9/📶\|📶]] 18**
 >Zneškodnění starobylé legendární magické pasti může být hod na **[[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] [[z_Atomy/0-9/📶\|📶]] 20+**
 
 
@@ -248,18 +249,19 @@ Pro provedení **KD** hoďte **1k20** a přidejte své bonus dané [[z_Atomy/0-9
 
 
 # ❗ = Záchranný hod
-Některá kouzla, schopnosti a jiné nebezpečí testují fyzickou zdatnost nebo odolnost (❗[[z_Atomy/0-9/💪\|💪]]), rychlost nebo rovnováhu (❗[[z_Atomy/0-9/🎯\|🎯]]) nebo duševní odolnost (❗[[z_Atomy/0-9/🧠\|🧠]]). 
+Když svět hry ovlivňuje hrdiny, některá kouzla, schopnosti a jiné nebezpečí testují fyzickou zdatnost nebo odolnost (❗[[z_Atomy/0-9/💪\|💪]]), rychlost nebo rovnováhu (❗[[z_Atomy/0-9/🎯\|🎯]]) nebo duševní odolnost (❗[[z_Atomy/0-9/🧠\|🧠]]). 
 
 **Pro provedení záchranného hodu hoďte 1k20 a přidejte modifikace**. 
-Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], která musí být dorovnána hodem a modifikátory pro **úspěch**, jinak se jedná o **neúspěch**. 
-
-**Přirozená 20 vždy znamená úspěch** bez ohledu na další modifikátory.
+Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán hodem a modifikátory pro **úspěch**, jinak se jedná o **neúspěch**. Hod "přirozené" 20 vždy uspěje! Bytost si může záměrně neuspět.
 
 Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Atomy/0-9/💥\|💥]] a **nemohou** **minout**.
 
-- ❗[[z_Atomy/0-9/💪\|💪]]. Používá se pro [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]], otravu, odolání extrémním teplotám nebo schopnosti udržet se na nohou během vichřice.
-- ❗[[z_Atomy/0-9/🎯\|🎯]]. Používá se, když potřebujete skočit do úkrytu před explozí, udržet se na nohou při běhu po zledovatělé podlaze nebo při balancování na okraji útesu.
-- ❗[[z_Atomy/0-9/🧠\|🧠]]. (Nejvyšší hodnota [[z_Atomy/0-9/🎓\|🎓]]/[[z_Atomy/0-9/🦉\|🦉]]/[[z_Atomy/0-9/🎭\|🎭]]). Používá se, když potřebujete odolat účinkům působící na mysl, prohlédnout iluze, stavu [[z_Atomy/O/Očarován\|Očarován]], [[z_Atomy/V/Vystrašen\|Vystrašen]] nebo jiným psychickým stavům.
+- ❗[[z_Atomy/0-9/💪\|💪]] 
+	- Používá se pro [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]], otravu, odolání extrémním teplotám nebo schopnosti udržet se na nohou během vichřice.
+- ❗[[z_Atomy/0-9/🎯\|🎯]] 
+	- Používá se, když potřebujete skočit do úkrytu před explozí, udržet se na nohou při běhu po zledovatělé podlaze nebo při balancování na okraji útesu.
+- ❗[[z_Atomy/0-9/🧠\|🧠]]
+	- (Vyšší hodnota z [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]). Používá se, když potřebujete odolat účinkům působící na mysl, prohlédnout iluze, odolat stavům [[z_Atomy/O/Očarován\|Očarován]], [[z_Atomy/V/Vystrašen\|Vystrašen]] atd.
 
 </div></div>
 
@@ -363,7 +365,7 @@ Například:
 
 Znamená že máte 1 výhodu pro váš hod.
 
-[[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může také umožnit až 1 dalšímu hrdinovi [[z_Atomy/0-9/🆘\|🆘]] s jakýmkoli [[z_Atomy/0-9/❓\|❓]], pokud hráči rozumně vysvětlí, jak by mohli pomoc. [[3 Povolání/Berserk\|Berserk]] s **-2** v [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/H/Historie (🎓)\|Historie (🎓)]] pravděpodobně nemůže pomoci s identifikací mystického symbolu. Pokud má hrdina opravdu skvělý nápad nebo si to situace žádá, může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] dovolit hrdinovi uspět automaticky bez nutnosti hodu.
+[[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může také umožnit až 1 dalšímu hrdinovi [[z_Atomy/0-9/🆘\|🆘]] s jakýmkoli [[z_Atomy/0-9/❓\|❓]], pokud hráči rozumně vysvětlí, jak by mohli pomoc. [[3 Povolání/Berserk\|Berserk]] s **-2** v [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/H/Historie (📖)\|Historie (📖)]] pravděpodobně nemůže pomoci s identifikací mystického symbolu. Pokud má hrdina opravdu skvělý nápad nebo si to situace žádá, může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] dovolit hrdinovi uspět automaticky bez nutnosti hodu.
 
 </div></div>
 
@@ -373,13 +375,13 @@ Znamená že máte 1 výhodu pro váš hod.
 
 
 
-# ❤ = Body výdrže
+# 💖 = Body výdrže
 
-Vaše **Body Výdrže** představují vaši schopnost přijímat poškození a jít dál. Při přijímání poškození se Vaše **❤** snižují. Když klesnete na **0** **❤**, získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a stav [[z_Atomy/0-9/🩸\|🩸]].
+Vaše **Body Výdrže** představují vaši schopnost přijímat poškození a jít dál. Při přijímání poškození se Vaše 💖 snižují. Když klesnete na **0** 💖, získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a stav [[z_Atomy/0-9/🩸\|🩸]].
 
 Počáteční **Body Výdrže** určíte:
-- Max. hodnota [[z_Atomy/K/k-Ž\|k-Ž]] Vašeho [[2 Důležité/e1_Povolání\|Povolání]] plus hod [[z_Atomy/K/k-Ž\|k-Ž]] s [[z_Atomy/0-9/👍\|👍]] nebo 
-- Použijete počáteční hodnotu **❤** Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
+- Max. hodnota [[z_Atomy/K/🟥\|🟥]] Vašeho [[2 Důležité/e1_Povolání\|Povolání]] plus hod [[z_Atomy/K/🟥\|🟥]] s [[z_Atomy/0-9/👍\|👍]] nebo 
+- Použijete počáteční hodnotu 💖 Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 </div></div>
 
@@ -389,8 +391,8 @@ Počáteční **Body Výdrže** určíte:
 
 
 
-# ♡ = Bariéra
-Některé schopnosti nebo efekty mohou poskytnout **Bariéru** (**♡**). Bariéra je snižována jako první při přijímání poškození, před vašimi [[z_Atomy/0-9/❤\|❤]]. 
+# 💗 = Bariéra
+Některé schopnosti nebo efekty mohou poskytnout **Bariéru** (💗). Bariéra je snižována jako první při přijímání poškození, před vašimi [[z_Atomy/0-9/💖\|💖]]. 
 
 **Bariéry se nesčítají**. Například pokud by hrdina se 7 **Bariér** získal 10 **Bariér**, musí si vybrat, jestli si nechá 7 **Bariér**, které má, nebo použije 10 **Bariér**, které získal. **Nemůže** sečíst 7+10! 
 
@@ -405,11 +407,11 @@ Některé schopnosti nebo efekty mohou poskytnout **Bariéru** (**♡**). Barié
 
 
 # 🩸 = Umírání
-Když Vaše [[z_Atomy/0-9/❤\|❤]] klesnou na 0, začnete **Umírat**. 
-Má 1 [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/K/Kolo\|Kolo]]. 
-[[z_Atomy/K/Koncentrace\|Koncentrace]] je přerušena a pokračování v boji vám může způsobit [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
+Když Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, začnete **Umírat**. 
+Máte **1** [[z_Atomy/A/AKCE\|Akci]]/[[z_Atomy/K/Kolo\|Kolo]]. 
+Vaše [[z_Atomy/K/Koncentrace\|Koncentrace]] je přerušena a pokračování v boji vám může způsobit [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
-- Akce [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]]: proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/📶\|📶]] **10**. Utrpíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při neúspěchu.
+- Akce [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]]: Proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/📶\|📶]] **10**. Utrpíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při neúspěchu.
 - Utržení jakéhokoli poškození způsobí **2** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], [[z_Atomy/0-9/💥\|💥]] způsobí **3** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
 </div></div>
@@ -425,7 +427,7 @@ Vážná zranění která jste utrpěli během [[z_Atomy/0-9/🩸\|🩸]] jsou u
 
 Za každé **Zranění** máte **(–1)** pro **všechny** hody mimo boj.
 
-[[z_Atomy/0-9/❤\|❤]] se obvykle obnoví rychle a snadno, ale vyléčit **Zranění** může trvat mnoho dní odpočinku, aby se úplně uzdravila. (Obvykle 1 **Zranění** během [[z_Atomy/0-9/🔋\|🔋]]. [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může změnit.)
+[[z_Atomy/0-9/💖\|💖]] se obvykle obnoví rychle a snadno, ale vyléčit **Zranění** může trvat mnoho dní odpočinku, aby se úplně uzdravila. (Obvykle 1 **Zranění** během [[z_Atomy/0-9/🔋\|🔋]]. [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může změnit.)
 
 </div></div>
 
@@ -444,60 +446,24 @@ Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|�
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/k/k-z/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/k//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# k-Ž = Kostky Života 
-**Kostky života** představují , jak rychle dokáže hrdina rozdýchat menší zranění  a vyčerpání.  **Kostky života** se obvykle utrácejí za [[z_Atomy/0-9/🪫\|🪫]] k obnovení [[z_Atomy/0-9/❤\|❤]] a mohou také pohánět speciální schopnosti. Během [[z_Atomy/0-9/🔋\|🔋]] si hrdinové obnoví [[z_Atomy/0-9/💪\|💪]] [[z_Atomy/K/k-Ž\|k-Ž]] (minimálně 1).
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/o/obnova-k-z/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-## Obnova k-Ž
-Během [[z_Atomy/0-9/🔋\|🔋]] hrdinové obnoví [[z_Atomy/0-9/💪\|💪]] [[z_Atomy/K/k-Ž\|k-Ž]] (min. 1). Velikost [[z_Atomy/K/k-Ž\|k-Ž]] se pohybuje od **k6** pro méně odolné třídy až po **k12** pro ty odolnější. Hrdinové začínají s **1 Kostkou života** na prvním [[z_Atomy/L/LVL\|LVL]] a při každém postupu na **vyšší** [[z_Atomy/L/LVL\|LVL]] získávají jednu další.
+# 🟥 = Kostky Života 
+**Kostky života** představují , jak rychle dokáže hrdina rozdýchat menší zranění a vyčerpání.  **Kostky života** se obvykle utrácejí během [[z_Atomy/0-9/🪫\|🪫]] k obnovení [[z_Atomy/0-9/💖\|💖]] a mohou také pohánět speciální schopnosti.
 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Rychlost/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/o/obnova/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# 🏃 = Rychlost (pohybu)
-**Rychlost** hrdiny určuje, jak daleko se může pohnout akce [[z_Atomy/0-9/🥾\|🥾]] ve svém tahu. 
-
-Hrdinové mají výchozí **rychlost** pohybu **6** metrů.
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/v/vzdalenost/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-### Znázornění pohybu a vzdálenosti
-Hra se (často) odehrává na mřížce s čtverci nebo šestiúhelníky o velikosti 1 palec (2,5 cm). Jeden čtverec představuje 1 metr ve světě hry.
-
->[!NOTE]- **Alternativní možnosti měření**
->Pro rychlejší a volnější hru můžete vynechat mřížku a měřit typický [[z_Atomy/0-9/🥾\|🥾]] přibližně od malíčku po palec. O něco méně pro hráče s velkými rukama (nebo pomalejšími Hrdiny), o něco více pro naše přátele s menšími rukama (nebo rychlejšími Hrdiny).
-
->[!NOTE]- **Alternativní možnosti pohybu**
->Pokud dáváte přednost, můžete stejně dobře použít abstraktnější systém pohybu. 
->Použijte **krátký**, **střední** a **dlouhý** [[z_Atomy/0-9/👊\|👊]]. Jeden [[z_Atomy/0-9/🥾\|🥾]] může pokrýt vzdálenost z dlouhého dosahu do středního; ze středního do krátkého; a naopak. 
->Schopnosti na blízko nebo dotykové schopnosti mají krátký [[z_Atomy/0-9/👊\|👊]].
->[[2 Důležité/Kouzla\|Kouzla]] a [[z_Atomy/Z/Zbraně\|Zbraně]] s dosahem 6–18 metrů mají střední [[z_Atomy/0-9/👊\|👊]].
->Cokoliv víc je dlouhý [[z_Atomy/0-9/👊\|👊]]. 
->Jako vždy, [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] rozhodne o nejasných situacích a o tom, které tvory ovlivní schopnosti s efektem na oblast.
-
+## Obnova 🟥
+Během [[z_Atomy/0-9/🔋\|🔋]] si hrdinové obnoví [[z_Atomy/0-9/💪\|💪]] [[z_Atomy/K/🟥\|🟥]] (min. 1). Velikost [[z_Atomy/K/🟥\|🟥]] se pohybuje od **k6** pro méně odolné třídy až po **k12** pro ty odolnější. Hrdinové začínají s **1 Kostkou života** na **1. [[z_Atomy/L/LVL\|LVL]]** a při každém postupu na **vyšší** [[z_Atomy/L/LVL\|LVL]] získávají jednu další.
 
 </div></div>
 
@@ -515,6 +481,55 @@ Některé kouzla a schopnosti ovlivňují různě velké tvory. Zde jsou přibli
 - **Velký** tvor má velikost medvěda. (2x2 metry.)
 - **Obří** tvor má velikosti domu. (3x3 metry.)
 - **Gigantický** tvor má velikost městské čtvrti. (Více něž 4x4 metry.)
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Rychlost/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# 🏃 = Rychlost (pohybu)
+**Hrdinové mají výchozí rychlost pohybu 6 metrů.** Rychlost hrdiny určuje, jak daleko se může pohnout akcí [[z_Atomy/0-9/🥾\|🥾]] ve svém tahu. 
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Pády a Nucený pohyb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+>[!NOTE]+ **Pády a Nucený pohyb**
+>Když se postava **Nedobrovolně** pohne efekty mimo její kontrolu. Pokud je tento pohyb zastaven  prostředím, postava utrží **1k6** drtivého poškození za každý metr, o který byl pohyb zkrácen. Pokud **narazí** na jiného tvora, utrží poškození **oba**.
+>**Padání** způsobí **1k6** drtivého poškození za každé 2 metry pádu.
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/v/vzdalenost/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Znázornění pohybu a vzdálenosti
+Hra se (často) odehrává na mřížce s čtverci nebo šestiúhelníky o velikosti 1 palec (2,5 cm). Jeden čtverec představuje 1 metr ve světě hry.
+
+>[!NOTE]- **Alternativní možnosti měření**
+>Pro rychlejší a volnější hru můžete vynechat mřížku a měřit typický [[z_Atomy/0-9/🥾\|🥾]] přibližně od malíčku po palec. O něco méně pro hráče s velkými rukama (nebo pomalejšími Hrdiny), o něco více pro naše přátele s menšími rukama (nebo rychlejšími Hrdiny).
+
+>[!NOTE]- **Alternativní možnosti pohybu**
+>Pokud dáváte přednost, můžete stejně dobře použít abstraktnější systém pohybu. 
+>Použijte **krátký**, **střední** a **dlouhý** [[z_Atomy/0-9/🫱\|🫱]]. Jeden [[z_Atomy/0-9/🥾\|🥾]] může pokrýt vzdálenost z dlouhého dosahu do středního; ze středního do krátkého; a naopak. 
+>Schopnosti na blízko nebo dotykové schopnosti mají krátký [[z_Atomy/0-9/🫱\|🫱]].
+>[[2 Důležité/Kouzla\|Kouzla]] a [[z_Atomy/Z/Zbraně\|Zbraně]] s dosahem 6–18 metrů mají střední [[z_Atomy/0-9/🫱\|🫱]].
+>Cokoliv víc je dlouhý [[z_Atomy/0-9/🫱\|🫱]]. 
+>Jako vždy, [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] rozhodne o nejasných situacích a o tom, které tvory ovlivní schopnosti s efektem na oblast.
+
 
 </div></div>
 
@@ -549,7 +564,7 @@ První [[z_Atomy/0-9/⚔️\|⚔️]] když jste **skrytí** má [[z_Atomy/0-9/�
 
 
 # Chycení
-Tvor může použít akci k pokusu o chycení tvora stejné nebo menší [[z_Atomy/V/Velikost\|Velikosti]]. Oba provedou libovolný [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. Chycený tvor získá stav [[z_Atomy/CH/Chycen\|Chycen]] (nebo podobně omezen, podle kontextu).
+Tvor může použít **1 akci** k pokusu o chycení tvora stejné nebo menší [[z_Atomy/V/Velikost\|Velikosti]]. Oba provedou libovolný [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. Pokud chytaný tvor prohraje, získá stav [[z_Atomy/CH/Chycen\|Chycen]] (nebo podobně omezen, podle kontextu). Počítá se jako [[z_Atomy/U/Uspěchané útoky\|Uspěchaný útok]].
 
 </div></div>
 
@@ -562,7 +577,7 @@ Tvor může použít akci k pokusu o chycení tvora stejné nebo menší [[z_Ato
 # Koncentrace
 Některá kouzla mají dlouhotrvající účinek a vyžadují udržení **Koncentrace**, aby jejich efekt pokračoval. Kdykoli hrdina utrží [[z_Atomy/0-9/💥\|💥]] během udržování koncentrace, musí provést [[z_Atomy/0-9/❗\|❗]].
 
-**Proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/📶\|📶]] 10**. Pokud neuspěje, koncentrace je přerušena a kouzlo přestane působit. **Koncentrace** je automaticky přerušena, kdykoli hrdina ztratí **všechny** [[z_Atomy/0-9/❤\|❤]].
+**Proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/📶\|📶]] 10**. Pokud neuspěje, koncentrace je přerušena a kouzlo přestane působit. **Koncentrace** je automaticky přerušena, kdykoli hrdina ztratí **všechny** [[z_Atomy/0-9/💖\|💖]].
 
 </div></div>
 
@@ -772,7 +787,7 @@ Pasivní stav. Když utrpíte poškození bleskem, jste nabitý elektřinou po d
 
 
 ## Zkrvaven
-Pasivní stav. Vaše [[z_Atomy/0-9/❤\|❤]] klesnou na polovinu.
+Pasivní stav. Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na polovinu.
 
 </div></div>
 

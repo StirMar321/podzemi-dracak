@@ -3,4 +3,4 @@
 ---
 
 ## Zkrvaven
-Pasivní stav. Vaše [[z_Atomy/0-9/❤\|❤]] klesnou na polovinu.
+Pasivní stav. Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na polovinu.

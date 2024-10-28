@@ -5,7 +5,7 @@
 ## Čestný úder
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/👊\|👊]] 2m
+[[z_Atomy/0-9/🫱\|🫱]] 2m
 
 Dejte sobě / spojenci v dosahu [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]] až do konce příštího tahu.
 
