@@ -16,7 +16,7 @@ Vždy když splníte krok, můžete ho **"složit"**.
 >Zaznamenejte své **[[z_Atomy/K/🟥\|🟥]]** a své **[[z_Atomy/0-9/💖\|💖]]** podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 >[!NOTE]+ **Hrdinské (+) a (-)**
->Zaznamenejte si své [[z_Atomy/H/Hrdinské❗👍&👎\|Hrdinské❗👍&👎]] podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
+>Zaznamenejte si své [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]] podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 >[!NOTE]+ **Velikost**
 >Zaznamenejte si [[z_Atomy/V/Velikost\|Velikost]] a [[z_Atomy/0-9/🏃\|🏃]] Vašeho Hrdiny.
