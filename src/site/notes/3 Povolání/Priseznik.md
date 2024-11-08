@@ -20,7 +20,7 @@ Opravdová známka pravého Přísežníka je jeho ochota položit svůj život 
 (Paladin)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/💪\|💪]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/K/🟥\|🟥]]: **1k10**                        | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **17**              |
+| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/💪\|💪]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/0-9/🟥\|🟥]]: **1k10**                        | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **17**              |
 | ---------------------------------------------------- | ---------------------------------------- | --------------------------------------- |
 | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]: <br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>Všechny | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/💪\|💪]] |
 
@@ -30,7 +30,7 @@ Opravdová známka pravého Přísežníka je jeho ochota položit svůj život 
 
 
 ## LVL 1
-- **Kostky soudu**. Získáte schopnost [[z_Atomy/K/♎\|♎]].
+- **Kostky soudu**. Získáte schopnost [[z_Atomy/0-9/♎\|♎]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Kostky Soudu/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -59,7 +59,7 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 
 ## LVL 2
 - **Kouzla záře**. Odemknete [[2 Důležité/Kouzla\|Kouzla]] **1. stupně** domény [[4 Kouzla/e_Záře\|Záře]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]]) a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
-- **Odsuzující úder**. Když zasáhnete útokem na blízko, můžete utratit 1 [[z_Atomy/0-9/🌀\|🌀]] a hodit další [[z_Atomy/K/♎\|♎]] za každou utracenou manu (až do stupně kouzel, který máte odemčen).
+- **Odsuzující úder**. Když zasáhnete útokem na blízko, můžete utratit 1 [[z_Atomy/0-9/🌀\|🌀]] a hodit další [[z_Atomy/0-9/♎\|♎]] za každou utracenou manu (až do stupně kouzel, který máte odemčen).
 - **Paragon ctnosti**. [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] má [[z_Atomy/0-9/👍\|👍]] když mluvíte upřímně; [[z_Atomy/0-9/👎\|👎]] při lhaní, zatajování nebo jiném klamání.
 ## LVL 3
 - **Přísahy Přísežníka**. Vyberte si **podtřídu** a zavažte se jedné [[z_Atomy/P/Přísahy Přísežníka\|Přísaze]].
@@ -69,7 +69,7 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 - **Můj život za mé přátele**. Můžete provést reakci [[z_Atomy/0-9/🔰\|🔰]] zdarma.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
-- **Kostky soudu (2)**. Když na Vás zaútočí, získáte 2 [[z_Atomy/K/♎\|♎]].
+- **Kostky soudu (2)**. Když na Vás zaútočí, získáte 2 [[z_Atomy/0-9/♎\|♎]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6
@@ -108,7 +108,7 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 - **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a posilovat kouzla na 7. stupeň.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 18
-- **Neutuchající soud**. Vždy máte alespoň 1 [[z_Atomy/K/♎\|♎]].
+- **Neutuchající soud**. Vždy máte alespoň 1 [[z_Atomy/0-9/♎\|♎]].
 ## LVL 19
 - **Epický dar**. Můžete si vybrat 1 [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
@@ -133,16 +133,16 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 ⠀
 - **Aura odvahy** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když vy nebo jakýkoli spojenec ve vaší auře začne [[z_Atomy/0-9/🩸\|Umírat]], místo toho nastavte jeho [[z_Atomy/0-9/💖\|💖]] na **1**.
 ⠀
-- **Explozivní soud**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **3 [[z_Atomy/A/AKCE\|AKCE]]**: Utraťte všechny své [[z_Atomy/K/♎\|♎]], způsobte takové množství zářivého poškození všem nepřátelům ve vaší auře.
+- **Explozivní soud**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **3 [[z_Atomy/A/AKCE\|AKCE]]**: Utraťte všechny své [[z_Atomy/0-9/♎\|♎]], způsobte takové množství zářivého poškození všem nepřátelům ve vaší auře.
 ⠀
 - **Vylepšená aura**. Vaše aura zvětší svůj poloměr na 6 metrů.
 ⠀
 - **Zářivá aura**. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]. **[[z_Atomy/A/AKCE\|AKCE]]**: Ukončete jakýkoli škodlivý stav nebo efekt na sobě nebo jinému ochotnému tvoru ve vaší auře. 
 	- **[[z_Atomy/S/Stavy\|Stavy]]**: Ukončení stavu [[z_Atomy/0-9/🩸\|🩸]] uzdraví 1 [[z_Atomy/0-9/💖\|💖]]. Ukončení stavu [[z_Atomy/Z/Zmaten\|Zmaten]] vrací 1 Akci.
 ⠀
-- **Spolehlivá spravedlnost**. Na začátku Vašeho [[z_Atomy/T/Tah\|tahu]] získáte 1 [[z_Atomy/K/♎\|♎]].
+- **Spolehlivá spravedlnost**. Na začátku Vašeho [[z_Atomy/T/Tah\|tahu]] získáte 1 [[z_Atomy/0-9/♎\|♎]].
 ⠀
-- **Zářivý mandát**. Kdykoli byste získali [[z_Atomy/K/♎\|♎]] nad svůj maximální počet, můžete ji místo toho předat spojenci ve vaší auře. [[z_Atomy/0-9/❓\|❓]] k prohlédnutí iluzí mají [[z_Atomy/0-9/👍\|👍]].
+- **Zářivý mandát**. Kdykoli byste získali [[z_Atomy/0-9/♎\|♎]] nad svůj maximální počet, můžete ji místo toho předat spojenci ve vaší auře. [[z_Atomy/0-9/❓\|❓]] k prohlédnutí iluzí mají [[z_Atomy/0-9/👍\|👍]].
 ⠀
 - **Držte se, přátelé!** Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], udělte spojencům ([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]) [[z_Atomy/0-9/💗\|💗]]. Vy a spojenci ve vaší auře máte [[z_Atomy/0-9/👍\|👍]] proti stavům [[z_Atomy/V/Vystrašen\|Vystrašen]], [[z_Atomy/S/Sražen\|Sražen]] a [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]].
 ⠀
@@ -167,16 +167,16 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 
 ## Přísaha pomsty
 ### LVL 3
-- **Aura zápalu**. Zdvojnásobuje maximální počet [[z_Atomy/K/♎\|♎]]. Získáte auru s poloměrem 4 metry. Kdykoli vy nebo spojenec ve vaší auře utrží [[z_Atomy/0-9/💥\|💥]], získáte 2 [[z_Atomy/K/♎\|♎]].
+- **Aura zápalu**. Zdvojnásobuje maximální počet [[z_Atomy/0-9/♎\|♎]]. Získáte auru s poloměrem 4 metry. Kdykoli vy nebo spojenec ve vaší auře utrží [[z_Atomy/0-9/💥\|💥]], získáte 2 [[z_Atomy/0-9/♎\|♎]].
 
 ### LVL 7
-- **Mstitel**. Kdykoli vy nebo spojenec ve vaší auře získá [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], získáte stejně [[z_Atomy/K/♎\|♎]] a můžete se zdarma pohnout o polovinu vaší [[z_Atomy/0-9/🏃\|rychlosti]].
+- **Mstitel**. Kdykoli vy nebo spojenec ve vaší auře získá [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], získáte stejně [[z_Atomy/0-9/♎\|♎]] a můžete se zdarma pohnout o polovinu vaší [[z_Atomy/0-9/🏃\|rychlosti]].
 
 ### LVL 11
-- **Neomylný soud**. Kdykoli byste hodili 1, zatímco máte [[z_Atomy/K/♎\|♎]], hoďte útok znovu.
+- **Neomylný soud**. Kdykoli byste hodili 1, zatímco máte [[z_Atomy/0-9/♎\|♎]], hoďte útok znovu.
 
 ### LVL 15
-- **Maximální soud**. Vaše [[z_Atomy/K/♎\|♎]] jsou k12.
+- **Maximální soud**. Vaše [[z_Atomy/0-9/♎\|♎]] jsou k12.
 
 </div></div>
 

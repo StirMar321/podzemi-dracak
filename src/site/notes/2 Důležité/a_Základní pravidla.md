@@ -255,7 +255,7 @@ Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Ato
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/SO ZH Hrdinských efektů/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/SO Hrdinských efektů/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -369,7 +369,7 @@ Znamená že máte 1 výhodu pro váš hod.
 Vaše **Body Výdrže** představují vaši schopnost přijímat poškození a jít dál. Při přijímání poškození se Vaše 💖 snižují. Když klesnete na **0** 💖, utržíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a začnete [[z_Atomy/0-9/🩸\|🩸]].
 
 Počáteční **Body Výdrže** určíte:
-- Max. hodnota [[z_Atomy/K/🟥\|🟥]] Vašeho [[2 Důležité/e1_Povolání\|Povolání]] plus hod **1** [[z_Atomy/K/🟥\|🟥]] s [[z_Atomy/0-9/👍\|👍]] 
+- Max. hodnota [[z_Atomy/0-9/🟥\|🟥]] Vašeho [[2 Důležité/e1_Povolání\|Povolání]] plus hod **1** [[z_Atomy/0-9/🟥\|🟥]] s [[z_Atomy/0-9/👍\|👍]] 
 *nebo*
 - Použijete počáteční hodnotu 💖 Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
@@ -436,7 +436,7 @@ Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|�
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/k//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/0-9//" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -454,7 +454,7 @@ Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|�
 
 
 ## Obnova 🟥
-Během [[z_Atomy/0-9/🔋\|🔋]] si hrdinové obnoví [[z_Atomy/0-9/💪\|💪]] [[z_Atomy/K/🟥\|🟥]] (min. 1). Velikost [[z_Atomy/K/🟥\|🟥]] se pohybuje od **k6** pro méně odolné třídy až po **k12** pro ty odolnější. Hrdinové začínají s **1 Kostkou života** na **1. [[z_Atomy/L/LVL\|LVL]]** a při každém postupu na **vyšší** [[z_Atomy/L/LVL\|LVL]] získávají jednu další.
+Během [[z_Atomy/0-9/🔋\|🔋]] si hrdinové obnoví [[z_Atomy/0-9/💪\|💪]] [[z_Atomy/0-9/🟥\|🟥]] (min. 1). Velikost [[z_Atomy/0-9/🟥\|🟥]] se pohybuje od **k6** pro méně odolné třídy až po **k12** pro ty odolnější. Hrdinové začínají s **1 Kostkou života** na **1. [[z_Atomy/L/LVL\|LVL]]** a při každém postupu na **vyšší** [[z_Atomy/L/LVL\|LVL]] získávají jednu další.
 
 </div></div>
 

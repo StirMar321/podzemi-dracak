@@ -20,7 +20,7 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 (Bard)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]], [[z_Atomy/0-9/📖\|📖]]                        | [[z_Atomy/K/🟥\|🟥]]: **1k8**                                             | [[z_Atomy/0-9/💖\|💖]] na 1. [[z_Atomy/L/LVL\|LVL]]: **13**                                |
+| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]], [[z_Atomy/0-9/📖\|📖]]                        | [[z_Atomy/0-9/🟥\|🟥]]: **1k8**                                             | [[z_Atomy/0-9/💖\|💖]] na 1. [[z_Atomy/L/LVL\|LVL]]: **13**                                |
 | ----------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
 | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]: <br>[[z_Atomy/0-9/🧠\|🧠]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/R/Tkanina\|Tkanina]], [[z_Atomy/K/Kůže\|Kůže]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]] |
 
@@ -68,7 +68,7 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 ## LVL 2
 - **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** ve školách, které znáte. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
 - **Všeuměl**. Během [[z_Atomy/0-9/🔋\|🔋]] můžete přesunout **jeden** [[z_Atomy/B/Body ⚙️\|Bod Dovednosti]], jako byste získali další [[z_Atomy/L/LVL\|LVL]].
-- **Píseň odpočinku**. 1/Den. Kdykoli za [[z_Atomy/0-9/🪫\|🪫]] můžete spojencům zahrát a umožnit každému, kdo použil [[z_Atomy/K/🟥\|🟥]], obnovit [[z_Atomy/0-9/💖\|💖]] rovné Vašemu [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Píseň odpočinku**. 1/Den. Kdykoli za [[z_Atomy/0-9/🪫\|🪫]] můžete spojencům zahrát a umožnit každému, kdo použil [[z_Atomy/0-9/🟥\|🟥]], obnovit [[z_Atomy/0-9/💖\|💖]] rovné Vašemu [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 3
 - **Básnické Koleje**. Vyberte si **podtřídu** [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
 - **Pohotový důvtip**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete obnovit 1 nabití [[z_Atomy/B/Básníkova Inspirace\|Básníkovy Inspirace]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]).
@@ -193,7 +193,7 @@ Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště
 
 ## Bábi
 (NENÍ čarodějnice)
-1/[[z_Atomy/0-9/🔋\|🔋]] ji můžete vyvolat až na 1 hodinu, aby se o Vás postarala. Upeče a rozdá (CHA+INT) sušenek. Sušenka může obnovit jednu [[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/K/🟥\|🟥]] nebo [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. Snězte je, dokud jsou teplé! Zmizí do 10 minut.
+1/[[z_Atomy/0-9/🔋\|🔋]] ji můžete vyvolat až na 1 hodinu, aby se o Vás postarala. Upeče a rozdá (CHA+INT) sušenek. Sušenka může obnovit jednu [[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/0-9/🟥\|🟥]] nebo [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. Snězte je, dokud jsou teplé! Zmizí do 10 minut.
 
 > [!NOTE] **Vyhubovala vám, že málo jíte!**
 

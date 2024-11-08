@@ -33,7 +33,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 ## LVL 3
 - **Řády Zephyra**. Vyberte si **podtřídu** [[z_Atomy/R/Řády Zephyra\|Řádu Zephyra]].
 ## LVL 4
-- **Infúze života**. Proveďte **Neozbrojený** úder cílený na **spojence**, který naplníte **léčivou** energií. Utraťte X [[z_Atomy/K/🟥\|🟥]], max. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Cíl obnoví **(X[[z_Atomy/K/🟥\|🟥]]+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/💖\|💖]].
+- **Infúze života**. Proveďte **Neozbrojený** úder cílený na **spojence**, který naplníte **léčivou** energií. Utraťte X [[z_Atomy/0-9/🟥\|🟥]], max. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Cíl obnoví **(X[[z_Atomy/0-9/🟥\|🟥]]+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/💖\|💖]].
 - **Mistr bojových umění (1)**. Vyberte si **jednu** schopnost [[z_Atomy/CH/Chvaty a Hmaty\|Chvaty a Hmaty]]. Kdykoli postoupíte na další [[z_Atomy/L/LVL\|LVL]] nebo strávíte [[z_Atomy/0-9/🔋\|🔋]] meditací můžete vyměnit jednu naučenou schopnost za jinou.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5

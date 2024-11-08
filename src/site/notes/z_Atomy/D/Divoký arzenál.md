@@ -12,7 +12,7 @@
 ⠀
 - **Do bitvy.** **1 [[z_Atomy/A/AKCE\|AKCE]]**. Skočte až 2x[[z_Atomy/0-9/🎯\|🎯]] metrů směrem k nepříteli. Pokud přistanete vedle alespoň 2 nepřátel, zdarma zaútočte.
 ⠀
-- **Smrtící úder.** Když vaši [[z_Atomy/Z/Zuřivost\|Zuřivost]] ukončí [[z_Atomy/0-9/💥\|💥]], zdvojnásobte hodnotu vašich [[z_Atomy/K/♈\|♈]].
+- **Smrtící úder.** Když vaši [[z_Atomy/Z/Zuřivost\|Zuřivost]] ukončí [[z_Atomy/0-9/💥\|💥]], zdvojnásobte hodnotu vašich [[z_Atomy/0-9/♈\|♈]].
 ⠀
 - **Mocná odolnost.** Nyní můžete přežít o +4 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] více než nastane Vaše [[z_Atomy/0-9/💀\|💀]].
 ⠀

@@ -19,7 +19,7 @@ Ne každá PRASTARÁ HRŮZA je stejná. To je jako říkat, že havraní černá
 # Černokněžník
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]= [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]], [[z_Atomy/0-9/📖\|📖]]                              | [[z_Atomy/K/🟥\|🟥]]: **1k8**                          | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **13**                             |
+| [[z_Atomy/0-9/🗝\|🗝]]= [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]], [[z_Atomy/0-9/📖\|📖]]                              | [[z_Atomy/0-9/🟥\|🟥]]: **1k8**                          | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **13**                             |
 | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------ |
 | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]:<br>[[z_Atomy/0-9/🧠\|🧠]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/R/Tkanina\|Tkanina]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>Dýky, Kosy, [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]] |
 
@@ -201,7 +201,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 ⠀
 - **Cestovatel stíny**. 1 **[[z_Atomy/A/AKCE\|AKCE]]**: Vyměňte si místo s tvorem do 12 metrů, kterému bylo tento tah způsobeno nekrotické poškození.
 ⠀
-- **Ďábelská smlouva**. Zvyšte si [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] / [[z_Atomy/0-9/📖\|📖]] o **+1**. Máte **-1** maximálních [[z_Atomy/K/🟥\|🟥]].
+- **Ďábelská smlouva**. Zvyšte si [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] / [[z_Atomy/0-9/📖\|📖]] o **+1**. Máte **-1** maximálních [[z_Atomy/0-9/🟥\|🟥]].
 ⠀
 - **Stínový magus**. Váš [[z_Atomy/S/Stínový sluha\|Stínový sluha]] získá [[z_Atomy/0-9/🏹\|🏹]] útoků 4 metry a působí **k10** poškození místo **k12**.
 ⠀

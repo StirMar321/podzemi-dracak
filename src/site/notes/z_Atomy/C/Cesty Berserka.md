@@ -11,7 +11,7 @@
 
 ## Cesta Horala
 ### LVL 3
-- **Kamenná kůže**. Když utratíte [[z_Atomy/K/♈\|♈]] pro získání [[z_Atomy/0-9/💗\|💗]], přidejte hodnotu [[z_Atomy/K/♈\|♈]] k [[z_Atomy/0-9/💗\|💗]].
+- **Kamenná kůže**. Když utratíte [[z_Atomy/0-9/♈\|♈]] pro získání [[z_Atomy/0-9/💗\|💗]], přidejte hodnotu [[z_Atomy/0-9/♈\|♈]] k [[z_Atomy/0-9/💗\|💗]].
 - **Hibernace**. 24 hodinový [[z_Atomy/0-9/🔋\|🔋]] můžete prospat a vyléčit si všechny [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (musí to být bezpečné místo, které určí [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]).
 ### LVL 7
 - **Nezdolnost**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], pokud utrpíte poslední [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] nebo negativní [[z_Atomy/S/Stavy\|Stav]], neutrpíte ho.
@@ -30,7 +30,7 @@
 
 ## Cesta Rudého oparu
 ### LVL 3
-- **Krvežíznivost**. 1/[[z_Atomy/T/Tah\|Tah]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]] a poprvé **zasáhnete** [[z_Atomy/0-9/💥\|💥]] nebo poprvé nepříteli snížíte [[z_Atomy/0-9/💖\|💖]] na **0**, můžete změnit **jednu** Vaší [[z_Atomy/K/♈\|♈]] na **maximum**.
+- **Krvežíznivost**. 1/[[z_Atomy/T/Tah\|Tah]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]] a poprvé **zasáhnete** [[z_Atomy/0-9/💥\|💥]] nebo poprvé nepříteli snížíte [[z_Atomy/0-9/💖\|💖]] na **0**, můžete změnit **jednu** Vaší [[z_Atomy/0-9/♈\|♈]] na **maximum**.
 - **Divoká ostražitost**. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]] pro rozpoznání nebo vystopování krve. Máte 2 metry "slepého" vidění když máte [[z_Atomy/Z/Zuřivost\|Zuřivost]].
 ### LVL 7
 - **Neuhasitelná krvežíznivost**. Pokud minete útok když [[z_Atomy/Z/Zuřivost\|Zuříte]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a hodit útok znovu.

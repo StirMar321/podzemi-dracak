@@ -19,7 +19,7 @@ Pro mnohé je cesta služby obtížnou - přesto v tomto úkolu nejsme osamoceni
 (Klerik)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]], [[z_Atomy/0-9/💪\|💪]]                                | [[z_Atomy/K/🟥\|🟥]]: **1k10**                                               | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **17**              |
+| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]], [[z_Atomy/0-9/💪\|💪]]                                | [[z_Atomy/0-9/🟥\|🟥]]: **1k10**                                               | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **17**              |
 | ---------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------- |
 | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]: <br>[[z_Atomy/0-9/🧠\|🧠]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/K/Kroužky\|Kroužky]], [[z_Atomy/S/Štíty\|Štíty]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/💪\|💪]] |
 

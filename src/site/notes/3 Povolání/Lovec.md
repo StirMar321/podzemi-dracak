@@ -21,7 +21,7 @@ Ať tvé šípy zasáhnou cíl a tětivy nikdy neprasknou.
 (Hraničář)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/K/🟥\|🟥]]: **1k8**                                  | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **13**              |
+| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/0-9/🟥\|🟥]]: **1k8**                                  | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **13**              |
 | ---------------------------------------------------- | ------------------------------------------------- | --------------------------------------- |
 | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]: <br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/K/Kůže\|Kůže]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/🎯\|🎯]] |
 
@@ -191,7 +191,7 @@ Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová n
 ## Zaměření Zálesák
 ### LVL 3
 - **Mám Navrh!** Když získáte alespoň 1 nabití Lovcovy horečky, můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|rychlosti]] zdarma, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
-- **Působivá Forma**. Máte **+5** max [[z_Atomy/0-9/💖\|💖]] a Vaše [[z_Atomy/K/🟥\|🟥]] se vylepší na **k10**.
+- **Působivá Forma**. Máte **+5** max [[z_Atomy/0-9/💖\|💖]] a Vaše [[z_Atomy/0-9/🟥\|🟥]] se vylepší na **k10**.
 
 ### LVL 7
 - **Zásobený Bylinkář**. Kdykoli provádíte [[z_Atomy/0-9/🔋\|🔋]] na místě, kde mohou růst rostliny nebo houby, můžete sbírat léčivé byliny pro výrobu ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]) [[z_Atomy/L/Léčivý lektvar\|Léčivých lektvarů]]  .

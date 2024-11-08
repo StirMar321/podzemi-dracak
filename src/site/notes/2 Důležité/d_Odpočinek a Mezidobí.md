@@ -12,7 +12,7 @@
 # 🪫 = Krátký odpočinek  
 Krátké odpočinky vyžadují alespoň 15 minut na to, abyste popadli dech a ošetřili své rány, ale může to být také celá noc strávená tábořením pod hvězdami. 
 
-Po dokončení krátkého odpočinku můžete utratit [[z_Atomy/K/🟥\|🟥]] a získat zpět [[z_Atomy/0-9/💖\|💖]] rovné součtu, který hodíte. Pokud odpočíváte alespoň 6 hodin s jídlem a spánkem, házíte kostky života s [[z_Atomy/0-9/👍\|👍]].
+Po dokončení krátkého odpočinku můžete utratit [[z_Atomy/0-9/🟥\|🟥]] a získat zpět [[z_Atomy/0-9/💖\|💖]] rovné součtu, který hodíte. Pokud odpočíváte alespoň 6 hodin s jídlem a spánkem, házíte kostky života s [[z_Atomy/0-9/👍\|👍]].
 
 </div></div>
 
@@ -25,7 +25,7 @@ Po dokončení krátkého odpočinku můžete utratit [[z_Atomy/K/🟥\|🟥]] a
 # 🔋 = Dlouhý odpočinek
 **Dlouhé odpočinky** typicky vyžadují alespoň 6 hodin spánku na bezpečném místě určeném vaším [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], obvykle ubytování v hostinci; může to být také v tajné oáze, dobře zásobené chatě v lese, poblíž posvátné svatyně nebo na podobném místě. Kempování v otevřené divočině nebo v podzemí není běžně dostatečné pro získání plnohodnotného **Dlouhého odpočinku**.
 
-Po **dlouhém odpočinku** se hrdinové obnoví všechny [[z_Atomy/0-9/💖\|💖]], many (a dalších specifických zdrojů třídy), [[z_Atomy/K/🟥\|🟥]] rovno [[z_Atomy/0-9/💪\|💪]] (minimálně 1) a vyléčí jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. **Dlouhé odpočinky** jsou také skvělou příležitostí pro aktivity v [[z_Atomy/M/Mezidobí\|Mezidobí]].
+Po **dlouhém odpočinku** se hrdinové obnoví všechny [[z_Atomy/0-9/💖\|💖]], many (a dalších specifických zdrojů třídy), [[z_Atomy/0-9/🟥\|🟥]] rovno [[z_Atomy/0-9/💪\|💪]] (minimálně 1) a vyléčí jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. **Dlouhé odpočinky** jsou také skvělou příležitostí pro aktivity v [[z_Atomy/M/Mezidobí\|Mezidobí]].
 
 </div></div>
 

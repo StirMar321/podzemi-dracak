@@ -13,7 +13,7 @@ Vždy když splníte krok, můžete ho **"složit"**.
 >Zvolte si [[2 Důležité/e2_Rasy\|Rasu]] a [[2 Důležité/e3_Původ\|Původ]]. Možná začněte přemýšlet jaké [[2 Důležité/f_Motivace Dobrodruha\|Motivace dobrodruha]] Vás vedou k dobrodružnému životu. Jak znáte ostatní hrdiny?
 
 >[!NOTE]+ **Životy**
->Zaznamenejte své **[[z_Atomy/K/🟥\|🟥]]** a své **[[z_Atomy/0-9/💖\|💖]]** podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
+>Zaznamenejte své **[[z_Atomy/0-9/🟥\|🟥]]** a své **[[z_Atomy/0-9/💖\|💖]]** podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 >[!NOTE]+ **Hrdinské (+) a (-)**
 >Zaznamenejte si své [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]] podle Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
@@ -48,7 +48,7 @@ Vždy když splníte krok, můžete ho **"složit"**.
 >  Zaznamenejte si, kolik máte [[z_Atomy/I/Inventární Sloty\|Inventárních slotů]].
 
 >[!NOTE]+ **Zdroje**
->Zaznamenejte si speciální zdroje Vašeho [[2 Důležité/e1_Povolání\|Povolání]]. ([[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/K/♈\|♈]], [[z_Atomy/K/♎\|♎]], atd.)
+>Zaznamenejte si speciální zdroje Vašeho [[2 Důležité/e1_Povolání\|Povolání]]. ([[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/0-9/♈\|♈]], [[z_Atomy/0-9/♎\|♎]], atd.)
 
 >[!NOTE]+ **Schopnosti**
 >Zaznamenejte si speciální schopnosti Vašeho [[2 Důležité/e1_Povolání\|Povolání]] a [[z_Atomy/R/Rasy a Původ\|Rasy a původu]]

@@ -20,7 +20,7 @@ Fixláky můžete nalézt v každém městě a na každé cestě pod nespočtem 
 (Tulák, Zloděj)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/K/🟥\|🟥]]: **1k6**                                  | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **10**              |
+| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/0-9/🟥\|🟥]]: **1k6**                                  | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **10**              |
 | ---------------------------------------------------- | ------------------------------------------------- | --------------------------------------- |
 | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]: <br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/K/Kůže\|Kůže]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/🎯\|🎯]] |
 

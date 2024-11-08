@@ -18,7 +18,7 @@ Váleční mniši, zruční a disciplinovaní, zasvětili své životy bojovému
 (Mnich)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/K/🟥\|🟥]]: **1k8**                                | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **13**                            |
+| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/0-9/🟥\|🟥]]: **1k8**                                | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **13**                            |
 | ---------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------- |
 | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]: <br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/B/Beze Zbroje\|Beze Zbroje]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/Z/Zbraně na blízko\|Zbraně na blízko]] |
 
@@ -58,7 +58,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 ## LVL 3
 - **Řády Zephyra**. Vyberte si **podtřídu** [[z_Atomy/R/Řády Zephyra\|Řádu Zephyra]].
 ## LVL 4
-- **Infúze života**. Proveďte **Neozbrojený** úder cílený na **spojence**, který naplníte **léčivou** energií. Utraťte X [[z_Atomy/K/🟥\|🟥]], max. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Cíl obnoví **(X[[z_Atomy/K/🟥\|🟥]]+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/💖\|💖]].
+- **Infúze života**. Proveďte **Neozbrojený** úder cílený na **spojence**, který naplníte **léčivou** energií. Utraťte X [[z_Atomy/0-9/🟥\|🟥]], max. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Cíl obnoví **(X[[z_Atomy/0-9/🟥\|🟥]]+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/💖\|💖]].
 - **Mistr bojových umění (1)**. Vyberte si **jednu** schopnost [[z_Atomy/CH/Chvaty a Hmaty\|Chvaty a Hmaty]]. Kdykoli postoupíte na další [[z_Atomy/L/LVL\|LVL]] nebo strávíte [[z_Atomy/0-9/🔋\|🔋]] meditací můžete vyměnit jednu naučenou schopnost za jinou.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
@@ -133,7 +133,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 ⠀
 - **Štědrá duše**. Když poprvé v tahu obdržíte léčení, můžete obnovit [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/💖\|💖]]  jinému tvorovi do vzdálenosti 6 metrů od Vás.
 ⠀
-- **Vytrvalá duše**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte [[z_Atomy/K/🟥\|🟥]] rovné Akcím, které máte v prvním tahu. Tyto kostky životů vyprší na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Vytrvalá duše**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte [[z_Atomy/0-9/🟥\|🟥]] rovné Akcím, které máte v prvním tahu. Tyto kostky životů vyprší na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
 - **Disciplinovaná trpělivost**. Kdykoli minete útok, získáte kumulativní bonus +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k veškerému poškození, které způsobíte po zbytek tohoto [[z_Atomy/S/Střetnutí\|Střetnutí]] (disciplinovaný bojovník nemine úmyslně).
 ⠀
@@ -168,7 +168,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Bolest zostřuje mysl**. 1/[[z_Atomy/T/Tah\|Tah]]. Když jste [[z_Atomy/Z/Zkrvaven\|Zkrvaven]], Vaše [[z_Atomy/0-9/❗\|❗]] mají [[z_Atomy/0-9/👍\|👍]] a každý první [[z_Atomy/0-9/⚔️\|⚔️]] ve Vašem tahu má [[z_Atomy/0-9/👍\|👍]].
 
 ### LVL 15
-- **Ještě jsem neskončil**. Když [[z_Atomy/0-9/🩸\|Umíráte]], můžete použít schopnost **Infuze života** na sebe zdarma. Když vám dojde poslední [[z_Atomy/K/🟥\|🟥]], můžete utržit +1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a obnovit si +1 [[z_Atomy/K/🟥\|🟥]].
+- **Ještě jsem neskončil**. Když [[z_Atomy/0-9/🩸\|Umíráte]], můžete použít schopnost **Infuze života** na sebe zdarma. Když vám dojde poslední [[z_Atomy/0-9/🟥\|🟥]], můžete utržit +1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a obnovit si +1 [[z_Atomy/0-9/🟥\|🟥]].
 
 </div></div>
 

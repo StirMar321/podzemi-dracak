@@ -41,7 +41,7 @@
 
 ## Trpaslík
 
-| ![trpaslik.png](/img/user/z_img/trpaslik.png) | **Trpaslík** v Trpasličtině znamená kámen. Jsou odolní, pevní, statní. Když jsou dohnáni k vyčerpání, vydrží odolávat. Místo rychlosti mají nadání pro fyzickou vitalitu a žaludek, který zvládne i ty nejhorší pochutiny, které svět nabízí.<br><br>**Statnost**: +2 max počet [[z_Atomy/K/🟥\|🟥]], +1 max počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], -1 metr [[z_Atomy/0-9/🏃\|🏃]].<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Trpasličtina (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ![trpaslik.png](/img/user/z_img/trpaslik.png) | **Trpaslík** v Trpasličtině znamená kámen. Jsou odolní, pevní, statní. Když jsou dohnáni k vyčerpání, vydrží odolávat. Místo rychlosti mají nadání pro fyzickou vitalitu a žaludek, který zvládne i ty nejhorší pochutiny, které svět nabízí.<br><br>**Statnost**: +2 max počet [[z_Atomy/0-9/🟥\|🟥]], +1 max počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], -1 metr [[z_Atomy/0-9/🏃\|🏃]].<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Trpasličtina (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
@@ -212,7 +212,7 @@
 
 ## Konstrukt
 
-| ![konstukt.png](/img/user/z_img/konstukt.png) | Co vlastně znamená být „hrdina“? Pokud se dokážeš nacpat do kalhot nebo máš schopnost máchnout mečem jako ostatní, proč bys nemohl být hrdina taky?!<br><br>**Podivná konstituce**: [[z_Atomy/K/🟥\|🟥]] Vás vždy uzdraví maximální možnou hodnotou. Magické léčení Vám vždy obnoví minimální hodnotou [[z_Atomy/0-9/💖\|💖]].<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Libovolný jeden navíc<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ![konstukt.png](/img/user/z_img/konstukt.png) | Co vlastně znamená být „hrdina“? Pokud se dokážeš nacpat do kalhot nebo máš schopnost máchnout mečem jako ostatní, proč bys nemohl být hrdina taky?!<br><br>**Podivná konstituce**: [[z_Atomy/0-9/🟥\|🟥]] Vás vždy uzdraví maximální možnou hodnotou. Magické léčení Vám vždy obnoví minimální hodnotou [[z_Atomy/0-9/💖\|💖]].<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Libovolný jeden navíc<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 

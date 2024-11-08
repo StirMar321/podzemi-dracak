@@ -14,28 +14,28 @@
 **1 Akce**
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 
-Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/K/♈\|♈]]** (**1k6**) a odložte ji stranou. Přičtěte ji ke každému Vašemu [[z_Atomy/0-9/💪\|💪]] útoku na blízko. Maximální počet [[z_Atomy/K/♈\|♈]] je roven Vašemu [[z_Atomy/L/LVL\|LVL]] a zmizí, když Vaše **Zuřivost** skončí.
+Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odložte ji stranou. Přičtěte ji ke každému Vašemu [[z_Atomy/0-9/💪\|💪]] útoku na blízko. Maximální počet [[z_Atomy/0-9/♈\|♈]] je roven Vašemu [[z_Atomy/L/LVL\|LVL]] a zmizí, když Vaše **Zuřivost** skončí.
 
 >[!NOTE]- **Vaše zuřivost skončí, když:** 
 >Opustíte boj, Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, uběhne 1 [[z_Atomy/K/Kolo\|Kolo]] boje kdy neudělíte poškození.
->**Ano!** Můžete aktivovat **Zuřivost** i v případě, že už zuříte. Pokud máte víc [[z_Atomy/K/♈\|♈]] než je Váš limit, můžete si vybrat, které se zbavíte.
+>**Ano!** Můžete aktivovat **Zuřivost** i v případě, že už zuříte. Pokud máte víc [[z_Atomy/0-9/♈\|♈]] než je Váš limit, můžete si vybrat, které se zbavíte.
 
 </div></div>
 
 
-- **To je všechno?!** Když jste napaden, můžete utratit Vaše [[z_Atomy/K/♈\|♈]] a získáte **([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/🎯\|🎯]])** [[z_Atomy/0-9/💗\|💗]] za každou.
+- **To je všechno?!** Když jste napaden, můžete utratit Vaše [[z_Atomy/0-9/♈\|♈]] a získáte **([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/🎯\|🎯]])** [[z_Atomy/0-9/💗\|💗]] za každou.
 ## LVL 2
-- **Intenzivní zuřivost.** Pokud [[z_Atomy/Z/Zuřivost\|Zuříte]] na začátku svého tahu, získáte jednu [[z_Atomy/K/♈\|♈]] (1k6).
+- **Intenzivní zuřivost.** Pokud [[z_Atomy/Z/Zuřivost\|Zuříte]] na začátku svého tahu, získáte jednu [[z_Atomy/0-9/♈\|♈]] (1k6).
 - **Rada předků**. 1/den. Když stojíte před rozhodnutím, jakým směrem se vydat nebo jaký postup zvolit, můžete vyvolat své předky, aby Vás vedli po **nejvíc nebezpečné** nebo nejnáročnější cestě.
 ## LVL 3
 - **Cesta Berserka**. Vyberte si **podtřídu** [[z_Atomy/C/Cesty Berserka\|Cesty Berserka]].
-- **Krvežíznivost**. [[z_Atomy/A/AKCE\|AKCE]] zdarma. Utraťte Vaše [[z_Atomy/K/♈\|♈]] během svého tahu a **pohněte** se zdarma až o [[z_Atomy/0-9/🎯\|🎯]] metrů za každou z nich.
+- **Krvežíznivost**. [[z_Atomy/A/AKCE\|AKCE]] zdarma. Utraťte Vaše [[z_Atomy/0-9/♈\|♈]] během svého tahu a **pohněte** se zdarma až o [[z_Atomy/0-9/🎯\|🎯]] metrů za každou z nich.
 ## LVL 4
 - **Vytrvalá zuřivost.** Když máte stav [[z_Atomy/0-9/🩸\|🩸]] na začátku svého tahu, automaticky zdarma začnete [[z_Atomy/Z/Zuřivost\|Zuřit]]. Během [[z_Atomy/0-9/🩸\|🩸]] máte **2 Akce** a **ignorujete** [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] když útočíte.
 - **Divoký arzenál**. Získejte **jednu** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]]. Kdykoli provedete pozoruhodný čin destrukce nebo síly, můžete vyměnit **jednu** schopnost Divokého arzenálu za jinou.
 - **Zvýšení klíčové statistiky.** +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 5
-- **Intenzivní zuřivost (2).** Vaše [[z_Atomy/K/♈\|♈]] jsou **k8**.
+- **Intenzivní zuřivost (2).** Vaše [[z_Atomy/0-9/♈\|♈]] jsou **k8**.
 - **Zvýšení sekundární statistiky.** +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 6
 - **Divoký arzenál (2).** Naučte se **další** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]].
@@ -45,7 +45,7 @@ Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/K/♈\|♈]]** (**1k6**) a odložt
 - **Divoký arzenál (3).** Naučte se **další** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]].
 - **Zvýšení klíčové statistiky.** +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 9
-- **Intenzivní zuřivost (3).** Vaše **[[z_Atomy/K/♈\|♈]]** je **k10**.
+- **Intenzivní zuřivost (3).** Vaše **[[z_Atomy/0-9/♈\|♈]]** je **k10**.
 - **Zvýšení sekundární statistiky.** +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 10
 - **Divoký arzenál (4).** Naučte se **další** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]].
@@ -55,7 +55,7 @@ Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/K/♈\|♈]]** (**1k6**) a odložt
 - **Divoký arzenál (5).** Naučte se **další** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]].
 - **Zvýšení klíčové statistiky.** +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 13
-- **Intenzivní zuřivost (4).** Vaše **[[z_Atomy/K/♈\|♈]]** je **k12**.
+- **Intenzivní zuřivost (4).** Vaše **[[z_Atomy/0-9/♈\|♈]]** je **k12**.
 - **Zvýšení sekundární statistiky.** +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 14
 - **Divoký arzenál (6).** Naučte se **další** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]].
@@ -65,7 +65,7 @@ Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/K/♈\|♈]]** (**1k6**) a odložt
 - **Divoký arzenál (7).** Naučte se **další** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]].
 - **Zvýšení klíčové statistiky.** +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 17
-- **Intenzivní zuřivost (5).** Vaše **[[z_Atomy/K/♈\|♈]]** je nyní **k20**.
+- **Intenzivní zuřivost (5).** Vaše **[[z_Atomy/0-9/♈\|♈]]** je nyní **k20**.
 - **Zvýšení sekundární statistiky.** +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 18
 - **Hluboký vztek**. Vaše [[z_Atomy/Z/Zuřivost\|Zuřivost]] neskončí, když vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**.
@@ -74,4 +74,4 @@ Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/K/♈\|♈]]** (**1k6**) a odložt
 ## LVL 20
 - **Neomezená zuřivost** 
 	- Zvyšte si dvě [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
-	- Můžete **přehodit** [[z_Atomy/K/♈\|♈]], když hodíte méně než 10.
+	- Můžete **přehodit** [[z_Atomy/0-9/♈\|♈]], když hodíte méně než 10.

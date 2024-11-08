@@ -167,7 +167,7 @@ Utržíte polovinu poškození ze všech magických efektů, dvojnásobné pošk
 
 
 ## Survivalista
-Nikdy ti nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně snažíš! [[z_Atomy/0-9/👍\|👍]] pro jedové [[z_Atomy/0-9/❗\|❗]]. +1 k maximálním [[z_Atomy/K/🟥\|🟥]].
+Nikdy ti nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně snažíš! [[z_Atomy/0-9/👍\|👍]] pro jedové [[z_Atomy/0-9/❗\|❗]]. +1 k maximálním [[z_Atomy/0-9/🟥\|🟥]].
 
 </div></div>
 

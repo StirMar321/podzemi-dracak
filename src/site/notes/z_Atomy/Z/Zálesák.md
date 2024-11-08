@@ -5,7 +5,7 @@
 ## Zaměření Zálesák
 ### LVL 3
 - **Mám Navrh!** Když získáte alespoň 1 nabití Lovcovy horečky, můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|rychlosti]] zdarma, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
-- **Působivá Forma**. Máte **+5** max [[z_Atomy/0-9/💖\|💖]] a Vaše [[z_Atomy/K/🟥\|🟥]] se vylepší na **k10**.
+- **Působivá Forma**. Máte **+5** max [[z_Atomy/0-9/💖\|💖]] a Vaše [[z_Atomy/0-9/🟥\|🟥]] se vylepší na **k10**.
 
 ### LVL 7
 - **Zásobený Bylinkář**. Kdykoli provádíte [[z_Atomy/0-9/🔋\|🔋]] na místě, kde mohou růst rostliny nebo houby, můžete sbírat léčivé byliny pro výrobu ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]) [[z_Atomy/L/Léčivý lektvar\|Léčivých lektvarů]]  .

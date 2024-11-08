@@ -20,7 +20,7 @@ Patří mezi nejzkušenějšími vojáky na světě! Velitelé jsou mistři vše
 (Bojovník)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/💪\|💪]], [[z_Atomy/0-9/📖\|📖]]                                | [[z_Atomy/K/🟥\|🟥]]: **1k10**                                             | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **17**               |
+| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/💪\|💪]], [[z_Atomy/0-9/📖\|📖]]                                | [[z_Atomy/0-9/🟥\|🟥]]: **1k10**                                             | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **17**               |
 | ---------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------- |
 | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]: <br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]<br>[[z_Atomy/K/Kroužky\|Kroužky]], [[z_Atomy/S/Štíty\|Štíty]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>Všechny |
 
@@ -48,7 +48,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 
 </div></div>
 
-- **Polní Lékař.** Házíte **jednu** extra kostku pro **jakýkoli** [[z_Atomy/L/Léčivý lektvar\|Léčivý lektvar]], který použijete. Kdykoli Vy nebo spojenec utratí jakýkoli počet [[z_Atomy/K/🟥\|🟥]] pro obnovení [[z_Atomy/0-9/💖\|💖]], pokud jste alespoň 10 minut zkoumali jejich zdravotní stav, mohou přidat váš bonus [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] k obnoveným [[z_Atomy/0-9/💖\|💖]].
+- **Polní Lékař.** Házíte **jednu** extra kostku pro **jakýkoli** [[z_Atomy/L/Léčivý lektvar\|Léčivý lektvar]], který použijete. Kdykoli Vy nebo spojenec utratí jakýkoli počet [[z_Atomy/0-9/🟥\|🟥]] pro obnovení [[z_Atomy/0-9/💖\|💖]], pokud jste alespoň 10 minut zkoumali jejich zdravotní stav, mohou přidat váš bonus [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] k obnoveným [[z_Atomy/0-9/💖\|💖]].
 ## LVL 3
 - **Strategie Velitele**. Vyberte si **podtřídu** [[z_Atomy/S/Strategie Velitele\|Strategie Velitele]].
 ## LVL 4
@@ -56,7 +56,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 5
 - **Koordinátor**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte +1 použití schopnosti [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]). Váš [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] ignoruje [[z_Atomy/0-9/👎\|👎]]. 
-- **Mistr Velitel**. Vaše **[[z_Atomy/K/♐\|♐]]** jsou **k8**.
+- **Mistr Velitel**. Vaše **[[z_Atomy/0-9/♐\|♐]]** jsou **k8**.
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 6
 - **Připravený na bojiště (2).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
@@ -67,7 +67,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Připravený na bojiště (3).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 9
-- **Mistr Velitel (2).** Vaše [[z_Atomy/K/♐\|♐]] jsou **k10**. Máte +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
+- **Mistr Velitel (2).** Vaše [[z_Atomy/0-9/♐\|♐]] jsou **k10**. Máte +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 10
 - **Připravený na bojiště (4).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
@@ -78,7 +78,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Připravený na bojiště (5).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 13
-- **Mistr Velitel (3).** Vaše [[z_Atomy/K/♐\|♐]] jsou **k12**. Máte +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
+- **Mistr Velitel (3).** Vaše [[z_Atomy/0-9/♐\|♐]] jsou **k12**. Máte +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 14
 - **Mistroství zbraní (3)**. Znáte **všechny** [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]].
@@ -88,7 +88,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Připravený na bojiště (6).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 17
-- **Mistr Velitel (4).** Vaše [[z_Atomy/K/♐\|♐]] jsou **k20**. +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
+- **Mistr Velitel (4).** Vaše [[z_Atomy/0-9/♐\|♐]] jsou **k20**. +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 18
 - **Nepřekonatelná Taktika.** Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] poprvé ve [[z_Atomy/S/Střetnutí\|Střetnutí]], **vybraný** spojenec získá 1 další Akci, kterou může použít ve svém příštím tahu.
@@ -119,7 +119,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 ⠀
 - **Zaujmout pozice!** **[[z_Atomy/A/AKCE\|AKCE]] / [[z_Atomy/R/REAKCE\|REAKCE]]**: Přikažte 1 spojenci, aby se zdarma pohnul až o svou [[z_Atomy/0-9/🏃\|🏃]] pohybu nebo 2 spojencům až o polovinu jejich [[z_Atomy/0-9/🏃\|Rychlosti]].
 ⠀
-- **Rozchoď to!**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**): Můžete utratit své [[z_Atomy/K/🟥\|🟥]] a obnovit své [[z_Atomy/0-9/💖\|💖]] na hozenou hodnotu.
+- **Rozchoď to!**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**): Můžete utratit své [[z_Atomy/0-9/🟥\|🟥]] a obnovit své [[z_Atomy/0-9/💖\|💖]] na hozenou hodnotu.
 ⠀
 - **Štíty nahoru!** [[z_Atomy/R/REAKCE\|REAKCE]] (útočí na spojence): Přikažte spojenci aby použil [[z_Atomy/0-9/🛡️\|🛡️]] zdarma.
 
@@ -136,17 +136,17 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 >Kdykoli trénujete se svou skupinou nebo jinými vojáky během [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu schopnost [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]], [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] nebo [[z_Atomy/P/Příkaz velitele\|Příkaz velitele]], kterou znáte za jinou, stejného typu.
 
 > [!NOTE]+ **Kostky Války**
-> Kdykoli házíte [[z_Atomy/0-9/🏁\|🏁]], získáte **[[z_Atomy/K/♐\|♐]]** rovné Vaší ([[z_Atomy/0-9/📖\|📖]]) (min. 1). Jejich základní velikost je **k6**. Jednou během [[z_Atomy/0-9/⚔️\|Útoku]] můžete utratit jednu **Válečnou Kostku** pro provedení **Válečné taktiky**.
+> Kdykoli házíte [[z_Atomy/0-9/🏁\|🏁]], získáte **[[z_Atomy/0-9/♐\|♐]]** rovné Vaší ([[z_Atomy/0-9/📖\|📖]]) (min. 1). Jejich základní velikost je **k6**. Jednou během [[z_Atomy/0-9/⚔️\|Útoku]] můžete utratit jednu **Válečnou Kostku** pro provedení **Válečné taktiky**.
 
-- **Silný úder**. **1** [[z_Atomy/K/♐\|♐]]. Když Váš [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, odstrčíte **Středního** tvora o [[z_Atomy/0-9/💪\|💪]] metrů a udělíte dodatečné poškození rovné hodnotě hodu **[[z_Atomy/K/♐\|♐]]**. **Malý** tvor je odtlačen dvakrát tak daleko; **Velký** je odtlačen o polovinu (zaokrouhleno dolů). (viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])
+- **Silný úder**. **1** [[z_Atomy/0-9/♐\|♐]]. Když Váš [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, odstrčíte **Středního** tvora o [[z_Atomy/0-9/💪\|💪]] metrů a udělíte dodatečné poškození rovné hodnotě hodu **[[z_Atomy/0-9/♐\|♐]]**. **Malý** tvor je odtlačen dvakrát tak daleko; **Velký** je odtlačen o polovinu (zaokrouhleno dolů). (viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])
 ⠀
-- **Neomylný úder**. **1** [[z_Atomy/K/♐\|♐]]. Když mine Váš [[z_Atomy/0-9/⚔️\|⚔️]], utraťte **1** [[z_Atomy/K/♐\|♐]] a zaútočte znovu na stejný cíl. Způsobte dodatečné poškození rovné vaší **[[z_Atomy/K/♐\|♐]]**. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
+- **Neomylný úder**. **1** [[z_Atomy/0-9/♐\|♐]]. Když mine Váš [[z_Atomy/0-9/⚔️\|⚔️]], utraťte **1** [[z_Atomy/0-9/♐\|♐]] a zaútočte znovu na stejný cíl. Způsobte dodatečné poškození rovné vaší **[[z_Atomy/0-9/♐\|♐]]**. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
 ⠀
-- **Výpad**. **1** [[z_Atomy/K/♐\|♐]]. Přidejte 1 metr k [[z_Atomy/0-9/🫱\|Dosahu]] Vašeho útoku a způsobte dodatečné poškození rovné **2x([[z_Atomy/K/♐\|♐]])**.
+- **Výpad**. **1** [[z_Atomy/0-9/♐\|♐]]. Přidejte 1 metr k [[z_Atomy/0-9/🫱\|Dosahu]] Vašeho útoku a způsobte dodatečné poškození rovné **2x([[z_Atomy/0-9/♐\|♐]])**.
 ⠀
-- **Široký úder**. **1** [[z_Atomy/K/♐\|♐]] a **1** [[z_Atomy/A/AKCE\|AKCE]]: Vyberte libovolný počet sousedních políček ve Vašem dosahu a zasáhnete VŠECHNY cíle v oblasti. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
+- **Široký úder**. **1** [[z_Atomy/0-9/♐\|♐]] a **1** [[z_Atomy/A/AKCE\|AKCE]]: Vyberte libovolný počet sousedních políček ve Vašem dosahu a zasáhnete VŠECHNY cíle v oblasti. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
 ⠀
-- **Komandér**. **1** [[z_Atomy/K/♐\|♐]] a **1** [[z_Atomy/A/AKCE\|AKCE]]: Zařvěte příkaz až o 2 slovech na nepřítele. Pokud cíl neuspěje [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]][[z_Atomy/0-9/📶\|📶]]**(10+[[z_Atomy/0-9/🗝\|🗝]])**, musí celý svůj další [[z_Atomy/T/Tah\|Tah]] strávit plněním rozkazu, pokud pro něj není zjevně nebezpečný. Cíl je poté vůči Velitelské přítomnosti **Imunní** po dobu 1 dne.
+- **Komandér**. **1** [[z_Atomy/0-9/♐\|♐]] a **1** [[z_Atomy/A/AKCE\|AKCE]]: Zařvěte příkaz až o 2 slovech na nepřítele. Pokud cíl neuspěje [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]][[z_Atomy/0-9/📶\|📶]]**(10+[[z_Atomy/0-9/🗝\|🗝]])**, musí celý svůj další [[z_Atomy/T/Tah\|Tah]] strávit plněním rozkazu, pokud pro něj není zjevně nebezpečný. Cíl je poté vůči Velitelské přítomnosti **Imunní** po dobu 1 dne.
 
 </div></div>
 

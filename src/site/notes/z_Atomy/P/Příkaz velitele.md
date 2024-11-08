@@ -14,6 +14,6 @@
 ⠀
 - **Zaujmout pozice!** **[[z_Atomy/A/AKCE\|AKCE]] / [[z_Atomy/R/REAKCE\|REAKCE]]**: Přikažte 1 spojenci, aby se zdarma pohnul až o svou [[z_Atomy/0-9/🏃\|🏃]] pohybu nebo 2 spojencům až o polovinu jejich [[z_Atomy/0-9/🏃\|Rychlosti]].
 ⠀
-- **Rozchoď to!**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**): Můžete utratit své [[z_Atomy/K/🟥\|🟥]] a obnovit své [[z_Atomy/0-9/💖\|💖]] na hozenou hodnotu.
+- **Rozchoď to!**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**): Můžete utratit své [[z_Atomy/0-9/🟥\|🟥]] a obnovit své [[z_Atomy/0-9/💖\|💖]] na hozenou hodnotu.
 ⠀
 - **Štíty nahoru!** [[z_Atomy/R/REAKCE\|REAKCE]] (útočí na spojence): Přikažte spojenci aby použil [[z_Atomy/0-9/🛡️\|🛡️]] zdarma.
