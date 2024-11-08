@@ -34,7 +34,7 @@ Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbr
 
 
 ## 📖 = INTELIGENCE
-Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a mazanosti. Spolu s [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/0-9/✨\|✨]], používaní [[z_Atomy/K/Kouzelný svitek\|Kouzelných svitků]] a [[z_Atomy/H/Kouzelné hůlky\|Kouzelných hůlek]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
+Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a mazanosti. Ovlivňuje [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/0-9/✨\|✨]], používaní [[z_Atomy/K/Kouzelný svitek\|Kouzelných svitků]] a [[z_Atomy/H/Kouzelné hůlky\|Kouzelných hůlek]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].
 
 </div></div>
 
@@ -45,7 +45,7 @@ Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a m
 
 
 ## ❤️‍🔥 = VŮLE
-Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodou a společností. Spolu s [[z_Atomy/0-9/📖\|📖]] a [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje Vaše [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]], [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]], [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] a [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
+Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodou a společností. Ovlivňuje Vaše [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]], [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]], [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] a [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 
 </div></div>
 

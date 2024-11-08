@@ -43,7 +43,7 @@ Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbr
 
 
 ## 📖 = INTELIGENCE
-Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a mazanosti. Spolu s [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/0-9/✨\|✨]], používaní [[z_Atomy/K/Kouzelný svitek\|Kouzelných svitků]] a [[z_Atomy/H/Kouzelné hůlky\|Kouzelných hůlek]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
+Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a mazanosti. Ovlivňuje [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/0-9/✨\|✨]], používaní [[z_Atomy/K/Kouzelný svitek\|Kouzelných svitků]] a [[z_Atomy/H/Kouzelné hůlky\|Kouzelných hůlek]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].
 
 </div></div>
 
@@ -54,7 +54,7 @@ Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a m
 
 
 ## ❤️‍🔥 = VŮLE
-Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodou a společností. Spolu s [[z_Atomy/0-9/📖\|📖]] a [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje Vaše [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]], [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]], [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] a [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
+Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodou a společností. Ovlivňuje Vaše [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]], [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]], [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] a [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 
 </div></div>
 
@@ -65,18 +65,7 @@ Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodo
 
 
 ## ❤️‍🔥 = VŮLE
-Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodou a společností. Spolu s [[z_Atomy/0-9/📖\|📖]] a [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se souhrně nazývají **[[z_Atomy/0-9/🧠\|🧠]]**. Ovlivňuje Vaše [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]], [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]], [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] a [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Důvtip/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-# 🧠 = DŮVTIP
-[[z_Atomy/0-9/📖\|📖]] a [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se souhrně nazývají **Důvtip**.
+Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodou a společností. Ovlivňuje Vaše [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]], [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]], [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] a [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 
 </div></div>
 
@@ -484,19 +473,19 @@ Výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán 
 
 
 # ❗ = Záchranný hod
-Když svět hry ovlivňuje hrdiny, některá kouzla, schopnosti a jiné nebezpečí testují fyzickou zdatnost nebo odolnost (❗[[z_Atomy/0-9/💪\|💪]]), rychlost nebo rovnováhu (❗[[z_Atomy/0-9/🎯\|🎯]]) nebo duševní odolnost (❗[[z_Atomy/0-9/🧠\|🧠]]). 
-
-**Pro provedení záchranného hodu hoďte 1k20 a přidejte modifikace**. 
-Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán hodem a modifikátory pro **úspěch**, jinak se jedná o **neúspěch**. Hod "přirozené" 20 vždy uspěje! Bytost si může záměrně neuspět.
-
-Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Atomy/0-9/💥\|💥]] a **nemohou** **minout**.
+Když svět hry ovlivňuje hrdiny, **pro provedení záchranného hodu hoďte 1k20 a přidejte modifikace**. 
+Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán hodem a modifikátory pro **úspěch**, jinak se jedná o **neúspěch**. Hod "*přirozené*" 20 vždy uspěje! Bytost si může záměrně neuspět.
 
 - ❗[[z_Atomy/0-9/💪\|💪]] 
-	- Používá se pro [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]], otravu, odolání extrémním teplotám nebo schopnosti udržet se na nohou během vichřice.
+	- Používá se pro [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]], [[z_Atomy/O/Otráven\|Otrávení]], odolání extrémním teplotám nebo schopnosti udržet se na nohou během vichřice.
 - ❗[[z_Atomy/0-9/🎯\|🎯]] 
-	- Používá se, když potřebujete skočit do úkrytu před explozí, udržet se na nohou při běhu po zledovatělé podlaze nebo při balancování na okraji útesu.
-- ❗[[z_Atomy/0-9/🧠\|🧠]]
-	- (Vyšší hodnota z [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]). Používá se, když potřebujete odolat účinkům působící na mysl, prohlédnout iluze, odolat stavům [[z_Atomy/O/Očarován\|Očarován]], [[z_Atomy/V/Vystrašen\|Vystrašen]] atd.
+	- Používá se, když je zkoušena Vaše hbitost a obratnost. Uskočení do úkrytu před explozí, udržení se na nohou při běhu po zledovatělé podlaze nebo při balancování na okraji útesu.
+- ❗[[z_Atomy/0-9/📖\|📖]]
+	- Používá se, když je zkoušena Vaše chytrost. Pomáhá prohlédnout iluze a triky.
+- ❗[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]
+	- Používá se, když je zkoušena Vaše odhodlanost, odvaha a osobnost. Pomáhá odolat [[z_Atomy/O/Očarován\|Očarování]] a [[z_Atomy/V/Vystrašen\|Vystrašení]].
+
+Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Atomy/0-9/💥\|💥]] a **nemohou** **minout**.
 
 </div></div>
 

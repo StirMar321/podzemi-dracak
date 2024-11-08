@@ -146,7 +146,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 ⠀
 - **Široký úder**. **1** [[z_Atomy/0-9/♐\|♐]] a **1** [[z_Atomy/A/AKCE\|AKCE]]: Vyberte libovolný počet sousedních políček ve Vašem dosahu a zasáhnete VŠECHNY cíle v oblasti. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
 ⠀
-- **Komandér**. **1** [[z_Atomy/0-9/♐\|♐]] a **1** [[z_Atomy/A/AKCE\|AKCE]]: Zařvěte příkaz až o 2 slovech na nepřítele. Pokud cíl neuspěje [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]][[z_Atomy/0-9/📶\|📶]]**(10+[[z_Atomy/0-9/🗝\|🗝]])**, musí celý svůj další [[z_Atomy/T/Tah\|Tah]] strávit plněním rozkazu, pokud pro něj není zjevně nebezpečný. Cíl je poté vůči Velitelské přítomnosti **Imunní** po dobu 1 dne.
+- **Komandér**. **1** [[z_Atomy/0-9/♐\|♐]] a **1** [[z_Atomy/A/AKCE\|AKCE]]: Zařvěte příkaz až o 2 slovech na nepřítele. Pokud cíl neuspěje [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]:[[z_Atomy/0-9/📶\|📶]]**(10+[[z_Atomy/0-9/📖\|📖]])**, musí celý svůj další [[z_Atomy/T/Tah\|Tah]] strávit plněním rozkazu, pokud pro něj není zjevně nebezpečný. Cíl je poté vůči Velitelské přítomnosti **Imunní** po dobu 1 dne.
 
 </div></div>
 

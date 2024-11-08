@@ -55,7 +55,7 @@ Každý hrdina má **Inventární Sloty** rovné **(10+[[z_Atomy/0-9/💪\|💪]
 Hrdinové mohou používat jakékoliv [[2 Důležité/h_Vybavení\|Vybavení]], které si zvolí. Nicméně každé [[2 Důležité/e1_Povolání\|Povolání]] Hrdiny má vybrané [[z_Atomy/Z/Zbraně\|Zbraně]] a [[z_Atomy/Z/Zbroje\|Zbroje]], se kterými jsou zdatní. viz Tabulka povolání
 
 - [[z_Atomy/Z/Zbraně\|Zbraně]] **bez zdatnosti** nemohou způsobit [[z_Atomy/0-9/💥\|💥]] a útočí s ([[z_Atomy/0-9/👎\|👎]]). 
-- [[z_Atomy/Z/Zbroje\|Zbroje]] **bez zdatnosti** způsobí, že Vaše [[z_Atomy/0-9/🛡️\|🛡️]] stojí o 1 Akci víc.
+- [[z_Atomy/Z/Zbroje\|Zbroje]] **bez zdatnosti** způsobí, že Vaše [[z_Atomy/0-9/🛡️\|🛡️]] stojí o 1 [[z_Atomy/A/AKCE\|AKCI]] víc.
 
 </div></div>
 
@@ -271,12 +271,12 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 
 ## Kůže
 
-| **Kožená zbroj**             | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena**    |
-| ---------------------------- | -------------- | ----------- |
-| Levná kůže                   | 3+[[z_Atomy/0-9/🎯\|🎯]]       | 5[[z_Atomy/0-9/🟡\|🟡]]     |
-| Býčí Kůže                    | 4+[[z_Atomy/0-9/🎯\|🎯]]       | 45[[z_Atomy/0-9/🟡\|🟡]]    |
-| Zdobená kůže (Min. 1 [[z_Atomy/0-9/💪\|💪]]) | 5+[[z_Atomy/0-9/🎯\|🎯]]       | 300[[z_Atomy/0-9/🟡\|🟡]]   |
-| Wyverní Kůže (Min. 1 [[z_Atomy/0-9/💪\|💪]]) | 6+[[z_Atomy/0-9/🎯\|🎯]]       | 2.000[[z_Atomy/0-9/🟡\|🟡]] |
+| **Kožená zbroj**                     | **[[z_Atomy/B/Brnění\|Brnění]]** | **Cena**    |
+| ------------------------------------ | -------------- | ----------- |
+| Levná kožená zbroj                   | 3+[[z_Atomy/0-9/🎯\|🎯]]       | 5[[z_Atomy/0-9/🟡\|🟡]]     |
+| Býčí kožená zbroj                    | 4+[[z_Atomy/0-9/🎯\|🎯]]       | 45[[z_Atomy/0-9/🟡\|🟡]]    |
+| Zdobená kožená zbroj (Min. 1 [[z_Atomy/0-9/💪\|💪]]) | 5+[[z_Atomy/0-9/🎯\|🎯]]       | 300[[z_Atomy/0-9/🟡\|🟡]]   |
+| Wyverní kožená zbroj (Min. 1 [[z_Atomy/0-9/💪\|💪]]) | 6+[[z_Atomy/0-9/🎯\|🎯]]       | 2.000[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
