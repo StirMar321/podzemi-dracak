@@ -25,7 +25,7 @@ Padlý ze světla, ale ne zcela. Ztrácíte přístup k následujícím zářiv�
 
 
 ## Aura utrpení 
-Získáte auru s poloměrem 4 metry a můžete se postavit na obranu spojence kdekoli v rámci své aury. Už ale nezískáváte [[z_Atomy/K/k-Soudu\|k-Soudu]], když jste napaden. Místo toho získáváte [[z_Atomy/K/k-Soudu\|k-Soudu]] vždy, kdybyste se mohli [[z_Atomy/0-9/🔰\|Obětovat]], ale neučiníte tak.
+Získáte auru s poloměrem 4 metry a můžete se postavit na obranu spojence kdekoli v rámci své aury. Už ale nezískáváte [[z_Atomy/K/♎\|♎]], když jste napaden. Místo toho získáváte [[z_Atomy/K/♎\|♎]] vždy, kdybyste se mohli [[z_Atomy/0-9/🔰\|Obětovat]], ale neučiníte tak.
 
 </div></div>
 
@@ -38,7 +38,7 @@ Získáte auru s poloměrem 4 metry a můžete se postavit na obranu spojence kd
 - **Utrpení**. Vaše [[z_Atomy/K/Kladení rukou\|Kladení rukou]] Vás uzdravuje dvojnásobně, ale ostatní pouze polovičně. Kdykoli způsobíte poškození, můžete utratit nabití svého [[z_Atomy/K/Kladení rukou\|Kladení rukou]], abys zvýšili způsobené poškození o množství rovnající se utraceným nabití (ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]).
 
 ### LVL 11
-- **Využití**. Kdykoli se spojenec ve Vaší auře [[z_Atomy/0-9/🛡️\|Brání]], můžete utratit 2 [[z_Atomy/K/k-Soudu\|k-Soudu]], abyste přinutili nepřítele ve své auře se [[z_Atomy/0-9/🔰\|Obětovat]] (tvor se nemůže Obětovat proti svému vlastnímu útoku).
+- **Využití**. Kdykoli se spojenec ve Vaší auře [[z_Atomy/0-9/🛡️\|Brání]], můžete utratit 2 [[z_Atomy/K/♎\|♎]], abyste přinutili nepřítele ve své auře se [[z_Atomy/0-9/🔰\|Obětovat]] (tvor se nemůže Obětovat proti svému vlastnímu útoku).
 
 ### LVL 15
 - **Děsivá podoba.** Útoky proti Vám mají 1 ([[z_Atomy/0-9/👎\|👎]]) za každé [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], které máte (max. 3).

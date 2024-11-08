@@ -48,7 +48,7 @@ Vždy když splníte krok, můžete ho **"složit"**.
 >  Zaznamenejte si, kolik máte [[z_Atomy/I/Inventární Sloty\|Inventárních slotů]].
 
 >[!NOTE]+ **Zdroje**
->Zaznamenejte si speciální zdroje Vašeho [[2 Důležité/e1_Povolání\|Povolání]]. ([[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/K/k-Vztek\|k-Vztek]], [[z_Atomy/K/k-Soudu\|k-Soudu]], atd.)
+>Zaznamenejte si speciální zdroje Vašeho [[2 Důležité/e1_Povolání\|Povolání]]. ([[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/K/♈\|♈]], [[z_Atomy/K/♎\|♎]], atd.)
 
 >[!NOTE]+ **Schopnosti**
 >Zaznamenejte si speciální schopnosti Vašeho [[2 Důležité/e1_Povolání\|Povolání]] a [[z_Atomy/R/Rasy a Původ\|Rasy a původu]]

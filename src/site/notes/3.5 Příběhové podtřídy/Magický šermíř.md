@@ -7,7 +7,7 @@
 # Magický šermíř
 *Podtřída [[3 Povolání/Velitel\|Velitele]]*
 ## **Střet oceli a magie**
-**Magické velení**. Vaše zaměření na magii způsobí, že ztratíte Vaše [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] a [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]]. Kdykoli byste mohl vybrat [[z_Atomy/V/Válečné Taktiky\|Válečnou taktiku]] nebo [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]], místo toho si vyberte další [[z_Atomy/P/Příkaz velitele\|Příkaz velitele]], Trik nebo Kouzlo 1. úrovně z jakékoliv magické školy (můžete použít [[z_Atomy/K/k-Války\|k-Války]] jako manu). Své [[z_Atomy/P/Příkaz velitele\|Příkazy velitele]] můžete naplnit magickou silou.
+**Magické velení**. Vaše zaměření na magii způsobí, že ztratíte Vaše [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] a [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]]. Kdykoli byste mohl vybrat [[z_Atomy/V/Válečné Taktiky\|Válečnou taktiku]] nebo [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]], místo toho si vyberte další [[z_Atomy/P/Příkaz velitele\|Příkaz velitele]], Trik nebo Kouzlo 1. úrovně z jakékoliv magické školy (můžete použít [[z_Atomy/K/♐\|♐]] jako manu). Své [[z_Atomy/P/Příkaz velitele\|Příkazy velitele]] můžete naplnit magickou silou.
 
 - **Postav se mi!** (*Zářící dekret*). [[z_Atomy/R/REAKCE\|REAKCE]] ([[z_Atomy/0-9/💥\|💥]] proti spojenci do 12 metrů): Nepřítel utrpí ([[z_Atomy/0-9/💪\|💪]])k8 zářivé poškození (ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]), je přitažen až o 3 metry k Vám a je Vámi [[z_Atomy/P/Provokován\|Provokován]], dokud Vaše [[z_Atomy/0-9/💖\|💖]] neklesnou na **0**.
 ⠀
@@ -19,7 +19,7 @@
 ⠀
 - **Zvládnu to celý den!** (*Ohnivý Fénix*). 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**): Můžete utratit své [[z_Atomy/K/🟥\|🟥]] a obnovit své [[z_Atomy/0-9/💖\|💖]] na hozenou hodnotu a způsobit tolik ohnivého poškození každému nepříteli do 2 metrů. Tito nepřátelé získají stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
 ⠀
-- **Koordinovaný úder!** (*Vysilující úder*). Jakýkoli útok provedený tímto způsobem způsobí dodatečné nekrotické poškození rovné hodu [[z_Atomy/K/k-Války\|k-Války]]. Tito nepřátelé se do konce svého příštího tahu považují za *nemrtvé*.
+- **Koordinovaný úder!** (*Vysilující úder*). Jakýkoli útok provedený tímto způsobem způsobí dodatečné nekrotické poškození rovné hodu [[z_Atomy/K/♐\|♐]]. Tito nepřátelé se do konce svého příštího tahu považují za *nemrtvé*.
 
 ### LVL 3
 - **Hluboké znalosti**. Vyber si jakékoli kouzlo stupně 1 (nebo nižší) a jeden [[4 Kouzla/g_Tríčky\|Tríček]].

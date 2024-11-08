@@ -4,7 +4,7 @@
 
 ## Cesta Horala
 ### LVL 3
-- **Kamenná kůže**. Když utratíte [[z_Atomy/K/k-Vztek\|k-Vztek]] pro získání [[z_Atomy/0-9/💗\|💗]], přidejte hodnotu [[z_Atomy/K/k-Vztek\|k-Vztek]] k [[z_Atomy/0-9/💗\|💗]].
+- **Kamenná kůže**. Když utratíte [[z_Atomy/K/♈\|♈]] pro získání [[z_Atomy/0-9/💗\|💗]], přidejte hodnotu [[z_Atomy/K/♈\|♈]] k [[z_Atomy/0-9/💗\|💗]].
 - **Hibernace**. 24 hodinový [[z_Atomy/0-9/🔋\|🔋]] můžete prospat a vyléčit si všechny [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (musí to být bezpečné místo, které určí [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]).
 ### LVL 7
 - **Nezdolnost**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], pokud utrpíte poslední [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] nebo negativní [[z_Atomy/S/Stavy\|Stav]], neutrpíte ho.
