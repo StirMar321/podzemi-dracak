@@ -19,9 +19,9 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 # Básník
 (Bard)
 
-| [[z_Atomy/0-9/🗝\|🗝]]          | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]                   | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]               |
-| --------------- | ------- | --------------- | ------------------------------- | -------------------------------- | -------------------------------- | ---------------------------------- |
-| [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/📖\|📖]] | **1k8** | **13**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/R/Tkanina\|Tkanina]], [[z_Atomy/K/Kůže\|Kůže]]            | [[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]]       | 2x Dýka, Levná kožená zbroj, Křída |
+| [[z_Atomy/0-9/🗝\|🗝]]          | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]                     | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]               |
+| --------------- | ------- | --------------- | --------------------------------- | -------------------------------- | -------------------------------- | ---------------------------------- |
+| [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/📖\|📖]] | **1k8** | **13**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/R/Tkanina\|Tkanina]], [[z_Atomy/K/Kůže\|Kůže]]            | [[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]]       | 2x Dýka, Levná kožená zbroj, Křída |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-basnika/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -136,9 +136,9 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 >[!NOTE]- **Změna je život**
 > Kdykoli vystoupíte na místě, které Vás inspiruje, nebo si měníte příběhy s jinými schopným bardy a poety během [[z_Atomy/0-9/🔋\|🔋]], můžete vyměnit jednu z těchto schopností za jinou.
 
-- **Ne moji krásnou tvář!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Kdykoli použijete reakci [[z_Atomy/0-9/🛡️\|🛡️]], můžete nejprve přinutit útočníka provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]]. Při neúspěchu změňte cíl útoku (pokud žádný není v dosahu, útok selže). Pokud neuspěje o 5+, zaútočí na sebe jako trest za to, že si vůbec mysleli, že vám mohou ublížit! 
+- **Ne moji krásnou tvář!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Kdykoli použijete reakci [[z_Atomy/0-9/🛡️\|🛡️]], můžete nejprve přinutit útočníka provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu změňte cíl útoku (pokud žádný není v dosahu, útok selže). Pokud neuspěje o 5+, zaútočí na sebe jako trest za to, že si vůbec mysleli, že vám mohou ublížit! 
 ⠀
-- **Píseň davů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **2 [[z_Atomy/A/AKCE\|AKCE]]**. Zahrajete okouzlující melodii. Všichni nepřátelé do 6 metrů, kteří ji slyší, musí provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]]. Při neúspěchu je můžete přesunout až o 6 metrů libovolným směrem a nemohou se pohnout ve svém dalším tahu.
+- **Píseň davů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **2 [[z_Atomy/A/AKCE\|AKCE]]**. Zahrajete okouzlující melodii. Všichni nepřátelé do 6 metrů, kteří ji slyší, musí provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu je můžete přesunout až o 6 metrů libovolným směrem a nemohou se pohnout ve svém dalším tahu.
 ⠀
 - **Hrdinská balada**. +1 maximální nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] písní navíc přidává spojenci **(+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** k poškození jeho útoku.
 ⠀

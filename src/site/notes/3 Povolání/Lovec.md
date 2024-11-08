@@ -21,9 +21,9 @@ Ať tvé šípy zasáhnou cíl a tětivy nikdy neprasknou.
 (Hraničář)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/0-9/🟥\|🟥]]: **1k8**                                  | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **13**              |
-| ---------------------------------------------------- | ------------------------------------------------- | --------------------------------------- |
-| [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]: <br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/K/Kůže\|Kůže]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>[[z_Atomy/0-9/🎯\|🎯]] |
+| [[z_Atomy/0-9/🗝\|🗝]]          | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]] <br>             | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]]<br> | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]]<br> | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]                 |
+| --------------- | ------- | --------------- | ------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ |
+| [[z_Atomy/0-9/🎯\|🎯]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] | **1k8** | **13**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/K/Kůže\|Kůže]]                             | [[z_Atomy/0-9/🎯\|🎯]]                               | Krátký luk, Levná kožená zbroj, Past |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-lovce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 

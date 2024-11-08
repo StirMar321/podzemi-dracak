@@ -189,7 +189,7 @@ Zotavíš se dvakrát tolik [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a [[z_A
 
 
 ## Domov v Podzemí
-Můžeš kopat dvakrát rychleji než ostatní. Bezpečné odpočinkové lokace v podzemí pro tebe vždy považují za Luxusní ubytování. Máš potíže odpočívat (proveď [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]]), když prší. 
+Můžeš kopat dvakrát rychleji než ostatní. Bezpečné odpočinkové lokace v podzemí pro tebe vždy považují za Luxusní ubytování. Máš potíže odpočívat (proveď [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]]), když prší. 
 *"Voda... z NEBE?!"*
 
 </div></div>
@@ -259,7 +259,7 @@ Nic tě nemůže vyděsit. Nikdo tě nemůže zastrašit. **-1** [[z_Atomy/B/Brn
 
 ## Tak hloupý, až jsem občas chytrý
 (Požadavek: 0 >= [[z_Atomy/0-9/📖\|📖]]) Jednou za den můžeš přehodit [[z_Atomy/0-9/📖\|📖]] [[z_Atomy/0-9/❓\|❓]]. 
-Jednou za [[z_Atomy/0-9/🔋\|🔋]]  můžeš přehodit [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]].
+Jednou za [[z_Atomy/0-9/🔋\|🔋]]  můžeš přehodit [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/📖\|📖]].
 
 </div></div>
 

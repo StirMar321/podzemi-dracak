@@ -20,9 +20,9 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 (Kouzelník, Čaroděj)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]=[[z_Atomy/0-9/📖\|📖]], [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]                                | [[z_Atomy/0-9/🟥\|🟥]]: **1k6**                          | [[z_Atomy/0-9/💖\|💖]] na 1. úrovni: **10**                             |
-| ---------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------ |
-| [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]: <br>[[z_Atomy/0-9/🧠\|🧠]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbroje\|Zbroje]]: <br>[[z_Atomy/R/Tkanina\|Tkanina]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/Z/Zbraně\|Zbraně]]: <br>Dýky, Hole, [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]] |
+| [[z_Atomy/0-9/🗝\|🗝]]          | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]<br>              | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]]<br> | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]            |
+| --------------- | ------- | --------------- | ------------------------------ | ------------------------------------ | -------------------------------- | ------------------------------- |
+| [[z_Atomy/0-9/📖\|📖]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] | **1k6** | **10**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/R/Tkanina\|Tkanina]]                          | Ostří, Hole, [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]]  | Oblečení dobrodruha, Hůl, Mýdlo |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-maga/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -180,7 +180,7 @@ Vyberte možnost, která ještě nebyla vybrána. Obnoví se, když hodíte [[z_
 **1/[[z_Atomy/S/Střetnutí\|Střetnutí]]**
 **[[z_Atomy/R/REAKCE\|REAKCE]], když se nepřítel pohne na blízko k vám**
 
-Nepřítel je odstrčen 2 metry od Vás a [[z_Atomy/S/Sražen\|Sražen]] na zem při neúspěchu pro [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🧠\|🧠]]. 
+Nepřítel je odstrčen 2 metry od Vás a [[z_Atomy/S/Sražen\|Sražen]] na zem při neúspěchu pro [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 **Vyvolejte chaos**.
 
 </div></div>

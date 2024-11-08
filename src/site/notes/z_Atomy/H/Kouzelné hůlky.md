@@ -3,7 +3,7 @@
 ---
 
 # Kouzelné hůlky  
-Podobně jako [[z_Atomy/K/Kouzelný svitek\|Kouzelný svitek]], hůlky umožňují sesílat kouzla bez spotřeby many a bez nutnosti magických schopností. Na rozdíl od svitků lze hůlky opětovně nabíjet a používat znovu. Hrdinové, kteří jsou [[z_Atomy/Z/Zdatnost\|Zdatnost]] v používání hůlek, mohou volně používat hůlky z jakékoli domény kouzel, a to za normální počet akcí potřebných k seslání kouzla. 
+Hůlky umožňují sesílat kouzla bez spotřeby many a bez nutnosti magických schopností. Na rozdíl od [[z_Atomy/K/Kouzelný svitek\|svitků]] lze hůlky opětovně nabíjet a používat znovu. Hrdinové, kteří jsou [[z_Atomy/Z/Zdatnost\|Zdatnost]] v používání hůlek, mohou volně používat hůlky z jakékoli domény kouzel, a to za normální počet akcí potřebných k seslání kouzla. 
 Hrdinové, kteří **nemají** [[z_Atomy/Z/Zdatnost\|Zdatnost]] v používání hůlek provedou [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]] [[z_Atomy/0-9/📶\|📶]] **10**, aby kouzlo úspěšně seslali. 
 
 Typické ceny hůlek:

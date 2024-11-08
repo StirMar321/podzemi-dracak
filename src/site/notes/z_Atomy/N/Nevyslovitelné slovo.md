@@ -8,7 +8,7 @@
 [[z_Atomy/0-9/🫱\|🫱]] 1m
 [[z_Atomy/0-9/📶\|📶]] [[z_Atomy/0-9/❗\|❗]] 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Cíl v dosahu **zemře** při neúspěchu [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]].
+Cíl v dosahu **zemře** při neúspěchu [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].
 Úspěch = **Sesílatel** ztratí všechny [[z_Atomy/0-9/💖\|💖]] a začne [[z_Atomy/0-9/🩸\|Umírat]].
 
 Cíl má pro [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvaven]] nebo [[z_Atomy/0-9/👍\|👍]], pokud má všechny [[z_Atomy/0-9/💖\|💖]].
