@@ -4,7 +4,7 @@
 
 ## Zaměření Zálesák
 ### LVL 3
-- **Mám Navrh!** Když získáte alespoň 1 nabití Lovcovy horečky, můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|rychlosti]] zdarma, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
+- **Mám Navrh!** Když získáte alespoň 1[[z_Atomy/0-9/❇️\|❇️]], můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|rychlosti]] zdarma, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 - **Působivá Forma**. Máte **+5** max [[z_Atomy/0-9/💖\|💖]] a Vaše [[z_Atomy/0-9/🟥\|🟥]] se vylepší na **k10**.
 
 ### LVL 7

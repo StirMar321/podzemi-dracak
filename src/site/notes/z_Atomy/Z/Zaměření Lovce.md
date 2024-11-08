@@ -11,7 +11,7 @@
 
 ## Zaměření Stopař
 ### LVL 3
-- **Útočník ze zálohy**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete zdarma seslat schopnost [[z_Atomy/L/Lovcova marka\|Lovcova marka]]. Máte ([[z_Atomy/0-9/👍\|👍]]) pro Váš první útok v každém [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Útočník ze zálohy**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete zdarma seslat schopnost [[z_Atomy/L/Lovcova marka\|Lovcova marka]]. Máte [[z_Atomy/0-9/👍\|👍]] pro Váš první útok v každém [[z_Atomy/S/Střetnutí\|Střetnutí]].
 - **Zkušený stopař**. Vaše [[z_Atomy/0-9/❓\|❓]] mají ([[z_Atomy/0-9/👍\|👍]]) při stopování.
 - **Zkušený navigátor**. Nemůžete se ztratit nemagickými prostředky.
 
@@ -36,7 +36,7 @@
 
 ## Zaměření Zálesák
 ### LVL 3
-- **Mám Navrh!** Když získáte alespoň 1 nabití Lovcovy horečky, můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|rychlosti]] zdarma, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
+- **Mám Navrh!** Když získáte alespoň 1[[z_Atomy/0-9/❇️\|❇️]], můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|rychlosti]] zdarma, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 - **Působivá Forma**. Máte **+5** max [[z_Atomy/0-9/💖\|💖]] a Vaše [[z_Atomy/0-9/🟥\|🟥]] se vylepší na **k10**.
 
 ### LVL 7

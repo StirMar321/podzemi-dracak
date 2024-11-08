@@ -19,10 +19,11 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 
 - **Sběrač**. Vaše [[z_Atomy/0-9/❓\|❓]] pro hledání jídla a vody mají [[z_Atomy/0-9/👍\|👍]].
 ## LVL 2
-- **Lovecká horečka**. Adrenalin při sledování vaší kořisti vám poskytuje dodatečné schopnosti v boji. Vyberte **2 schopnosti** [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]. Získáte **1 nabití** Lovecké horečky, když:
+- **Lovecká horečka**. Adrenalin při sledování vaší kořisti vám poskytuje dodatečné schopnosti v boji. Vyberte **2 schopnosti** [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].  Získáte +1[[z_Atomy/0-9/❇️\|❇️]], když:
 	- se hází [[z_Atomy/0-9/🏁\|🏁]]
-	- když Vy zabijete Vaši [[z_Atomy/K/Kořist\|Kořist]]. 
+	- když **Vy** zabijete Vaši [[z_Atomy/K/Kořist\|Kořist]]. 
 	- udeříte [[z_Atomy/K/Kořist\|Kořist]] útokem zblízka. 
+	Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 - **Let's finish this!**. Pokud nemáte **žádné** nabití Lovecké horečky, považujte všechny své útoky na blízko, jako by byly proti Vaší [[z_Atomy/K/Kořist\|Kořisti]].
 ## LVL 3
 - **Zaměření Lovce**. Vyberte si **podtřídu** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
@@ -33,7 +34,7 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
 - **Doražení**. 1 nabití Lovecké horečky a 1 [[z_Atomy/A/AKCE\|AKCE]]: Proveďte útok na blízko proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] [[z_Atomy/K/Kořist\|Kořisti]]. Automaticky se počítá jako [[z_Atomy/0-9/💥\|💥]] a zdvojnásobte poškození z [[z_Atomy/L/Lovcova marka\|Lovcovy marky]]. Pokud kořist přežije, udělí vám [[z_Atomy/0-9/💥\|💥]] zpět.
-- **Zkušený Stopař**. Získáte +1 nabití Lovecké horečky, když **VY** zabijete [[z_Atomy/K/Kořist\|Kořist]].
+- **Zkušený Stopař**. Získáte +1[[z_Atomy/0-9/❇️\|❇️]], když **VY** zabijete [[z_Atomy/K/Kořist\|Kořist]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6
 - **Mistr Lukostřelby**. Kdykoli zaútočíte s **dlouhým lukem**, můžete házet **2k4** nebo **1k8**. S **kuší** **4k4** nebo **2k8**.
@@ -47,7 +48,7 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Neunikneš mi**. Kdykoli uvidíte jednoho nebo více spojenců provést [[z_Atomy/0-9/🛑\|🛑]], můžete také provést [[z_Atomy/0-9/🛑\|🛑]] **na dálku** proti stejnému cíli.
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 10
-- **Zkušený Stopař (2)**. Dostanete +1 nabití Lovcovy horečky když: 
+- **Zkušený Stopař (2)**. Dostanete +1[[z_Atomy/0-9/❇️\|❇️]], když: 
 	- jste poprvé [[z_Atomy/Z/Zkrvaven\|Zkrvaven]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]].
 	- utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 - **Bystré oko, pevná ruka**. Přidejte +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k poškození [[z_Atomy/Z/Zbraně na dálku\|Zbraně na dálku]].
@@ -69,7 +70,7 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Bezkonkurenční Lovec**. Můžete použít [[z_Atomy/0-9/🛡️\|🛡️]] proti Vaší [[z_Atomy/K/Kořist\|Kořisti]] zadarmo.
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 18
-- **Divoká Výdrž**. Získáte +1 nabití [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]] na začátku svého [[z_Atomy/T/Tah\|Tahu]].
+- **Divoká Výdrž**. Získáte +1[[z_Atomy/0-9/❇️\|❇️]] na začátku svého [[z_Atomy/T/Tah\|Tahu]].
 ## LVL 19
 - **Epický Dar**. Vyberte si jeden [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
