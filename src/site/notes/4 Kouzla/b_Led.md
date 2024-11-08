@@ -87,7 +87,7 @@ Obdržíte [[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] a použijte rea
 ## Mrazivá nova
 **STUPEŇ 3**  
 **2 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 [[z_Atomy/0-9/🫱\|🫱]] 3 metry
 
 Tvorové v dosahu utrpí **4k6** ledového poškození. 
@@ -152,7 +152,7 @@ Tvorové v oblasti utrpí **8k6** ledového poškození, tvorové sousedící s 
 **STUPEŇ 8**  
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 18 metrů
-[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Cíl v dosahu provede [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Když neuspěje je pohřben v ledu. 
 Pohřbený cíl nemůže jednat a je imunní vůči poškození. Kouzlo trvá dokud žijete, dokud led neroztaje nebo není zničen. 
@@ -172,7 +172,7 @@ Cíl může zopakovat [[z_Atomy/0-9/❗\|❗]]/10 dní. Velká stvoření mají 
 **STUPEŇ 9**  
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 18m
-[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 [[z_Atomy/O/Odpočinek\|Odpočinek]] 1 týden
 
 Libovolný počet ochotných cílů v dosahu bude obklopen ledem, mají stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] a získají [[z_Atomy/I/Imunita\|Imunitu]] vůči poškození a efektům až do začátku jejich příštího tahu. 

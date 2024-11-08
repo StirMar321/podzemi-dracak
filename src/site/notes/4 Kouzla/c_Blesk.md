@@ -91,7 +91,7 @@ Lze seslat pouze jednou.
 **STUPEŇ 3**  
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/O/Oblast\|Oblast]] 2x12m od Vás
-[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Sešlete 2m široké a 12m dlouhé Blesky a výboje.
 Tvorové v oblasti provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
@@ -113,7 +113,7 @@ Neúspěch = **5k8** bleskového poškození.
 **2 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/R/REAKCE\|REAKCE]] - Nepřítel koná
 [[z_Atomy/0-9/🫱\|🫱]] 24m
-[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 Stojí 2 many a 1 akci, pokud máte [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/0-9/🩸\|Umíráte]]
 
 Prohoďte místo jednoho ochotného cíle a jiného cíle v dosahu. Neochotný cíl musí uspět na [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]], aby odolal kouzlu. Pokud byl jeden z nich cílem útoku/efektu, druhý se stává novým cílem. 
@@ -151,7 +151,7 @@ Cíl získá: +1 [[z_Atomy/A/AKCE\|AKCE]], +5 [[z_Atomy/B/Brnění\|Brnění]], 
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/🫱\|🫱]] 24m
 [[z_Atomy/O/Oblast\|Oblast]] 3m
-[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Proměníte se v Blesk a teleportujete se do dosahu kouzla. Pokud se na cílovém místě v dosahu nachází ochotný tvor, prohodíte se. 
 Tvorové v oblasti utrpí **10k8** bleskového poškození a provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].

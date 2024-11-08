@@ -105,7 +105,7 @@ Použijte [[z_Atomy/0-9/🛡️\|🛡️]] zdarma
 **STUPEŇ 4**  
 **3 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 3m
-[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Tvorové v dosahu provedou [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/🎯\|🎯]]). 
 Při neúspěchu utrpí **6k10** ohnivého poškození.

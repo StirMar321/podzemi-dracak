@@ -14,7 +14,7 @@
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
-[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Pokud cíl v dosahu neuspěje na [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🧠\|🧠]] utrží **1k6** nekrotického poškození a přesune se 2 metry blíže k vám. Opakujte [[z_Atomy/0-9/❗\|❗]], dokud cíl uspěje nebo se nemůže pohnout blíž.
 
@@ -87,7 +87,7 @@ Obklopíte se děsivým stínem. Útoky na blízko proti vám mají [[z_Atomy/0-
 **STUPEŇ 3**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
-[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Udělte **4k12** poškození všem tvorům v dosahu a obnovte své [[z_Atomy/0-9/💖\|💖]] rovnající se poškození. 
 Tvorové provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Za každého tvora který uspěje získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
@@ -123,7 +123,7 @@ Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|stínových sl
 **STUPEŇ 5**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/🫱\|🫱]] 4m
-[[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
+[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Zraněný tvor v dosahu, který neuspěje [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] utrpí **6k12** nekrotického poškození.
 Cíl má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvaven]].

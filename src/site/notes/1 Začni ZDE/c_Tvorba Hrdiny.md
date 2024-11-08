@@ -57,6 +57,6 @@ Vždy když splníte krok, můžete ho **"složit"**.
 >Zaznamenejte si své [[z_Atomy/Z/Zbraně\|Zbraně]], [[2 Důležité/Kouzla\|Kouzla]] a útoky.
 
 >[!NOTE]+ **10+[[z_Atomy/0-9/🗝\|🗝]]**
->Zaznamenejte si [[z_Atomy/0-9/📶❗Hrdinských efektů\|📶❗Hrdinských efektů]].
+>Zaznamenejte si [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]].
 
 **A teď jděte hrát!**

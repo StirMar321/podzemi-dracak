@@ -260,8 +260,8 @@ Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Ato
 
 
 
-### 📶 ❗ Hrdinských efektů
-[[z_Atomy/0-9/❗\|❗]] které způsobí hrdina mají [[z_Atomy/0-9/📶\|📶]] **10+[[z_Atomy/0-9/🗝\|🗝]]**.
+### 📶 Hrdinských efektů
+[[z_Atomy/0-9/❗\|❗]] které způsobí hrdina mají [[z_Atomy/0-9/📶\|📶]]= **10+[[z_Atomy/0-9/🗝\|🗝]]**.
 
 </div></div>
 
@@ -366,10 +366,11 @@ Znamená že máte 1 výhodu pro váš hod.
 
 # 💖 = Body výdrže
 
-Vaše **Body Výdrže** představují vaši schopnost přijímat poškození a jít dál. Při přijímání poškození se Vaše 💖 snižují. Když klesnete na **0** 💖, získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a stav [[z_Atomy/0-9/🩸\|🩸]].
+Vaše **Body Výdrže** představují vaši schopnost přijímat poškození a jít dál. Při přijímání poškození se Vaše 💖 snižují. Když klesnete na **0** 💖, utržíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a začnete [[z_Atomy/0-9/🩸\|🩸]].
 
 Počáteční **Body Výdrže** určíte:
-- Max. hodnota [[z_Atomy/K/🟥\|🟥]] Vašeho [[2 Důležité/e1_Povolání\|Povolání]] plus hod [[z_Atomy/K/🟥\|🟥]] s [[z_Atomy/0-9/👍\|👍]] nebo 
+- Max. hodnota [[z_Atomy/K/🟥\|🟥]] Vašeho [[2 Důležité/e1_Povolání\|Povolání]] plus hod **1** [[z_Atomy/K/🟥\|🟥]] s [[z_Atomy/0-9/👍\|👍]] 
+*nebo*
 - Použijete počáteční hodnotu 💖 Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 </div></div>
@@ -441,7 +442,8 @@ Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|�
 
 
 # 🟥 = Kostky Života 
-**Kostky života** představují , jak rychle dokáže hrdina rozdýchat menší zranění a vyčerpání.  **Kostky života** se obvykle utrácejí během [[z_Atomy/0-9/🪫\|🪫]] k obnovení [[z_Atomy/0-9/💖\|💖]] a mohou také pohánět speciální schopnosti.
+**Kostky života** představují , jak rychle dokáže hrdina rozdýchat menší zranění a vyčerpání.
+**Kostky života** se obvykle utrácejí během [[z_Atomy/0-9/🪫\|🪫]] k obnovení [[z_Atomy/0-9/💖\|💖]] (a mohou také pohánět vybrané speciální schopnosti).
 
 </div></div>
 
