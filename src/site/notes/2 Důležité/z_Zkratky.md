@@ -134,7 +134,7 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] k vybavení **historických** událost�
 
 ## Mystika (📖)
 Vaše porozumění magickým jevům, kouzlům a zaklínadlům. 
-Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Mystika** k identifikování magických efektů, rozluštit mystické symboly a rozpoznat vlastnosti magických předmětů. Tato dovednost vám také může pomoci k [[z_Atomy/0-9/🔍\|🔍]] schopností a slabin tvorů.
+Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Mystika** k identifikování magických efektů, rozluštit mystické symboly a rozpoznat vlastnosti magických předmětů. Tato dovednost vám také může pomoci k [[z_Atomy/0-9/🔍\|🔍]] schopností a slabin bytostí.
 
 </div></div>
 
@@ -146,7 +146,7 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Mystika** k identifikování magický
 
 ## Zkoumání (📖)
 Vaše schopnost analýzy a dedukce. 
-Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Zkoumání** k diagnostikování zranění, určení příčin smrti, odhalování stop, rozklíčování mechanismů pastí nebo manipulaci s mechanickými zařízeními. Tato dovednost vám také může pomoci k [[z_Atomy/0-9/🔍\|🔍]] schopností a slabin tvorů.
+Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Zkoumání** k diagnostikování zranění, určení příčin smrti, odhalování stop, rozklíčování mechanismů pastí nebo manipulaci s mechanickými zařízeními. Tato dovednost vám také může pomoci k [[z_Atomy/0-9/🔍\|🔍]] schopností a slabin bytostí.
 
 </div></div>
 
@@ -158,7 +158,7 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Zkoumání** k diagnostikování zran
 
 ## Příroda (❤️‍🔥)
 Vaše odborné znalosti v přežití v divočině, navigaci, stopování a zacházení se zvířaty. 
-Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Příroda** k tomu, abyste se vyznali v přírodě, identifikovali flóru a faunu a úspěšně vystopovali tvory. Tato dovednost zahrnuje také znalosti o Zvířatech, Monstrech a Rostlinách a poskytuje vhled do jejich chování, stanovišť a charakteristik.
+Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Příroda** k tomu, abyste se vyznali v přírodě, identifikovali flóru a faunu a úspěšně vystopovali bytosti. Tato dovednost zahrnuje také znalosti o Zvířatech, Monstrech a Rostlinách a poskytuje vhled do jejich chování, stanovišť a charakteristik.
 
 </div></div>
 
@@ -324,7 +324,7 @@ Monstra s těžkým brněním ignorují bonusy poškození a utrží polovinu po
 Pokud chcete **více informací** nebo [[z_Atomy/0-9/👍\|👍]] v boji, hrdina může použít **Posouzení** k provedení [[z_Atomy/0-9/❓\|❓]] pro odhalení informací, objevil slabinu nebo zranitelnost, pochopil taktiku a plány nepřátel apod. Skvělý způsob, jak začlenit příběhové momenty do [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
 >[!NOTE]- **Přemýšlejte kreativně**
->Někteří tvorové jsou příliš odolní, abyste je mohli udolat tupou silou. Využijte veškeré prostředky, které máte k dispozici!
+>Některé bytosti jsou příliš odolné, abyste je mohli udolat tupou silou. Využijte veškeré prostředky, které máte k dispozici!
 
 > [!NOTE]- **Příklady**
 >Použiju 🔍 na ohnivého salamandra: Proveď [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]] [[z_Atomy/0-9/📶\|📶]] **18** pro odhalení jeho slabin.
@@ -378,7 +378,7 @@ Když použijete tuto reakci, **snižte poškození** jakéhokoli **jednoho** ú
 
 
 ## 🔰 = Chránění (někoho)
-Pokud by tvora ve vzdálenosti **2 metrů** zasáhl [[z_Atomy/0-9/⚔️\|⚔️]], můžete ho odsunout z cesty a staňte se novým cílem útoku. Vyměníte si místo. (Pokud si nejste jistí, poraďte se s [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]])
+Pokud by bytost ve vzdálenosti **2 metrů** zasáhl [[z_Atomy/0-9/⚔️\|⚔️]], můžete ji odsunout z cesty a staňte se novým cílem útoku. Vyměníte si místo. (Pokud si nejste jistí, poraďte se s [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]])
 
 >[!NOTE]- **Lze použít [[z_Atomy/0-9/🛡️\|🛡️]] a [[z_Atomy/0-9/🔰\|🔰]] současně?** 
 >Ano! Pokud máte dostatek akcí k utracení. Nebudete však schopni toto provést znovu až do konce Vašeho příštího tahu, protože každá z těchto akcí má omezení pouze 1 za [[z_Atomy/K/Kolo\|Kolo]].
@@ -456,7 +456,7 @@ Pokud hodíte na kostkách stejně, odstranění kostek zleva doprava vždy vede
 
 
 # ❓ = Kontrola Dovedností
-Když chcete ovlivňovat svět hry při provádění něčeho náročného (přesvědčování [[z_Atomy/N/NPC\|NPC]], odhalení skrytého tvora, odemykání zámku atd.) [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požádat hrdinu o provedení **kontroly dovednosti**. 
+Když chtějí Hrdinové ovlivňovat svět hry při provádění něčeho náročného (přesvědčování [[z_Atomy/N/NPC\|NPC]], odhalení skryté bytosti, odemykání zámku atd.) [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požádat hrdinu o provedení **kontroly dovednosti**. 
 
 **Pro provedení ❓ hoďte 1k20 a přidejte bonus dané [[z_Atomy/0-9/⚙️\|⚙️]] k výsledku.** 
 Výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán pro **úspěch**. Když je hodnota menší jedná se o **neúspěch**. [[z_Atomy/0-9/📶\|📶]] určuje [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] v závislosti na tom, co se pokoušíte udělat.
@@ -473,7 +473,7 @@ Výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán 
 
 
 # ❗ = Záchranný hod
-Když svět hry ovlivňuje hrdiny, **pro provedení záchranného hodu hoďte 1k20 a přidejte modifikace**. 
+Když svět hry ovlivňuje Hrdiny, **pro provedení záchranného hodu hoďte 1k20 a přidejte modifikace**. 
 Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán hodem a modifikátory pro **úspěch**, jinak se jedná o **neúspěch**. Hod "*přirozené*" 20 vždy uspěje! Bytost si může záměrně neuspět.
 
 - ❗[[z_Atomy/0-9/💪\|💪]] 
@@ -510,7 +510,7 @@ Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Ato
 
 
 ### 📶 Hrdinských efektů
-[[z_Atomy/0-9/❗\|❗]] které způsobí hrdina mají [[z_Atomy/0-9/📶\|📶]]= **10+[[z_Atomy/0-9/🗝\|🗝]]**.
+[[z_Atomy/0-9/❗\|❗]] které způsobí hrdina mají [[z_Atomy/0-9/📶\|📶]]: **10+[[z_Atomy/0-9/🗝\|🗝]]**.
 
 </div></div>
 
@@ -535,12 +535,12 @@ Může být upravena schopnostmi [[2 Důležité/e1_Povolání\|Povolání]], [[
 
 # 💖 = Body výdrže
 
-Vaše **Body Výdrže** představují vaši schopnost přijímat poškození a jít dál. Při přijímání poškození se Vaše 💖 snižují. Když klesnete na **0** 💖, utržíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a začnete [[z_Atomy/0-9/🩸\|🩸]].
+Vaše **Body Výdrže** (💖) představují vaši schopnost ustát poškození. Při přijímání poškození se Vaše 💖 snižují. Když klesnou na **0** 💖, utržíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a začnete [[z_Atomy/0-9/🩸\|🩸]].
 
 Počáteční **Body Výdrže** určíte:
 - Max. hodnota [[z_Atomy/0-9/🟥\|🟥]] Vašeho [[2 Důležité/e1_Povolání\|Povolání]] plus hod **1** [[z_Atomy/0-9/🟥\|🟥]] s [[z_Atomy/0-9/👍\|👍]] 
 *nebo*
-- Použijete počáteční hodnotu 💖 Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
+- Použijete počáteční  💖 Vašeho [[2 Důležité/e1_Povolání\|Povolání]].
 
 </div></div>
 
@@ -551,11 +551,11 @@ Počáteční **Body Výdrže** určíte:
 
 
 # 💗 = Bariéra
-Některé schopnosti nebo efekty mohou poskytnout **Bariéru** (💗). Bariéra je snižována jako první při přijímání poškození, před vašimi [[z_Atomy/0-9/💖\|💖]]. 
+Některé schopnosti nebo efekty mohou poskytnout **Bariéru** (💗). Bariéra je snižována jako první při přijímání poškození, před Vašimi [[z_Atomy/0-9/💖\|💖]].
 
-**Bariéry se nesčítají**. Například pokud by hrdina se 7 **Bariér** získal 10 **Bariér**, musí si vybrat, jestli si nechá 7 **Bariér**, které má, nebo použije 10 **Bariér**, které získal. **Nemůže** sečíst 7+10! 
+**Bariéry se nesčítají**. Například pokud by Hrdina se 7💗  získal 10💗, musí si vybrat, jestli si nechá 7 💗, které má, nebo použije 10💗, které získal. **Nemůžete** sečíst 7+10! 
 
-**Bariéry** zmizí během [[z_Atomy/0-9/🔋\|🔋]].
+💗 zmizí na konci [[z_Atomy/0-9/🔋\|🔋]].
 
 </div></div>
 
@@ -566,11 +566,11 @@ Některé schopnosti nebo efekty mohou poskytnout **Bariéru** (💗). Bariéra 
 
 
 # 🩸 = Umírání
-Když Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, začnete **Umírat**. 
-Máte **1** [[z_Atomy/A/AKCE\|Akci]]/[[z_Atomy/K/Kolo\|Kolo]]. 
+Když Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, začnete **Umírat** (🩸). 
+Máte **1** [[z_Atomy/A/AKCE\|Akci]]/[[z_Atomy/K/Kolo\|Kolo]].
 Vaše [[z_Atomy/K/Koncentrace\|Koncentrace]] je přerušena a pokračování v boji vám může způsobit [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
-
-- Akce [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]]: Proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/📶\|📶]] **10**. Utrpíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] při neúspěchu.
+Když:
+- Provedete [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]]: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]:[[z_Atomy/0-9/📶\|📶]] **10**. Při neúspěchu utrpíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] .
 - Utržení jakéhokoli poškození způsobí **2** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], [[z_Atomy/0-9/💥\|💥]] způsobí **3** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
 </div></div>
@@ -582,11 +582,11 @@ Vaše [[z_Atomy/K/Koncentrace\|Koncentrace]] je přerušena a pokračování v b
 
 
 # ❤️‍🩹 = Zranění
-Vážná zranění která jste utrpěli během [[z_Atomy/0-9/🩸\|🩸]] jsou ukazatelem toho, jak blízko je hrdina [[z_Atomy/0-9/💀\|💀]]. Typicky můžete utržit maximálně 6 **Zranění**.
+Vážná **Zranění** (❤️‍🩹) která jste utrpěli během [[z_Atomy/0-9/🩸\|🩸]] jsou ukazatelem toho, jak blízko je hrdina [[z_Atomy/0-9/💀\|💀]]. Typicky můžete utržit maximálně 6 ❤️‍🩹.
 
-Za každé **Zranění** máte **(–1)** pro **všechny** hody mimo boj.
+Za každé ❤️‍🩹 máte **(–1)** pro **všechny** hody mimo boj.
 
-[[z_Atomy/0-9/💖\|💖]] se obvykle obnoví rychle a snadno, ale vyléčit **Zranění** může trvat mnoho dní odpočinku, aby se úplně uzdravila. (Obvykle 1 **Zranění** během [[z_Atomy/0-9/🔋\|🔋]]. [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může změnit.)
+[[z_Atomy/0-9/💖\|💖]] se obvykle obnoví rychle a snadno, ale vyléčit ❤️‍🩹 může trvat mnoho dní odpočinku, aby se úplně uzdravila. (Obvykle 1❤️‍🩹/[[z_Atomy/0-9/🔋\|🔋]]. [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může upravit.)
 
 </div></div>
 
@@ -597,10 +597,10 @@ Za každé **Zranění** máte **(–1)** pro **všechny** hody mimo boj.
 
 
 # 💀 = Smrt
-Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (obvykle 6). Můžou existovat způsoby, jak oživit hrdinu který zemřel, ale není to nic lehkého. Duši lze přivést zpět do světa živých jen párkrát, než se úplně odpoutá (nebo něco horšího). Mluvte s Vaším [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]].
+Hrdina **Zemře** (💀), když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (obvykle 6). Můžou existovat způsoby, jak oživit hrdinu který zemřel, ale není to nic lehkého. Duši lze přivést zpět do světa živých jen párkrát, než se úplně odpoutá (nebo něco horšího). Mluvte s Vaším [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]].
 
 > [!NOTE]- **Alternativní pravidla Smrti**
-> Pro náročnější nebo „old school“ styl hry snižte maximální počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], která hrdina může utržit. Můžeš nastavit maximum na 5 zranění pro lehce obtížnější hru, nebo až na 0 zranění pro velmi smrtící hru!
+> Pro náročnější nebo „old school“ styl hry snižte maximální počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], která hrdina může utržit. Můžete nastavit maximum na **5 zranění** pro lehce obtížnější hru, nebo až na **0 zranění** pro velmi smrtící hru!
 
 </div></div>
 
@@ -612,7 +612,7 @@ Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|�
 
 # 🟥 = Kostky Života 
 **Kostky života** představují , jak rychle dokáže hrdina rozdýchat menší zranění a vyčerpání.
-**Kostky života** se obvykle utrácejí během [[z_Atomy/0-9/🪫\|🪫]] k obnovení [[z_Atomy/0-9/💖\|💖]] (a mohou také pohánět vybrané speciální schopnosti).
+**Kostky života** se obvykle utrácejí během [[z_Atomy/0-9/🪫\|🪫]] k obnovení [[z_Atomy/0-9/💖\|💖]] (a mohou také pohánět vybrané speciální schopnosti). Velikost [[z_Atomy/0-9/🟥\|🟥]] se pohybuje od **k6** pro méně odolné třídy až po **k12** pro ty odolnější. Hrdinové začínají s **1 Kostkou života** na **1. [[z_Atomy/L/LVL\|LVL]]** a při každém postupu na **vyšší** [[z_Atomy/L/LVL\|LVL]] získávají jednu další.
 
 </div></div>
 
@@ -623,17 +623,19 @@ Hrdina **zemře**, když nashromáždí příliš [[z_Atomy/0-9/❤️‍🩹\|�
 
 
 # 💰 = Peníze 
-Měna se skládá z **měděných** ([[z_Atomy/0-9/🟠\|🟠]]), **stříbrných** ([[z_Atomy/0-9/⚪\|⚪]]) a **zlatých** ([[z_Atomy/0-9/🟡\|🟡]]) mincí. 
-1 zlatý = 10 stříbrných; 1 stříbrný = 10 měděných
-- Malý úkol v úvodní vesnici by mohl být odměněn 1–50 zl na Hrdinu ([[z_Atomy/L/LVL\|LVL]] 1–2). 
-- Úkol ve středně velkém městě by mohl být odměněn 50–500 zl na Hrdinu ([[z_Atomy/L/LVL\|LVL]] 2–4). 
-- Úkol ve velkém městě by mohl být odměněn 500–5,000 zl na Hrdinu ([[z_Atomy/L/LVL\|LVL]] 4–10). 
-- Úkol na úrovni celého KRÁLOVSTVÍ by mohl být odměněn 5,000–50,000+ zl na Hrdinu ([[z_Atomy/L/LVL\|LVL]] 10+).
+Hrdinové začínají na 1. [[z_Atomy/L/LVL\|LVL]] s vybavením uvedeným pro jejich [[2 Důležité/e1_Povolání\|Povolání]] a [[2 Důležité/e3_Původ\|Původu]] **NEBO** mohou hodit 2k4×10 [[z_Atomy/0-9/🟡\|🟡]] na nákup počátečního vybavení. Pokud začínají na vyšším [[z_Atomy/L/LVL\|LVL]], tuto částku vynásobí svým [[z_Atomy/L/LVL\|LVL]].
 
-Většina malých osídlení bude mít [[2 Důležité/h_Vybavení\|Vybavení]] a předměty v hodnotě **50** zl nebo méně. Pro nákup cennějšího [[2 Důležité/h_Vybavení\|Vybavení]] budete muset cestovat do větších měst, najít kočovného obchodníka nebo se vydat na dobrodružnou výpravu.
+> [!NOTE]- **Jak fungují peníze?**
+> Měna se skládá z **měděných** ([[z_Atomy/0-9/🟠\|🟠]]), **stříbrných** ([[z_Atomy/0-9/⚪\|⚪]]) a **zlatých** ([[z_Atomy/0-9/🟡\|🟡]]) mincí. 
+> 1 zlatý = 10 stříbrných; 1 stříbrný = 10 měděných
+> - Malý úkol v úvodní vesnici by mohl být odměněn 1–50 zl na Hrdinu ([[z_Atomy/L/LVL\|LVL]] 1–2). 
+> - Úkol ve středně velkém městě by mohl být odměněn 50–500 zl na Hrdinu ([[z_Atomy/L/LVL\|LVL]] 2–4). 
+> - Úkol ve velkém městě by mohl být odměněn 500–5,000 zl na Hrdinu ([[z_Atomy/L/LVL\|LVL]] 4–10). 
+> - Úkol na úrovni celého KRÁLOVSTVÍ by mohl být odměněn 5,000–50,000+ zl na Hrdinu ([[z_Atomy/L/LVL\|LVL]] 10+).
 
 > [!NOTE]- **Reálná hodnota** 
-> Hodnotu mědi, stříbra a zlata může být obtížné pochopit. Tyto informace mohou pomoci: 1 md je přibližně 1 $, 1 st je přibližně ekvivalentní 10 $, 1 zl je přibližně ekvivalentní 100 $. Vesnický dělník by mohl vydělat 1 md/den, nebo 3–4 zl/rok. Středně zručný pracovník by mohl vydělat 1 st/den, nebo 30–40 zl/rok. Dobře situovaný obchodník by mohl vydělat 1 zl/den, nebo 300–400 zl/rok.
+> Hodnotu mědi, stříbra a zlata může být obtížné pochopit. Tyto informace mohou pomoci: 
+> 1 [[z_Atomy/0-9/🟠\|🟠]] je přibližně 1 $, 1 [[z_Atomy/0-9/⚪\|⚪]] je přibližně ekvivalentní 10 $, 1 [[z_Atomy/0-9/🟡\|🟡]] je přibližně ekvivalentní 100 $. Vesnický dělník by mohl vydělat 1 [[z_Atomy/0-9/🟠\|🟠]]/den, nebo 3–4 [[z_Atomy/0-9/🟡\|🟡]]/rok. Středně zručný pracovník by mohl vydělat 1 [[z_Atomy/0-9/⚪\|⚪]]/den, nebo 30–40 [[z_Atomy/0-9/🟡\|🟡]]/rok. Dobře situovaný obchodník by mohl vydělat 1 [[z_Atomy/0-9/🟡\|🟡]]/den, nebo 300–400 [[z_Atomy/0-9/🟡\|🟡]]/rok.
 
 >[!NOTE]- **Ale můj Hrdina je bohatý šlechtic!** 
 >To je možné, ale váš Hrdina má zatím přístup pouze k omezenému množství zlata. Proč je Vaše bohatství momentálně nedostupné, je na Vás a Vašem [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]; odemčení Vašeho bohatství by mohlo být skvělým úkolem!

@@ -3,4 +3,4 @@
 ---
 
 ## Žhnoucí
-Pasivní stav. Tvor je ožehnutý plameny. Ovlivňuje některá ohnivá kouzla.
+*Pasivní stav.* Bytost je ožehnutá plameny. Ovlivňuje některá ohnivá kouzla.

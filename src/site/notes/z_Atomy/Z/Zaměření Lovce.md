@@ -16,7 +16,7 @@
 - **Zkušený navigátor**. Nemůžete se ztratit nemagickými prostředky.
 
 ### LVL 7
-- **Predátor**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Tento [[z_Atomy/T/Tah\|Tah]] Vaše útoky zbraněmi ignorují [[z_Atomy/K/Krytí\|Krytí]] a [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
+- **Predátor**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Tento [[z_Atomy/T/Tah\|Tah]] Vaše útoky zbraněmi ignorují [[z_Atomy/K/Kryt\|Kryt]] a [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
 
 ### LVL 11
 - **Lovec smeček**. Kdykoli označíte [[z_Atomy/K/Kořist\|Kořist]] schopností [[z_Atomy/L/Lovcova marka\|Lovcova marka]], můžete také označit další [[z_Atomy/K/Kořist\|Kořist]] do 6 metrů od původního cíle.
@@ -41,7 +41,7 @@
 
 ### LVL 7
 - **Zásobený Bylinkář**. Kdykoli provádíte [[z_Atomy/0-9/🔋\|🔋]] na místě, kde mohou růst rostliny nebo houby, můžete sbírat léčivé byliny pro výrobu ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]) [[z_Atomy/L/Léčivý lektvar\|Léčivých lektvarů]]  .
-- **Léčivá Mast**. [[z_Atomy/A/AKCE\|AKCE]]: Vylečte sobě nebo přilehlému stvoření (([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])k6) [[z_Atomy/0-9/💖\|💖]]. Tuto mast můžete aplikovat pouze vy nebo jiný zkušený bylinkář a mast zmizí za [[z_Atomy/0-9/🔋\|🔋]].
+- **Léčivá Mast**. [[z_Atomy/A/AKCE\|AKCE]]: Vylečte sobě nebo přilehlé bytosti [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]**k6** [[z_Atomy/0-9/💖\|💖]]. Tuto mast můžete aplikovat pouze Vy nebo jiný zkušený bylinkář a mast zmizí na konci [[z_Atomy/0-9/🔋\|🔋]].
 
 ### LVL 11
 - **Ha! Tady Jsem!** 1/[[z_Atomy/0-9/🔋\|🔋]]. Pokud by vám útok způsobil pokles na **0** [[z_Atomy/0-9/💖\|💖]], místo toho se přesunete až o polovinu své rychlosti a neobdržíte žádné poškození.

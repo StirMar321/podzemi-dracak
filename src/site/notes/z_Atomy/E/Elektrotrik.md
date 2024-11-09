@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/z-atomy/e/elektrotrik/"}
 ---
 
-## Elektrotrik  
-**STUPEŇ 4**  
-**2 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/R/REAKCE\|REAKCE]] - Nepřítel koná
-[[z_Atomy/0-9/🫱\|🫱]] 24m
+## Elektrotrik
+**STUPEŇ 4**
+**2 [[z_Atomy/A/AKCE\|AKCE]]**
+[[z_Atomy/R/REAKCE\|REAKCE]] - Nepřítel provádí [[z_Atomy/A/AKCE\|AKCI]]
+[[z_Atomy/0-9/🫱\|🫱]] 12m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
-Stojí 2 many a 1 akci, pokud máte [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/0-9/🩸\|Umíráte]]
+*Stojí 2 [[z_Atomy/0-9/🌀\|🌀]] a 1 [[z_Atomy/A/AKCE\|AKCI]], pokud máte [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/0-9/🩸\|🩸]]*
 
-Prohoďte místo jednoho ochotného cíle a jiného cíle v dosahu. Neochotný cíl musí uspět na [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]], aby odolal kouzlu. Pokud byl jeden z nich cílem útoku/efektu, druhý se stává novým cílem. 
+Prohoďte místa jednoho ochotného cíle a jiného cíle v dosahu. Pokud byl jeden z nich cílem útoku/kouzla, druhý se stává novým cílem. Aby neochotný cíl odolal kouzlu, musí uspět [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].  
 
-**Posílení:** +1 [[z_Atomy/0-9/📶\|📶]] kouzla za každou dodatečně utracenou manu.
+**Posílení:** +1 [[z_Atomy/0-9/📶\|📶]] za každou další [[z_Atomy/0-9/🌀\|🌀]].

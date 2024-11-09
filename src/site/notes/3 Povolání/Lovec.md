@@ -55,7 +55,7 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Let's finish this!**. Pokud nemáte **žádné** nabití Lovecké horečky, považujte všechny své útoky na blízko, jako by byly proti Vaší [[z_Atomy/K/Kořist\|Kořisti]].
 ## LVL 3
 - **Zaměření Lovce**. Vyberte si **podtřídu** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
-- **Stopařův instinkt**. Když zkoumáte stopy, můžete si přesně představit co a jak se kde odehrálo. Určíte **velikost**, **druh** a **množství** tvorů, **směr**, kterým se vydali, **klíčové** momenty a **čas**, kdy se odehráli.
+- **Stopařův instinkt**. Když zkoumáte stopy, můžete si přesně představit co a jak se kde odehrálo. Určíte **velikost**, **druh** a **množství** bytostí, **směr**, kterým se vydali, **klíčové** momenty a **čas**, kdy se odehráli.
 ## LVL 4
 - **Lovecká horečka (2)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]]. Kdykoli strávíte [[z_Atomy/0-9/🔋\|🔋]] v divočině, můžete vyměnit jednu schopnost kterou znáte, za jinou.
 - **Průzkumník Divočiny**. +2 metry k Vaší [[z_Atomy/0-9/🏃\|🏃]]. Získáte schopnost **šplhat**.
@@ -121,7 +121,7 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 Každá schopnost stojí **1[[z_Atomy/0-9/❇️\|❇️]]** a při jejich použití **nelze minout** při hodu 1. 
 Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová nabití. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
-- **Déšť šípů**. 1[[z_Atomy/0-9/❇️\|❇️]], 2 [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na všechny tvory v [[z_Atomy/O/Oblast\|oblasti]] 3x3 metry. Tvorové v oblasti mají poloviční rychlost pohybu do konce jejich příštího tahu.
+- **Déšť šípů**. 1[[z_Atomy/0-9/❇️\|❇️]], 2 [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na všechny bytosti v [[z_Atomy/O/Oblast\|oblasti]] 3x3 metry. Bytosti v oblasti mají poloviční [[z_Atomy/0-9/🏃\|🏃]] do konce jejich příštího [[z_Atomy/T/Tah\|Tahu]].
 ⠀
 - **Dvojitý Výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na vaši [[z_Atomy/K/Kořist\|Kořist]] a založíte další šíp. Zasáhnete další cíl do 2 metrů od Vaší [[z_Atomy/K/Kořist\|kořisti]].
 ⠀
@@ -143,7 +143,7 @@ Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová n
 ⠀
 - **Připínáček**. 1[[z_Atomy/0-9/❇️\|❇️]], 3 [[z_Atomy/A/AKCE\|AKCE]]. Vystřelte na svojí [[z_Atomy/K/Kořist\|Kořist]]. Cíl je [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] dokud neupěje v [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/📶\|📶]]10 +[[z_Atomy/0-9/🗝\|🗝]]).
 ⠀
-- **Rázný výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Odstrčíte cíl: 3 metry malé stvoření, 2 metry střední stvoření, 1 metr velké stvoření.
+- **Rázný výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Odstrčíte cíl: 3 metry malé bytosti, 2 metry střední bytosti, 1 metr velké bytosti.
 ⠀
 - **Mastná Past**. 1[[z_Atomy/0-9/❇️\|❇️]], 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (když se nepřítel pohne do Vaší těsné blízkosti nebo spojence do 6 metrů): Cíl je [[z_Atomy/S/Sražen\|Sražen]] na zem, je zranitelný vůči ohnivému poškození a má stav (jako) [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
 ⠀
@@ -171,7 +171,7 @@ Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová n
 - **Zkušený navigátor**. Nemůžete se ztratit nemagickými prostředky.
 
 ### LVL 7
-- **Predátor**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Tento [[z_Atomy/T/Tah\|Tah]] Vaše útoky zbraněmi ignorují [[z_Atomy/K/Krytí\|Krytí]] a [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
+- **Predátor**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Tento [[z_Atomy/T/Tah\|Tah]] Vaše útoky zbraněmi ignorují [[z_Atomy/K/Kryt\|Kryt]] a [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
 
 ### LVL 11
 - **Lovec smeček**. Kdykoli označíte [[z_Atomy/K/Kořist\|Kořist]] schopností [[z_Atomy/L/Lovcova marka\|Lovcova marka]], můžete také označit další [[z_Atomy/K/Kořist\|Kořist]] do 6 metrů od původního cíle.
@@ -196,7 +196,7 @@ Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová n
 
 ### LVL 7
 - **Zásobený Bylinkář**. Kdykoli provádíte [[z_Atomy/0-9/🔋\|🔋]] na místě, kde mohou růst rostliny nebo houby, můžete sbírat léčivé byliny pro výrobu ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]) [[z_Atomy/L/Léčivý lektvar\|Léčivých lektvarů]]  .
-- **Léčivá Mast**. [[z_Atomy/A/AKCE\|AKCE]]: Vylečte sobě nebo přilehlému stvoření (([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])k6) [[z_Atomy/0-9/💖\|💖]]. Tuto mast můžete aplikovat pouze vy nebo jiný zkušený bylinkář a mast zmizí za [[z_Atomy/0-9/🔋\|🔋]].
+- **Léčivá Mast**. [[z_Atomy/A/AKCE\|AKCE]]: Vylečte sobě nebo přilehlé bytosti [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]**k6** [[z_Atomy/0-9/💖\|💖]]. Tuto mast můžete aplikovat pouze Vy nebo jiný zkušený bylinkář a mast zmizí na konci [[z_Atomy/0-9/🔋\|🔋]].
 
 ### LVL 11
 - **Ha! Tady Jsem!** 1/[[z_Atomy/0-9/🔋\|🔋]]. Pokud by vám útok způsobil pokles na **0** [[z_Atomy/0-9/💖\|💖]], místo toho se přesunete až o polovinu své rychlosti a neobdržíte žádné poškození.

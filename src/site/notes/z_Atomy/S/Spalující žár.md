@@ -5,11 +5,10 @@
 ## Spalující žár
 **STUPEŇ 5**
 **2 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/🫱\|🫱]] 12m
-[[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta.
+[[z_Atomy/0-9/🫱\|🫱]] 8m
+[[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta
 
-Tvorové v dosahu získají stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]]
+Zasažené bytosti získají stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
+Zasažené bytosti mají své [[z_Atomy/O/Odolnost\|Odolnosti]] zrušeny a své [[z_Atomy/I/Imunita\|Imunity]] sníženy na [[z_Atomy/O/Odolnost\|Odolnosti]].
 
-Zasažení tvorové mají každou [[z_Atomy/O/Odolnost\|Odolnost]] zrušenu a každou Imunitu sníženu na [[z_Atomy/O/Odolnost\|Odolnost]]
-
-**Posílení**: +6 metrů k dosahu za každou další utracenou manu.
+**Posílení**: +4 metry k [[z_Atomy/0-9/🫱\|🫱]] za každou další [[z_Atomy/0-9/🌀\|🌀]].

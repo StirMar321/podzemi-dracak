@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/z-atomy/t/tahy-a-kola/"}
 ---
 
-# Tahy a Kola
+### Tahy a Kola
 **[[z_Atomy/T/Tah\|Tah]]** hráče nebo [[z_Atomy/N/NPC\|NPC]] zabere cca 6 vteřin ve světě hry.
 **[[z_Atomy/K/Kolo\|Kolo]]** obsahuje všechny tahy hráčů a nepřátel.
 **[[z_Atomy/S/Střetnutí\|Střetnutí]]** zahrnuje všechny kola souboje.

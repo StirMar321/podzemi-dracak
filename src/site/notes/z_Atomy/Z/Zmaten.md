@@ -3,4 +3,4 @@
 ---
 
 ## Zmaten
-Každý váš tah ztratíte 1 Akci.
+Každý váš [[z_Atomy/T/Tah\|Tah]] ztratíte **1** [[z_Atomy/A/AKCE\|AKCI]].

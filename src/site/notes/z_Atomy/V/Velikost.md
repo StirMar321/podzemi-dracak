@@ -3,10 +3,10 @@
 ---
 
 # Velikost
-Některé kouzla a schopnosti ovlivňují různě velké tvory. Zde jsou přibližná znázornění **velikostí**:
-- **Drobný** tvor se vejde do kapsy. (Výrazně méně než 1x1 metr.)
-- **Malý** tvor se vejde do batohu. (Méně než 1x1 metr.)
-- **Střední** tvor má velikost člověka. (Akorát se vejde na 1x1 metr.)
-- **Velký** tvor má velikost medvěda. (2x2 metry.)
-- **Obří** tvor má velikosti domu. (3x3 metry.)
-- **Gigantický** tvor má velikost městské čtvrti. (Více něž 4x4 metry.)
+Některé kouzla a schopnosti ovlivňují různě velké bytosti. Zde jsou přibližná znázornění **velikostí**:
+- **Drobná** bytost se vejde do kapsy. (Výrazně méně než 1x1 metr.)
+- **Malá** bytost se vejde do batohu. (Méně než 1x1 metr.)
+- **Střední** bytost má velikost člověka. (Akorát se vejde na 1x1 metr.)
+- **Velká** bytost má velikost medvěda. (2x2 metry.)
+- **Obří** bytost má velikosti domu. (3x3 metry.)
+- **Gigantická** bytost má velikost městské čtvrti. (Více něž 4x4 metry.)

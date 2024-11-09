@@ -138,7 +138,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 > [!NOTE]+ **Kostky Války**
 > Kdykoli házíte [[z_Atomy/0-9/🏁\|🏁]], získáte **[[z_Atomy/0-9/♐\|♐]]** rovné Vaší ([[z_Atomy/0-9/📖\|📖]]) (min. 1). Jejich základní velikost je **k6**. Jednou během [[z_Atomy/0-9/⚔️\|Útoku]] můžete utratit jednu **Válečnou Kostku** pro provedení **Válečné taktiky**.
 
-- **Silný úder**. **1** [[z_Atomy/0-9/♐\|♐]]. Když Váš [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, odstrčíte **Středního** tvora o [[z_Atomy/0-9/💪\|💪]] metrů a udělíte dodatečné poškození rovné hodnotě hodu **[[z_Atomy/0-9/♐\|♐]]**. **Malý** tvor je odtlačen dvakrát tak daleko; **Velký** je odtlačen o polovinu (zaokrouhleno dolů). (viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])
+- **Silný úder**. **1** [[z_Atomy/0-9/♐\|♐]]. Když Váš [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, odstrčíte **Střední** bytost o [[z_Atomy/0-9/💪\|💪]] metrů a udělíte dodatečné poškození rovné hodnotě hodu **[[z_Atomy/0-9/♐\|♐]]**. **Malá** bytost je odstrčena dvakrát tak daleko; **Velká** jen o polovinu (zaokrouhleno dolů). (viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])
 ⠀
 - **Neomylný úder**. **1** [[z_Atomy/0-9/♐\|♐]]. Když mine Váš [[z_Atomy/0-9/⚔️\|⚔️]], utraťte **1** [[z_Atomy/0-9/♐\|♐]] a zaútočte znovu na stejný cíl. Způsobte dodatečné poškození rovné vaší **[[z_Atomy/0-9/♐\|♐]]**. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
 ⠀
@@ -189,7 +189,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Obrněnec**. Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]], způsobíte navíc poškození rovné Vašemu [[z_Atomy/B/Brnění\|Brnění]] a neminete při hodu 1.
 
 ### LVL 11
-- **Provokující Úder**. 1/[[z_Atomy/K/Kolo\|Kolo]] Můžete způsobit stav [[z_Atomy/P/Provokován\|Provokován]] jednomu tvoru, kterého zasáhnete, do konce jeho příštího tahu.
+- **Provokující Úder**. 1/[[z_Atomy/K/Kolo\|Kolo]] Můžete způsobit stav [[z_Atomy/P/Provokován\|Provokován]] jedné bytosti, kterou zasáhnete, do konce jeho příštího [[z_Atomy/T/Tah\|Tahu]].
 
 ### LVL 15
 - **Štítová Zeď**. Spojenci do 2 metrů od Vás získají všechny bonusy Vašeho štítu, který máte v ruce.

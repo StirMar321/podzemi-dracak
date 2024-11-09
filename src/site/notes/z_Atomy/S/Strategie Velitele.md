@@ -18,7 +18,7 @@
 - **Obrněnec**. Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]], způsobíte navíc poškození rovné Vašemu [[z_Atomy/B/Brnění\|Brnění]] a neminete při hodu 1.
 
 ### LVL 11
-- **Provokující Úder**. 1/[[z_Atomy/K/Kolo\|Kolo]] Můžete způsobit stav [[z_Atomy/P/Provokován\|Provokován]] jednomu tvoru, kterého zasáhnete, do konce jeho příštího tahu.
+- **Provokující Úder**. 1/[[z_Atomy/K/Kolo\|Kolo]] Můžete způsobit stav [[z_Atomy/P/Provokován\|Provokován]] jedné bytosti, kterou zasáhnete, do konce jeho příštího [[z_Atomy/T/Tah\|Tahu]].
 
 ### LVL 15
 - **Štítová Zeď**. Spojenci do 2 metrů od Vás získají všechny bonusy Vašeho štítu, který máte v ruce.

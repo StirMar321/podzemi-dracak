@@ -5,4 +5,6 @@
 ## Zážeh
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 
-**Vytvořte** jednoduchou vizuální iluzi, **zahřejte** nebo **zapalte** malý, nedržený předmět vzdálený do 6 metrů.
+**Vytvořte** jednoduchou vizuální iluzi 
+*nebo*
+**zahřejte** nebo **zapalte** malý, nedržený předmět vzdálený do 6 metrů.

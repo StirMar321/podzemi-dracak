@@ -43,8 +43,8 @@ Max Nabití = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|�
 [[z_Atomy/0-9/🫱\|🫱]] 6 metrů
 
 Vyberte jednu možnost:
-- Obnovte ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]k8) [[z_Atomy/0-9/💖\|💖]] [[z_Atomy/0-9/🩸\|Umírajícímu]] tvorovi v dosahu.
-- Udělte ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]k8) nekrotického poškození [[z_Atomy/Z/Zkrvaven\|Zkrvavenému]] nepříteli v dosahu.
+- Obnovte [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]**k8** [[z_Atomy/0-9/💖\|💖]] bytosti, která [[z_Atomy/0-9/🩸\|🩸]].
+- Udělte [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]**k8** nekrotického poškození [[z_Atomy/Z/Zkrvaven\|Zkrvavenému]] nepříteli.
 
 </div></div>
 
@@ -61,12 +61,12 @@ Vyberte jednu možnost:
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 
 Přivolejte duchovního společníka, který Vás věrně následuje. Má [[z_Atomy/I/Imunita\|Imunitu]] vůči všemu poškození a škodlivým efektům. 
-Trvá, dokud: toto kouzlo nevyvoláte znovu, [[z_Atomy/0-9/🔋\|🔋]], nebo dokud nevyléčí tolikrát, kolik bylo utraceno many při jeho přivolání.
+Trvá, dokud: toto kouzlo nevyvoláte znovu,[[z_Atomy/0-9/🔋\|🔋]], nebo dokud nevyléčí tolikrát, kolik bylo utraceno many při jeho přivolání.
 
-**Posílení**: Větší kostka (1k6 » 1k8 » 1k10 » 1k12)(k12 je max) za každou další utracenou manu.
+**Posílení**: Větší kostka (k12 je max) za každou další [[z_Atomy/0-9/🌀\|🌀]]. *(1k6 » 1k8 » 1k10 » 1k12)*
 
 >[!NOTE]- **Vzhled je na Vás**
->Váš Duchovní strážce může mít podobu jakéhokoli malého přátelského zvířete nebo podobného tvora (pes, jehně, králík, vrabec atd.). Nezapomeňte dát svému kamarádovi také jméno!
+>Váš Duchovní strážce může mít podobu jakéhokoli malého přátelského zvířete nebo podobného tvora (pes, jehně, králík, vrabec atd.). Nezapomeňte dát svému kamarádovi také jméno! *Expecto Patronum!*
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/duchovni-strazce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -79,7 +79,7 @@ Trvá, dokud: toto kouzlo nevyvoláte znovu, [[z_Atomy/0-9/🔋\|🔋]], nebo do
 X = Cena seslání
 [[z_Atomy/0-9/🫱\|🫱]] 4m
 
-1 [[z_Atomy/A/AKCE\|AKCE]] + 1 Nabití: Cíl v dosahu obnoví **(1k6+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/💖\|💖]]
+1 [[z_Atomy/A/AKCE\|AKCE]] + 1 Nabití: Cíl v dosahu obnoví **(1k6+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/💖\|💖]].
 
 1 [[z_Atomy/A/AKCE\|AKCE]]: Cíl v dosahu utrží **(1k6+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** zářivého poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
 
@@ -158,17 +158,17 @@ X = Cena seslání
 ⠀
 - **Rychlý posel**: Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] se může pohybovat až 8 metrů od Vás. Může se také okamžitě pohybovat a použít [[z_Atomy/A/AKCE\|AKCE]] zdarma, kdykoli je vyvolán.
 ⠀
-- **Duch apokalypsy**. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] se promění ve vír zářivého světla. Na konci Vašeho tahu způsobí zářivé poškození všem nepřátelům do 3 metrů, ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]] a [[z_Atomy/K/Krytí\|Krytí]]. Efekt trvá počet kol rovný maně utracené na vyvolání Duchovního strážce. Tento efekt skončí dříve, pokud znovu vyvoláte svého ducha. Na konci Váš duchovní strážce zmizí.
+- **Duch apokalypsy**. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] se promění ve vír zářivého světla. Na konci Vašeho tahu způsobí zářivé poškození všem nepřátelům do 3 metrů, ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]] a [[z_Atomy/K/Kryt\|Kryt]]. Efekt trvá počet kol rovný maně utracené na vyvolání Duchovního strážce. Tento efekt skončí dříve, pokud znovu vyvoláte svého ducha. Na konci Váš duchovní strážce zmizí.
 ⠀
-- **Strážný duch**. Když váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] hodí 6+ na kostce, cíl začne zářit svatým světlem. Příští útok je proti nim prováděn s Vaší volbou [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
+- **Strážný duch**. Když váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] hodí 6+ na kostce, cíl začne zářit svatým světlem. Příští [[z_Atomy/0-9/⚔️\|⚔️]] proti ní má dle Vaší volby [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
 ⠀
 - **Světlonoš**. Obnovte 1 použití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]], kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
 - **Pomoz mi, můj příteli**. Kdykoli provedete svůj první útok na blízko každé [[z_Atomy/K/Kolo\|Kolo]], můžete k útoku přidat poškození Vašeho [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]].
 ⠀
-- **Neopouštěj mě!**. Své léčení můžete cílit na tvory, kteří jsou mrtví méně než 1 kolo. Každých 10 [[z_Atomy/0-9/💖\|💖]], které takto vyléčíte, také zahojí 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
+- **Neopouštěj mě!**. Své léčení můžete cílit na bytosti, které jsou mrtvé méně než 1 [[z_Atomy/K/Kolo\|Kolo]]. Každých 10[[z_Atomy/0-9/💖\|💖]], které obnovíte, také vyléčí 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 ⠀
-- **Světlo soudu**. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Tvor do 6 metrů začne zářit světlem po dobu 1 kola a útoky proti nim jsou prováděny s Vaší volbou [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
+- **Světlo soudu**. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Bytost do 6 metrů začne zářit světlem po dobu 1 [[z_Atomy/K/Kolo\|Kola]] a [[z_Atomy/0-9/⚔️\|⚔️]] proti ní mají dle Vaší volby [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
 
 </div></div>
 
@@ -187,8 +187,8 @@ X = Cena seslání
 
 ## Vyznání života
 ### LVL 3
-- **Milosrdné léčení**. Když váš efekt obnoví [[z_Atomy/0-9/💖\|💖]] [[z_Atomy/0-9/🩸\|Umírajícímu]] tvoru, vyléčí ho za dvojnásobek. Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] může jednat 1/[[z_Atomy/K/Kolo\|Kolo]] zdarma, zatímco vy [[z_Atomy/0-9/🩸\|Umíráte]].
-- **Svět je krásný**. Neškodní a krásní tvorové, jako motýli a kolibříci, jsou přitahováni vaší přítomností a často Vás následují. Květiny kvetou ve vaší přítomnosti.
+- **Milosrdné léčení**. Když váš efekt obnoví [[z_Atomy/0-9/💖\|💖]]  bytosti, která [[z_Atomy/0-9/🩸\|🩸]], vyléčí ji za dvojnásobek. Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] může jednat 1/[[z_Atomy/K/Kolo\|Kolo]] zdarma, zatímco Vy [[z_Atomy/0-9/🩸\|🩸]].
+- **Svět je krásný**. Neškodné a krásné bytosti, jako motýli a kolibříci, jsou k Vám přitahováni a často Vás následují. Květiny kvetou ve vaší přítomnosti.
 
 ### LVL 7
 - **Světlovodič**. Když váš efekt obnoví [[z_Atomy/0-9/💖\|💖]], můžete použít 1 nabití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]], abyste stejnou měrou léčili nebo poškodili **další cíl** do 6 metrů od Vás. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
@@ -217,7 +217,7 @@ X = Cena seslání
 
 ### LVL 11
 - **Dotek posla smrti**. 
-	- Váš první [[z_Atomy/0-9/⚔️\|⚔️]] na blízko v [[z_Atomy/T/Tah\|tahu]] proti [[z_Atomy/Z/Zkrvaven\|Zkrvavenému]] tvorovi je automaticky [[z_Atomy/0-9/💥\|💥]]. 
+	- Váš první [[z_Atomy/0-9/⚔️\|⚔️]] na blízko ve Vašem [[z_Atomy/T/Tah\|Tahu]] proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] bytosti je automatický [[z_Atomy/0-9/💥\|💥]]. 
 	- Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] uděluje [[z_Atomy/0-9/💪\|💪]] poškození navíc.
 
 ### LVL 15

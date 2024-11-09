@@ -91,7 +91,7 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 Pokud chcete **více informací** nebo [[z_Atomy/0-9/👍\|👍]] v boji, hrdina může použít **Posouzení** k provedení [[z_Atomy/0-9/❓\|❓]] pro odhalení informací, objevil slabinu nebo zranitelnost, pochopil taktiku a plány nepřátel apod. Skvělý způsob, jak začlenit příběhové momenty do [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
 >[!NOTE]- **Přemýšlejte kreativně**
->Někteří tvorové jsou příliš odolní, abyste je mohli udolat tupou silou. Využijte veškeré prostředky, které máte k dispozici!
+>Některé bytosti jsou příliš odolné, abyste je mohli udolat tupou silou. Využijte veškeré prostředky, které máte k dispozici!
 
 > [!NOTE]- **Příklady**
 >Použiju 🔍 na ohnivého salamandra: Proveď [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]] [[z_Atomy/0-9/📶\|📶]] **18** pro odhalení jeho slabin.
@@ -118,8 +118,8 @@ Hráč může použít akci k **Pohybu** do vzdálenosti své [[z_Atomy/0-9/🏃
 
 
 >[!NOTE]+ **Pády a Nucený pohyb**
->Když se postava **Nedobrovolně** pohne efekty mimo její kontrolu. Pokud je tento pohyb zastaven  prostředím, postava utrží **1k6** drtivého poškození za každý metr, o který byl pohyb zkrácen. Pokud **narazí** na jiného tvora, utrží poškození **oba**.
->**Padání** způsobí **1k6** drtivého poškození za každé 2 metry pádu.
+>Když se bytost **Nedobrovolně** pohne efekty mimo její kontrolu. Pokud je tento pohyb zastaven  prostředím, postava utrží **1k6** drtivého poškození za každý metr, o který byl pohyb zkrácen. Pokud **narazí** na jinou bytost, utrží poškození **obě**.
+>**Padání** způsobí **1k6** drtivého poškození za každé **2 metry** pádu.
 
 
 </div></div>
@@ -162,7 +162,7 @@ Když použijete tuto reakci, **snižte poškození** jakéhokoli **jednoho** ú
 
 
 ## 🔰 = Chránění (někoho)
-Pokud by tvora ve vzdálenosti **2 metrů** zasáhl [[z_Atomy/0-9/⚔️\|⚔️]], můžete ho odsunout z cesty a staňte se novým cílem útoku. Vyměníte si místo. (Pokud si nejste jistí, poraďte se s [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]])
+Pokud by bytost ve vzdálenosti **2 metrů** zasáhl [[z_Atomy/0-9/⚔️\|⚔️]], můžete ji odsunout z cesty a staňte se novým cílem útoku. Vyměníte si místo. (Pokud si nejste jistí, poraďte se s [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]])
 
 >[!NOTE]- **Lze použít [[z_Atomy/0-9/🛡️\|🛡️]] a [[z_Atomy/0-9/🔰\|🔰]] současně?** 
 >Ano! Pokud máte dostatek akcí k utracení. Nebudete však schopni toto provést znovu až do konce Vašeho příštího tahu, protože každá z těchto akcí má omezení pouze 1 za [[z_Atomy/K/Kolo\|Kolo]].
@@ -330,7 +330,7 @@ Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🏁\|🏁]] s [[z_Atom
 
 
 
-# Tahy a Kola
+### Tahy a Kola
 **[[z_Atomy/T/Tah\|Tah]]** hráče nebo [[z_Atomy/N/NPC\|NPC]] zabere cca 6 vteřin ve světě hry.
 **[[z_Atomy/K/Kolo\|Kolo]]** obsahuje všechny tahy hráčů a nepřátel.
 **[[z_Atomy/S/Střetnutí\|Střetnutí]]** zahrnuje všechny kola souboje.

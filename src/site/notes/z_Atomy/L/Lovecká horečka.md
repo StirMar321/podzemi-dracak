@@ -9,7 +9,7 @@
 Každá schopnost stojí **1[[z_Atomy/0-9/❇️\|❇️]]** a při jejich použití **nelze minout** při hodu 1. 
 Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová nabití. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
-- **Déšť šípů**. 1[[z_Atomy/0-9/❇️\|❇️]], 2 [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na všechny tvory v [[z_Atomy/O/Oblast\|oblasti]] 3x3 metry. Tvorové v oblasti mají poloviční rychlost pohybu do konce jejich příštího tahu.
+- **Déšť šípů**. 1[[z_Atomy/0-9/❇️\|❇️]], 2 [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na všechny bytosti v [[z_Atomy/O/Oblast\|oblasti]] 3x3 metry. Bytosti v oblasti mají poloviční [[z_Atomy/0-9/🏃\|🏃]] do konce jejich příštího [[z_Atomy/T/Tah\|Tahu]].
 ⠀
 - **Dvojitý Výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na vaši [[z_Atomy/K/Kořist\|Kořist]] a založíte další šíp. Zasáhnete další cíl do 2 metrů od Vaší [[z_Atomy/K/Kořist\|kořisti]].
 ⠀
@@ -31,7 +31,7 @@ Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová n
 ⠀
 - **Připínáček**. 1[[z_Atomy/0-9/❇️\|❇️]], 3 [[z_Atomy/A/AKCE\|AKCE]]. Vystřelte na svojí [[z_Atomy/K/Kořist\|Kořist]]. Cíl je [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] dokud neupěje v [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/📶\|📶]]10 +[[z_Atomy/0-9/🗝\|🗝]]).
 ⠀
-- **Rázný výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Odstrčíte cíl: 3 metry malé stvoření, 2 metry střední stvoření, 1 metr velké stvoření.
+- **Rázný výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Odstrčíte cíl: 3 metry malé bytosti, 2 metry střední bytosti, 1 metr velké bytosti.
 ⠀
 - **Mastná Past**. 1[[z_Atomy/0-9/❇️\|❇️]], 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (když se nepřítel pohne do Vaší těsné blízkosti nebo spojence do 6 metrů): Cíl je [[z_Atomy/S/Sražen\|Sražen]] na zem, je zranitelný vůči ohnivému poškození a má stav (jako) [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
 ⠀

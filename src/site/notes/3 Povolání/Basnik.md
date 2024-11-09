@@ -41,10 +41,9 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
 
-Cíl v dosahu utrží **(1k4+[[z_Atomy/0-9/📖\|📖]])** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
-Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
+Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
 
-**Vyšší úrovně**: **+3 poškození** každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
+**Vyšší úrovně**: +**2** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
 </div></div>
 
@@ -56,11 +55,10 @@ Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
 
 ## Básníkova Inspirace  
 **VOLNÁ [[z_Atomy/R/REAKCE\|REAKCE]]**
-Max Nabití = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
-[[z_Atomy/R/REAKCE\|REAKCE]] (když spojenec hodí kostku)
-[[z_Atomy/0-9/🫱\|🫱]] 12m
+Max. Nabití = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
+[[z_Atomy/R/REAKCE\|REAKCE]]: spojenec hodí kostku
 
-Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z výsledků.
+Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z výsledků.
 
 </div></div>
 
@@ -175,7 +173,7 @@ Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště
 
 ### Dupákovo Dupání
 **1 AKCE**
-[[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]][[z_Atomy/0-9/📶\|📶]] **10**, při úspěchu se [[z_Atomy/D/Dupák\|Dupák]] rozběhne až o 6 metrů směrem, který určíte, a způsobí **([[z_Atomy/L/LVL\|LVL]]+[[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]]) drtivého poškození** všemu, co mu stojí v cestě. JAKÉKOLI stvoření do 6 metrů může použít tuto schopnost místo útoku. Při neúspěchu [[z_Atomy/D/Dupák\|Dupák]] dupne směrem k tomu, kdo mu rozkazoval. 
+[[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]][[z_Atomy/0-9/📶\|📶]] **10**, při úspěchu se [[z_Atomy/D/Dupák\|Dupák]] rozběhne až o 6 metrů směrem, který určíte, a způsobí **([[z_Atomy/L/LVL\|LVL]]+[[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]]) drtivého poškození** všemu, co mu stojí v cestě. JAKÁKOLI bytost do 6 metrů může použít tuto schopnost místo útoku. Při neúspěchu [[z_Atomy/D/Dupák\|Dupák]] dupne směrem k tomu, kdo mu rozkazoval. 
 
 > [!NOTE] **„TY NEJSEŠ KAMARÁD!“**
 
@@ -249,7 +247,7 @@ Přivolejte legendární létající (ale přátelské) stvoření, které Vás 
 ### LVL 7
 - **Pobuřovač**. 1/[[z_Atomy/T/Tah\|Tah]]. Když je nepřítel poškozen vaším trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], může ho váš spojenec provokovat a způsobit tomuto nepříteli stav [[z_Atomy/P/Provokován\|Provokován]], až do konce tahu nepřítele.
 ### LVL 11
-- **Akord chaosu**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **Akce**. Můžete přesunout VŠECHNY tvory, kteří slyší vaši píseň, až o 3 metry, pokud se nepohnou do zjevně nebezpečného místa.
+- **Akord chaosu**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **Akce**. Můžete přesunout VŠECHNY bytosti, které slyší Vaši píseň, až o 3 metry, pokud se nepohnou do zjevně nebezpečného místa.
 ### LVL 15
 - **Slova jako dýky**. Poškození způsobené Trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] se zvyšuje na (**1k6+INT+CHA**) psychického poškození.
 

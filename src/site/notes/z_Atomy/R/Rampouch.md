@@ -5,9 +5,8 @@
 ## Rampouch
 **STUPEŇ 1**
 **2 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/🏹\|🏹]] 18 metrů
+[[z_Atomy/0-9/🏹\|🏹]] 12 metrů
 
-Cíl v dostřelu utrží **3k6** ledového poškození. [[z_Atomy/0-9/💥\|💥]] způsobí proti středním a menším cílům stav [[z_Atomy/S/Sražen\|Sražen]].
-[[z_Atomy/0-9/👍\|👍]] když je cíl [[z_Atomy/Z/Zpomalen\|Zpomalen]].
+Cíl utrží **3k6** ledového poškození. [[z_Atomy/0-9/💥\|💥]] [[z_Atomy/S/Sražen\|Srazí]] **střední** a menší cíle. (viz [[z_Atomy/V/Velikost\|Velikost]]) a má [[z_Atomy/0-9/👍\|👍]] proti stavu [[z_Atomy/Z/Zpomalen\|Zpomalen]].
 
-**Posílení**: [[z_Atomy/S/Sražen\|Sražen]] pro větší cíle a **+1k6** poškození za každou další utracenou manu
+**Posílení**: [[z_Atomy/S/Sražen\|Srazí]] o 1 velikost větší cíle a **+1k6** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].

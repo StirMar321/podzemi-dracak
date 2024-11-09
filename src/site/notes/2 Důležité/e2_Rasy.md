@@ -184,7 +184,7 @@
 
 ## Lasík
 
-| ![lasik.png](/img/user/z_img/lasik.png) | **Lasíci** mohou být malí, ale rozhodně nejsou slabí. S neuvěřitelnou odhodlaností a srdcem válečníka dokáží porazit nepřátele mnohokrát větší než oni sami. Jejich hbitost a neúprosnost jim umožňuje využívat slabiny větších nepřátel a proměňovat svou velikost ve smrtící výhodu.<br><br>**Malí, ale šikovní**: Kdykoli provedete [[z_Atomy/0-9/⚔️\|⚔️]] na 1 cíl proti většímu tvorovi, hodíte navíc +1k6 za každou [[z_Atomy/V/Velikost\|Velikost]], o kterou se lišíte. Stejně tak ale učiní tvorové při útoku proti vám.<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Elfština<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Malý |
+| ![lasik.png](/img/user/z_img/lasik.png) | **Lasíci** mohou být malí, ale rozhodně nejsou slabí. S neuvěřitelnou odhodlaností a srdcem válečníka dokáží porazit nepřátele mnohokrát větší než oni sami. Jejich hbitost a neúprosnost jim umožňuje využívat slabiny větších nepřátel a proměňovat svou velikost ve smrtící výhodu.<br><br>**Malí, ale šikovní**: Kdykoli provedete [[z_Atomy/0-9/⚔️\|⚔️]] na 1 cíl proti většímu bytosti, hodíte navíc +1k6 za každou [[z_Atomy/V/Velikost\|Velikost]], o kterou se lišíte. Stejně tak ale učiní bytosti při útoku proti vám.<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Elfština<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Malý |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
@@ -282,8 +282,8 @@
 
 ## Minotaur a Zvířecí lid
 
-| ![minotaur.png](/img/user/z_img/minotaur.png) | **Minotauři a Zvířecí lid** zosobňují prvotní spojení s divočinou, propojují sílu s přírodní obratností. Jejich mocná postava jim umožňuje rychlý pohyb, ať už při manévrování, aby obklíčili nepřátele, nebo při útoku s nezkrotnou silou.<br><br>**Setrvačnost**: 1/[[z_Atomy/K/Kolo\|Kolo]]. Když použijete [[z_Atomy/0-9/🥾\|🥾]] a urazíte alespoň 4 metry, můžete zdarma odstrčit tvora v/na cestě. Středního 1 metr, Malého 2 metry.<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![minotaur.png](/img/user/z_img/minotaur.png) | **Minotauři a Zvířecí lid** zosobňují prvotní spojení s divočinou, propojují sílu s přírodní obratností. Jejich mocná postava jim umožňuje rychlý pohyb, ať už při manévrování, aby obklíčili nepřátele, nebo při útoku s nezkrotnou silou.<br><br>**Setrvačnost**: 1/[[z_Atomy/K/Kolo\|Kolo]]. Když použijete [[z_Atomy/0-9/🥾\|🥾]] a urazíte alespoň 4 metry, můžete zdarma odstrčit bytost v/na cestě. Středního 1 metr, Malého 2 metry.<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 </div></div>

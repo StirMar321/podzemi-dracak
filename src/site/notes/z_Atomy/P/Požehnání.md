@@ -10,14 +10,14 @@
 ⠀
 - **Rychlý posel**: Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] se může pohybovat až 8 metrů od Vás. Může se také okamžitě pohybovat a použít [[z_Atomy/A/AKCE\|AKCE]] zdarma, kdykoli je vyvolán.
 ⠀
-- **Duch apokalypsy**. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] se promění ve vír zářivého světla. Na konci Vašeho tahu způsobí zářivé poškození všem nepřátelům do 3 metrů, ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]] a [[z_Atomy/K/Krytí\|Krytí]]. Efekt trvá počet kol rovný maně utracené na vyvolání Duchovního strážce. Tento efekt skončí dříve, pokud znovu vyvoláte svého ducha. Na konci Váš duchovní strážce zmizí.
+- **Duch apokalypsy**. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] se promění ve vír zářivého světla. Na konci Vašeho tahu způsobí zářivé poškození všem nepřátelům do 3 metrů, ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]] a [[z_Atomy/K/Kryt\|Kryt]]. Efekt trvá počet kol rovný maně utracené na vyvolání Duchovního strážce. Tento efekt skončí dříve, pokud znovu vyvoláte svého ducha. Na konci Váš duchovní strážce zmizí.
 ⠀
-- **Strážný duch**. Když váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] hodí 6+ na kostce, cíl začne zářit svatým světlem. Příští útok je proti nim prováděn s Vaší volbou [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
+- **Strážný duch**. Když váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] hodí 6+ na kostce, cíl začne zářit svatým světlem. Příští [[z_Atomy/0-9/⚔️\|⚔️]] proti ní má dle Vaší volby [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
 ⠀
 - **Světlonoš**. Obnovte 1 použití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]], kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
 - **Pomoz mi, můj příteli**. Kdykoli provedete svůj první útok na blízko každé [[z_Atomy/K/Kolo\|Kolo]], můžete k útoku přidat poškození Vašeho [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]].
 ⠀
-- **Neopouštěj mě!**. Své léčení můžete cílit na tvory, kteří jsou mrtví méně než 1 kolo. Každých 10 [[z_Atomy/0-9/💖\|💖]], které takto vyléčíte, také zahojí 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
+- **Neopouštěj mě!**. Své léčení můžete cílit na bytosti, které jsou mrtvé méně než 1 [[z_Atomy/K/Kolo\|Kolo]]. Každých 10[[z_Atomy/0-9/💖\|💖]], které obnovíte, také vyléčí 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 ⠀
-- **Světlo soudu**. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Tvor do 6 metrů začne zářit světlem po dobu 1 kola a útoky proti nim jsou prováděny s Vaší volbou [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
+- **Světlo soudu**. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Bytost do 6 metrů začne zářit světlem po dobu 1 [[z_Atomy/K/Kolo\|Kola]] a [[z_Atomy/0-9/⚔️\|⚔️]] proti ní mají dle Vaší volby [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].

@@ -3,4 +3,4 @@
 ---
 
 ## Rozptýlen
-Pasivní stav. Cíl je Rozptýlen, pokud je vedle svého nepřítele, je [[z_Atomy/P/Provokován\|Provokován]], nebo pokud Vás nevidí.
+*Pasivní stav.* Cíl je Rozptýlen, pokud je vedle svého nepřítele, je [[z_Atomy/P/Provokován\|Provokován]], nebo pokud Vás nevidí.

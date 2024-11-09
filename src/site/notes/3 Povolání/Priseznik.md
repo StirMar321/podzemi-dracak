@@ -140,7 +140,7 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 ⠀
 - **Vylepšená aura**. Vaše aura zvětší svůj poloměr na 6 metrů.
 ⠀
-- **Zářivá aura**. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]. **[[z_Atomy/A/AKCE\|AKCE]]**: Ukončete jakýkoli škodlivý stav nebo efekt na sobě nebo jinému ochotnému tvoru ve vaší auře. 
+- **Zářivá aura**. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]. **[[z_Atomy/A/AKCE\|AKCE]]**: Ukončete jakýkoli škodlivý stav nebo efekt sobě nebo jiné ochotné bytosti ve vaší auře. 
 	- **[[z_Atomy/S/Stavy\|Stavy]]**: Ukončení stavu [[z_Atomy/0-9/🩸\|🩸]] uzdraví 1 [[z_Atomy/0-9/💖\|💖]]. Ukončení stavu [[z_Atomy/Z/Zmaten\|Zmaten]] vrací 1 Akci.
 ⠀
 - **Spolehlivá spravedlnost**. Na začátku Vašeho [[z_Atomy/T/Tah\|tahu]] získáte 1 [[z_Atomy/0-9/♎\|♎]].

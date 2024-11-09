@@ -11,7 +11,7 @@ Některé útoky, pasti, kouzla nebo jiné efekty mohou také způsobit stavy - 
 
 
 ## Očarován
-Vidíte toho, kdo vás očaroval, jako spojence. Očarovatel má proti vámi [[z_Atomy/0-9/👍\|👍]] při sociálních interakcích.
+Vidíte toho, kdo vás očaroval, jako spojence. Očarovatel má proti Vám [[z_Atomy/0-9/👍\|👍]] při sociálních interakcích.
 
 </div></div>
 
@@ -77,7 +77,7 @@ Máte [[z_Atomy/0-9/👎\|👎]] pro všechny hody, pokud je zdroj Vašeho strac
 
 
 ## Zmaten
-Každý váš tah ztratíte 1 Akci.
+Každý váš [[z_Atomy/T/Tah\|Tah]] ztratíte **1** [[z_Atomy/A/AKCE\|AKCI]].
 
 </div></div>
 
@@ -99,7 +99,7 @@ Nemůžete nic dělat. Útoky proti vám mají [[z_Atomy/0-9/👍\|👍]] a úsp
 
 
 ## Chycen
-Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👍\|👍]]. Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás drží, může tento stav ukončit.
+*(Bytosti [[z_Atomy/CH/Chycení\|Chytají]])* Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👍\|👍]]. Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás drží, může tento stav ukončit.
 
 </div></div>
 
@@ -121,7 +121,7 @@ Při získání tohoto stavu nebo pokud jste na začátku svého tahu omráčen�
 
 
 ## Spoután
-Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👍\|👍]]. Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] nebo stav [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] toho, kdo Vás poutá, může tento stav ukončit.
+*(Předměty Poutají)* Nemůžete se pohybovat. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👍\|👍]]. Tento stav můžete ukončit 1 Akcí: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. Zničení toho, co Vás poutá, může tento stav ukončit.
 
 </div></div>
 
@@ -158,6 +158,21 @@ Nikdo Vás nevidí běžnými prostředky. Můžete být detekován hlukem, pach
 
 </div></div>
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Zranění/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# ❤️‍🩹 = Zranění
+Vážná **Zranění** (❤️‍🩹) která jste utrpěli během [[z_Atomy/0-9/🩸\|🩸]] jsou ukazatelem toho, jak blízko je hrdina [[z_Atomy/0-9/💀\|💀]]. Typicky můžete utržit maximálně 6 ❤️‍🩹.
+
+Za každé ❤️‍🩹 máte **(–1)** pro **všechny** hody mimo boj.
+
+[[z_Atomy/0-9/💖\|💖]] se obvykle obnoví rychle a snadno, ale vyléčit ❤️‍🩹 může trvat mnoho dní odpočinku, aby se úplně uzdravila. (Obvykle 1❤️‍🩹/[[z_Atomy/0-9/🔋\|🔋]]. [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může upravit.)
+
+</div></div>
+
 # Pasivní Stavy
 > [!NOTE]- **Pasivní stavy**
 >Např. [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], [[z_Atomy/R/Rozptýlen\|Rozptýlen]], [[z_Atomy/Z/Zpomalen\|Zpomalen]]. Sami o sobě nic nedělají, ale některá kouzla a schopnosti mají proti nim dodatečné účinky.
@@ -169,7 +184,7 @@ Nikdo Vás nevidí běžnými prostředky. Můžete být detekován hlukem, pach
 
 
 ## Žhnoucí
-Pasivní stav. Tvor je ožehnutý plameny. Ovlivňuje některá ohnivá kouzla.
+*Pasivní stav.* Bytost je ožehnutá plameny. Ovlivňuje některá ohnivá kouzla.
 
 </div></div>
 
@@ -180,7 +195,7 @@ Pasivní stav. Tvor je ožehnutý plameny. Ovlivňuje některá ohnivá kouzla.
 
 
 ## Rozptýlen
-Pasivní stav. Cíl je Rozptýlen, pokud je vedle svého nepřítele, je [[z_Atomy/P/Provokován\|Provokován]], nebo pokud Vás nevidí.
+*Pasivní stav.* Cíl je Rozptýlen, pokud je vedle svého nepřítele, je [[z_Atomy/P/Provokován\|Provokován]], nebo pokud Vás nevidí.
 
 </div></div>
 
@@ -191,7 +206,7 @@ Pasivní stav. Cíl je Rozptýlen, pokud je vedle svého nepřítele, je [[z_Ato
 
 
 ## Zkrat
-Pasivní stav. Když utrpíte poškození bleskem, jste nabitý elektřinou po dobu 1 minuty.
+*Pasivní stav.* Když utrpíte poškození bleskem, jste nabitý elektřinou po dobu 1 minuty.
 
 </div></div>
 
@@ -202,7 +217,7 @@ Pasivní stav. Když utrpíte poškození bleskem, jste nabitý elektřinou po d
 
 
 ## Zkrvaven
-Pasivní stav. Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na polovinu.
+*Pasivní stav.* Vaše [[z_Atomy/0-9/💖\|💖]] klesnou pod polovinu.
 
 </div></div>
 
@@ -213,6 +228,6 @@ Pasivní stav. Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na polovinu.
 
 
 ## Zpomalen
-Pasivní stav. Tvor, která má své akce nebo pohyb negativně ovlivněny, je **zpomalený**. ([[z_Atomy/Z/Zmaten\|Zmaten]], [[z_Atomy/CH/Chycen\|Chycen]], [[z_Atomy/S/Sražen\|Sražen]] k zemi, [[z_Atomy/O/Obtížný terén\|Obtížný terén]]).
+*Pasivní stav.* Bytost, která má své akce nebo pohyb negativně ovlivněny, je **zpomalená**. ([[z_Atomy/Z/Zmaten\|Zmaten]], [[z_Atomy/CH/Chycen\|Chycen]], [[z_Atomy/S/Sražen\|Sražen]] k zemi, [[z_Atomy/O/Obtížný terén\|Obtížný terén]]).
 
 </div></div>

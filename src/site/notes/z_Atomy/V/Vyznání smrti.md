@@ -12,7 +12,7 @@
 
 ### LVL 11
 - **Dotek posla smrti**. 
-	- Váš první [[z_Atomy/0-9/⚔️\|⚔️]] na blízko v [[z_Atomy/T/Tah\|tahu]] proti [[z_Atomy/Z/Zkrvaven\|Zkrvavenému]] tvorovi je automaticky [[z_Atomy/0-9/💥\|💥]]. 
+	- Váš první [[z_Atomy/0-9/⚔️\|⚔️]] na blízko ve Vašem [[z_Atomy/T/Tah\|Tahu]] proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] bytosti je automatický [[z_Atomy/0-9/💥\|💥]]. 
 	- Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] uděluje [[z_Atomy/0-9/💪\|💪]] poškození navíc.
 
 ### LVL 15

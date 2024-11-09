@@ -73,7 +73,7 @@ Neobvyklá hůlka (3 nabití)
 **Nabíjení**: Zahřejte hůlku v kovářské peci, dokud se nerozžhaví, a poté ji uhaste v oleji.
 
 **Hůlka Prázdného pláště** 
-(stupeň 2 [[z_Atomy/P/Plášť prázdnoty\|Plášť prázdnoty]])  
+(stupeň 2 [[z_Atomy/P/Plášť stínů\|Plášť stínů]])  
 Neobvyklá hůlka (2 nabití)  
 **Nabíjení**: Položte hůlku do čerstvě zabitého těla. Nechte ji tam, dokud nezůstanou jen kosti.
 

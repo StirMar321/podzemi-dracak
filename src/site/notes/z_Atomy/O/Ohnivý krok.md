@@ -5,4 +5,4 @@
 ## Ohnivý krok
 **Doba sesílání: 1 minuta.** 
 
-Dotkni se ohně a **teleportuj** se k jinému ohni, který můžeš vidět.
+Dotkni se ohně a **teleportujte** se k jinému ohni, který můžete vidět.

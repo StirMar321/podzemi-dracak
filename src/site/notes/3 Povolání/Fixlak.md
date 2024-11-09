@@ -134,7 +134,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 ⠀
 - **Krádež tempa**. Když provedete [[z_Atomy/0-9/💥\|💥]] podruhé v jednom kole, váš cíl je [[z_Atomy/Z/Zmaten\|Zmaten]] a vy získáte 1 Akci.
 ⠀
-- **Vypočítaný hod**. Když vrhnete [[z_Atomy/V/Vrhací\|Vrhací]] dýku, vrátí se zpět do vaší ruky na konci Vašeho tahu. Navíc když zasáhne cíl, odrazí se na dalšího tvora do 2 metrů a způsobí mu polovinu poškození.
+- **Vypočítaný hod**. Když vrhnete [[z_Atomy/V/Vrhací\|Vrhací]] dýku, vrátí se zpět do vaší ruky na konci Vašeho tahu. Navíc když zasáhne cíl, odrazí se na další bytosti do 2 metrů a způsobí jí polovinu poškození.
 ⠀
 - **Využití slabosti**. **[[z_Atomy/A/AKCE\|AKCE]]**: [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] proti nepříteli. Pokud vyhrajete, jakýkoli útok, který proti němu provedete, je [[z_Atomy/0-9/💥\|💥]]. Trvá 1 minutu nebo dokud tuto schopnost nepoužijete proti jinému cíli.
 ⠀
@@ -167,7 +167,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 - **Profesionální tichošlápek**. Získejte schopnost lezení. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/S/Skrývání\|Skrývání]].
 
 ### LVL 15
-- **VRAŽDA**. [[z_Atomy/0-9/💥\|💥]] proti tvorovi s méně maximálními [[z_Atomy/0-9/💖\|💖]] než máte vy, okamžitě zabije cíl.
+- **VRAŽDA**. [[z_Atomy/0-9/💥\|💥]] proti bytosti s méně maximálními [[z_Atomy/0-9/💖\|💖]] než máte vy, okamžitě zabije cíl.
 
 </div></div>
 

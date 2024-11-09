@@ -9,7 +9,7 @@
 - **Zkušený navigátor**. Nemůžete se ztratit nemagickými prostředky.
 
 ### LVL 7
-- **Predátor**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Tento [[z_Atomy/T/Tah\|Tah]] Vaše útoky zbraněmi ignorují [[z_Atomy/K/Krytí\|Krytí]] a [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
+- **Predátor**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Tento [[z_Atomy/T/Tah\|Tah]] Vaše útoky zbraněmi ignorují [[z_Atomy/K/Kryt\|Kryt]] a [[z_Atomy/0-9/⛉⛊\|⛉⛊]]
 
 ### LVL 11
 - **Lovec smeček**. Kdykoli označíte [[z_Atomy/K/Kořist\|Kořist]] schopností [[z_Atomy/L/Lovcova marka\|Lovcova marka]], můžete také označit další [[z_Atomy/K/Kořist\|Kořist]] do 6 metrů od původního cíle.

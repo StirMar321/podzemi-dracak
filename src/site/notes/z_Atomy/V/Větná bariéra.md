@@ -5,11 +5,8 @@
 ## Větná bariéra
 **STUPEŇ 2**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/R/REAKCE\|REAKCE]], když byste použili [[z_Atomy/0-9/🛡️\|🛡️]]
-[[z_Atomy/T/Trvání\|Trvání]] 1 [[z_Atomy/K/Kolo\|Kolo]]
+[[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
-Útoky na dálku proti vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího tahu (včetně útoku, kterému se bráníte)
+Útoky na dálku proti Vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího [[z_Atomy/T/Tah\|Tahu]] (včetně útoku, kterému se bráníte). Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] zdarma.
 
-Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] se zdarma.
-
-**Posílení**: +2 [[z_Atomy/B/Brnění\|Brnění]] za každou další utracenou manu
+**Posílení**: +2 [[z_Atomy/B/Brnění\|Brnění]] za každou další [[z_Atomy/0-9/🌀\|🌀]].

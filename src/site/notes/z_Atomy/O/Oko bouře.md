@@ -9,6 +9,6 @@
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Nepřátelé v dosahu utrpí **6k4+10** sečného poškození. 
-Můžete pohnout tvory libovolně v dosahu, pokud neuspějí [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
+Pokud zasažené bytosti neuspějí [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]], můžete jimi libovolně pohnout.
 
-**Posílení**: +1 metr dosahu za každou další utracenou manu.
+**Posílení**: +1 metr [[z_Atomy/0-9/🫱\|🫱]] za každou další [[z_Atomy/0-9/🌀\|🌀]].

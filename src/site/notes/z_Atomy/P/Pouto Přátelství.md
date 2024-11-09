@@ -4,5 +4,5 @@
 
 ## Pouto Přátelství
 
-Můžete **telepaticky** komunikovat jednoduché myšlenky a pocity s přátelským tvorem.
+Můžete **telepaticky** komunikovat jednoduché myšlenky a pocity s přátelskou bytostí.
 Můžete naplnit svá slova **uklidňující** magií, která **utiší** rozčílené a vystrašené.

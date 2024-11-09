@@ -20,7 +20,7 @@
 - **Mistr živlů**. Utracení 2+ many při seslání kouzla vyvolá jeden další efekt:
 	- **Led**. Získáte [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] [[z_Atomy/0-9/💗\|💗]]. 
 	- **Blesk**. +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] poškození.
-	- **Záře**. Můžete obnovit tvoru do 6 metrů +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] [[z_Atomy/0-9/💖\|💖]].
+	- **Záře**. Můžete obnovit bytosti do 6 metrů [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/💖\|💖]].
 	- **Vítr**. Máte schopnost [[z_Atomy/L/Létání\|Létání]] a pohybujte se zdarma až o 6 metrů do konce svého tahu.
 ### LVL 15
 - **Mistr bouře**.

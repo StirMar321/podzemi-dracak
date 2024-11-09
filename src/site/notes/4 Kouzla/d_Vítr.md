@@ -13,9 +13,9 @@
 ## Ostrý vítr  
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/🏹\|🏹]] 18m
+[[z_Atomy/0-9/🏹\|🏹]] 12m
 
-Až 2 sousedící cíle v dostřelu utrží **1k4** sečného poškození. [[z_Atomy/Z/Zákeřný\|Zákeřný]].
+Až 2 sousedící cíle utrží **1k4** sečného poškození. [[z_Atomy/Z/Zákeřný\|Zákeřný]].
 
 **Vyšší úrovně**: +**2** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
@@ -30,11 +30,11 @@ Až 2 sousedící cíle v dostřelu utrží **1k4** sečného poškození. [[z_A
 ## Dech života  
 **TRIK**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/🫱\|🫱]] 6m
+[[z_Atomy/0-9/🏹\|🏹]] 6m
 
-Obnovte 1 [[z_Atomy/0-9/💖\|💖]] tvorovi v dosahu se stavem [[z_Atomy/0-9/🩸\|🩸]].
+Obnovte 1[[z_Atomy/0-9/💖\|💖]] bytosti se stavem [[z_Atomy/0-9/🩸\|🩸]].
 
-**Vyšší úrovně**: +3 metry dosahu každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
+**Vyšší úrovně**: +2 metry [[z_Atomy/0-9/🫱\|🫱]] každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
 </div></div>
 
@@ -48,12 +48,14 @@ Obnovte 1 [[z_Atomy/0-9/💖\|💖]] tvorovi v dosahu se stavem [[z_Atomy/0-9/�
 ## Nárazový vítr  
 **STUPEŇ 1**
 **2 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/🏹\|🏹]] 18m
+[[z_Atomy/0-9/🏹\|🏹]] 12m
 
 Cíl v dostřelu utrží **3k4** sečné poškození. 
-Pohnete středním cílem o 1m ([[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]]). [[z_Atomy/0-9/👍\|👍]] proti **létajícím** nebo malým cílům a pohnete jimi dvakrát. [[z_Atomy/Z/Zákeřný\|Zákeřný]] 
+Pohnete středně [[z_Atomy/V/Velikost\|velkým]] cílem o 1m. [[z_Atomy/0-9/👍\|👍]] proti **[[z_Atomy/L/Létání\|Létající]]** nebo menším bytostem a pohnete jimi dvakrát. [[z_Atomy/Z/Zákeřný\|Zákeřný]].
 
-**Posílení**: Pohne +1m / +1 [[z_Atomy/V/Velikost\|Velikost]] za každou další utracenou manu
+**Posílení**: Vyber: Pohne o 1 metr / o 1 větší bytostí za každou další [[z_Atomy/0-9/🌀\|🌀]].
+
+*([[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])*
 
 </div></div>
 
@@ -66,14 +68,11 @@ Pohnete středním cílem o 1m ([[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucen
 ## Větná bariéra
 **STUPEŇ 2**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/R/REAKCE\|REAKCE]], když byste použili [[z_Atomy/0-9/🛡️\|🛡️]]
-[[z_Atomy/T/Trvání\|Trvání]] 1 [[z_Atomy/K/Kolo\|Kolo]]
+[[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
-Útoky na dálku proti vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího tahu (včetně útoku, kterému se bráníte)
+Útoky na dálku proti Vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího [[z_Atomy/T/Tah\|Tahu]] (včetně útoku, kterému se bráníte). Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] zdarma.
 
-Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] se zdarma.
-
-**Posílení**: +2 [[z_Atomy/B/Brnění\|Brnění]] za každou další utracenou manu
+**Posílení**: +2 [[z_Atomy/B/Brnění\|Brnění]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
 
 </div></div>
 
@@ -85,14 +84,13 @@ Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] se zdarma.
 
 ## Let  
 **STUPEŇ 3**  
-**2 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/K/Koncentrace\|Koncentrace]], až 10 minut
+**2 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
+[[z_Atomy/K/Koncentrace\|Koncentrace]], až 10 minut
 
-Cíl, kterého se dotknete, je nadnášen proudem silného větru. Po dobu trvání koncentrace získá schopnost **[[z_Atomy/L/Létání\|Létání]]**. 
-[[z_Atomy/0-9/🏃\|🏃]] 12 metrů.
+Bytost, které se dotknete, je nadnášena proudem silného větru. Po dobu [[z_Atomy/K/Koncentrace\|Koncentrace]] získá schopnost **[[z_Atomy/L/Létání\|Létání]]** a [[z_Atomy/0-9/🏃\|🏃]] 12 metrů.
 
-**Posílení**: +1 cíl za každou další utracenou manu.
+**Posílení**: +1 bytost za každou další [[z_Atomy/0-9/🌀\|🌀]].
 
 </div></div>
 
@@ -109,9 +107,9 @@ Cíl, kterého se dotknete, je nadnášen proudem silného větru. Po dobu trvá
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
 Nepřátelé v dosahu utrpí **6k4+10** sečného poškození. 
-Můžete pohnout tvory libovolně v dosahu, pokud neuspějí [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
+Pokud zasažené bytosti neuspějí [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]], můžete jimi libovolně pohnout.
 
-**Posílení**: +1 metr dosahu za každou další utracenou manu.
+**Posílení**: +1 metr [[z_Atomy/0-9/🫱\|🫱]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
 
 </div></div>
 
@@ -125,15 +123,14 @@ Můžete pohnout tvory libovolně v dosahu, pokud neuspějí [[z_Atomy/0-9/❗\|
 **STUPEŇ 5**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
-[[z_Atomy/O/Oblast\|Oblast]] 5x5 m
+[[z_Atomy/O/Oblast\|Oblast]]: 5x5 m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Nepřátelé v oblasti hází [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]], dokud uspějí. Neúspěch = vynesen 12m.
+Nepřátelé v oblasti budou provádět [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]], dokud uspějí. Za každý neúspěch jsou vyneseni 6 metrů do vzduchu.
+Na konci Vašeho [[z_Atomy/T/Tah\|Tahu]] nepřátelé spadnou a mají stav [[z_Atomy/S/Sražen\|Sražen]]. 
+Utrpí **1k6** drtivého poškození za 2 metry pádu. *(viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])*
 
-Na konci Vašeho tahu nepřátelé spadnou a mají stav [[z_Atomy/S/Sražen\|Sražen]]. 
-**1k6** drtivého poškození / 2m pádu.
-
-**Posílení**: +1 [[z_Atomy/0-9/📶\|📶]] za každou další utracenou manu
+**Posílení**: +1 [[z_Atomy/0-9/📶\|📶]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
 
 </div></div>
 
@@ -146,13 +143,13 @@ Na konci Vašeho tahu nepřátelé spadnou a mají stav [[z_Atomy/S/Sražen\|Sra
 ## Tisíc seků  
 **STUPEŇ 6**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/🏹\|🏹]] 18m
+[[z_Atomy/0-9/🏹\|🏹]] 12m
 [[z_Atomy/O/Oblast\|Oblast]] 1m
 
-Cíl v dostřelu utrpí **12k4** sečné poškození. Nemůže **minout** a každá 4 [[z_Atomy/0-9/💥\|Exploduje]].
+Cíl utrpí **12k4** sečné poškození. Nemůže **minout** a každá hozená 4 [[z_Atomy/0-9/💥\|Exploduje]].
 Poškození utrží všichni nepřátelé do 1m od cíle.
 
-**Posílení**: +1 metr k oblasti za každou další utracenou manu.
+**Posílení**: +1 metr k [[z_Atomy/O/Oblast\|Oblasti]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
 
 </div></div>
 
@@ -183,11 +180,10 @@ Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [
 
 ## Básníkova Inspirace  
 **VOLNÁ [[z_Atomy/R/REAKCE\|REAKCE]]**
-Max Nabití = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
-[[z_Atomy/R/REAKCE\|REAKCE]] (když spojenec hodí kostku)
-[[z_Atomy/0-9/🫱\|🫱]] 12m
+Max. Nabití = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
+[[z_Atomy/R/REAKCE\|REAKCE]]: spojenec hodí kostku
 
-Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z výsledků.
+Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z výsledků.
 
 </div></div>
 
@@ -202,10 +198,9 @@ Spojenec v dosahu přehodí jednu libovolnou kostku. Musí si ponechat jeden z v
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
 
-Cíl v dosahu utrží **(1k4+[[z_Atomy/0-9/📖\|📖]])** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
-Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
+Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
 
-**Vyšší úrovně**: **+3 poškození** každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
+**Vyšší úrovně**: +**2** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
 </div></div>
 

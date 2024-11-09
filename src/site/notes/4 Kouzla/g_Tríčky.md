@@ -17,7 +17,21 @@ Jsou pomocné triky, která se nehodí do boje, ale ve správných rukou mohou b
 ## Zážeh
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 
-**Vytvořte** jednoduchou vizuální iluzi, **zahřejte** nebo **zapalte** malý, nedržený předmět vzdálený do 6 metrů.
+**Vytvořte** jednoduchou vizuální iluzi 
+*nebo*
+**zahřejte** nebo **zapalte** malý, nedržený předmět vzdálený do 6 metrů.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/o/ohniva-znacka/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Ohnivá značka
+
+Dotkněte se povrchu do kterého vypálíte **tajnou zprávu** nebo značku. Můžete určit slovo, které zprávu odhalí.
 
 </div></div>
 
@@ -30,19 +44,7 @@ Jsou pomocné triky, která se nehodí do boje, ale ve správných rukou mohou b
 ## Ohnivý krok
 **Doba sesílání: 1 minuta.** 
 
-Dotkni se ohně a **teleportuj** se k jinému ohni, který můžeš vidět.
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/o/ohniva-znacka/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-## Ohnivá značka
-
-Dotkni se povrchu do kterého vypálíš **tajnou zprávu** nebo značku. Můžeš určit slovo, které při vyslovení zprávu odhalí.
+Dotkni se ohně a **teleportujte** se k jinému ohni, který můžete vidět.
 
 </div></div>
 
@@ -67,7 +69,7 @@ Vyčarujte plát **matného** nebo **průhledného** ledu o velikosti menších 
 
 
 
-# Ledový disk
+## Ledový disk
 **Doba sesílání: 1 minuta.** 
 [[z_Atomy/T/Trvání\|Trvání]] 1 hodinu
 
@@ -82,9 +84,9 @@ Má **nosnost** 120 kg.
 
 
 
-# Zimní zřídlo
+## Zimní zřídlo
 **Doba sesílání: 10 minut.** 
-[[z_Atomy/T/Trvání\|Trvání]] 10 minut
+[[z_Atomy/T/Trvání\|Trvání]]: 10 minut
 
 Přeměňte vodu v **ledové zrcadlo**. Můžete se do něj podívat, abyste viděli volitelnou lokaci, která je v blízkosti stejného vodního tělesa.
 
@@ -131,7 +133,7 @@ Přeměňte vodu v **ledové zrcadlo**. Můžete se do něj podívat, abyste vid
 **Doba sesílání: 1 minuta** 
 [[z_Atomy/T/Trvání\|Trvání]] 1 hodinu
 
-Přivolejte drobounkého bleskového **pomocníčka** o velikosti veverky. Může vykonávat **jednoduché akce**, které mu přikážete. (Např.: otevřít dveře, rozzářit místnost, přinést malou věc (max. 1 kg) nebo lehce šokovat tvora.)
+Přivolejte drobounkého bleskového **pomocníčka** o velikosti veverky. Může vykonávat **jednoduché akce**, které mu přikážete. (Např.: otevřít dveře, rozzářit místnost, přinést malou věc (max. 1 kg) nebo lehce šokovat bytost.)
 Pokud se od Vás pohne **dál než 6 metrů**, nebo **utrží** poškození, **zmizí**.
 
 </div></div>
@@ -173,7 +175,7 @@ Nebo vyčarujte **vůni**.
 ## Pírko
 **[[z_Atomy/R/REAKCE\|REAKCE]]**
 
-Tvor do 6 metrů **pomalu** a bezpečně **klesne** na zem.
+Bytost do 6 metrů **pomalu** a bezpečně **klesne** na zem.
 
 </div></div>
 
@@ -202,7 +204,7 @@ Tvor do 6 metrů **pomalu** a bezpečně **klesne** na zem.
 ## Falešná tvář 
 **Trvání 10 minut**
 
-**Změňte** svou podobu. Vyžaduje **část** tvora nebo osoby, jehož podobu chcete napodobit.
+**Změňte** svou podobu. Vyžaduje **část** bytosti nebo osoby, jehož podobu chcete napodobit.
 
 </div></div>
 
@@ -215,7 +217,7 @@ Tvor do 6 metrů **pomalu** a bezpečně **klesne** na zem.
 ## Myšlenková pijavice
 **[[z_Atomy/A/AKCE\|AKCE]]**
 
-**Přečtěte myšlenky** tvora do vzdálenosti 6 metrů. Tvor **cítí**, že se mu hrabete v hlavě a nemusí se mu to líbit!
+**Přečtěte myšlenky** bytosti do vzdálenosti 6 metrů. Bytost může **cítit**, že se jí hrabete v hlavě a nemusí se jí to líbit!
 
 </div></div>
 
@@ -256,7 +258,7 @@ Nebo vyčarujte malou **krásnou** věc. (Kytku, motýlky atd.)
 
 ## Pouto Přátelství
 
-Můžete **telepaticky** komunikovat jednoduché myšlenky a pocity s přátelským tvorem.
+Můžete **telepaticky** komunikovat jednoduché myšlenky a pocity s přátelskou bytostí.
 Můžete naplnit svá slova **uklidňující** magií, která **utiší** rozčílené a vystrašené.
 
 </div></div>

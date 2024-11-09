@@ -12,4 +12,4 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 
 - **Záplava úderů**. 1/[[z_Atomy/T/Tah\|Tah]]. Když útočíte, zaútočte místo toho dvakrát bez [[z_Atomy/0-9/👎\|👎]] z [[z_Atomy/U/Uspěchané útoky\|Uspěchaných útoků]].
 
-- **Krok větru**. Proveďte [[z_Atomy/0-9/🥾\|🥾]] zdarma. Během tohoto pohybu můžete procházet skrz nepřátelské tvory, jako by tam nebyli.
+- **Krok větru**. Proveďte [[z_Atomy/0-9/🥾\|🥾]] zdarma. Během tohoto pohybu můžete procházet skrz nepřátelské bytosti, jako by tam nebyli.

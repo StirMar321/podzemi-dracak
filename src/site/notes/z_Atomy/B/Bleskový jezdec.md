@@ -5,12 +5,11 @@
 ## Bleskový jezdec
 **STUPEŇ 6**
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/🫱\|🫱]] 24m
+[[z_Atomy/0-9/🏹\|🏹]] 12m
 [[z_Atomy/O/Oblast\|Oblast]] 3m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Proměníte se v Blesk a teleportujete se do dosahu kouzla. Pokud se na cílovém místě v dosahu nachází ochotný tvor, prohodíte se. 
-Tvorové v oblasti utrpí **10k8** bleskového poškození a provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
-Neúspěch = odhozen o 4m, [[z_Atomy/S/Sražen\|Sražen]] a Ohlušen na 1 den. Neúspěch o (10+) = [[z_Atomy/O/Omráčen\|Omráčen]] na 1 [[z_Atomy/K/Kolo\|Kolo]].
+Teleportujte se do cíle. Pokud se v cíli nachází ochotná bytost, prohodíte se.
+Bytosti kolem cíle utrpí **10k8** bleskového poškození a provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Při neúspěchu jsou odhozeny 4 metry, [[z_Atomy/S/Sražen\|Sraženy]] a Ohlušeny na 1 den. Neúspěch o 10+ znamená [[z_Atomy/O/Omráčen\|Omráčení]] na 1 [[z_Atomy/K/Kolo\|Kolo]].
 
-**Posílení:** +12 metrů dosahu a +**10** poškození za každou dodatečně utracenou manu.
+**Posílení:** +12 metrů [[z_Atomy/0-9/🏹\|🏹]] a +**10** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].

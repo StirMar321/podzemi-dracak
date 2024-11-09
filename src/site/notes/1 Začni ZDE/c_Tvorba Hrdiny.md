@@ -25,19 +25,19 @@ Vždy když splníte krok, můžete ho **"složit"**.
 >Vyberte a přidělte hlavní [[z_Atomy/S/Statistiky\|Statistiky]] (myslete na Váš [[z_Atomy/0-9/🗝\|🗝]]):
 >>**Standardní:** +2, +2, +0, -1
 >>**Vyvážené:** +2, +1, +1, +0
->>**Min–Max:** +3, +1, +0, -2
+>>**Min–Max:** +3, +1, -1, -1
 
 >[!NOTE]+ **Dovednosti**
->Vyplňte své bonusy [[z_Atomy/0-9/⚙️\|⚙️]] podle svých statistik a poté přidělte **dalších 5 [[z_Atomy/B/Body ⚙️\|Body ⚙️]]** (do alespoň 3 různých dovedností).
+>Vyplňte své bonusy [[z_Atomy/0-9/⚙️\|⚙️]] podle svých statistik a poté přidělte **další 4 [[z_Atomy/B/Body ⚙️\|Body ⚙️]]**.
 
 >[!NOTE]+ **Iniciativa**
->Zaznamenejte si bonusy [[z_Atomy/0-9/🏁\|🏁]].
+>Zaznamenejte si bonusy pro [[z_Atomy/0-9/🏁\|🏁]].
 
 >[!NOTE]+ **Jazyky**
->Zaznamenejte si [[z_Atomy/J/Jazyky\|Jazyky]].
+>Zaznamenejte si jaké [[z_Atomy/J/Jazyky\|Jazyky]] znáte.
 
 >[!NOTE]+ **Peníze**
->Do začátku Vašeho dobrodružství máte **20** [[z_Atomy/0-9/🟡\|🟡]] (**2d4**x10).
+>Do začátku Vašeho dobrodružství máte **20** [[z_Atomy/0-9/🟡\|🟡]] (**2k4**x10).
 
 >[!NOTE]+ **Vybavení**
 >**Vybavení**: Můžete použít [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]] vašeho [[2 Důležité/e1_Povolání\|Povolání]]. 

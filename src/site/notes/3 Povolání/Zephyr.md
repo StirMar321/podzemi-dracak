@@ -51,7 +51,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 
 - **Záplava úderů**. 1/[[z_Atomy/T/Tah\|Tah]]. Když útočíte, zaútočte místo toho dvakrát bez [[z_Atomy/0-9/👎\|👎]] z [[z_Atomy/U/Uspěchané útoky\|Uspěchaných útoků]].
 
-- **Krok větru**. Proveďte [[z_Atomy/0-9/🥾\|🥾]] zdarma. Během tohoto pohybu můžete procházet skrz nepřátelské tvory, jako by tam nebyli.
+- **Krok větru**. Proveďte [[z_Atomy/0-9/🥾\|🥾]] zdarma. Během tohoto pohybu můžete procházet skrz nepřátelské bytosti, jako by tam nebyli.
 
 </div></div>
 
@@ -119,7 +119,7 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 >Během [[z_Atomy/0-9/🔋\|🔋]] můžete vyhledat bojového mistra vyšší úrovně a požádat ho o lekci nebo můžete [[z_Atomy/0-9/🔋\|🔋]] strávit meditací. Pak můžete vyměnit jeden naučený **chvat a hmat** za jiný.
 >Kdykoli postoupíte na vyšší úroveň, můžete vyměnit jednu schopnost kterou znáte za jinou.
 
-- **Vlez mi na záda!** Když se pohybujete pomocí **Kroku větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]), pokud se dostanete do prostoru tvora stejně velkého (nebo většího), můžete skočit na jeho záda. Když jste na tvorovi, Vaše útoky na blízko proti němu mají [[z_Atomy/0-9/👍\|👍]] a jakékoli poškození, kterému se vyhnete, je způsobeno jemu místo Vás.
+- **Vlez mi na záda!** Když se pohybujete pomocí **Kroku větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]), pokud se dostanete do prostoru bytosti stejně velkého (nebo většího), můžete skočit na jeho záda. Když jste na bytosti, Vaše útoky na blízko proti němu mají [[z_Atomy/0-9/👍\|👍]] a jakékoli poškození, kterému se vyhnete, je způsobeno jemu místo Vás.
 ⠀
 - **Šmouha**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když použijete reakci [[z_Atomy/0-9/🛡️\|🛡️]], můžete se nejdřív pohnout až o polovinu svého [[z_Atomy/0-9/🏃\|🏃]] pryč, aniž byste utrpěli poškození, pokud se dostanete mimo [[z_Atomy/0-9/🫱\|🫱]] útoku.
 ⠀
@@ -131,13 +131,13 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 ⠀
 - **Přesun vzduchem**. Nepřátele na Vás nemůžou použít [[z_Atomy/CH/Chycení\|Chycení]], pokud jste při vědomí. Při pohybu můžete cestovat přes jakýkoli terén, jako by to byla normální zem, ignorujete všechny negativní efekty terénů (např. stěny/stropy, voda, vrcholky stromů, láva, hroty, mraky atd.).
 ⠀
-- **Štědrá duše**. Když poprvé v tahu obdržíte léčení, můžete obnovit [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/💖\|💖]]  jinému tvorovi do vzdálenosti 6 metrů od Vás.
+- **Štědrá duše**. Když poprvé v tahu obdržíte léčení, můžete obnovit [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/💖\|💖]]  jiné bytosti do vzdálenosti 6 metrů od Vás.
 ⠀
 - **Vytrvalá duše**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte [[z_Atomy/0-9/🟥\|🟥]] rovné Akcím, které máte v prvním tahu. Tyto kostky životů vyprší na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
 - **Disciplinovaná trpělivost**. Kdykoli minete útok, získáte kumulativní bonus +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k veškerému poškození, které způsobíte po zbytek tohoto [[z_Atomy/S/Střetnutí\|Střetnutí]] (disciplinovaný bojovník nemine úmyslně).
 ⠀
-- **Větrný chodec**. Pokud procházíte prostorem ochotného tvora při používání **Kroku větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]), může se přidat k pohybu a zvolit si jakýkoli prostor přilehlý k vaší cestě pohybu, ve kterém skončí.
+- **Větrný chodec**. Pokud procházíte prostorem ochotné bytosti při používání **Kroku větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]), může se přidat k pohybu a zvolit si jakýkoli prostor přilehlý k vaší cestě pohybu, ve kterém skončí.
 ⠀
 - **Hluboká trpělivost**. Můžete utratit 1 Akci k ukončení jakéhokoli svého stavu. ([[z_Atomy/S/Stavy\|Stavy]])
 
@@ -183,10 +183,10 @@ Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 - **Duševní exploze**. Kdykoli utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] nebo [[z_Atomy/0-9/💥\|💥]] způsobíte [[z_Atomy/L/LVL\|LVL]] ohnivé poškození všem přilehlým nepřátelům a dostanou stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]]. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
 
 ### LVL 7
-- **Plamenná rychlost**. [[z_Atomy/0-9/🏃\|🏃]] +2 metry pro **Krok větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]). Tvorové utrží [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] ohnivého poškození.
+- **Plamenná rychlost**. [[z_Atomy/0-9/🏃\|🏃]] +2 metry pro **Krok větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]). Bytosti utrží [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] ohnivého poškození.
 
 ### LVL 11
-- **Řetězová reakce**. Kdykoli udělíte [[z_Atomy/0-9/💥\|💥]], můžete způsobit ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+X[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]) ohnivého poškození libovolným cílům přilehlých k cíli. Pak můžete způsobit stejné ohnivé poškození dalším přilehlým tvorům. Opakujte kolikrát chcete. (X = počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]).
+- **Řetězová reakce**. Kdykoli udělíte [[z_Atomy/0-9/💥\|💥]], můžete způsobit ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+X[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]) ohnivého poškození libovolným bytostem u cíle. Pak můžete způsobit stejné ohnivé poškození dalším přilehlým bytostem. Opakujte kolikrát chcete. (X = počet Vašich [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]).
 
 ### LVL 15
 - **Planoucí duše**. *Zdvojnásobte* jakékoli Vaše ohnivé poškození.

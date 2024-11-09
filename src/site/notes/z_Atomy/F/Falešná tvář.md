@@ -5,4 +5,4 @@
 ## Falešná tvář 
 **Trvání 10 minut**
 
-**Změňte** svou podobu. Vyžaduje **část** tvora nebo osoby, jehož podobu chcete napodobit.
+**Změňte** svou podobu. Vyžaduje **část** bytosti nebo osoby, jehož podobu chcete napodobit.

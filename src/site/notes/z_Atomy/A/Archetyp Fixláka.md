@@ -21,7 +21,7 @@
 - **Profesionální tichošlápek**. Získejte schopnost lezení. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/S/Skrývání\|Skrývání]].
 
 ### LVL 15
-- **VRAŽDA**. [[z_Atomy/0-9/💥\|💥]] proti tvorovi s méně maximálními [[z_Atomy/0-9/💖\|💖]] než máte vy, okamžitě zabije cíl.
+- **VRAŽDA**. [[z_Atomy/0-9/💥\|💥]] proti bytosti s méně maximálními [[z_Atomy/0-9/💖\|💖]] než máte vy, okamžitě zabije cíl.
 
 </div></div>
 

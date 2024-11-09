@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/z-atomy/e/elektricky-oblouk/"}
 ---
 
-## Elektrický oblouk   
-**STUPEŇ 1**  
-**2 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/🏹\|🏹]] 24m
+## Elektrický oblouk
+**STUPEŇ 1**
+**2 [[z_Atomy/A/AKCE\|AKCE]]**
+[[z_Atomy/0-9/🏹\|🏹]] 12m
 
-Cíl v dostřelu utrží **3k8** bleskového poškození. 
-Kouzlo navíc zasáhne jednoho dalšího nejbližšího tvora u Vašeho cíle. 
+Cíl utrží **3k8** bleskového poškození.
+Kouzlo navíc zasáhne jednu další nejbližší bytost u cíle.
 
-Pokud Kouzlo mine, Blesk zasáhne Vás. Získáte stav [[z_Atomy/Z/Zkrat\|Zkrat]]
+Pokud **Elektrický oblouk** mine cíl, zasáhne sesílatele. Získá stav [[z_Atomy/Z/Zkrat\|Zkrat]].
 
-**Posílení**: **+1k8** za každou dodatečně utracenou manu.
+**Posílení**: **+1k8** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].

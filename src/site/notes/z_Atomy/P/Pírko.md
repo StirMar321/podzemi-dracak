@@ -5,4 +5,4 @@
 ## Pírko
 **[[z_Atomy/R/REAKCE\|REAKCE]]**
 
-Tvor do 6 metrů **pomalu** a bezpečně **klesne** na zem.
+Bytost do 6 metrů **pomalu** a bezpečně **klesne** na zem.

@@ -4,4 +4,4 @@
 
 ## Ohnivá značka
 
-Dotkni se povrchu do kterého vypálíš **tajnou zprávu** nebo značku. Můžeš určit slovo, které při vyslovení zprávu odhalí.
+Dotkněte se povrchu do kterého vypálíte **tajnou zprávu** nebo značku. Můžete určit slovo, které zprávu odhalí.

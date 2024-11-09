@@ -58,7 +58,7 @@ Pokud tě zajímají pravidla, jsou vypsaná zde:
 - [[2 Důležité/e2_Rasy\|Rasy]]
 - [[2 Důležité/e3_Původ\|Původ]]
 - [[2 Důležité/f_Motivace Dobrodruha\|Motivace dobrodruha]]
-- [[2 Důležité/g_Herní mechaniky\|Herní mechaniky]]
+- [[2 Důležité/g_Karta Hrdiny\|Herní mechaniky]]
 - [[2 Důležité/h_Vybavení\|Vybavení]]
 - [[2 Důležité/i_Magické zbraně\|Magické zbraně]]
 - [[2 Důležité/j_Magické předměty\|Magické předměty]]

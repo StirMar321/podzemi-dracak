@@ -3,4 +3,4 @@
 ---
 
 ### 📶 Hrdinských efektů
-[[z_Atomy/0-9/❗\|❗]] které způsobí hrdina mají [[z_Atomy/0-9/📶\|📶]]= **10+[[z_Atomy/0-9/🗝\|🗝]]**.
+[[z_Atomy/0-9/❗\|❗]] které způsobí hrdina mají [[z_Atomy/0-9/📶\|📶]]: **10+[[z_Atomy/0-9/🗝\|🗝]]**.

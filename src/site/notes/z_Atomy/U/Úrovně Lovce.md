@@ -27,7 +27,7 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Let's finish this!**. Pokud nemáte **žádné** nabití Lovecké horečky, považujte všechny své útoky na blízko, jako by byly proti Vaší [[z_Atomy/K/Kořist\|Kořisti]].
 ## LVL 3
 - **Zaměření Lovce**. Vyberte si **podtřídu** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
-- **Stopařův instinkt**. Když zkoumáte stopy, můžete si přesně představit co a jak se kde odehrálo. Určíte **velikost**, **druh** a **množství** tvorů, **směr**, kterým se vydali, **klíčové** momenty a **čas**, kdy se odehráli.
+- **Stopařův instinkt**. Když zkoumáte stopy, můžete si přesně představit co a jak se kde odehrálo. Určíte **velikost**, **druh** a **množství** bytostí, **směr**, kterým se vydali, **klíčové** momenty a **čas**, kdy se odehráli.
 ## LVL 4
 - **Lovecká horečka (2)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]]. Kdykoli strávíte [[z_Atomy/0-9/🔋\|🔋]] v divočině, můžete vyměnit jednu schopnost kterou znáte, za jinou.
 - **Průzkumník Divočiny**. +2 metry k Vaší [[z_Atomy/0-9/🏃\|🏃]]. Získáte schopnost **šplhat**.

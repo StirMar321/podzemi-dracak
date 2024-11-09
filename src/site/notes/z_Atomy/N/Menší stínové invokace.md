@@ -14,9 +14,9 @@
 ⠀
 - **Oddaný akolyta**. Naučte se 2 z následujících [[z_Atomy/J/Jazyky\|Jazyků]]: Sférický, Nebeský, Dračí, Prastarý, Pekelný, nebo Elementální.
 ⠀
-- **Tajuplný zrak**. Máte [[z_Atomy/0-9/👍\|👍]] pro detekci neviditelných nebo skrytých tvorů. Vidíte skutečnou podobu jakéhokoli měňavce nebo tvora skrytého magií, když jste od něj vzdálen do 6 metrů.
+- **Tajuplný zrak**. Máte [[z_Atomy/0-9/👍\|👍]] pro detekci neviditelných nebo skrytých bytostí. Vidíte skutečnou podobu jakéhokoli měňavce nebo bytosti skryté magií, když jste od ní do 6 metrů.
 ⠀
-- **Pohled dvou myslí**. Dotkněte se ochotného tvora a naladíte se na jeho mysl. Vnímáte skrze tvora dokud udržíte [[z_Atomy/K/Koncentrace\|Koncentraci]].
+- **Pohled dvou myslí**. Dotkněte se ochotné bytosti a naladíte se na jeho mysl. Vnímáte skrze bytost dokud udržíte [[z_Atomy/K/Koncentrace\|Koncentraci]].
 ⠀
 - **Znalosti z dalšího světa**. Kdykoli neuspějete v [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] / [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste uspěli.
 ⠀
@@ -24,4 +24,4 @@
 ⠀
 - **Hlas temnoty**. Můžete telepaticky komunikovat s jedním humanoidem do 12 metrů.
 ⠀
-- **Šepoty z hrobu**. 1/den. Můžete položit mrtvému tvorovi 3 otázky. Ten odpoví, jak nejlépe dokáže.
+- **Šepoty z hrobu**. 1/den. Můžete položit mrtvé bytosti 3 otázky. Ta odpoví, jak nejlépe dokáže.

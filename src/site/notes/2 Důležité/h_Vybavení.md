@@ -35,10 +35,10 @@ Pokud nechcete nakupovat vlastní [[2 Důležité/h_Vybavení\|Vybavení]], mů�
 
 
 
-## Inventární Sloty 
-Každý hrdina má **Inventární Sloty** rovné **(10+[[z_Atomy/0-9/💪\|💪]])** pro nošení vybavení a kořisti. 
+# Inventární Sloty 
+Každý hrdina má **Inventární Sloty** rovné **(10+[[z_Atomy/0-9/💪\|💪]])** pro nošení [[2 Důležité/h_Vybavení\|Vybavení]] a kořisti. 
 
-**1 inventární slot** může obsahovat například: štít, jednoruční zbraň, zbroj, toulce se 20 šípy, sadu oštěpů nebo šipek, 500 zlatých, nebo 2 lektvary. 
+**1 inventární slot** může obsahovat například: štít, jednoruční zbraň, zbroj, toulce s 20 šípy, sadu oštěpů nebo šipek, 500 [[z_Atomy/0-9/🟡\|🟡]], nebo 2 lektvary.
 2-ruční zbraň nebo jiný podobně objemný předmět zabírá **2 sloty**.
 >[!NOTE]- Alternativně
 > Váš [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může povolit, abyste nosili, co chcete, bez nutnosti vedení přesné evidence. Pokud jste rozumní a nebudete toho zneužívat!
@@ -197,15 +197,15 @@ Můžete změnit hůl na těžkou palici? Jasně! Použít sai místo dýky? Sam
 
 
 
-| **Zbraně na dálku** | **Poškození**       | **Vlastnosti**                                                                 | **Cena**  |
-| ------------------- | ------------------- | ------------------------------------------------------------------------------ | --------- |
-| **Prak**            | (1k4+[[z_Atomy/0-9/🎯\|🎯]]) Drtivé | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-18 m, [[z_Atomy/Z/Zákeřný\|Zákeřný]]                                        | 4[[z_Atomy/0-9/🟡\|🟡]]   |
-| **Oštěp**           | (1k6+[[z_Atomy/0-9/💪\|💪]]) Bodné  | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m, sada 4                                             | 20[[z_Atomy/0-9/🟡\|🟡]]  |
-| **Vrhací Kladiva**  | (1k6+[[z_Atomy/0-9/💪\|💪]]) Drtivé | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m, sada 4                                             | 25[[z_Atomy/0-9/🟡\|🟡]]  |
-| **Krátký Luk**      | (1k6+[[z_Atomy/0-9/🎯\|🎯]]) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-18 m                                                     | 25[[z_Atomy/0-9/🟡\|🟡]]  |
-| **Dlouhý Luk**      | (1k8+[[z_Atomy/0-9/🎯\|🎯]]) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-24 m                                                     | 30[[z_Atomy/0-9/🟡\|🟡]]  |
-| **Kuše**            | (1k12+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m                                                     | 60[[z_Atomy/0-9/🟡\|🟡]]  |
-| **Ruční Balista**   | (1k20+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/P/Přebíjení\|Přebíjení]]: **2** [[z_Atomy/A/AKCE\|AKCE]], <br>[[z_Atomy/0-9/🏹\|🏹]] 2-12 m, (Min. 2 [[z_Atomy/0-9/💪\|💪]]) | 120[[z_Atomy/0-9/🟡\|🟡]] |
+| **Zbraně na dálku** | **Poškození**       | **Vlastnosti**                                                                | **Cena**  |
+| ------------------- | ------------------- | ----------------------------------------------------------------------------- | --------- |
+| **Prak**            | (1k4+[[z_Atomy/0-9/🎯\|🎯]]) Drtivé | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m, [[z_Atomy/Z/Zákeřný\|Zákeřný]]                                       | 4[[z_Atomy/0-9/🟡\|🟡]]   |
+| **Oštěp**           | (1k6+[[z_Atomy/0-9/💪\|💪]]) Bodné  | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-8 m, sada 4                                             | 20[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Vrhací Kladiva**  | (1k6+[[z_Atomy/0-9/💪\|💪]]) Drtivé | [[z_Atomy/0-9/1-ruční\|1-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-4 m, sada 4                                             | 25[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Krátký Luk**      | (1k6+[[z_Atomy/0-9/🎯\|🎯]]) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m                                                    | 25[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Dlouhý Luk**      | (1k8+[[z_Atomy/0-9/🎯\|🎯]]) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-18 m                                                    | 30[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Kuše**            | (1k12+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 1-8 m                                                     | 60[[z_Atomy/0-9/🟡\|🟡]]  |
+| **Ruční Balista**   | (1k20+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/P/Přebíjení\|Přebíjení]]: **2** [[z_Atomy/A/AKCE\|AKCE]], <br>[[z_Atomy/0-9/🏹\|🏹]] 1-8 m, (Min. 2 [[z_Atomy/0-9/💪\|💪]]) | 120[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>

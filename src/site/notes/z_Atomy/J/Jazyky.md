@@ -8,7 +8,7 @@ Každý **nový** bod [[z_Atomy/0-9/📖\|📖]] znamená, že se můžete nauč
 Všichni hrdinové mluví automaticky **Obecným jazykem**, některé [[2 Důležité/e3_Původ\|Původy]] nebo [[2 Důležité/e2_Rasy\|Rasy]] mohou poskytnout znalost dalších jazyků. 
 
 **Běžné jazyky**
-- **Obecný**. Většina inteligentních tvorů mluví do určité míry obecným jazykem.
+- **Obecný**. Většina inteligentních bytostí mluví do určité míry obecným jazykem.
 - **Trpasličtina**. Obvykle jí mluví Trpaslíci, Gnómové a Obři.
 - **Elfština**. Obvykle jí mluví Elfové, Víly a Sylvani.
 - **Goblinština**. Obvykle jí mluví Goblini a Orkové.
@@ -24,4 +24,4 @@ Všichni hrdinové mluví automaticky **Obecným jazykem**, některé [[2 Důle�
 - **A další...** Podle Vašeho světa...
 
 >[!NOTE]- **GROFWINT DRAGLON!** 
->Znalost jazyka jiných tvorů může otevřít dveře a možnosti, které by jinak nebyly dosažitelné. Hrdinská družina, ozbrojená po zuby, která nezná jazyk, se často setkává s nepřátelstvím.
+>Znalost jazyka jiných kultur/bytostí může otevřít dveře a možnosti, které by jinak nebyly dosažitelné. Hrdinská družina, ozbrojená po zuby, která nezná jazyk, se často setkává s nepřátelstvím.

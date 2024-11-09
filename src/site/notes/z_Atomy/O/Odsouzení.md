@@ -5,11 +5,9 @@
 ## Odsouzení
 **STUPEŇ 4**  
 **2 [[z_Atomy/A/AKCE\|AKCE]]**  
-[[z_Atomy/0-9/🏹\|🏹]] 6m
+[[z_Atomy/0-9/🏹\|🏹]] 4m
+*Můžete zacílit pouze na bytost, která Vám nebo spojenci zasadila [[z_Atomy/0-9/💥\|💥]] od Vašeho posledního [[z_Atomy/T/Tah\|Tahu]].*
 
-Můžete zacílit pouze na tvora v dostřelu, který vám nebo spojenci uštědřil [[z_Atomy/0-9/💥\|💥]] od Vašeho posledního tahu.
+Udělte **2k12+20** zářivého poškození bytosti. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]] a [[z_Atomy/K/Kryt\|Kryt]].
 
-Udělte **2k12+20** zářivého poškození tvorovi v dostřelu. 
-Ignorujte [[z_Atomy/0-9/⛉⛊\|⛉⛊]] a [[z_Atomy/K/Krytí\|Krytí]].  
-
-**Posílení:** Přidejte **1k12** poškození za každou další utracenou manu.
+**Posílení:** +**1k12** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].

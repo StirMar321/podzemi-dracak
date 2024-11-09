@@ -5,4 +5,4 @@
 ## Myšlenková pijavice
 **[[z_Atomy/A/AKCE\|AKCE]]**
 
-**Přečtěte myšlenky** tvora do vzdálenosti 6 metrů. Tvor **cítí**, že se mu hrabete v hlavě a nemusí se mu to líbit!
+**Přečtěte myšlenky** bytosti do vzdálenosti 6 metrů. Bytost může **cítit**, že se jí hrabete v hlavě a nemusí se jí to líbit!

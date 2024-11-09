@@ -39,9 +39,9 @@ Ne každá PRASTARÁ HRŮZA je stejná. To je jako říkat, že havraní černá
 ## Stínový výbuch  
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/🫱\|🫱]] 12m
+[[z_Atomy/0-9/🏹\|🏹]] 8m
 
-Cíl v dosahu utrží **(1k12+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** nekrotického poškození.
+Cíl utrží **(1k12+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** nekrotického poškození.
 
 **Vyšší úrovně**: +**1d12** poškození každých 5 [[z_Atomy/L/LVL\|LVL]]. (5/10/15/20)
 
@@ -59,8 +59,8 @@ Cíl v dosahu utrží **(1k12+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** ne
 [[z_Atomy/0-9/🫱\|🫱]] 1m
 [[z_Atomy/P/Poskoci\|Poskoci]]
 
-Přivolejte **k12 stínového sluhu** v dosahu.
-Můžete mít maximálně tolik přisluhovačů, kolik je Vaše nižší hodnota [[z_Atomy/0-9/📖\|📖]] nebo [[z_Atomy/L/LVL\|LVL]].
+Přivolejte **k12 stínového sluhu**.
+Můžete mít maximálně tolik poskoků, kolik je Vaše nižší hodnota z ([[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/L/LVL\|LVL]])
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/s/stinovy-sluha/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -161,9 +161,9 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 ⠀
 - **Oddaný akolyta**. Naučte se 2 z následujících [[z_Atomy/J/Jazyky\|Jazyků]]: Sférický, Nebeský, Dračí, Prastarý, Pekelný, nebo Elementální.
 ⠀
-- **Tajuplný zrak**. Máte [[z_Atomy/0-9/👍\|👍]] pro detekci neviditelných nebo skrytých tvorů. Vidíte skutečnou podobu jakéhokoli měňavce nebo tvora skrytého magií, když jste od něj vzdálen do 6 metrů.
+- **Tajuplný zrak**. Máte [[z_Atomy/0-9/👍\|👍]] pro detekci neviditelných nebo skrytých bytostí. Vidíte skutečnou podobu jakéhokoli měňavce nebo bytosti skryté magií, když jste od ní do 6 metrů.
 ⠀
-- **Pohled dvou myslí**. Dotkněte se ochotného tvora a naladíte se na jeho mysl. Vnímáte skrze tvora dokud udržíte [[z_Atomy/K/Koncentrace\|Koncentraci]].
+- **Pohled dvou myslí**. Dotkněte se ochotné bytosti a naladíte se na jeho mysl. Vnímáte skrze bytost dokud udržíte [[z_Atomy/K/Koncentrace\|Koncentraci]].
 ⠀
 - **Znalosti z dalšího světa**. Kdykoli neuspějete v [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] / [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste uspěli.
 ⠀
@@ -171,7 +171,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 ⠀
 - **Hlas temnoty**. Můžete telepaticky komunikovat s jedním humanoidem do 12 metrů.
 ⠀
-- **Šepoty z hrobu**. 1/den. Můžete položit mrtvému tvorovi 3 otázky. Ten odpoví, jak nejlépe dokáže.
+- **Šepoty z hrobu**. 1/den. Můžete položit mrtvé bytosti 3 otázky. Ta odpoví, jak nejlépe dokáže.
 
 </div></div>
 
@@ -193,13 +193,13 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 ⠀
 - **Brnění stínů**. Snížíte veškeré poškození, které dostáváte o počet vašich [[z_Atomy/S/Stínový sluha\|Stínových přisluhovačů]] na bojišti.
 ⠀
-- **Stínové kopí**. Dosah Vašeho Triku [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] je 18 metrů, ignoruje [[z_Atomy/K/Krytí\|Krytí]] a můžete útočit na cíl, který je [[z_Atomy/S/Sražen\|Sražen]] s [[z_Atomy/0-9/👍\|👍]] místo [[z_Atomy/0-9/👎\|👎]].
+- **Stínové kopí**. Dosah Vašeho Triku [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] je 18 metrů, ignoruje [[z_Atomy/K/Kryt\|Kryt]] a můžete útočit na cíl, který je [[z_Atomy/S/Sražen\|Sražen]] s [[z_Atomy/0-9/👍\|👍]] místo [[z_Atomy/0-9/👎\|👎]].
 ⠀
 - **Splynutí se stíny**. **Akce**: Když jste v oblasti se šerem nebo tmou, můžete použít tuto akci k tomu, abyste získali [[z_Atomy/N/Neviditelnost\|Neviditelnost]], dokud se nepohnete nebo neprovedete [[z_Atomy/0-9/⚔️\|⚔️]].
 ⠀
-- **Rázný výbuch**. Když zasáhnete středně velkého nebo menšího tvora Trikem [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]], můžete od Vás tvora odtlačit až o 2 metry.
+- **Rázný výbuch**. Když zasáhnete středně velkou nebo menší bytost Trikem [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]], můžete od Vás bytost odstrčit až o 2 metry.
 ⠀
-- **Cestovatel stíny**. 1 **[[z_Atomy/A/AKCE\|AKCE]]**: Vyměňte si místo s tvorem do 12 metrů, kterému bylo tento tah způsobeno nekrotické poškození.
+- **Cestovatel stíny**. 1 **[[z_Atomy/A/AKCE\|AKCE]]**: Vyměňte si místo s bytostí do 12 metrů, které bylo tento tah způsobeno nekrotické poškození.
 ⠀
 - **Ďábelská smlouva**. Zvyšte si [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] / [[z_Atomy/0-9/📖\|📖]] o **+1**. Máte **-1** maximálních [[z_Atomy/0-9/🟥\|🟥]].
 ⠀

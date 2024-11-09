@@ -7,7 +7,7 @@
 >Během [[z_Atomy/0-9/🔋\|🔋]] můžete vyhledat bojového mistra vyšší úrovně a požádat ho o lekci nebo můžete [[z_Atomy/0-9/🔋\|🔋]] strávit meditací. Pak můžete vyměnit jeden naučený **chvat a hmat** za jiný.
 >Kdykoli postoupíte na vyšší úroveň, můžete vyměnit jednu schopnost kterou znáte za jinou.
 
-- **Vlez mi na záda!** Když se pohybujete pomocí **Kroku větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]), pokud se dostanete do prostoru tvora stejně velkého (nebo většího), můžete skočit na jeho záda. Když jste na tvorovi, Vaše útoky na blízko proti němu mají [[z_Atomy/0-9/👍\|👍]] a jakékoli poškození, kterému se vyhnete, je způsobeno jemu místo Vás.
+- **Vlez mi na záda!** Když se pohybujete pomocí **Kroku větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]), pokud se dostanete do prostoru bytosti stejně velkého (nebo většího), můžete skočit na jeho záda. Když jste na bytosti, Vaše útoky na blízko proti němu mají [[z_Atomy/0-9/👍\|👍]] a jakékoli poškození, kterému se vyhnete, je způsobeno jemu místo Vás.
 ⠀
 - **Šmouha**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když použijete reakci [[z_Atomy/0-9/🛡️\|🛡️]], můžete se nejdřív pohnout až o polovinu svého [[z_Atomy/0-9/🏃\|🏃]] pryč, aniž byste utrpěli poškození, pokud se dostanete mimo [[z_Atomy/0-9/🫱\|🫱]] útoku.
 ⠀
@@ -19,12 +19,12 @@
 ⠀
 - **Přesun vzduchem**. Nepřátele na Vás nemůžou použít [[z_Atomy/CH/Chycení\|Chycení]], pokud jste při vědomí. Při pohybu můžete cestovat přes jakýkoli terén, jako by to byla normální zem, ignorujete všechny negativní efekty terénů (např. stěny/stropy, voda, vrcholky stromů, láva, hroty, mraky atd.).
 ⠀
-- **Štědrá duše**. Když poprvé v tahu obdržíte léčení, můžete obnovit [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/💖\|💖]]  jinému tvorovi do vzdálenosti 6 metrů od Vás.
+- **Štědrá duše**. Když poprvé v tahu obdržíte léčení, můžete obnovit [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/💖\|💖]]  jiné bytosti do vzdálenosti 6 metrů od Vás.
 ⠀
 - **Vytrvalá duše**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte [[z_Atomy/0-9/🟥\|🟥]] rovné Akcím, které máte v prvním tahu. Tyto kostky životů vyprší na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
 - **Disciplinovaná trpělivost**. Kdykoli minete útok, získáte kumulativní bonus +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k veškerému poškození, které způsobíte po zbytek tohoto [[z_Atomy/S/Střetnutí\|Střetnutí]] (disciplinovaný bojovník nemine úmyslně).
 ⠀
-- **Větrný chodec**. Pokud procházíte prostorem ochotného tvora při používání **Kroku větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]), může se přidat k pohybu a zvolit si jakýkoli prostor přilehlý k vaší cestě pohybu, ve kterém skončí.
+- **Větrný chodec**. Pokud procházíte prostorem ochotné bytosti při používání **Kroku větru** ([[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]]), může se přidat k pohybu a zvolit si jakýkoli prostor přilehlý k vaší cestě pohybu, ve kterém skončí.
 ⠀
 - **Hluboká trpělivost**. Můžete utratit 1 Akci k ukončení jakéhokoli svého stavu. ([[z_Atomy/S/Stavy\|Stavy]])

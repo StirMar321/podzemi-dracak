@@ -46,15 +46,13 @@ Pokud hodíte na kostkách stejně, odstranění kostek zleva doprava vždy vede
 
 
 Můžete nashromáždit více výhod nebo nevýhod. **1 výhoda se vyruší s 1 nevýhodou**. Pokud hodíte na kostkách stejně, odstranění kostek zleva doprava vždy vede k preferovanému výsledku.
-
-
 Například:
 
 | 1   | 2   | 3   |
 | --- | --- | --- |
-| +   | +   | +   |
-| -   | -   |     |
+| 👍  | 👍  | 👍  |
+| 👎  | 👎  |     |
+Znamená že máte **1 výhodu** pro váš hod.
 
-Znamená že máte 1 výhodu pro váš hod.
-
-[[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může také umožnit až 1 dalšímu hrdinovi [[z_Atomy/0-9/🆘\|🆘]] s jakýmkoli [[z_Atomy/0-9/❓\|❓]], pokud hráči rozumně vysvětlí, jak by mohli pomoc. [[3 Povolání/Berserk\|Berserk]] s **-2** v [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/H/Historie (📖)\|Historie (📖)]] pravděpodobně nemůže pomoci s identifikací mystického symbolu. Pokud má hrdina opravdu skvělý nápad nebo si to situace žádá, může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] dovolit hrdinovi uspět automaticky bez nutnosti hodu.
+> [!NOTE]- **Nezapomeňte!**
+> [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může také umožnit až 1 dalšímu hrdinovi reagovat [[z_Atomy/0-9/🆘\|🆘]] když někdo provádí  [[z_Atomy/0-9/⚔️\|⚔️]]/[[z_Atomy/0-9/❗\|❗]]/[[z_Atomy/0-9/❓\|❓]], pokud hráči rozumně vysvětlí, jak by mohli asistovat. [[3 Povolání/Berserk\|Berserk]] s **-2** body v [[z_Atomy/H/Historie (📖)\|Historii]] pravděpodobně nemůže pomoci s identifikací mystického symbolu. Pokud má hrdina opravdu skvělý nápad nebo si to situace žádá, může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] dovolit hrdinovi uspět automaticky bez nutnosti hodu.

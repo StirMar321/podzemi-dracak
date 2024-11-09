@@ -3,4 +3,4 @@
 ---
 
 # Oblast
-Oblast kde působí efekt.
+Oblast, kde působí efekt.

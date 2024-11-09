@@ -18,7 +18,7 @@
 ⠀
 - **Vůdce smečky**. [[z_Atomy/0-9/👍\|👍]] proti stavům [[z_Atomy/V/Vystrašen\|Vystrašen]] a [[z_Atomy/O/Očarován\|Očarován]] pro Vás a spojence do 12 metrů.
 ⠀
-- **Chapadlo**. Tvorové, které zasáhnete v boji na blízko a kteří jsou stejně velcí nebo menší, mají stav [[z_Atomy/CH/Chycen\|Chycen]]. Pokud zasáhnete většího tvora, můžete se s ním pohybovat, když se pohybuje.
+- **Chapadlo**. Bytosti, které zasáhnete v boji na blízko a které jsou stejně velké nebo menší, budou [[z_Atomy/CH/Chycen\|Chyceny]]. Pokud zasáhnete větší bytost, můžete se s ní pohybovat, když se pohybuje.
 ⠀
 - **Okřídlený**. +2 metry pro vaší [[z_Atomy/0-9/🏃\|🏃]] a máte schopnost [[z_Atomy/L/Létání\|Létání]]. [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]] Vás posouvá dvakrát tolik.
 ⠀

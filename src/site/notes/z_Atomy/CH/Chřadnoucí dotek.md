@@ -7,7 +7,7 @@
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
 
-Cíl v dosahu utrží **1k12** nekrotického poškození. 
-Cíl je považován za *nemrtvého* do konce Vašeho příštího tahu.
+Cíl utrží **1k12** nekrotického poškození. 
+Cíl je považován za *nemrtvého* do konce Vašeho příštího [[z_Atomy/T/Tah\|Tahu]].
 
 **Vyšší úrovně**: +**6** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
