@@ -20,9 +20,9 @@ Patří mezi nejzkušenějšími vojáky na světě! Velitelé jsou mistři vše
 (Bojovník)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]       | [[z_Atomy/0-9/🟥\|🟥]]   | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]<br>              | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]]<br> | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]]<br> | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]             |
-| ------------ | -------- | --------------- | ------------------------------ | ------------------------------------ | ------------------------------------ | -------------------------------- |
-| [[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/📖\|📖]] | **1k10** | **17**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/K/Kroužky\|Kroužky]], [[z_Atomy/S/Štíty\|Štíty]]               | Všechny                              | Krátký meč, Oštěp, Rezavá košile |
+| [[z_Atomy/0-9/🗝\|🗝]]       | [[z_Atomy/0-9/🟥\|🟥]]   | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]<br>              | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]]<br> | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]]<br> | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]              |
+| ------------ | -------- | --------------- | ------------------------------ | ------------------------------------ | ------------------------------------ | --------------------------------- |
+| [[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/📖\|📖]] | **1k10** | **17**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/K/Kroužky\|Kroužky]], [[z_Atomy/S/Štíty\|Štíty]]               | Všechny                              | Krátký meč, Oštěpy, Rezavá košile |
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-velitele/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -31,7 +31,7 @@ Patří mezi nejzkušenějšími vojáky na světě! Velitelé jsou mistři vše
 
 
 ## LVL 1
-- **Příkaz velitele**. Vyberte si **dva** [[z_Atomy/P/Příkaz velitele\|Příkazy Velitele]], které umíte.
+- **Příkaz velitele**. Vyberte si **dva** [[z_Atomy/P/Rozkazy\|Rozkazy]], které umíte.
 ## LVL 2
 - **Koordinovaný útok!** Získáte schopnost [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]
 
@@ -41,23 +41,25 @@ Patří mezi nejzkušenějšími vojáky na světě! Velitelé jsou mistři vše
 
 
 ## Koordinovaný útok! 
-Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
-1/[[z_Atomy/K/Kolo\|Kolo]] ve svém [[z_Atomy/T/Tah\|Tahu]]
-
-**Vy a spojenec** v dosahu do 6 metrů můžete okamžitě provést [[z_Atomy/0-9/⚔️\|⚔️]] zbraní nebo seslat **Trik** zdarma.
+**Max Nabití ([[z_Atomy/0-9/🔀\|🔀]]) = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)**
+**1/[[z_Atomy/K/Kolo\|Kolo]] ve svém [[z_Atomy/T/Tah\|Tahu]]**
+[[z_Atomy/0-9/🫱\|🫱]] 6 metrů
+**[[z_Atomy/A/AKCE\|AKCE]] Zdarma**
+⠀
+**Vy a spojenec** v dosahu můžete okamžitě provést [[z_Atomy/0-9/⚔️\|⚔️]] zbraní nebo seslat **Trik** zdarma.
 
 </div></div>
 
 - **Polní Lékař.** Házíte **jednu** extra kostku pro **jakýkoli** [[z_Atomy/L/Léčivý lektvar\|Léčivý lektvar]], který použijete. Kdykoli Vy nebo spojenec utratí jakýkoli počet [[z_Atomy/0-9/🟥\|🟥]] pro obnovení [[z_Atomy/0-9/💖\|💖]], pokud jste alespoň 10 minut zkoumali jejich zdravotní stav, mohou přidat váš bonus [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] k obnoveným [[z_Atomy/0-9/💖\|💖]].
 ## LVL 3
-- **Strategie Velitele**. Vyberte si **podtřídu** [[z_Atomy/S/Strategie Velitele\|Strategie Velitele]].
+- **Strategie Velitele**. Vyberte si **podtřídu**. [[z_Atomy/S/Strategie Velitele\|Strategie Velitele]].
 ## LVL 4
-- **Připravený na bojiště**. Vyberte **jednu** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]]. Kdykoli trénujete se svou skupinou nebo jinými vojáky za [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]] nebo [[z_Atomy/P/Příkaz velitele\|Příkaz velitele]], kterou znáte za jinou, stejného typu.
+- **Připravený na bojiště**. Vyberte **jednu** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 5
-- **Koordinátor**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte +1 použití schopnosti [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]). Váš [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] ignoruje [[z_Atomy/0-9/👎\|👎]]. 
+- **Koordinátor**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte jedno [[z_Atomy/0-9/🔀\|🔀]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]). Váš [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] ignoruje [[z_Atomy/0-9/👎\|👎]]. 
 - **Mistr Velitel**. Vaše **[[z_Atomy/0-9/♐\|♐]]** jsou **k8**.
-- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 6
 - **Připravený na bojiště (2).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
 - **Mistroství zbraní**. 2/[[z_Atomy/K/Kolo\|Kolo]] můžete vytasit jinou zbraň zdarma. Vyberte si **jedno** [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]].
@@ -67,7 +69,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Připravený na bojiště (3).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 9
-- **Mistr Velitel (2).** Vaše [[z_Atomy/0-9/♐\|♐]] jsou **k10**. Máte +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
+- **Mistr Velitel (2).** Vaše [[z_Atomy/0-9/♐\|♐]] jsou **k10**. Získáte +1[[z_Atomy/0-9/🔀\|🔀]]/[[z_Atomy/0-9/🔋\|🔋]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 10
 - **Připravený na bojiště (4).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
@@ -78,7 +80,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Připravený na bojiště (5).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 13
-- **Mistr Velitel (3).** Vaše [[z_Atomy/0-9/♐\|♐]] jsou **k12**. Máte +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
+- **Mistr Velitel (3).** Vaše [[z_Atomy/0-9/♐\|♐]] jsou **k12**. Získáte +1[[z_Atomy/0-9/🔀\|🔀]]/[[z_Atomy/0-9/🔋\|🔋]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 14
 - **Mistroství zbraní (3)**. Znáte **všechny** [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]].
@@ -88,7 +90,7 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Připravený na bojiště (6).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 17
-- **Mistr Velitel (4).** Vaše [[z_Atomy/0-9/♐\|♐]] jsou **k20**. +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]].
+- **Mistr Velitel (4).** Vaše [[z_Atomy/0-9/♐\|♐]] jsou **k20**. Získáte +1[[z_Atomy/0-9/🔀\|🔀]]/[[z_Atomy/0-9/🔋\|🔋]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 18
 - **Nepřekonatelná Taktika.** Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] poprvé ve [[z_Atomy/S/Střetnutí\|Střetnutí]], **vybraný** spojenec získá 1 další Akci, kterou může použít ve svém příštím tahu.
@@ -96,32 +98,32 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 - **Epický Dar.** Vyberte si jeden [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
 - **Nepřekonatelná Taktika (2)**. 
-	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**.
+	- Zvyšte své dvě [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**.
 	- Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] poprvé ve [[z_Atomy/S/Střetnutí\|Střetnutí]], **KAŽDÝ** spojenec do 12 metrů získá 1 další Akci.
 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/p/prikaz-velitele/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/p/rozkazy/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Příkaz Velitele! 
+# Rozkazy!
 >[!NOTE]- **Změna je život**
->Kdykoli trénujete se svou skupinou nebo jinými vojáky za [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu schopnost [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]] nebo [[z_Atomy/P/Příkaz velitele\|Příkaz velitele]] za jinou.
+>Kdykoli trénujete se svou skupinou nebo jinými vojáky za [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit **jednu** [[z_Atomy/V/Válečné Taktiky\|Válečnou taktiku]] nebo **jeden** [[z_Atomy/P/Rozkazy\|Rozkaz]] za jiný.
 
-- **Já jsem tady!** [[z_Atomy/R/REAKCE\|REAKCE]] ([[z_Atomy/0-9/💥\|💥]] proti spojenci do 12 metrů): Můžete přikázat nepříteli, aby vám čelil. Je [[z_Atomy/P/Provokován\|Provokován]], dokud Vaše [[z_Atomy/0-9/💖\|💖]] neklesnou na **0**.
+- **Čel mi!** [[z_Atomy/R/REAKCE\|REAKCE]]:[[z_Atomy/0-9/💥\|💥]] proti spojenci do 12 metrů. Můžete přikázat nepříteli, aby vám čelil. Je [[z_Atomy/P/Provokován\|Provokován]], dokud Vaše [[z_Atomy/0-9/💖\|💖]] neklesnou na **0**.
 ⠀
 - **Pohyb, pohyb!** Můžete sobě a jednomu spojenci dát [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/🏁\|🏁]] a +3 metry [[z_Atomy/0-9/🏃\|🏃]] v prvním [[z_Atomy/K/Kolo\|kole]] [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
-- **Drž linii!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (spojencovi [[z_Atomy/0-9/💖\|💖]] klesnou na **0**): Přikážete mu pokračovat v boji! Jeho [[z_Atomy/0-9/💖\|💖]] se obnoví na **(3x[[z_Atomy/L/LVL\|LVL]])**. 
+- **Drž linii!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]]: spojencovy [[z_Atomy/0-9/💖\|💖]] klesnou na **0**. Přikážete mu pokračovat v boji! Jeho [[z_Atomy/0-9/💖\|💖]] se obnoví na **(3x[[z_Atomy/L/LVL\|LVL]])**. 
 ⠀
-- **Zaujmout pozice!** **[[z_Atomy/A/AKCE\|AKCE]] / [[z_Atomy/R/REAKCE\|REAKCE]]**: Přikažte 1 spojenci, aby se zdarma pohnul až o svou [[z_Atomy/0-9/🏃\|🏃]] pohybu nebo 2 spojencům až o polovinu jejich [[z_Atomy/0-9/🏃\|Rychlosti]].
+- **Zaujmout pozice!** [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/R/REAKCE\|REAKCE]]: Přikažte jednomu spojenci, aby se zdarma pohnul až o svou [[z_Atomy/0-9/🏃\|🏃]] pohybu nebo dvěma spojencům až o polovinu jejich [[z_Atomy/0-9/🏃\|🏃]].
 ⠀
-- **Rozchoď to!**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**): Můžete utratit své [[z_Atomy/0-9/🟥\|🟥]] a obnovit své [[z_Atomy/0-9/💖\|💖]] na hozenou hodnotu.
+- **Rozchoď to!**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]]: Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**. Můžete použít své [[z_Atomy/0-9/🟥\|🟥]] a obnovit si [[z_Atomy/0-9/💖\|💖]] na hozenou hodnotu.
 ⠀
-- **Štíty nahoru!** [[z_Atomy/R/REAKCE\|REAKCE]] (útočí na spojence): Přikažte spojenci aby použil [[z_Atomy/0-9/🛡️\|🛡️]] zdarma.
+- **Štíty nahoru!** [[z_Atomy/R/REAKCE\|REAKCE]]: [[z_Atomy/0-9/⚔️\|⚔️]] na spojence. Přikažte spojenci aby se zdarma [[z_Atomy/0-9/🛡️\|🛡️]].
 
 </div></div>
 
@@ -133,20 +135,22 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 
 # Válečné Taktiky
 >[!NOTE]- **Změna je život**
->Kdykoli trénujete se svou skupinou nebo jinými vojáky během [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu schopnost [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]], [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] nebo [[z_Atomy/P/Příkaz velitele\|Příkaz velitele]], kterou znáte za jinou, stejného typu.
+>Kdykoli trénujete se svou skupinou nebo jinými vojáky během [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu schopnost [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]], [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] nebo [[z_Atomy/P/Rozkazy\|Rozkazy]], kterou znáte za jinou, stejného typu.
 
 > [!NOTE]+ **Kostky Války**
-> Kdykoli házíte [[z_Atomy/0-9/🏁\|🏁]], získáte **[[z_Atomy/0-9/♐\|♐]]** rovné Vaší ([[z_Atomy/0-9/📖\|📖]]) (min. 1). Jejich základní velikost je **k6**. Jednou během [[z_Atomy/0-9/⚔️\|Útoku]] můžete utratit jednu **Válečnou Kostku** pro provedení **Válečné taktiky**.
+> Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], získáte **Kostky Války** ([[z_Atomy/0-9/♐\|♐]]) rovné Vaší [[z_Atomy/0-9/📖\|📖]]. Jednou za útok můžete utratit jednu **Válečnou Kostku** pro provedení [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]].
 
-- **Silný úder**. **1** [[z_Atomy/0-9/♐\|♐]]. Když Váš [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, odstrčíte **Střední** bytost o [[z_Atomy/0-9/💪\|💪]] metrů a udělíte dodatečné poškození rovné hodnotě hodu **[[z_Atomy/0-9/♐\|♐]]**. **Malá** bytost je odstrčena dvakrát tak daleko; **Velká** jen o polovinu (zaokrouhleno dolů). (viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])
+Velikost je v základu **k6** a zvyšuje se na **určitých** [[z_Atomy/L/LVL\|LVL]].
+
+- **Silný úder**. **1** [[z_Atomy/0-9/♐\|♐]]: Když Váš [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, odstrčíte **Střední** bytost o [[z_Atomy/0-9/💪\|💪]] metrů a udělíte dodatečné poškození rovné hodnotě hodu **[[z_Atomy/0-9/♐\|♐]]**. **Malá** bytost je odstrčena dvakrát tak daleko; **Velká** jen o polovinu (zaokrouhleno dolů). (viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])
 ⠀
-- **Neomylný úder**. **1** [[z_Atomy/0-9/♐\|♐]]. Když mine Váš [[z_Atomy/0-9/⚔️\|⚔️]], utraťte **1** [[z_Atomy/0-9/♐\|♐]] a zaútočte znovu na stejný cíl. Způsobte dodatečné poškození rovné vaší **[[z_Atomy/0-9/♐\|♐]]**. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
+- **Neomylný úder**. **1** [[z_Atomy/0-9/♐\|♐]]: Když mine Váš [[z_Atomy/0-9/⚔️\|⚔️]], utraťte **1** [[z_Atomy/0-9/♐\|♐]] a zaútočte znovu na stejný cíl. Způsobte dodatečné poškození rovné vaší **[[z_Atomy/0-9/♐\|♐]]**. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
 ⠀
-- **Výpad**. **1** [[z_Atomy/0-9/♐\|♐]]. Přidejte 1 metr k [[z_Atomy/0-9/🫱\|Dosahu]] Vašeho útoku a způsobte dodatečné poškození rovné **2x([[z_Atomy/0-9/♐\|♐]])**.
+- **Výpad**. **1** [[z_Atomy/0-9/♐\|♐]]: Přidejte 1 metr k [[z_Atomy/0-9/🫱\|🫱]] Vašeho útoku a způsobte dodatečné poškození rovné **2x([[z_Atomy/0-9/♐\|♐]])**.
 ⠀
 - **Široký úder**. **1** [[z_Atomy/0-9/♐\|♐]] a **1** [[z_Atomy/A/AKCE\|AKCE]]: Vyberte libovolný počet sousedních políček ve Vašem dosahu a zasáhnete VŠECHNY cíle v oblasti. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
 ⠀
-- **Komandér**. **1** [[z_Atomy/0-9/♐\|♐]] a **1** [[z_Atomy/A/AKCE\|AKCE]]: Zařvěte příkaz až o 2 slovech na nepřítele. Pokud cíl neuspěje [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]:[[z_Atomy/0-9/📶\|📶]]**(10+[[z_Atomy/0-9/📖\|📖]])**, musí celý svůj další [[z_Atomy/T/Tah\|Tah]] strávit plněním rozkazu, pokud pro něj není zjevně nebezpečný. Cíl je poté vůči Velitelské přítomnosti **Imunní** po dobu 1 dne.
+- **Komandér**. **1** [[z_Atomy/0-9/♐\|♐]] a **1** [[z_Atomy/A/AKCE\|AKCE]]: Zařvěte příkaz až o 2 slovech na nepřítele. Pokud cíl neuspěje **[[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]:[[z_Atomy/0-9/📶\|📶]](10+[[z_Atomy/0-9/📖\|📖]])**, musí celý svůj další [[z_Atomy/T/Tah\|Tah]] strávit plněním rozkazu, pokud pro něj není zjevně nebezpečný. Cíl je poté vůči Velitelské přítomnosti **Imunní** po dobu 1 dne.
 
 </div></div>
 
@@ -157,11 +161,11 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 
 
 # Mistrovství zbraní
-2/[[z_Atomy/K/Kolo\|Kolo]] můžete vytasit jinou zbraň zdarma. 
-
-- **Drtící** Mistr. Když na [[z_Atomy/P/Primární kostka\|Primární kostce]] padne 7+ pro **drtivou** zbraň, můžete ignorovat **těžké** [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
+2/[[z_Atomy/K/Kolo\|Kolo]] můžete tasit jinou zbraň zdarma. 
 ⠀
-- **Bodný** Mistr. Vaše útoky s **bodnými** zbraněmi ignorují **střední** [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
+- **Drtící** Mistr. Když na [[z_Atomy/P/Primární kostka\|Primární kostce]] padne 7+ pro **drtivou** zbraň, můžete ignorovat [[z_Atomy/0-9/⛊\|⛊]].
+⠀
+- **Bodný** Mistr. Vaše útoky s **bodnými** zbraněmi ignorují [[z_Atomy/0-9/⛉\|⛉]].
 ⠀
 - **Sečný** Mistr. Vaše útoky se **sečnými** zbraněmi nemohou minout **neobrněné** nepřátele.
 
@@ -182,14 +186,14 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 
 ## Strategie Bašty
 ### LVL 3
-- **Mistr Brnění**. Máte [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro plátové zbroje.
-- **Expert Štítu**. Pokud jste vybaveni štítem, můžete použít reakci k [[z_Atomy/0-9/🛡️\|🛡️]] **dvakrát** za [[z_Atomy/K/Kolo\|Kolo]]. Když poprvé zablokujete veškeré poškození z útoku za kolo, můžete zdarma provést [[z_Atomy/0-9/🛑\|🛑]] proti útočníkovi.
+- **Mistr Brnění**. Máte [[z_Atomy/Z/Zdatnost\|Zdatnost]] pro [[z_Atomy/P/Plát\|Plátové zbroje]].
+- **Expert Štítu**. Pokud jste vybaveni [[z_Atomy/S/Štíty\|Štítem]], můžete použít reakci k [[z_Atomy/0-9/🛡️\|🛡️]] **dvakrát** za [[z_Atomy/K/Kolo\|Kolo]]. Když poprvé zablokujete veškeré poškození z útoku za [[z_Atomy/K/Kolo\|Kolo]], můžete zdarma provést [[z_Atomy/0-9/🛑\|🛑]] proti útočníkovi.
 
 ### LVL 7
-- **Obrněnec**. Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]], způsobíte navíc poškození rovné Vašemu [[z_Atomy/B/Brnění\|Brnění]] a neminete při hodu 1.
+- **Obrněnec**. Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]], způsobíte navíc poškození rovné Vašemu [[z_Atomy/B/Brnění\|Brnění]] a nemůžete minout.
 
 ### LVL 11
-- **Provokující Úder**. 1/[[z_Atomy/K/Kolo\|Kolo]] Můžete způsobit stav [[z_Atomy/P/Provokován\|Provokován]] jedné bytosti, kterou zasáhnete, do konce jeho příštího [[z_Atomy/T/Tah\|Tahu]].
+- **Provokující Úder**. 1/[[z_Atomy/K/Kolo\|Kolo]] Můžete [[z_Atomy/P/Provokován\|Provokovat]] jednu bytost, kterou zasáhnete, do konce její příštího [[z_Atomy/T/Tah\|Tahu]].
 
 ### LVL 15
 - **Štítová Zeď**. Spojenci do 2 metrů od Vás získají všechny bonusy Vašeho štítu, který máte v ruce.
@@ -204,16 +208,16 @@ Max Nabití = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)
 
 ## Strategie Předvoje
 ### LVL 3
-- **Vpřed!** 1/[[z_Atomy/K/Kolo\|Kolo]]. Po pohybu směrem k nepříteli získáte [[z_Atomy/0-9/👍\|👍]] na první útok zblízka proti němu. Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]], můžete se vy a všichni spojenci do 12 metrů od Vás nejprve pohnout až o polovinu své [[z_Atomy/0-9/🏃\|🏃]] zdarma.
+- **Vpřed!** 1/[[z_Atomy/K/Kolo\|Kolo]]. Po [[z_Atomy/0-9/🥾\|🥾]] směrem k nepříteli získáte [[z_Atomy/0-9/👍\|👍]] pro první [[z_Atomy/0-9/⚔️\|⚔️]] zblízka. Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]], můžete se Vy a všichni spojenci do 12 metrů od Vás nejprve pohnout až o polovinu své [[z_Atomy/0-9/🏃\|🏃]] zdarma.
 
 ### LVL 7
-- **Zkušený Velitel**. Váš [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] může zacílit +1 dalšího spojence. Získejte +1 použití [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]/[[z_Atomy/0-9/🔋\|🔋]]
+- **Zkušený Velitel**. Váš [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] může zacílit jednoho dalšího spojence. Získejte +1[[z_Atomy/0-9/🔀\|🔀]]/[[z_Atomy/0-9/🔋\|🔋]]
 
 ### LVL 11
-- **Zkoumání Bojiště**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte +1 použití pro [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]
+- **Zkoumání Bojiště**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte +1[[z_Atomy/0-9/🔀\|🔀]].
 
 ### LVL 15
-- **Jako Jeden!** Útoky provedené s vaším [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] také poskytují [[z_Atomy/0-9/👍\|👍]] a ignorují [[z_Atomy/0-9/👎\|👎]]. Vybraní spojenci získají 1 akci, kterou mohou použít ve svém příštím tahu.
+- **Jako Jeden!** [[z_Atomy/0-9/⚔️\|⚔️]] provedené s Vaším [[z_Atomy/K/Koordinovaný útok!\|Koordinovaným útokem!]] dávají [[z_Atomy/0-9/👍\|👍]] a ignorují [[z_Atomy/0-9/👎\|👎]]. Vybraní spojenci získají 1 [[z_Atomy/A/AKCE\|Akci]], kterou mohou použít ve svém příštím [[z_Atomy/T/Tah\|Tahu]].
 
 </div></div>
 

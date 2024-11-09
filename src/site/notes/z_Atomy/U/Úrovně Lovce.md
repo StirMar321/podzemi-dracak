@@ -12,32 +12,31 @@
 
 ## Lovcova Marka
 **1 [[z_Atomy/A/AKCE\|Akce]]**
-
-Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_Atomy/K/Kořist\|Kořist]]** na jeden den nebo dokud neoznačíte jiný cíl. Cíl se před vámi nemůže skrýt a Vaše útoky proti označenému cíli působí **+[[z_Atomy/L/LVL\|LVL]]** poškození.
+⠀
+Cíl, který vidíte, bude označen jako Vaše **[[z_Atomy/K/Kořist\|Kořist]]** na jeden den nebo dokud neoznačíte jiný cíl. Cíl se před vámi nemůže skrýt a Vaše útoky proti označenému cíli působí **+[[z_Atomy/L/LVL\|LVL]]/**[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] poškození (vyberte vyšší).
 
 </div></div>
 
 - **Sběrač**. Vaše [[z_Atomy/0-9/❓\|❓]] pro hledání jídla a vody mají [[z_Atomy/0-9/👍\|👍]].
 ## LVL 2
-- **Lovecká horečka**. Adrenalin při sledování vaší kořisti vám poskytuje dodatečné schopnosti v boji. Vyberte **2 schopnosti** [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].  Získáte +1[[z_Atomy/0-9/❇️\|❇️]], když:
+- **Lovecká horečka**. Adrenalin při sledování vaší kořisti vám poskytuje dodatečné schopnosti v boji. Vyberte **2 schopnosti** [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].  Získáte +1[[z_Atomy/0-9/❇️\|❇️]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]), když:
 	- se hází [[z_Atomy/0-9/🏁\|🏁]]
-	- když **Vy** zabijete Vaši [[z_Atomy/K/Kořist\|Kořist]]. 
-	- udeříte [[z_Atomy/K/Kořist\|Kořist]] útokem zblízka. 
-	Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
-- **Let's finish this!**. Pokud nemáte **žádné** nabití Lovecké horečky, považujte všechny své útoky na blízko, jako by byly proti Vaší [[z_Atomy/K/Kořist\|Kořisti]].
+	- Vaše [[z_Atomy/K/Kořist\|Kořist]] zemře
+	- [[z_Atomy/0-9/⚔️\|⚔️]] na [[z_Atomy/K/Kořist\|Kořist]] útokem na blízko
+- **Pojďme to skončit!**. Pokud nemáte **žádné** [[z_Atomy/0-9/❇️\|❇️]], považujte všechny své [[z_Atomy/0-9/⚔️\|⚔️]] na blízko, jako by byly proti Vaší [[z_Atomy/K/Kořist\|Kořisti]] do konce [[z_Atomy/K/Kolo\|Kola]].
 ## LVL 3
-- **Zaměření Lovce**. Vyberte si **podtřídu** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
-- **Stopařův instinkt**. Když zkoumáte stopy, můžete si přesně představit co a jak se kde odehrálo. Určíte **velikost**, **druh** a **množství** bytostí, **směr**, kterým se vydali, **klíčové** momenty a **čas**, kdy se odehráli.
+- **Zaměření Lovce**. Vyberte si **podtřídu**. [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
+- **Stopařův instinkt**. Když zkoumáte stopy nebo prostředí, můžete si přesně představit co a jak se kde odehrálo. Určíte **velikost**, **druh** a **množství** bytostí, **směr**, kterým se vydali, **klíčové** momenty a **čas**, kdy se odehráli.
 ## LVL 4
-- **Lovecká horečka (2)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]]. Kdykoli strávíte [[z_Atomy/0-9/🔋\|🔋]] v divočině, můžete vyměnit jednu schopnost kterou znáte, za jinou.
+- **Lovecká horečka (2)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
 - **Průzkumník Divočiny**. +2 metry k Vaší [[z_Atomy/0-9/🏃\|🏃]]. Získáte schopnost **šplhat**.
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
-- **Doražení**. 1 nabití Lovecké horečky a 1 [[z_Atomy/A/AKCE\|AKCE]]: Proveďte útok na blízko proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] [[z_Atomy/K/Kořist\|Kořisti]]. Automaticky se počítá jako [[z_Atomy/0-9/💥\|💥]] a zdvojnásobte poškození z [[z_Atomy/L/Lovcova marka\|Lovcovy marky]]. Pokud kořist přežije, udělí vám [[z_Atomy/0-9/💥\|💥]] zpět.
+- **Doražení**. 1[[z_Atomy/0-9/❇️\|❇️]] a 1 [[z_Atomy/A/AKCE\|AKCE]]: Proveďte [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] [[z_Atomy/K/Kořist\|Kořisti]]. Automaticky se počítá jako [[z_Atomy/0-9/💥\|💥]] a zdvojnásobte poškození z [[z_Atomy/L/Lovcova marka\|Lovcovy marky]]. Pokud kořist přežije, udělí vám [[z_Atomy/0-9/💥\|💥]] zpět.
 - **Zkušený Stopař**. Získáte +1[[z_Atomy/0-9/❇️\|❇️]], když **VY** zabijete [[z_Atomy/K/Kořist\|Kořist]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6
-- **Mistr Lukostřelby**. Kdykoli zaútočíte s **dlouhým lukem**, můžete házet **2k4** nebo **1k8**. S **kuší** **4k4** nebo **2k8**.
+- **Mistr Lukostřelby**. Kdykoli zaútočíte s **dlouhým lukem**, můžete házet **2k4** / **1k8**. S **kuší** **4k4** / **2k8**. (viz [[z_Atomy/Z/Zbraně na dálku\|Zbraně na dálku]])
 - **Lovecká horečka (3)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
 ## LVL 7
 - **Zaměření Lovce**. Získáte schopnost **podtřídy** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
@@ -45,13 +44,13 @@ Cíl, který vidíte do vzdálenosti 40 metrů, bude označen jako Vaše **[[z_A
 - **Lovecká horečka (4)**. Vyberte **další** schopnost [[z_Atomy/L/Lovecká horečka\|Lovecké horečky]].
 - **Zvýšení klíčové Statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 9
-- **Neunikneš mi**. Kdykoli uvidíte jednoho nebo více spojenců provést [[z_Atomy/0-9/🛑\|🛑]], můžete také provést [[z_Atomy/0-9/🛑\|🛑]] **na dálku** proti stejnému cíli.
+- **Neunikneš mi**. Kdykoli uvidíte jednoho nebo více spojenců provést [[z_Atomy/0-9/🛑\|🛑]], můžete provést [[z_Atomy/0-9/🛑\|🛑]] **na dálku** proti stejnému cíli.
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 10
-- **Zkušený Stopař (2)**. Dostanete +1[[z_Atomy/0-9/❇️\|❇️]], když: 
-	- jste poprvé [[z_Atomy/Z/Zkrvaven\|Zkrvaven]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]].
-	- utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
-- **Bystré oko, pevná ruka**. Přidejte +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k poškození [[z_Atomy/Z/Zbraně na dálku\|Zbraně na dálku]].
+- **Zkušený Stopař (2)**. Dostanete +1[[z_Atomy/0-9/❇️\|❇️]], když:
+	- jste poprvé [[z_Atomy/Z/Zkrvaven\|Zkrvaven]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]]
+	- utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]
+- **Bystré oko, pevná ruka**. +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k poškození [[z_Atomy/Z/Zbraně na dálku\|Zbraně na dálku]].
 ## LVL 11
 - **Zaměření Lovce**. Získáte schopnost **podtřídy** [[z_Atomy/Z/Zaměření Lovce\|Zaměření Lovce]].
 ## LVL 12

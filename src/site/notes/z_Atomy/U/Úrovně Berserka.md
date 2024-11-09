@@ -11,28 +11,28 @@
 
 
 ## Zuřivost
-**1 Akce**
+**1 [[z_Atomy/A/AKCE\|AKCE]]**
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 
-Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odložte ji stranou. Přičtěte ji ke každému Vašemu [[z_Atomy/0-9/💪\|💪]] útoku na blízko. Maximální počet [[z_Atomy/0-9/♈\|♈]] je roven Vašemu [[z_Atomy/L/LVL\|LVL]] a zmizí, když Vaše **Zuřivost** skončí.
+Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odložte ji stranou. Přičtěte ji ke každému Vašemu [[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/⚔️\|⚔️]]. 
+Maximální počet [[z_Atomy/0-9/♈\|♈]] je roven Vašemu [[z_Atomy/L/LVL\|LVL]] a zmizí, když Vaše **Zuřivost** skončí.
 
 >[!NOTE]- **Vaše zuřivost skončí, když:** 
->Opustíte boj, Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, uběhne 1 [[z_Atomy/K/Kolo\|Kolo]] boje kdy neudělíte poškození.
+>Opustíte boj, Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, uběhne 1 [[z_Atomy/K/Kolo\|Kolo]] boje, kdy neudělíte poškození.
 >**Ano!** Můžete aktivovat **Zuřivost** i v případě, že už zuříte. Pokud máte víc [[z_Atomy/0-9/♈\|♈]] než je Váš limit, můžete si vybrat, které se zbavíte.
 
 </div></div>
 
-
-- **To je všechno?!** Když jste napaden, můžete utratit Vaše [[z_Atomy/0-9/♈\|♈]] a získáte **([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/🎯\|🎯]])** [[z_Atomy/0-9/💗\|💗]] za každou.
+- **To je všechno?!** Když jste napaden, můžete utratit Vaše [[z_Atomy/0-9/♈\|♈]] a získáte ([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/0-9/💗\|💗]] za [[z_Atomy/0-9/♈\|♈]]. [[z_Atomy/0-9/💗\|💗]] zmizí, když [[z_Atomy/Z/Zuřivost\|Zuřivost]] skončí.
 ## LVL 2
-- **Intenzivní zuřivost.** Pokud [[z_Atomy/Z/Zuřivost\|Zuříte]] na začátku svého tahu, získáte jednu [[z_Atomy/0-9/♈\|♈]] (1k6).
-- **Rada předků**. 1/den. Když stojíte před rozhodnutím, jakým směrem se vydat nebo jaký postup zvolit, můžete vyvolat své předky, aby Vás vedli po **nejvíc nebezpečné** nebo nejnáročnější cestě.
+- **Intenzivní zuřivost.** Pokud [[z_Atomy/Z/Zuřivost\|Zuříte]] na začátku Vašeho [[z_Atomy/T/Tah\|Tahu]], získáte 1[[z_Atomy/0-9/♈\|♈]].
+- **Rada předků**. 1/den. Když stojíte před rozhodnutím, jakým směrem se vydat nebo jaký postup zvolit, můžete povolat své předky, aby Vás vedli po **nejnebezpečnější** nebo **nejnáročnější** cestě.
 ## LVL 3
-- **Cesta Berserka**. Vyberte si **podtřídu** [[z_Atomy/C/Cesty Berserka\|Cesty Berserka]].
-- **Krvežíznivost**. [[z_Atomy/A/AKCE\|AKCE]] zdarma. Utraťte Vaše [[z_Atomy/0-9/♈\|♈]] během svého tahu a **pohněte** se zdarma až o [[z_Atomy/0-9/🎯\|🎯]] metrů za každou z nich.
+- **Cesta Berserka**. Vyberte si **podtřídu**. ([[z_Atomy/C/Cesty Berserka\|Cesty Berserka]])
+- **Krvežíznivost**. [[z_Atomy/A/AKCE\|AKCE]] zdarma. Utraťte Vaše [[z_Atomy/0-9/♈\|♈]] během svého tahu a **pohněte** se zdarma až o [[z_Atomy/0-9/🎯\|🎯]] metrů za [[z_Atomy/0-9/♈\|♈]].
 ## LVL 4
-- **Vytrvalá zuřivost.** Když máte stav [[z_Atomy/0-9/🩸\|🩸]] na začátku svého tahu, automaticky zdarma začnete [[z_Atomy/Z/Zuřivost\|Zuřit]]. Během [[z_Atomy/0-9/🩸\|🩸]] máte **2 Akce** a **ignorujete** [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] když útočíte.
-- **Divoký arzenál**. Získejte **jednu** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]]. Kdykoli provedete pozoruhodný čin destrukce nebo síly, můžete vyměnit **jednu** schopnost Divokého arzenálu za jinou.
+- **Vytrvalá zuřivost.** Když máte stav [[z_Atomy/0-9/🩸\|🩸]] na začátku svého tahu, automaticky zdarma začnete [[z_Atomy/Z/Zuřivost\|Zuřit]]. Během [[z_Atomy/0-9/🩸\|🩸]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]** a **ignorujete** [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] při [[z_Atomy/0-9/⚔️\|⚔️]].
+- **Divoký arzenál**. Získejte **jednu** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]].
 - **Zvýšení klíčové statistiky.** +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 5
 - **Intenzivní zuřivost (2).** Vaše [[z_Atomy/0-9/♈\|♈]] jsou **k8**.
@@ -74,4 +74,4 @@ Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odlo�
 ## LVL 20
 - **Neomezená zuřivost** 
 	- Zvyšte si dvě [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
-	- Můžete **přehodit** [[z_Atomy/0-9/♈\|♈]], když hodíte méně než 10.
+	- Můžete **přehodit** [[z_Atomy/0-9/♈\|♈]], když hodíte méně než 10. Lze opakovat.

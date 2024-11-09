@@ -43,7 +43,7 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 
 Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
 
-**Vyšší úrovně**: +**2** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
+**Vyšší úrovně**: +**3** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
 </div></div>
 
@@ -55,7 +55,7 @@ Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškozen�
 
 ## Básníkova Inspirace  
 **VOLNÁ [[z_Atomy/R/REAKCE\|REAKCE]]**
-Max. Nabití = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
+[[z_Atomy/0-9/🔔\|🔔]] = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/R/REAKCE\|REAKCE]]: spojenec hodí kostku
 
 Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z výsledků.
@@ -63,62 +63,62 @@ Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z 
 </div></div>
 
 ## LVL 2
-- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** ve školách, které znáte. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
-- **Všeuměl**. Během [[z_Atomy/0-9/🔋\|🔋]] můžete přesunout **jeden** [[z_Atomy/B/Body ⚙️\|Bod Dovednosti]], jako byste získali další [[z_Atomy/L/LVL\|LVL]].
-- **Píseň odpočinku**. 1/Den. Kdykoli za [[z_Atomy/0-9/🪫\|🪫]] můžete spojencům zahrát a umožnit každému, kdo použil [[z_Atomy/0-9/🟥\|🟥]], obnovit [[z_Atomy/0-9/💖\|💖]] rovné Vašemu [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** ve školách, které znáte. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se během [[z_Atomy/0-9/🔋\|🔋]].
+- **Všeuměl**. Během [[z_Atomy/0-9/🔋\|🔋]] můžete přesunout **jeden** [[z_Atomy/B/Body ⚙️\|Bod ⚙️]], jako byste získali další [[z_Atomy/L/LVL\|LVL]].
+- **Píseň odpočinku**. 1/Den. Kdykoli za [[z_Atomy/0-9/🪫\|🪫]] můžete spojencům zahrát a umožnit každému, kdo použil [[z_Atomy/0-9/🟥\|🟥]], obnovit [[z_Atomy/0-9/💖\|💖]] rovné Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 3
-- **Básnické Koleje**. Vyberte si **podtřídu** [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
-- **Pohotový důvtip**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete obnovit 1 nabití [[z_Atomy/B/Básníkova Inspirace\|Básníkovy Inspirace]] (zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]).
+- **Básnické Koleje**. Vyberte si **podtřídu**. [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
+- **Pohotový důvtip**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete obnovit 2[[z_Atomy/0-9/🔔\|🔔]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 - **Kecálek**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
 ## LVL 4
-- **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a posilovat kouzla na 2. stupeň.
-- **Lyrické zbraně**. Vyberte si 1 schopnost [[z_Atomy/L/Lyrické zbraně\|Lyrických zbraní]]. Kdykoli vystoupíte na místě, které Vás inspiruje, nebo si měníte příběhy s jinými schopným bardy a poety během [[z_Atomy/0-9/🔋\|🔋]], můžete vyměnit jednu z těchto schopností za jinou.
+- **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a **posilovat** kouzla na 2. stupeň.
+- **Lyrické zbraně**. Vyberte si 1 schopnost [[z_Atomy/L/Lyrické zbraně\|Lyrických zbraní]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 5
 - **Lidumil**. Jste přirozený [[z_Atomy/L/Lidumil\|Lidumil]]. Vyberte si **2 přátele**, které můžete dočasně přivolat písní. Každého přítele můžete vyvolat jednou za [[z_Atomy/0-9/🔋\|🔋]].
 - **Vylepšené Triky**. Vaše Triky sílí.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
-- **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a posilovat kouzla na 3. stupeň.
+- **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a **posilovat** kouzla na 3. stupeň.
 - **Kecálek (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
 ## LVL 7
 - **Básnické Koleje**. Získáte schopnost [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
 ## LVL 8
-- **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a posilovat kouzla na 4. stupeň.
+- **Kouzla 4. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **4. stupně** a **posilovat** kouzla na 4. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 9
 - **Lyrické zbraně (2)**. Vyberte si **další** schopnost [[z_Atomy/L/Lyrické zbraně\|Lyrických zbraní]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 10
-- **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a posilovat kouzla na 5. stupeň.
+- **Kouzla 5. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **5. stupně** a **posilovat** kouzla na 5. stupeň.
 - **Vylepšené Triky**. Vaše Triky sílí.
 ## LVL 11
 - **Básnické Koleje**. Získáte schopnost [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
 ## LVL 12
-- **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a posilovat kouzla na 6. stupeň.
+- **Kouzla 6. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **6. stupně** a **posilovat** kouzla na 6. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 13
 - **Lyrické zbraně (3)**. Vyberte si **další** schopnost [[z_Atomy/L/Lyrické zbraně\|Lyrických zbraní]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
-- **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a posilovat kouzla na 7. stupeň.
+- **Kouzla 7. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **7. stupně** a **posilovat** kouzla na 7. stupeň.
 - **Kecálek (3)**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z každé známé domény.
 ## LVL 15
 - **Básnické Koleje**. Získáte schopnost [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
 - **Vylepšené Triky**. Vaše Triky sílí.
 ## LVL 16
-- **Kouzla 8. stupně**. Nyní můžete sesílat kouzla **8. stupně** a posilovat kouzla na 8. stupeň.
+- **Kouzla 8. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **8. stupně** a **posilovat** kouzla na 8. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 17
 - **Lyrické zbraně (4)**. Vyberte si **další** schopnost [[z_Atomy/L/Lyrické zbraně\|Lyrických zbraní]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 18
-- **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a posilovat kouzla na 9. stupeň.
+- **Kouzla 9. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **9. stupně** a **posilovat** kouzla na 9. stupeň.
 ## LVL 19
 - **Epický Dar**. Vyberte si jeden [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
-- **Jsem superstar!**. 
-	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
+- **Superstar!**
+	- Zvyšte své dvě [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
 	- Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] způsobí, že cíl **nemůže selhat** svůj hod.
 - **Vylepšené Triky**. Vaše Triky sílí.
 
@@ -134,15 +134,15 @@ Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z 
 >[!NOTE]- **Změna je život**
 > Kdykoli vystoupíte na místě, které Vás inspiruje, nebo si měníte příběhy s jinými schopným bardy a poety během [[z_Atomy/0-9/🔋\|🔋]], můžete vyměnit jednu z těchto schopností za jinou.
 
-- **Ne moji krásnou tvář!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Kdykoli použijete reakci [[z_Atomy/0-9/🛡️\|🛡️]], můžete nejprve přinutit útočníka provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu změňte cíl útoku (pokud žádný není v dosahu, útok selže). Pokud neuspěje o 5+, zaútočí na sebe jako trest za to, že si vůbec mysleli, že vám mohou ublížit! 
+- **Ne moji krásnou tvář!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Kdykoli použijete [[z_Atomy/R/REAKCE\|Reakci]] [[z_Atomy/0-9/🛡️\|🛡️]], můžete nejprve přinutit útočníka provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu změňte cíl [[z_Atomy/0-9/⚔️\|⚔️]] (pokud žádný není v dosahu, útok selže). Pokud neuspěje o 5+, zaútočí na sebe jako trest za to, že vůbec pomysleli na to Vám ublížit! 
 ⠀
 - **Píseň davů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **2 [[z_Atomy/A/AKCE\|AKCE]]**. Zahrajete okouzlující melodii. Všichni nepřátelé do 6 metrů, kteří ji slyší, musí provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu je můžete přesunout až o 6 metrů libovolným směrem a nemohou se pohnout ve svém dalším tahu.
 ⠀
-- **Hrdinská balada**. +1 maximální nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] písní navíc přidává spojenci **(+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** k poškození jeho útoku.
+- **Hrdinská balada**. +2[[z_Atomy/0-9/🔔\|🔔]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] navíc přidává spojenci **(+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** k poškození jeho [[z_Atomy/0-9/⚔️\|⚔️]].
 ⠀
-- **Inspirativní Hymna**. 1/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**. Dáte všem [[z_Atomy/0-9/🩸\|Umírajícím]] spojencům: 1 [[z_Atomy/0-9/💖\|💖]] a 1 Akci.
+- **Inspirativní Hymna**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**. Dáte všem [[z_Atomy/0-9/🩸\|🩸]] spojencům: 1 [[z_Atomy/0-9/💖\|💖]] a 1 Akci.
 ⠀
-- **Pýcha předchází pád**. Když hodíte 4+ pro [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], můžete použít 1 nabití schopnosti [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]], abyste dočasně potlačili jakékoli speciální schopnosti cíle až do konce jeho příštího tahu. Mohou dělat jen to, co by zvládl průměrný vesničan: útočit pouze jednou za **1k4** poškození a pohybovat se až o 6 metrů (žádné [[z_Atomy/0-9/⛉⛊\|⛉⛊]], kouzlení, [[z_Atomy/L/Létání\|Létání]], regenerace, odolnosti/imunity, další vrozené nebo vycvičené schopnosti).
+- **Pýcha předchází pád**. Když hodíte 4+ pro [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], můžete použít 1[[z_Atomy/0-9/🔔\|🔔]], abyste dočasně potlačili jakékoli speciální schopnosti cíle až do konce jeho příštího [[z_Atomy/T/Tah\|Tahu]]. Mohou dělat jen to, co by zvládl průměrný vesničan: útočit pouze jednou za **1k4** poškození a pohybovat se až o 6 metrů (nemají **žádné** [[z_Atomy/0-9/⛉⛊\|⛉⛊]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/L/Létání\|Létání]], regenerace, [[z_Atomy/O/Odolnost\|odolnosti]]/[[z_Atomy/I/Imunita\|imunity]], další vrozené nebo získané schopnosti).
 
 </div></div>
 
@@ -154,7 +154,7 @@ Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z 
 
 # Lidumil
 > [!NOTE]- **Vzhled je na Vás!**
-> Chcete místo Dupáka mluvící balvan? Neváhejte se poradit s vaším [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] a upravit vzhled lidí, které můžete znát, pokud mechanika zůstane zhruba stejná, bavte se!
+> Chcete místo Dupáka mluvící balvan? Neváhejte se poradit s vaším [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] a upravit vzhled bytostí, které můžete znát, pokud mechanika zůstane zhruba stejná, bavte se!
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/dupak/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -163,19 +163,19 @@ Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z 
 
 
 ## Dupák
-**3 Akce**
-Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště vedle Vás a použije [[z_Atomy/D/Dupákovo Dupání\|Dupákovo Dupání]].
+**3 [[z_Atomy/A/AKCE\|AKCE]]**
+Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště vedle Vás a použije [[z_Atomy/D/Dupy Dup\|Dupy Dup]].
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/dupakovo-dupani/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/dupy-dup/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
-### Dupákovo Dupání
+
+
+### Dupy Dup
 **1 AKCE**
-[[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]][[z_Atomy/0-9/📶\|📶]] **10**, při úspěchu se [[z_Atomy/D/Dupák\|Dupák]] rozběhne až o 6 metrů směrem, který určíte, a způsobí **([[z_Atomy/L/LVL\|LVL]]+[[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]]) drtivého poškození** všemu, co mu stojí v cestě. JAKÁKOLI bytost do 6 metrů může použít tuto schopnost místo útoku. Při neúspěchu [[z_Atomy/D/Dupák\|Dupák]] dupne směrem k tomu, kdo mu rozkazoval. 
+**[[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]]:[[z_Atomy/0-9/📶\|📶]] 10**, při úspěchu se [[z_Atomy/D/Dupák\|Dupák]] rozběhne až o 6 metrů směrem, který určíte, a způsobí **([[z_Atomy/L/LVL\|LVL]]+[[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]]) drtivého poškození** všemu, co mu stojí v cestě. JAKÁKOLI bytost do 6 metrů může použít tuto schopnost místo útoku. Při neúspěchu [[z_Atomy/D/Dupák\|Dupák]] dupne směrem k tomu, kdo mu rozkazoval. 
 
-> [!NOTE] **„TY NEJSEŠ KAMARÁD!“**
+> [!NOTE] *„TY NEJSEŠ KAMARÁD!“*
 
 </div></div>
 
@@ -189,10 +189,10 @@ Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště
 
 
 ## Bábi
-(NENÍ čarodějnice)
-1/[[z_Atomy/0-9/🔋\|🔋]] ji můžete vyvolat až na 1 hodinu, aby se o Vás postarala. Upeče a rozdá (CHA+INT) sušenek. Sušenka může obnovit jednu [[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/0-9/🟥\|🟥]] nebo [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. Snězte je, dokud jsou teplé! Zmizí do 10 minut.
+*(NENÍ čarodějnice)*
+1/[[z_Atomy/0-9/🔋\|🔋]] ji můžete vyvolat až na 1 hodinu, aby se o Vás postarala. Upeče a rozdá ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/0-9/📖\|📖]]) sušenek. Sušenka může obnovit jednu [[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/0-9/🟥\|🟥]] nebo [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. Snězte je, dokud jsou teplé! Zmizí do 10 minut.
 
-> [!NOTE] **Vyhubovala vám, že málo jíte!**
+> [!NOTE] *Vyhubovala vám, že málo jíte!*
 
 </div></div>
 
@@ -207,7 +207,7 @@ Přivolejte malého démona na jednu noc. Dokáže zjistit nebezpečné informac
 
 [[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]], abyste ho přesvědčili, aby vám pomohl. [[z_Atomy/0-9/👍\|👍]], pokud ho požádáte o něco, co by považoval za nezbedné nebo zábavné. [[z_Atomy/0-9/👎\|👎]], pokud jde o něco, co by považoval za dobré nebo nudné.
 
-> [!NOTE] **Jsem pro každou špatnost >:P**
+> [!NOTE] *Jsem pro každou špatnost >:P*
 
 </div></div>
 
@@ -218,9 +218,9 @@ Přivolejte malého démona na jednu noc. Dokáže zjistit nebezpečné informac
 
 
 ## Idos, přítel na cesty
-Přivolejte legendární létající (ale přátelské) stvoření, které Vás odveze, kam potřebujete. Může požadovat platbu.
+Přivolejte legendární létající (a přátelské) stvoření, které Vás odveze, kam potřebujete. Může požadovat platbu.
 
-> [!NOTE] **A jedééééééém!**
+> [!NOTE] *A jedééééééém!*
 
 </div></div>
 
@@ -245,11 +245,11 @@ Přivolejte legendární létající (ale přátelské) stvoření, které Vás 
 ### LVL 3
 - **Verbální smeč**. Můžete seslat [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] jako reakci, kdykoli nepřítel mine útok. Navíc způsobí **dvojnásobné** poškození, když je seslán tímto způsobem.
 ### LVL 7
-- **Pobuřovač**. 1/[[z_Atomy/T/Tah\|Tah]]. Když je nepřítel poškozen vaším trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], může ho váš spojenec provokovat a způsobit tomuto nepříteli stav [[z_Atomy/P/Provokován\|Provokován]], až do konce tahu nepřítele.
+- **Pobuřovač**. 1/[[z_Atomy/T/Tah\|Tah]]. Když je nepřítel poškozen Vaším Trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], může ho váš spojenec  [[z_Atomy/P/Provokován\|Provokovat]], až do konce [[z_Atomy/T/Tah\|Tahu]] nepřítele.
 ### LVL 11
-- **Akord chaosu**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **Akce**. Můžete přesunout VŠECHNY bytosti, které slyší Vaši píseň, až o 3 metry, pokud se nepohnou do zjevně nebezpečného místa.
+- **Akord chaosu**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/A/AKCE\|AKCE]]. Můžete přesunout VŠECHNY bytosti, které slyší Vaši píseň, až o 3 metry, pokud se nepohnou do zjevně nebezpečného místa.
 ### LVL 15
-- **Slova jako dýky**. Poškození způsobené Trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] se zvyšuje na (**1k6+INT+CHA**) psychického poškození.
+- **Slova jsou dýky**. Poškození způsobené Trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] se zvyšuje na **(1k6+[[z_Atomy/0-9/📖\|📖]]+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** psychického poškození.
 
 </div></div>
 
@@ -261,13 +261,13 @@ Přivolejte legendární létající (ale přátelské) stvoření, které Vás 
 
 ## Kolej Odvahy
 ### LVL 3
-- **Přítomnost inspirace**. Kdykoli použijete reakci [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]], vaši spojenci do 12 metrů, kteří Vás mohou slyšet, získají [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] [[z_Atomy/0-9/💗\|💗]].
+- **Přítomnost inspirace**. Kdykoli použijete [[z_Atomy/B/Básníkova Inspirace\|Básníkovu inspiraci]], vaši spojenci do 12 metrů, kteří Vás mohou slyšet, získají [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] [[z_Atomy/0-9/💗\|💗]].
 ### LVL 7
-- **Neochvějná odvaha**. Vaše přítomnost inspiruje ostatní k hrdinským činům a odvaze, o které se vypráví pouze v legendách. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] dává [[z_Atomy/0-9/👍\|👍]] pro hody.
+- **Neochvějná odvaha**. Vaše přítomnost inspiruje ostatní k hrdinským činům a odvaze, o které se vypráví pouze v legendách. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] dává [[z_Atomy/0-9/👍\|👍]].
 ### LVL 11
-- **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 Akci navíc.
+- **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
 ### LVL 15
-- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Reakce zdarma: Přidejte všem členům své družiny 1 Akci navíc.
+- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] zdarma: Přidejte všem členům své družiny 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
 
 </div></div>
 

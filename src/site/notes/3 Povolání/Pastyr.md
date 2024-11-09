@@ -39,7 +39,7 @@ Pro mnohé je cesta služby obtížnou - přesto v tomto úkolu nejsme osamoceni
 
 ## Svatá záře
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-Max Nabití = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
+[[z_Atomy/0-9/✴️\|✴️]] = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/0-9/🫱\|🫱]] 6 metrů
 
 Vyberte jednu možnost:
@@ -49,7 +49,7 @@ Vyberte jednu možnost:
 </div></div>
 
 ## LVL 2
-- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/e_Záře\|Záře]] a [[4 Kouzla/f_Nekro\|Nekro]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
+- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/e_Záře\|Záře]] a [[4 Kouzla/f_Nekro\|Nekro]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se během [[z_Atomy/0-9/🔋\|🔋]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/p/privolani-duchovniho-strazce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -76,7 +76,7 @@ Trvá, dokud: toto kouzlo nevyvoláte znovu,[[z_Atomy/0-9/🔋\|🔋]], nebo dok
 
 ### Duchovní strážce
 **X Nabití** 
-X = Cena seslání
+X = [[z_Atomy/0-9/🌀\|🌀]] při seslání
 [[z_Atomy/0-9/🫱\|🫱]] 4m
 
 1 [[z_Atomy/A/AKCE\|AKCE]] + 1 Nabití: Cíl v dosahu obnoví **(1k6+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/💖\|💖]].
@@ -89,51 +89,51 @@ X = Cena seslání
 </div></div>
 
 ## LVL 3
-- **Vyznání Pastýře**. Vyberte si **podtřídu** [[z_Atomy/V/Vyznání Pastýře\|Vyznání Pastýře]].
-- **Mistr soumraku**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z domén Záře a Nekro
+- **Vyznání Pastýře**. Vyberte si **podtřídu**. [[z_Atomy/V/Vyznání Pastýře\|Vyznání Pastýře]].
+- **Mistr soumraku**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z domén Záře a Nekro.
 ## LVL 4
-- **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a vylepšovat kouzla na 2. stupeň.
+- **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a **posilovat** kouzla na 2. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 5
-- **Požehnání (1)**. Vyberte si **dvě** [[z_Atomy/P/Požehnání\|Požehnání]]. Po strávení dne péčí o posvátné místo nebo službou druhým za [[z_Atomy/0-9/🔋\|🔋]] můžete vyměnit jedno Požehnání které znáte za jiné.
+- **Požehnání (1)**. Vyberte si **dvě** [[z_Atomy/P/Požehnání\|Požehnání]].
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
-- **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a vylepšovat kouzla na 3. stupeň.
-- **Mistr soumraku (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z domén Záře a Nekro
+- **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a **posilovat** kouzla na 3. stupeň.
+- **Mistr soumraku (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z domén Záře a Nekro.
 ## LVL 7
 - **Vyznání Pastýře**. Získáte schopnost **podtřídy** [[z_Atomy/V/Vyznání Pastýře\|Vyznání Pastýře]].
 ## LVL 8
-- **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a vylepšovat kouzla na 4. stupeň.
+- **Kouzla 4. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **4. stupně** a **posilovat** kouzla na 4. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 9
 - **Požehnání (2)**. Vyberte si **další** [[z_Atomy/P/Požehnání\|Požehnání]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 10
-- **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a vylepšovat kouzla na 5. stupeň.
+- **Kouzla 5. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **5. stupně** a **posilovat** kouzla na 5. stupeň.
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.
 ## LVL 11
 - **Vyznání Pastýře**. Získáte schopnost **podtřídy** [[z_Atomy/V/Vyznání Pastýře\|Vyznání Pastýře]].
-- **Mistr soumraku (3)**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z domén Záře a Nekro
+- **Mistr soumraku (3)**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z domén Záře a Nekro.
 ## LVL 12
-- **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a vylepšovat kouzla na 6. stupeň.
+- **Kouzla 6. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **6. stupně** a **posilovat** kouzla na 6. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 13
 - **Požehnání (3)**. Vyberte si **další** [[z_Atomy/P/Požehnání\|Požehnání]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
-- **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a vylepšovat kouzla na 7. stupeň.
+- **Kouzla 7. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **7. stupně** a **posilovat** kouzla na 7. stupeň.
 ## LVL 15
 - **Vyznání Pastýře**. Získáte schopnost **podtřídy** [[z_Atomy/V/Vyznání Pastýře\|Vyznání Pastýře]].
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.
 ## LVL 16
-- **Kouzla 8. stupně**. Nyní můžete sesílat kouzla **8. stupně** a vylepšovat kouzla na 8. stupeň.
+- **Kouzla 8. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **8. stupně** a **posilovat** kouzla na 8. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 17
-- **Oživující požehnání**. 1/[[z_Atomy/K/Kolo\|Kolo]]. Kdykoli hodíte 6+ na jakékoli léčivé kostce, cíl si může vyléčit jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
+- **Oživující požehnání**. 1/[[z_Atomy/K/Kolo\|Kolo]]. Kdykoli hodíte 6+ na jakékoli léčivé kostce, cíl si může vyléčit 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 18
-- **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a vylepšovat kouzla na 9. stupeň.
+- **Kouzla 9. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **9. stupně** a **posilovat** kouzla na 9. stupeň.
 ## LVL 19
 - **Epický Dar**. Vyberte si jeden [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
@@ -152,21 +152,21 @@ X = Cena seslání
 
 # Požehnání
 >[!NOTE]- **Změna je život**
->Po strávení dne péčí o posvátné místo nebo službou druhým za [[z_Atomy/0-9/🔋\|🔋]] můžete vyměnit jedno Požehnání které znáte, za jiné.
+>Po strávení dne péčí o posvátné místo nebo službou druhým během [[z_Atomy/0-9/🔋\|🔋]] můžete vyměnit **jedno** Požehnání které znáte, za jiné.
 
-- **Posílený společník**: Kdykoli utratíte manu k [[z_Atomy/P/Přivolání Duchovního strážce\|Přivolání Duchovního strážce]], sesíláte ho, jako byste utratili o +1 manu více. Maximální velikost kostky je nyní **k20**.
+- **Posílený společník**: Kdykoli utratíte [[z_Atomy/0-9/🌀\|🌀]] k [[z_Atomy/P/Přivolání Duchovního strážce\|Přivolání Duchovního strážce]], sešlete ho, jako byste utratili o +1[[z_Atomy/0-9/🌀\|🌀]] více. Maximální velikost kostky je nyní **k20**.
 ⠀
 - **Rychlý posel**: Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] se může pohybovat až 8 metrů od Vás. Může se také okamžitě pohybovat a použít [[z_Atomy/A/AKCE\|AKCE]] zdarma, kdykoli je vyvolán.
 ⠀
-- **Duch apokalypsy**. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] se promění ve vír zářivého světla. Na konci Vašeho tahu způsobí zářivé poškození všem nepřátelům do 3 metrů, ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]] a [[z_Atomy/K/Kryt\|Kryt]]. Efekt trvá počet kol rovný maně utracené na vyvolání Duchovního strážce. Tento efekt skončí dříve, pokud znovu vyvoláte svého ducha. Na konci Váš duchovní strážce zmizí.
+- **Duch apokalypsy**. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] se promění ve vír zářivého světla. Na konci Vašeho tahu způsobí zářivé poškození všem nepřátelům do 3 metrů, ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]] a [[z_Atomy/K/Kryt\|Kryt]]. Efekt trvá počet kol rovný [[z_Atomy/0-9/🌀\|🌀]] použité na vyvolání [[z_Atomy/D/Duchovní strážce\|Duchovního strážce]]. Tento efekt skončí dříve, pokud znovu vyvoláte svého ducha. Na konci Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] zmizí.
 ⠀
 - **Strážný duch**. Když váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] hodí 6+ na kostce, cíl začne zářit svatým světlem. Příští [[z_Atomy/0-9/⚔️\|⚔️]] proti ní má dle Vaší volby [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
 ⠀
-- **Světlonoš**. Obnovte 1 použití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]], kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Světlonoš**. Obnovte 1[[z_Atomy/0-9/✴️\|✴️]], kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 ⠀
-- **Pomoz mi, můj příteli**. Kdykoli provedete svůj první útok na blízko každé [[z_Atomy/K/Kolo\|Kolo]], můžete k útoku přidat poškození Vašeho [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]].
+- **Pomoz mi, můj příteli**. Kdykoli provedete svůj první [[z_Atomy/0-9/⚔️\|⚔️]] na blízko každé [[z_Atomy/K/Kolo\|Kolo]], můžete přidat poškození Vašeho [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]].
 ⠀
-- **Neopouštěj mě!**. Své léčení můžete cílit na bytosti, které jsou mrtvé méně než 1 [[z_Atomy/K/Kolo\|Kolo]]. Každých 10[[z_Atomy/0-9/💖\|💖]], které obnovíte, také vyléčí 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
+- **Neopouštěj mě!**. Své léčení můžete cílit na bytosti, které jsou mrtvé méně než 1 minutu. Každých 10[[z_Atomy/0-9/💖\|💖]], které obnovíte, navíc vyléčí 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 ⠀
 - **Světlo soudu**. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Bytost do 6 metrů začne zářit světlem po dobu 1 [[z_Atomy/K/Kolo\|Kola]] a [[z_Atomy/0-9/⚔️\|⚔️]] proti ní mají dle Vaší volby [[z_Atomy/0-9/👍\|👍]] nebo [[z_Atomy/0-9/👎\|👎]].
 
@@ -187,17 +187,17 @@ X = Cena seslání
 
 ## Vyznání života
 ### LVL 3
-- **Milosrdné léčení**. Když váš efekt obnoví [[z_Atomy/0-9/💖\|💖]]  bytosti, která [[z_Atomy/0-9/🩸\|🩸]], vyléčí ji za dvojnásobek. Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] může jednat 1/[[z_Atomy/K/Kolo\|Kolo]] zdarma, zatímco Vy [[z_Atomy/0-9/🩸\|🩸]].
+- **Milosrdné léčení**. Když váš efekt obnoví [[z_Atomy/0-9/💖\|💖]]  bytosti, která [[z_Atomy/0-9/🩸\|🩸]], vyléčí ji za dvojnásobek. Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] může jednat 1/[[z_Atomy/K/Kolo\|Kolo]] zdarma, když Vy [[z_Atomy/0-9/🩸\|🩸]].
 - **Svět je krásný**. Neškodné a krásné bytosti, jako motýli a kolibříci, jsou k Vám přitahováni a často Vás následují. Květiny kvetou ve vaší přítomnosti.
 
 ### LVL 7
-- **Světlovodič**. Když váš efekt obnoví [[z_Atomy/0-9/💖\|💖]], můžete použít 1 nabití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]], abyste stejnou měrou léčili nebo poškodili **další cíl** do 6 metrů od Vás. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
+- **Světlovodič**. Když Vaše schopnost obnoví [[z_Atomy/0-9/💖\|💖]], můžete použít 1[[z_Atomy/0-9/✴️\|✴️]], abyste stejnou měrou léčili nebo poškodili **další cíl** do 6 metrů od Vás. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
 
 ### LVL 11
 - **Mocný léčitel**. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]. Kdykoli byste házeli kostkami pro obnovu [[z_Atomy/0-9/💖\|💖]], můžete místo toho léčit maximální množství poškození nebo dát [[z_Atomy/0-9/💗\|💗]].
 
 ### LVL 15
-- **Posílený vodič**. Váš **Světlovodič** může zacílit 1 **další cíl** a když se hází [[z_Atomy/0-9/🏁\|🏁]], obnovte +1 nabití schopnosti [[z_Atomy/S/Svatá záře\|Svatá záře]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Posílený vodič**. Váš **Světlovodič** může zacílit 1 **další cíl** a když se hází [[z_Atomy/0-9/🏁\|🏁]], obnovte 1[[z_Atomy/0-9/✴️\|✴️]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
 </div></div>
 
@@ -213,7 +213,7 @@ X = Cena seslání
 - **Předzvěst úpadku**. Jasné barvy a krásné vůně jsou ve vaší blízkosti potlačeny. Potraviny se ve vaší přítomnosti rychleji kazí a často se probouzíte obklopeni mouchami když nocujete. Můžete svého [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] přeměnit do temné podoby (zombí pes, zlomyslný imp atd.) a změnit jeho poškození na **nekrotické**.
 
 ### LVL 7
-- **Požehnání záhrobí**. 1/[[z_Atomy/0-9/🔋\|🔋]]. [[z_Atomy/R/REAKCE\|REAKCE]] (když začnete [[z_Atomy/0-9/🩸\|Umírat]]): Místo toho nastavte své [[z_Atomy/0-9/💖\|💖]] na **1**. Můžete také přinutit jednoho nepřítele do 6 metrů provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvaven]], při neúspěchu zemře, jinak se stane [[z_Atomy/Z/Zkrvaven\|Zkrvaven]].
+- **Požehnání záhrobí**. 1/[[z_Atomy/0-9/🔋\|🔋]]. [[z_Atomy/R/REAKCE\|REAKCE]]: když začnete [[z_Atomy/0-9/🩸\|🩸]]. Místo toho nastavte své [[z_Atomy/0-9/💖\|💖]] na **1**. Můžete také přinutit jednoho nepřítele do 6 metrů provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvaven]], při neúspěchu zemře, jinak bude [[z_Atomy/Z/Zkrvaven\|Zkrvaven]].
 
 ### LVL 11
 - **Dotek posla smrti**. 

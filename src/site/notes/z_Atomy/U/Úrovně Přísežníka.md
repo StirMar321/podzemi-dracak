@@ -11,8 +11,8 @@
 
 
 ## ♎ = Kostky Soudu
-Kdykoli na Vás zaútočí, získáte **Kostku soudu** (**1k8**). Vždy když provedete [[z_Atomy/0-9/⚔️\|⚔️]] na blízko, přidejte všechny své **Kostky soudu** k útoku. Pokud útok zasáhne, způsobíte navíc **zářivé poškození** rovné vašim **Kostkám soudu**. 
-Maximální počet **Kostek soudu** které můžete mít, je roven Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+Kdykoli na Vás zaútočí, získáte **1k8 Kostku soudu** (♎). Když provedete [[z_Atomy/0-9/⚔️\|⚔️]] na blízko, přidejte všechny své ♎ k [[z_Atomy/0-9/⚔️\|⚔️]]. Pokud [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, způsobí navíc **zářivé poškození** rovné vašim **Kostkám soudu**. 
+Maximální počet **Kostek soudu** které můžete mít, je roven Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
 Velikost je v základu **k8** a zvyšuje se na **určitých** [[z_Atomy/L/LVL\|LVL]].
 
@@ -26,42 +26,42 @@ Velikost je v základu **k8** a zvyšuje se na **určitých** [[z_Atomy/L/LVL\|L
 
 
 ## Kladení rukou
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/AKCE\|AKCE]], X Nabití**
 Max Nabití = (5x[[z_Atomy/L/LVL\|LVL]])/[[z_Atomy/0-9/🔋\|🔋]]
 
-Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabití.
+Dotkněte se bytosti a obnovte jí [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabití.
 
 </div></div>
 
 ## LVL 2
-- **Kouzla záře**. Odemknete [[2 Důležité/Kouzla\|Kouzla]] **1. stupně** domény [[4 Kouzla/e_Záře\|Záře]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]]) a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
-- **Odsuzující úder**. Když zasáhnete útokem na blízko, můžete utratit 1 [[z_Atomy/0-9/🌀\|🌀]] a hodit další [[z_Atomy/0-9/♎\|♎]] za každou utracenou manu (až do stupně kouzel, který máte odemčen).
-- **Paragon ctnosti**. [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] má [[z_Atomy/0-9/👍\|👍]] když mluvíte upřímně; [[z_Atomy/0-9/👎\|👎]] při lhaní, zatajování nebo jiném klamání.
+- **Kouzla záře**. Odemknete [[2 Důležité/Kouzla\|Kouzla]] **1. stupně** domény [[4 Kouzla/e_Záře\|Záře]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]]) a obnoví se během [[z_Atomy/0-9/🔋\|🔋]].
+- **Odsuzující úder**. Když zasáhnete [[z_Atomy/0-9/⚔️\|⚔️]] na blízko, můžete utratit [[z_Atomy/0-9/🌀\|🌀]] a hodit další [[z_Atomy/0-9/♎\|♎]] za každou utracenou [[z_Atomy/0-9/🌀\|🌀]] (až do stupně kouzel, který máte odemčen, toto může překročit limit [[z_Atomy/0-9/♎\|♎]]).
+- **Paragon ctnosti**. [[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] má [[z_Atomy/0-9/👍\|👍]] když mluvíte upřímně; [[z_Atomy/0-9/👎\|👎]] při lhaní, zatajování nebo jiném klamání.
 ## LVL 3
 - **Přísahy Přísežníka**. Vyberte si **podtřídu** a zavažte se jedné [[z_Atomy/P/Přísahy Přísežníka\|Přísaze]].
-- **Posvátné Dekrety**. Naučte se **jeden** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]]. Kdykoli vykonáte nezištný čin, můžete jeden dekret který znáte vyměnit za jiný.
+- **Posvátné Dekrety**. Naučte se **jeden** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
 ## LVL 4
-- **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a posilovat kouzla na 2. stupeň
+- **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a **posilovat** kouzla na 2. stupeň
 - **Můj život za mé přátele**. Můžete provést reakci [[z_Atomy/0-9/🔰\|🔰]] zdarma.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
-- **Kostky soudu (2)**. Když na Vás zaútočí, získáte 2 [[z_Atomy/0-9/♎\|♎]].
+- **Kostky soudu (2)**. Když na Vás [[z_Atomy/0-9/⚔️\|⚔️]], získáte 2 [[z_Atomy/0-9/♎\|♎]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6
-- **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a posilovat kouzla na 3. stupeň.
+- **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a **posilovat** kouzla na 3. stupeň.
 - **Posvátné Dekrety (2)**. Naučte se **další** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
 ## LVL 7
 - **Přísahy Přísežníka**. Získáváte schopnost **podtřídy** [[z_Atomy/P/Přísahy Přísežníka\|Přísahy Přísežníka]].
 - **Mistr záře**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] domény Záře.
 ## LVL 8
-- **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a posilovat kouzla na 4. stupeň.
+- **Kouzla 4. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **4. stupně** a **posilovat** kouzla na 4. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 9
 - **Posvátné Dekrety (3)**. Naučte se **další** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 10
-- **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a posilovat kouzla na 5. stupeň.
+- **Kouzla 5. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **5. stupně** a **posilovat** kouzla na 5. stupeň.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 ## LVL 11
 - **Přísahy Přísežníka**. Získáváte schopnost **podtřídy** [[z_Atomy/P/Přísahy Přísežníka\|Přísahy Přísežníka]].
@@ -70,7 +70,7 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 - **Posvátné Dekrety (4)**. Naučte se **další** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 13
-- **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a posilovat kouzla na 6. stupeň.
+- **Kouzla 6. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **6. stupně** a **posilovat** kouzla na 6. stupeň.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 14
 - **Posvátné Dekrety (5)**. Naučte se **další** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
@@ -81,7 +81,7 @@ Dotkněte se cíle a obnovte [[z_Atomy/0-9/💖\|💖]] rovné utraceným nabit�
 - **Posvátné Dekrety (6)**. Naučte se **další** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 17
-- **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a posilovat kouzla na 7. stupeň.
+- **Kouzla 7. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **7. stupně** a **posilovat** kouzla na 7. stupeň.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 18
 - **Neutuchající soud**. Vždy máte alespoň 1 [[z_Atomy/0-9/♎\|♎]].

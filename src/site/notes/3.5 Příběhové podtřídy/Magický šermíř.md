@@ -7,7 +7,7 @@
 # Magický šermíř
 *Podtřída [[3 Povolání/Velitel\|Velitele]]*
 ## **Střet oceli a magie**
-**Magické velení**. Vaše zaměření na magii způsobí, že ztratíte Vaše [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] a [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]]. Kdykoli byste mohl vybrat [[z_Atomy/V/Válečné Taktiky\|Válečnou taktiku]] nebo [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]], místo toho si vyberte další [[z_Atomy/P/Příkaz velitele\|Příkaz velitele]], Trik nebo Kouzlo 1. úrovně z jakékoliv magické školy (můžete použít [[z_Atomy/0-9/♐\|♐]] jako manu). Své [[z_Atomy/P/Příkaz velitele\|Příkazy velitele]] můžete naplnit magickou silou.
+**Magické velení**. Vaše zaměření na magii způsobí, že ztratíte Vaše [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] a [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]]. Kdykoli byste mohl vybrat [[z_Atomy/V/Válečné Taktiky\|Válečnou taktiku]] nebo [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]], místo toho si vyberte další [[z_Atomy/P/Rozkazy\|Rozkazy]], Trik nebo Kouzlo 1. úrovně z jakékoliv magické školy (můžete použít [[z_Atomy/0-9/♐\|♐]] jako manu). Své [[z_Atomy/P/Rozkazy\|Příkazy velitele]] můžete naplnit magickou silou.
 
 - **Postav se mi!** (*Zářící dekret*). [[z_Atomy/R/REAKCE\|REAKCE]] ([[z_Atomy/0-9/💥\|💥]] proti spojenci do 12 metrů): Nepřítel utrpí ([[z_Atomy/0-9/💪\|💪]])k8 zářivé poškození (ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]), je přitažen až o 3 metry k Vám a je Vámi [[z_Atomy/P/Provokován\|Provokován]], dokud Vaše [[z_Atomy/0-9/💖\|💖]] neklesnou na **0**.
 ⠀

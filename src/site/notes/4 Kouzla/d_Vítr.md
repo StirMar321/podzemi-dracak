@@ -180,7 +180,7 @@ Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [
 
 ## Básníkova Inspirace  
 **VOLNÁ [[z_Atomy/R/REAKCE\|REAKCE]]**
-Max. Nabití = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
+[[z_Atomy/0-9/🔔\|🔔]] = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/R/REAKCE\|REAKCE]]: spojenec hodí kostku
 
 Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z výsledků.
@@ -200,7 +200,7 @@ Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z 
 
 Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
 
-**Vyšší úrovně**: +**2** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
+**Vyšší úrovně**: +**3** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
 </div></div>
 

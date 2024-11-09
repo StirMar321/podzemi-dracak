@@ -3,80 +3,78 @@
 ---
 
 ## LVL 1
-- **Obrana bez zbroje**. Pokud jste [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]], Vaše [[z_Atomy/B/Brnění\|Brnění]] je **([[z_Atomy/0-9/🎯\|🎯]]+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])**.
-- **Rychlé pěsti**. Vaše **Neozbrojené** útoky nemají [[z_Atomy/0-9/👎\|👎]] pro [[z_Atomy/U/Uspěchané útoky\|Uspěchané útoky]] a působí **(1k4+[[z_Atomy/0-9/🎯\|🎯]])** drtivého poškození
+- **Železná obrana**. Pokud jste [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]], Vaše [[z_Atomy/B/Brnění\|Brnění]] je **([[z_Atomy/0-9/🎯\|🎯]]+[[z_Atomy/0-9/💪\|💪]])**.
+- **Rychlé pěsti**. Vaše **Neozbrojené** [[z_Atomy/0-9/⚔️\|⚔️]] nemají [[z_Atomy/0-9/👎\|👎]] pro [[z_Atomy/U/Uspěchané útoky\|Uspěchané útoky]] a působí **(1k4+[[z_Atomy/0-9/💪\|💪]])** drtivého poškození
 ## LVL 2
 - **Rychlé nohy**. Pokud jste [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]] máte:
 	- +2 metry [[z_Atomy/0-9/🏃\|🏃]]
 	- +[[z_Atomy/L/LVL\|LVL]] k [[z_Atomy/0-9/🏁\|🏁]]
-- **Disciplinované manévry**. Umíte [[z_Atomy/D/Disciplinované manévry\|Disciplinované manévry]].
+- **Disciplinované manévry**. Umíte [[z_Atomy/D/Výbuch rychlosti\|Výbuch rychlosti]].
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/disciplinovane-manevry/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/vybuch-rychlosti/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
-## Disciplinované manévry
-Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte **[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] bodů disciplíny**. 
-Můžete utratit **1 bod disciplíny** pro použití jednoho manévru:
 
-- **Trpělivá obrana**. Můžete použít reakci [[z_Atomy/0-9/🛡️\|🛡️]] zdarma. Vyber si jeden mód.
-	- **Vykryj lehké útoky**. Snižte veškeré poškození, které byste utrpěli do začátku Vašeho dalšího [[z_Atomy/T/Tah\|Tahu]] o hodnotu Vašeho [[z_Atomy/B/Brnění\|Brnění]].
-	- **Vykryj těžký útok**. Útok proti vám mine.
 
-- **Záplava úderů**. 1/[[z_Atomy/T/Tah\|Tah]]. Když útočíte, zaútočte místo toho dvakrát bez [[z_Atomy/0-9/👎\|👎]] z [[z_Atomy/U/Uspěchané útoky\|Uspěchaných útoků]].
-
-- **Krok větru**. Proveďte [[z_Atomy/0-9/🥾\|🥾]] zdarma. Během tohoto pohybu můžete procházet skrz nepřátelské bytosti, jako by tam nebyli.
+## Výbuch rychlosti
+Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte [[z_Atomy/0-9/🎯\|🎯]] Bodů rychlosti ([[z_Atomy/0-9/⏩\|⏩]]). 
+Můžete utratit 1[[z_Atomy/0-9/⏩\|⏩]]/[[z_Atomy/K/Kolo\|Kolo]] pro použití jednoho manévru zdarma:
+- **Vzdušný proud**. [[z_Atomy/0-9/🛡️\|🛡️]], [[z_Atomy/0-9/⚔️\|⚔️]] proti Vám mine.
+- **Vír krytí**. [[z_Atomy/0-9/🛡️\|🛡️]], snižte veškeré [[z_Atomy/0-9/⚔️\|⚔️]] proti Vám toto [[z_Atomy/K/Kolo\|Kolo]] o hodnotu Vašeho [[z_Atomy/B/Brnění\|Brnění]].
+- **Rychlý úder**. [[z_Atomy/0-9/⚔️\|⚔️]] bez [[z_Atomy/0-9/👎\|👎]] z [[z_Atomy/U/Uspěchané útoky\|Uspěchaných útoků]].
+- **Krok větru**. [[z_Atomy/0-9/🥾\|🥾]], ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 
 </div></div>
 
 ## LVL 3
 - **Řády Zephyra**. Vyberte si **podtřídu** [[z_Atomy/R/Řády Zephyra\|Řádu Zephyra]].
+- **Momentum**. Když utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], získáte +1[[z_Atomy/0-9/⏩\|⏩]].
+- **Éterická projekce**. 1/den. Když budete meditovat alespoň 10 minut, můžete vyslat svojí éterickou projekci krátkou vzdálenost skrz pevné objekty a jiné překážky. Vidíte skrz projekci a jiné bytosti mohou projekci vidět.
 ## LVL 4
-- **Infúze života**. Proveďte **Neozbrojený** úder cílený na **spojence**, který naplníte **léčivou** energií. Utraťte X [[z_Atomy/0-9/🟥\|🟥]], max. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Cíl obnoví **(X[[z_Atomy/0-9/🟥\|🟥]]+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/💖\|💖]].
-- **Mistr bojových umění (1)**. Vyberte si **jednu** schopnost [[z_Atomy/CH/Chvaty a Hmaty\|Chvaty a Hmaty]]. Kdykoli postoupíte na další [[z_Atomy/L/LVL\|LVL]] nebo strávíte [[z_Atomy/0-9/🔋\|🔋]] meditací můžete vyměnit jednu naučenou schopnost za jinou.
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Nehynoucí odhodlání**. Ignorujte první [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], které byste utrpěli ve [[z_Atomy/S/Střetnutí\|střetnutí]]
+- **Mistr bojových umění (1)**. Vyberte si **jedno** [[z_Atomy/CH/Bojová umění\|Bojové umění]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 5
 - **Rezonující údery**. Naučíte se zaměřit energii a zacílit ji jako **drtivou** sílu do svých úderů. Přidejte **+[[z_Atomy/L/LVL\|LVL]]** drtivého poškození ke všem **útokům na blízko**.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6
-- **Mistr bojových umění (2)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
-- **Studnice disciplíny**. Když utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] získáte **+1 Bod disciplíny**.
+- **Mistr bojových umění (2)**. Vyberte si **další** [[z_Atomy/CH/Bojová umění\|Bojové umění]].
+- **Infúze života**. Proveďte **Neozbrojený** úder cílený na **spojence**, který naplníte **léčivou** energií. Použijte své [[z_Atomy/0-9/🟥\|🟥]], max. [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Cíl si obnoví hod [[z_Atomy/0-9/🟥\|🟥]]+[[z_Atomy/0-9/💪\|💪]] [[z_Atomy/0-9/💖\|💖]].
 ## LVL 7
 - **Řády Zephyra**. Získáte schopnost **podtřídy** [[z_Atomy/R/Řády Zephyra\|Řádu Zephyra]].
 ## LVL 8
-- **Mistr bojových umění (3)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Mistr bojových umění (3)**. Vyberte si **další** [[z_Atomy/CH/Bojová umění\|Bojové umění]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 9
 - **Rychlé nohy (2)**. Pokud jste [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]], Vaše [[z_Atomy/0-9/🏃\|🏃]] se **zvýší** o +2 metry.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 10
-- **Mistr bojových umění (4)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
-- **Studnice disciplíny (2)**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte +1 Bod disciplíny.
+- **Mistr bojových umění (4)**. Vyberte si **další** [[z_Atomy/CH/Bojová umění\|Bojové umění]].
+- **Nehynoucí odhodlání (2)**. Ignorujte druhé [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], které byste utrpěli ve [[z_Atomy/S/Střetnutí\|střetnutí]].
 ## LVL 11
 - **Řády Zephyra**. Získáte schopnost **podtřídy** [[z_Atomy/R/Řády Zephyra\|Řádu Zephyra]].
 ## LVL 12
-- **Mistr bojových umění (5)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Mistr bojových umění (5)**. Vyberte si **další** [[z_Atomy/CH/Bojová umění\|Bojové umění]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 13
 - **Obrana bez zbroje (2)**. Pokud jste [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]], Vaše [[z_Atomy/B/Brnění\|Brnění]] je **([[z_Atomy/0-9/🎯\|🎯]]+2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])**.
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 14
-- **Mistr bojových umění (6)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
+- **Mistr bojových umění (6)**. Vyberte si **další** [[z_Atomy/CH/Bojová umění\|Bojové umění]].
 ## LVL 15
 - **Řády Zephyra**. Získáte schopnost **podtřídy** [[z_Atomy/R/Řády Zephyra\|Řádu Zephyra]].
 ## LVL 16
-- **Mistr bojových umění (7)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
-- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+- **Mistr bojových umění (7)**. Vyberte si **další** [[z_Atomy/CH/Bojová umění\|Bojové umění]].
+- **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 17
-- **Nezdolná duše**. Když [[z_Atomy/0-9/🩸\|Umíráte]], Vaše [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/💪\|💪]] mají [[z_Atomy/0-9/👍\|👍]].
-- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
+- **Nehynoucí odhodlání (3)**. Ignorujte třetí [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], které byste utrpěli ve [[z_Atomy/S/Střetnutí\|střetnutí]].
+- **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 18
-- **Mistr bojových umění (8)**. Vyberte si **další** [[z_Atomy/CH/Chvaty a Hmaty\|Chvat a Hmat]].
+- **Mistr bojových umění (8)**. Vyberte si **další** [[z_Atomy/CH/Bojová umění\|Bojové umění]].
 ## LVL 19
 - **Epický dar**. Vyberte si **jeden** [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
 - **Větrný poutník**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**.
-	- Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte **+1 Bod disciplíny**. 
-	- Vždy máte **+1 [[z_Atomy/A/AKCE\|Akci]]**. Když máte stav [[z_Atomy/0-9/🩸\|🩸]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]**.
+	- Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte +1[[z_Atomy/0-9/⏩\|⏩]]. 
+	- Vždy máte navíc **1 [[z_Atomy/A/AKCE\|Akci]]**. Když máte stav [[z_Atomy/0-9/🩸\|🩸]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]**.

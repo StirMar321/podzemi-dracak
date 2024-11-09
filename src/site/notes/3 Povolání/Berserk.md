@@ -38,28 +38,28 @@ Smrt pro Berserka není cizí – říká se, že i ona se ho bojí, dokud není
 
 
 ## Zuřivost
-**1 Akce**
+**1 [[z_Atomy/A/AKCE\|AKCE]]**
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 
-Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odložte ji stranou. Přičtěte ji ke každému Vašemu [[z_Atomy/0-9/💪\|💪]] útoku na blízko. Maximální počet [[z_Atomy/0-9/♈\|♈]] je roven Vašemu [[z_Atomy/L/LVL\|LVL]] a zmizí, když Vaše **Zuřivost** skončí.
+Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odložte ji stranou. Přičtěte ji ke každému Vašemu [[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/⚔️\|⚔️]]. 
+Maximální počet [[z_Atomy/0-9/♈\|♈]] je roven Vašemu [[z_Atomy/L/LVL\|LVL]] a zmizí, když Vaše **Zuřivost** skončí.
 
 >[!NOTE]- **Vaše zuřivost skončí, když:** 
->Opustíte boj, Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, uběhne 1 [[z_Atomy/K/Kolo\|Kolo]] boje kdy neudělíte poškození.
+>Opustíte boj, Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, uběhne 1 [[z_Atomy/K/Kolo\|Kolo]] boje, kdy neudělíte poškození.
 >**Ano!** Můžete aktivovat **Zuřivost** i v případě, že už zuříte. Pokud máte víc [[z_Atomy/0-9/♈\|♈]] než je Váš limit, můžete si vybrat, které se zbavíte.
 
 </div></div>
 
-
-- **To je všechno?!** Když jste napaden, můžete utratit Vaše [[z_Atomy/0-9/♈\|♈]] a získáte **([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/🎯\|🎯]])** [[z_Atomy/0-9/💗\|💗]] za každou.
+- **To je všechno?!** Když jste napaden, můžete utratit Vaše [[z_Atomy/0-9/♈\|♈]] a získáte ([[z_Atomy/0-9/💪\|💪]]+[[z_Atomy/0-9/🎯\|🎯]]) [[z_Atomy/0-9/💗\|💗]] za [[z_Atomy/0-9/♈\|♈]]. [[z_Atomy/0-9/💗\|💗]] zmizí, když [[z_Atomy/Z/Zuřivost\|Zuřivost]] skončí.
 ## LVL 2
-- **Intenzivní zuřivost.** Pokud [[z_Atomy/Z/Zuřivost\|Zuříte]] na začátku svého tahu, získáte jednu [[z_Atomy/0-9/♈\|♈]] (1k6).
-- **Rada předků**. 1/den. Když stojíte před rozhodnutím, jakým směrem se vydat nebo jaký postup zvolit, můžete vyvolat své předky, aby Vás vedli po **nejvíc nebezpečné** nebo nejnáročnější cestě.
+- **Intenzivní zuřivost.** Pokud [[z_Atomy/Z/Zuřivost\|Zuříte]] na začátku Vašeho [[z_Atomy/T/Tah\|Tahu]], získáte 1[[z_Atomy/0-9/♈\|♈]].
+- **Rada předků**. 1/den. Když stojíte před rozhodnutím, jakým směrem se vydat nebo jaký postup zvolit, můžete povolat své předky, aby Vás vedli po **nejnebezpečnější** nebo **nejnáročnější** cestě.
 ## LVL 3
-- **Cesta Berserka**. Vyberte si **podtřídu** [[z_Atomy/C/Cesty Berserka\|Cesty Berserka]].
-- **Krvežíznivost**. [[z_Atomy/A/AKCE\|AKCE]] zdarma. Utraťte Vaše [[z_Atomy/0-9/♈\|♈]] během svého tahu a **pohněte** se zdarma až o [[z_Atomy/0-9/🎯\|🎯]] metrů za každou z nich.
+- **Cesta Berserka**. Vyberte si **podtřídu**. ([[z_Atomy/C/Cesty Berserka\|Cesty Berserka]])
+- **Krvežíznivost**. [[z_Atomy/A/AKCE\|AKCE]] zdarma. Utraťte Vaše [[z_Atomy/0-9/♈\|♈]] během svého tahu a **pohněte** se zdarma až o [[z_Atomy/0-9/🎯\|🎯]] metrů za [[z_Atomy/0-9/♈\|♈]].
 ## LVL 4
-- **Vytrvalá zuřivost.** Když máte stav [[z_Atomy/0-9/🩸\|🩸]] na začátku svého tahu, automaticky zdarma začnete [[z_Atomy/Z/Zuřivost\|Zuřit]]. Během [[z_Atomy/0-9/🩸\|🩸]] máte **2 Akce** a **ignorujete** [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] když útočíte.
-- **Divoký arzenál**. Získejte **jednu** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]]. Kdykoli provedete pozoruhodný čin destrukce nebo síly, můžete vyměnit **jednu** schopnost Divokého arzenálu za jinou.
+- **Vytrvalá zuřivost.** Když máte stav [[z_Atomy/0-9/🩸\|🩸]] na začátku svého tahu, automaticky zdarma začnete [[z_Atomy/Z/Zuřivost\|Zuřit]]. Během [[z_Atomy/0-9/🩸\|🩸]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]** a **ignorujete** [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] při [[z_Atomy/0-9/⚔️\|⚔️]].
+- **Divoký arzenál**. Získejte **jednu** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]].
 - **Zvýšení klíčové statistiky.** +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 5
 - **Intenzivní zuřivost (2).** Vaše [[z_Atomy/0-9/♈\|♈]] jsou **k8**.
@@ -101,7 +101,7 @@ Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odlo�
 ## LVL 20
 - **Neomezená zuřivost** 
 	- Zvyšte si dvě [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
-	- Můžete **přehodit** [[z_Atomy/0-9/♈\|♈]], když hodíte méně než 10.
+	- Můžete **přehodit** [[z_Atomy/0-9/♈\|♈]], když hodíte méně než 10. Lze opakovat.
 
 </div></div>
 
@@ -113,21 +113,21 @@ Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odlo�
 
 # Divoký arzenál
 >[!NOTE]- **Změna je život**
->Kdykoli provedete pozoruhodný čin destrukce nebo síly, můžete vyměnit **jednu** schopnost Divokého arzenálu za jinou.
+>Kdykoli provedete pozoruhodný čin destrukce nebo síly, můžete vyměnit **jednu** schopnost **Divokého arzenálu** za jinou.
 
-- **Nesmrtelná zuřivost.** 1/[[z_Atomy/K/Kolo\|Kolo]]. Když máte stav [[z_Atomy/0-9/🩸\|🩸]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a získat 1 Akci.
+- **Nesmrtelná zuřivost.** 1/[[z_Atomy/K/Kolo\|Kolo]]. Když máte stav [[z_Atomy/0-9/🩸\|🩸]], můžete utrpět 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a získat 1 [[z_Atomy/A/AKCE\|Akci]].
 ⠀
-- **Bojechtivost.** Vaše [[z_Atomy/0-9/🏁\|🏁]] má [[z_Atomy/0-9/👍\|👍]]. První [[z_Atomy/T/Tah\|Tah]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]] se můžete volně pohnout o 2x[[z_Atomy/0-9/🎯\|🎯]] metry.
+- **Bojechtivost.** Vaše [[z_Atomy/0-9/🏁\|🏁]] má [[z_Atomy/0-9/👍\|👍]]. První [[z_Atomy/T/Tah\|Tah]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]] se můžete Zdarma pohnout o (2x[[z_Atomy/0-9/🎯\|🎯]]) metrů.
 ⠀
-- **Do bitvy.** **1 [[z_Atomy/A/AKCE\|AKCE]]**. Skočte až 2x[[z_Atomy/0-9/🎯\|🎯]] metrů směrem k nepříteli. Pokud přistanete vedle alespoň 2 nepřátel, zdarma zaútočte.
+- **Do bitvy.** **1 [[z_Atomy/A/AKCE\|AKCE]]**. Skočte až (2x[[z_Atomy/0-9/🎯\|🎯]]) metrů směrem k nepříteli. Pokud přistanete vedle alespoň 2 nepřátel, proveďte zdarma [[z_Atomy/0-9/⚔️\|⚔️]].
 ⠀
-- **Smrtící úder.** Když vaši [[z_Atomy/Z/Zuřivost\|Zuřivost]] ukončí [[z_Atomy/0-9/💥\|💥]], zdvojnásobte hodnotu vašich [[z_Atomy/0-9/♈\|♈]].
+- **Smrtící úder.** Když Vaši [[z_Atomy/Z/Zuřivost\|Zuřivost]] ukončí Váš [[z_Atomy/0-9/💥\|💥]], zdvojnásobte pro něj hodnotu Vašich [[z_Atomy/0-9/♈\|♈]].
 ⠀
-- **Mocná odolnost.** Nyní můžete přežít o +4 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] více než nastane Vaše [[z_Atomy/0-9/💀\|💀]].
+- **Mocná odolnost.** Můžete přežít o 4[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] více, než nastane Vaše [[z_Atomy/0-9/💀\|💀]].
 ⠀
 - **VÍC KRVE!** 2/[[z_Atomy/0-9/🔋\|🔋]]. Když udělíte [[z_Atomy/0-9/💥\|💥]], Vaše [[z_Atomy/Z/Zuřivost\|Zuřivost]] **neskončí**.
 ⠀
-- **Primitivní léčba.** Kdykoli najednou obnovíte 10+ [[z_Atomy/0-9/💖\|💖]], uzdravte si 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
+- **Primitivní léčba.** Kdykoli najednou obnovíte 10+ [[z_Atomy/0-9/💖\|💖]], uzdravíte 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 ⠀
 - **Rychlá zuřivost.** Kdykoli aktivujete svojí [[z_Atomy/Z/Zuřivost\|Zuřivost]], můžete se zdarma pohnout až o [[z_Atomy/0-9/🎯\|🎯]] metrů, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 ⠀
@@ -158,14 +158,14 @@ Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odlo�
 
 ## Cesta Horala
 ### LVL 3
-- **Kamenná kůže**. Když utratíte [[z_Atomy/0-9/♈\|♈]] pro získání [[z_Atomy/0-9/💗\|💗]], přidejte hodnotu [[z_Atomy/0-9/♈\|♈]] k [[z_Atomy/0-9/💗\|💗]].
-- **Hibernace**. 24 hodinový [[z_Atomy/0-9/🔋\|🔋]] můžete prospat a vyléčit si všechny [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (musí to být bezpečné místo, které určí [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]).
+- **Kamenná odolnost**. Když utratíte [[z_Atomy/0-9/♈\|♈]] pro získání [[z_Atomy/0-9/💗\|💗]], přidejte hodnotu [[z_Atomy/0-9/♈\|♈]] k celkové [[z_Atomy/0-9/💗\|💗]].
+- **Houževnatost**. Když použijete [[z_Atomy/0-9/🟥\|🟥]] k obnově [[z_Atomy/0-9/💖\|💖]], za každých 10[[z_Atomy/0-9/💖\|💖]] si můžete místo toho vyléčit 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 ### LVL 7
-- **Nezdolnost**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], pokud utrpíte poslední [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] nebo negativní [[z_Atomy/S/Stavy\|Stav]], neutrpíte ho.
+- **Nezdolnost**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Pokud utrpíte Vaše poslední [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] nebo negativní [[z_Atomy/S/Stavy\|Stav]] během [[z_Atomy/Z/Zuřivost\|Zuřivosti]], neutrpíte ho.
 ### LVL 11
-- **Rozzuřený Titán**. Kdykoli minete útok nebo utržíte [[z_Atomy/0-9/💥\|💥]], začnete zdarma [[z_Atomy/Z/Zuřivost\|Zuřit]].
+- **Rozzuřený Titán**. Kdykoli minete útok nebo utržíte [[z_Atomy/0-9/💥\|💥]], začnete [[z_Atomy/Z/Zuřivost\|Zuřit]].
 ### LVL 15
-- **Věčná Hora**. Nemůžete utržit [[z_Atomy/0-9/💥\|💥]] během [[z_Atomy/0-9/🩸\|🩸]]. Pokud byste byli zasaženi **kritickým úderem**, hod útoku se přehodí a spustí se schopnost **Rozzuřený Titán**.
+- **Věčná Hora**. Nemůžete utržit [[z_Atomy/0-9/💥\|💥]] během [[z_Atomy/0-9/🩸\|🩸]]. Pokud byste byli zasaženi [[z_Atomy/0-9/💥\|💥]], hod se přehodí a spustí se schopnost **Rozzuřený Titán**.
 
 </div></div>
 
@@ -177,14 +177,14 @@ Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odlo�
 
 ## Cesta Rudého oparu
 ### LVL 3
-- **Krvežíznivost**. 1/[[z_Atomy/T/Tah\|Tah]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]] a poprvé **zasáhnete** [[z_Atomy/0-9/💥\|💥]] nebo poprvé nepříteli snížíte [[z_Atomy/0-9/💖\|💖]] na **0**, můžete změnit **jednu** Vaší [[z_Atomy/0-9/♈\|♈]] na **maximum**.
-- **Divoká ostražitost**. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]] pro rozpoznání nebo vystopování krve. Máte 2 metry "slepého" vidění když máte [[z_Atomy/Z/Zuřivost\|Zuřivost]].
+- **Krvežíznivost**. 1/[[z_Atomy/K/Kolo\|Kolo]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]] a poprvé **zasáhnete** [[z_Atomy/0-9/💥\|💥]] nebo poprvé nepříteli snížíte [[z_Atomy/0-9/💖\|💖]] na **0**, můžete změnit **jednu** Vaší [[z_Atomy/0-9/♈\|♈]] na **maximum**.
+- **Divoká ostražitost**. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]] pro rozpoznání nebo vystopování krve. Máte 2 metry "slepého" vidění když máte [[z_Atomy/Z/Zuřivost\|Zuřivost]]. Ignorujete [[z_Atomy/O/Oslepen\|Oslepení]] a vidíte skrz tmu a [[z_Atomy/N/Neviditelnost\|Neviditelnost]].
 ### LVL 7
-- **Neuhasitelná krvežíznivost**. Pokud minete útok když [[z_Atomy/Z/Zuřivost\|Zuříte]], můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a hodit útok znovu.
+- **Neuhasitelná krvežíznivost**. Pokud minete [[z_Atomy/0-9/⚔️\|⚔️]] nebo selžete [[z_Atomy/0-9/❗\|❗]] když [[z_Atomy/Z/Zuřivost\|Zuříte]], můžete utrpět 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a házet znovu.
 ### LVL 11
-- **Příležitostná žíznivost**. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], Váš [[z_Atomy/0-9/🛑\|🛑]] nemá [[z_Atomy/0-9/👎\|👎]] a můžete provést [[z_Atomy/0-9/🛑\|🛑]], když se nepřítel **vstoupí** do [[z_Atomy/0-9/🫱\|🫱]] Vaší zbraně.
+- **Příležitostná zběsilost**. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], Váš [[z_Atomy/0-9/🛑\|🛑]] nemá [[z_Atomy/0-9/👎\|👎]] a můžete provést [[z_Atomy/0-9/🛑\|🛑]], když se nepřítel **vstoupí** do [[z_Atomy/0-9/🫱\|🫱]] Vaší zbraně.
 ### LVL 15
-- **Mord**. 1/[[z_Atomy/T/Tah\|Tah]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], získáte +2 metry pro [[z_Atomy/0-9/🏃\|🏃]] a můžete použít zdarma akci [[z_Atomy/0-9/🥾\|🥾]].
+- **Zběsilost**. 1/[[z_Atomy/K/Kolo\|Kolo]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], získáte +2 metry [[z_Atomy/0-9/🏃\|🏃]] a můžete zdarma [[z_Atomy/0-9/🥾\|🥾]].
 
 </div></div>
 

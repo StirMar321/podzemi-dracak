@@ -180,10 +180,10 @@ Tento proces se opakuje, dokud nějaká bytost přežije nebo pokud se v dosahu 
 ## Stínový výbuch  
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/🏹\|🏹]] 8m
-
-Cíl utrží **(1k12+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** nekrotického poškození.
-
+[[z_Atomy/0-9/🏹\|🏹]] 12m
+⠀
+Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození.
+⠀
 **Vyšší úrovně**: +**1d12** poškození každých 5 [[z_Atomy/L/LVL\|LVL]]. (5/10/15/20)
 
 </div></div>
@@ -211,9 +211,8 @@ Můžete mít maximálně tolik poskoků, kolik je Vaše nižší hodnota z ([[z
 
 ### Stínový sluha
 Vaši stínoví sluhové se řídí pravidly jako [[z_Atomy/P/Poskoci\|Poskoci]]: 
-Mají 1 [[z_Atomy/0-9/💖\|💖]], minou při hodu 1 a nemohou udělit [[z_Atomy/0-9/💥\|💥]]. 
-Okamžitě Vás opustí po skončení boje.
-
+Mají 1 [[z_Atomy/0-9/💖\|💖]], minou při hodu 1 a nemohou udělit [[z_Atomy/0-9/💥\|💥]]. Okamžitě Vás opustí po skončení boje.
+⠀
 **1/[[z_Atomy/T/Tah\|Tah]]** 
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaútočili na cíl na blízko.

@@ -4,7 +4,7 @@
 
 ## Svatá záře
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-Max Nabití = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
+[[z_Atomy/0-9/✴️\|✴️]] = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/0-9/🫱\|🫱]] 6 metrů
 
 Vyberte jednu možnost:

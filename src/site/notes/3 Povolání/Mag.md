@@ -33,61 +33,61 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 - **Elementární kouzlení**. Znáte Triky domén [[4 Kouzla/a_Oheň\|Ohně]], [[4 Kouzla/b_Led\|Ledu]] a [[4 Kouzla/c_Blesk\|Blesku]].
 ## LVL 2
 - **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** pro [[4 Kouzla/a_Oheň\|Oheň]], [[4 Kouzla/b_Led\|Led]] a [[4 Kouzla/c_Blesk\|Blesk]] a Vaše [[z_Atomy/0-9/🌀\|🌀]] je rovna ([[z_Atomy/0-9/📖\|📖]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
-- **Talentovaný výzkumník**. [[z_Atomy/0-9/❓\|❓]] pro [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] má [[z_Atomy/0-9/👍\|👍]], když máte přístup k většímu množství knih a alespoň 12 hodin na studium.
+- **Talentovaný výzkumník**. [[z_Atomy/0-9/❓\|❓]][[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] mají [[z_Atomy/0-9/👍\|👍]], když máte přístup k většímu množství knih a čas na výzkum.
 ## LVL 3
-- **Studia Mága**. Vyberte si **podtřídu** [[z_Atomy/S/Studia Mága\|Studia Mága]].
-- **Elementální mistrovství**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] **jedné** známé domény.
+- **Studia Mága**. Vyberte si **podtřídu**. [[z_Atomy/S/Studia Mága\|Studia Mága]].
+- **Elementální mistrovství**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] **jedné** známé domény. Můžete vyměnit doménu, když studujete mystické knihy nebo Vás učí Mág vyšší úrovně.
 ## LVL 4
-- **Tvarování kouzel**. Získáte schopnost [[z_Atomy/T/Tvarování kouzel\|Tvarovat kouzla]] mocnými efekty. Vyberte si **2 schopnosti**. Můžete použít **jedno** Tvarování kouzel za [[z_Atomy/T/Tah\|Tah]]. Schopnost můžete vyměnit za jinou, kdykoli Vás během [[z_Atomy/0-9/🔋\|🔋]] vyučuje Mág vyšší úrovně.
-- **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a posílit kouzla na 2. stupeň.
+- **Tvarování kouzel**. Získáte schopnost [[z_Atomy/T/Tvarování kouzel\|Tvarovat kouzla]] mocnými efekty. Vyberte si **2 schopnosti**. 
+- **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a **posílit** kouzla na 2. stupeň.
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
-- **Elementární vlna**. Vlna adrenalinu a Vaše hluboké spojení s elementy vám na začátku boje poskytují dodatečnou sílu. Když se hází [[z_Atomy/0-9/🏁\|🏁]], získejte **(1k4+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/🌀\|🌀]] ([[z_Atomy/0-9/🌀\|🌀]] zmizí, když [[z_Atomy/S/Střetnutí\|Střetnutí]] skončí).
+- **Elementární vlna**. Vlna adrenalinu a Vaše hluboké spojení s elementy vám na začátku boje poskytují dodatečnou sílu. Když se hází [[z_Atomy/0-9/🏁\|🏁]], získejte **(1k4+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/🌀\|🌀]] (tato [[z_Atomy/0-9/🌀\|🌀]] zmizí, když [[z_Atomy/S/Střetnutí\|Střetnutí]] skončí).
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
-- **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a posílit kouzla na 3. stupeň.
+- **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a **posílit** kouzla na 3. stupeň.
 - **Elementální mistrovství (2)**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] **další** známé domény.
 ## LVL 7
 - **Studia Mága**. Získáte schopnost **podtřídy** [[z_Atomy/S/Studia Mága\|Studia Mága]].
 ## LVL 8
-- **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a posílit kouzla na 4. stupeň.
+- **Kouzla 4. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **4. stupně** a **posílit** kouzla na 4. stupeň.
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 9
 - **Tvarování kouzel (2)**. Naučte se **další** schopnost [[z_Atomy/T/Tvarování kouzel\|Tvarovat kouzla]]. Můžete vyměnit schopnost Tvarování kouzel, kterou znáte, za jinou.
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 10
-- **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a posílit kouzla na 5. stupeň.
+- **Kouzla 5. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **5. stupně** a **posílit** kouzla na 5. stupeň.
 - **Elementární vlna (2)**. Získáte **(2k4+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/🌀\|🌀]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 ## LVL 11
 - **Studia Mága**. Získáte schopnost **podtřídy** [[z_Atomy/S/Studia Mága\|Studia Mága]].
 ## LVL 12
-- **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a posílit kouzla na 6. stupeň.
+- **Kouzla 6. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **6. stupně** a **posílit** kouzla na 6. stupeň.
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 13
 - **Tvarování kouzel (3)**. Naučte se **další** schopnost [[z_Atomy/T/Tvarování kouzel\|Tvarovat kouzla]]. Můžete vyměnit schopnost Tvarování kouzel, kterou znáte, za jinou.
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
-- **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a posílit kouzla na 7. stupeň.
+- **Kouzla 7. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **7. stupně** a **posílit** kouzla na 7. stupeň.
 - **Elementální mistrovství (3)**. Znáte **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] **všech** známých domén.
 ## LVL 15
 - **Studia Mága**. Získáte schopnost **podtřídy** [[z_Atomy/S/Studia Mága\|Studia Mága]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 ## LVL 16
-- **Kouzla 8. stupně**. Nyní můžete sesílat kouzla **8. stupně** a posílit kouzla na 8. stupeň.
+- **Kouzla 8. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **8. stupně** a **posílit** kouzla na 8. stupeň.
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 17
 - **Elementární vlna (3)**. Získáte **(3k4+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/🌀\|🌀]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 18
-- **Kouzla 9. stupně**. Nyní můžete sesílat kouzla **9. stupně** a posílit kouzla na 9. stupeň.
+- **Kouzla 9. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **9. stupně** a **posílit** kouzla na 9. stupeň.
 ## LVL 19
 - **Epický dar**. Vyberte si jeden [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
 - **Arcimág**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**.
-	- První kouzlo, které sešlete v každém [[z_Atomy/S/Střetnutí\|Střetnutí]], stojí o 1 akci a 5 [[z_Atomy/0-9/🌀\|🌀]] **méně**.
+	- První kouzlo, které sešlete v každém [[z_Atomy/S/Střetnutí\|Střetnutí]], stojí o 1 [[z_Atomy/A/AKCE\|Akci]] a 5 [[z_Atomy/0-9/🌀\|🌀]] **méně**.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 
 </div></div>
@@ -102,19 +102,22 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 >[!NOTE]- **Změna je život**
 >Tvarování které znáte můžete vyměnit za jiné, kdykoli Vás během [[z_Atomy/0-9/🔋\|🔋]] vyučuje Mág vyšší úrovně nebo když se naučíte další postupem na vyšší [[z_Atomy/L/LVL\|LVL]].
 
+> [!NOTE]+ **Pamatujte!**
+> Můžete použít **jedno** Tvarování kouzel za [[z_Atomy/T/Tah\|Tah]]. Známou schopnost můžete vyměnit za jinou, kdykoli Vás během [[z_Atomy/0-9/🔋\|🔋]] vyučuje Mág vyšší úrovně nebo studujete mystické knihy.
+
 - **Extradimenzionální vidění**. (+2 [[z_Atomy/0-9/🌀\|🌀]]) Můžete u kouzlení ignorovat překážky mezi vámi a vašim cílem. Vaše kouzlo projde skrze bariéry a překážky a zasáhne cíl, o kterém víte.
 ⠀
 - **Dimenzionální dosah**. (1+ [[z_Atomy/0-9/🌀\|🌀]]) Zvýšíte [[z_Atomy/0-9/🫱\|🫱]]/[[z_Atomy/0-9/🏹\|🏹]] kouzla o +6 metrů za každou extra manu.
 ⠀
-- **Elementární destrukce**. (1+ [[z_Atomy/0-9/🌀\|🌀]]) Když kouzlem zasáhnete cíl, můžete utratit manu až do Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k tomu, abyste přehodili libovolnou kostku za každou extra manu.
+- **Elementární destrukce**. (1+ [[z_Atomy/0-9/🌀\|🌀]]) Když kouzlem zasáhnete cíl, můžete utratit [[z_Atomy/0-9/🌀\|🌀]] až do Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] k tomu, abyste přehodili libovolnou kostku za každou další [[z_Atomy/0-9/🌀\|🌀]].
 ⠀
 - **Elementární transmutace**. (+1 [[z_Atomy/0-9/🌀\|🌀]]) Změníte typ poškození kouzla.
 ⠀
 - **Ozvěna**. (2x [[z_Atomy/0-9/🌀\|🌀]]) Když sesíláte kouzlo cílené na jeden cíl, můžete seslat kopii tohoto kouzla na druhý cíl zdarma.
 ⠀
-- **Metodické sesílání**. (+1 [[z_Atomy/A/AKCE\|AKCE]]) Snižte cenu kouzla o -2 [[z_Atomy/0-9/🌀\|🌀]].
+- **Metodické sesílání**. (+1 [[z_Atomy/A/AKCE\|AKCE]]) Snižte cenu kouzla o -2 [[z_Atomy/0-9/🌀\|🌀]]. Kouzlo může stát minimálně 1 [[z_Atomy/0-9/🌀\|🌀]].
 ⠀
-- **Protáhnutí čas**. (+2 [[z_Atomy/0-9/🌀\|🌀]]) Snižte náklady na [[z_Atomy/A/AKCE\|AKCE]] o -1.
+- **Protáhnutí čas**. (+2 [[z_Atomy/0-9/🌀\|🌀]]) Snižte náklady na [[z_Atomy/A/AKCE\|AKCE]] o -1. Kouzlo může stát minimálně 1 [[z_Atomy/A/AKCE\|Akci]].
 
 </div></div>
 
@@ -134,23 +137,24 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 ## Studium Kontroly
 
 ## Tabulka kontroly
+Magie je nebezpečná. Můžete sešívat její roztřepené kraje k sobě... ale nebude držet navždy! 
 Vyberte možnost, která ještě nebyla vybrána. Obnoví se, když hodíte [[z_Atomy/0-9/🏁\|🏁]] nebo když jsou vybrány všechny možnosti.
 
-| Možnost           | Efekt                                                                                           |
-| ----------------- | ----------------------------------------------------------------------------------------------- |
-| TRVÁM NA TOM      | Sešlete zdarma kouzelný Trik. Nemůže minout.                                                    |
-| HOŘ               | Bytost Vašeho výběru do 12 metrů získá stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/Z/Zpomalen\|Zpomalen]].           |
-| NE                | Vyberte nepřítele. Ten nemůže ublížit bytosti Vašeho výběru během svého příštího [[z_Atomy/T/Tah\|Tahu]]. |
-| NEKONTROLOVATELNÝ | Provedete všechny možnosti výše, ale podle [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]].                                         |
+| Možnost          | Efekt                                                                                                       |
+| ---------------- | ----------------------------------------------------------------------------------------------------------- |
+| TRVÁM NA TOM     | Sešlete zdarma kouzelný Trik. Nemůže minout.                                                                |
+| ELEMENTÁLNÍ VLIV | Bytost Vašeho výběru do 12 metrů získá stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/Z/Zpomalen\|Zpomalen]] (má poloviční [[z_Atomy/0-9/🏃\|🏃]]). |
+| NE               | Vyberte nepřítele. Ten nemůže ublížit bytosti Vašeho výběru během svého příštího [[z_Atomy/T/Tah\|Tahu]].             |
+| ZTRAŤ KONTROLU   | Provedete všechny možnosti výše, ale vybírá [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]].                                                    |
 ### LVL 3
-- **Získání kontroly**. Kdykoli minete nebo nepřátelé uspěli proti Vašemu [[z_Atomy/0-9/❗\|❗]], **musíte** vybrat jednu možnost z Tabulky kontroly.
+- **Vyžaduji kontrolu**. 1/[[z_Atomy/K/Kolo\|Kolo]] můžete **Vyžádat kontrolu**: vyberte jednu možnost z Tabulky kontroly. Když minete nebo nepřítel uspěje proti vašemu [[z_Atomy/0-9/❗\|❗]], *musíte* **Vyžádat kontrolu**.
 ### LVL 7
-- **Morbidní zvědavost**. Naučte se jeden Trik a jedno Kouzlo z domény [[4 Kouzla/f_Nekro\|Nekro]]. Můžete je kdykoli změnit za [[z_Atomy/0-9/🔋\|🔋]].
-- **Neutralizace**. 1/[[z_Atomy/0-9/🔋\|🔋]]. Ve vaší příští Akci v tomto kole ignorujte [[z_Atomy/0-9/👎\|👎]] a jiné negativní efekty.
+- **Morbidní zvědavost**. Naučte se jeden Trik a jedno Kouzlo z domény [[4 Kouzla/f_Nekro\|Nekro]]. Můžete je kdykoli změnit během [[z_Atomy/0-9/🔋\|🔋]].
+- **Neutralizace**. 1/[[z_Atomy/0-9/🔋\|🔋]]. Ve vaší příští [[z_Atomy/A/AKCE\|Akci]] v tomto [[z_Atomy/K/Kolo\|kole]] ignorujte [[z_Atomy/0-9/👎\|👎]] a jiné negativní efekty. Poté **Vyžádeje kontrolu**.
 ### LVL 11
-- **Vůle z oceli**. 1/[[z_Atomy/0-9/🔋\|🔋]]. Kdykoli byste neuspěli [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/K/Koncentrace\|Koncentrace]], můžete místo toho uspět. Kdykoli hodíte 1 na kostce **Elementární vlny**, můžete ji jednou přehodit.
+- **Vůle z oceli**. 1/[[z_Atomy/0-9/🔋\|🔋]]. Kdykoli byste neuspěli [[z_Atomy/0-9/❗\|❗]][[z_Atomy/K/Koncentrace\|Koncentrace]], můžete místo toho uspět. Kdykoli hodíte 1 na kostce **Elementární vlny**, můžete ji jednou přehodit.
 ### LVL 15
-- **Nejvyšší kontrola**. Můžete spustit **dvakrát** efekty **Získání kontroly**. Když sesíláte kouzlo, můžete utratit 1 manu pro **Získání kontroly**.
+- **Nejvyšší kontrola**. Můžete spustit **dvakrát** efekty **Získání kontroly**. Když [[z_Atomy/0-9/✨\|✨]] Kouzlo, můžete utratit 1 [[z_Atomy/0-9/🌀\|🌀]] pro **Získání kontroly**.
 
 </div></div>
 
@@ -163,12 +167,13 @@ Vyberte možnost, která ještě nebyla vybrána. Obnoví se, když hodíte [[z_
 ## Studium Chaosu
 
 ## Tabulka chaosu
-**Nechť vládne chaos!** Kde je Tabulka Chaosu? Pokud ji opravdu chcete odhalit, zeptejte se [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]. Stačí říci, že 1 je opravdu špatný, ale 20 je ÚŽASNÝ. 
+**Nechť vládne chaos!** Kde je Tabulka Chaosu? Pokud ji opravdu chcete odhalit, zeptejte se [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]].
+Stačí říci, že hod 1 je opravdu velké špatné, ale 20 je BOMBA.
 
 ### LVL 3
-- **Vyvolání chaosu**. Když udělíte [[z_Atomy/0-9/💥\|💥]], **musíte** Vyvolat chaos. Hoďte **1k20** a výsledek ohlaste [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]].
+- **Vyvolání chaosu**. Když [[z_Atomy/0-9/✨\|✨]] kouzlo, můžete utratit o 1[[z_Atomy/0-9/🌀\|🌀]] **méně**. Poté *musíte* **Vyvolat chaos**. Hoďte **1k20** a výsledek ohlaste [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]. Tato schopnost se také spustí, když [[z_Atomy/0-9/✨\|✨]] zasadíte [[z_Atomy/0-9/💥\|💥]].
 ### LVL 7
-- **Mág Bouří**. Naučte se jeden Trik a jedno Kouzlo z domény [[4 Kouzla/d_Vítr\|Větru]]. Můžete je kdykoli změnit za [[z_Atomy/0-9/🔋\|🔋]].
+- **Mág Bouří**. Naučte se jeden Trik a jedno Kouzlo z domény [[4 Kouzla/d_Vítr\|Větru]]. Můžete je kdykoli změnit během [[z_Atomy/0-9/🔋\|🔋]].
 - Získáte schopnost [[z_Atomy/CH/Chaotický výbuch\|Chaotický výbuch]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/ch/chaoticky-vybuch/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -178,10 +183,10 @@ Vyberte možnost, která ještě nebyla vybrána. Obnoví se, když hodíte [[z_
 
 ## Chaotický výbuch
 **1/[[z_Atomy/S/Střetnutí\|Střetnutí]]**
-**[[z_Atomy/R/REAKCE\|REAKCE]], když se nepřítel pohne na blízko k vám**
+[[z_Atomy/R/REAKCE\|REAKCE]]: když se nepřítel pohne na blízko k vám
 
-Nepřítel je odstrčen 2 metry od Vás a [[z_Atomy/S/Sražen\|Sražen]] na zem při neúspěchu pro [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
-**Vyvolejte chaos**.
+Nepřítel je odstrčen 2 metry od Vás. Také je [[z_Atomy/S/Sražen\|Sražen]] na zem při neúspěšném [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+Poté **Vyvolejte chaos**.
 
 </div></div>
 

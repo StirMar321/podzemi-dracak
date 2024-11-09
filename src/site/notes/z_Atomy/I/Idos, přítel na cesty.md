@@ -3,6 +3,6 @@
 ---
 
 ## Idos, přítel na cesty
-Přivolejte legendární létající (ale přátelské) stvoření, které Vás odveze, kam potřebujete. Může požadovat platbu.
+Přivolejte legendární létající (a přátelské) stvoření, které Vás odveze, kam potřebujete. Může požadovat platbu.
 
-> [!NOTE] **A jedééééééém!**
+> [!NOTE] *A jedééééééém!*

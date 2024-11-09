@@ -13,10 +13,10 @@
 ## Stínový výbuch  
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/0-9/🏹\|🏹]] 8m
-
-Cíl utrží **(1k12+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** nekrotického poškození.
-
+[[z_Atomy/0-9/🏹\|🏹]] 12m
+⠀
+Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození.
+⠀
 **Vyšší úrovně**: +**1d12** poškození každých 5 [[z_Atomy/L/LVL\|LVL]]. (5/10/15/20)
 
 </div></div>
@@ -44,9 +44,8 @@ Můžete mít maximálně tolik poskoků, kolik je Vaše nižší hodnota z ([[z
 
 ### Stínový sluha
 Vaši stínoví sluhové se řídí pravidly jako [[z_Atomy/P/Poskoci\|Poskoci]]: 
-Mají 1 [[z_Atomy/0-9/💖\|💖]], minou při hodu 1 a nemohou udělit [[z_Atomy/0-9/💥\|💥]]. 
-Okamžitě Vás opustí po skončení boje.
-
+Mají 1 [[z_Atomy/0-9/💖\|💖]], minou při hodu 1 a nemohou udělit [[z_Atomy/0-9/💥\|💥]]. Okamžitě Vás opustí po skončení boje.
+⠀
 **1/[[z_Atomy/T/Tah\|Tah]]** 
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaútočili na cíl na blízko.
@@ -57,21 +56,21 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 </div></div>
 
 ## LVL 2
-- **Důvěryhodné médium**. Váš Patron vám propůjčuje triky a [[2 Důležité/Kouzla\|Kouzla]] **1. stupně** domény [[4 Kouzla/f_Nekro\|Nekro]] a poskytuje vám část své vlastní many. Vaše [[z_Atomy/0-9/🌀\|🌀]] je Vaše [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Vaše Kouzla stojí **vždy** 1 manu a jsou **vždy** sesílána na nejvyšším stupni, který máte odemčen. Tato [[z_Atomy/0-9/🌀\|🌀]] se obnovuje každý [[z_Atomy/0-9/🔋\|🔋]] při komunikaci s vaším patronem.
+- **Důvěryhodné médium**. Váš Patron vám propůjčuje přístup ke [[2 Důležité/Kouzla\|Kouzlům a Trikům ]] **1. stupně** domény [[4 Kouzla/f_Nekro\|Nekro]] a poskytuje vám část své vlastní [[z_Atomy/0-9/🌀\|🌀]]. Její množství je rovno Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Vaše Kouzla stojí **vždy** 1[[z_Atomy/0-9/🌀\|🌀]] a jsou **vždy** [[z_Atomy/0-9/✨\|✨]] na nejvyšším stupni, který máte odemčen. [[z_Atomy/0-9/🌀\|🌀]] se obnovuje během [[z_Atomy/0-9/🔋\|🔋]] při komunikaci s vaším patronem.
 ## LVL 3
-- **PAKT JE UZAVŘEN**. Vyberte si [[z_Atomy/P/Pakty Černokněžníka\|Pakty Černokněžníka]] a jednu [[z_Atomy/N/Menší stínové invokace\|Menší stínovou invokaci]]. Kdykoli komunikujete se svým Patronem každý [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit invokaci stejného druhu za jinou (mohou za to něco chtít na oplátku).
+- **PAKT JE SPEČETĚN**. Vyberte si [[z_Atomy/P/Pakty Černokněžníka\|Pakt]] a jednu [[z_Atomy/N/Menší stínové invokace\|Menší stínovou invokaci]].
 ## LVL 4
 - **Dar od Pána.** Vyberte si jednu [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 5
-- **Kouzla 2. stupně**. Nyní můžete sesílat kouzla **2. stupně** a vylepšovat kouzla na 2. stupeň
+- **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a Vaše Kouzla jsou **posílená*** na 2. stupeň
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
 - **Dar od Pána (2)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
-- **Stínové mistrovství**. Vyberte si **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z domény Nekro.
+- **Stínové mistrovství**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z domény Nekro.
 ## LVL 7
-- **Kouzla 3. stupně**. Nyní můžete sesílat kouzla **3. stupně** a vylepšovat kouzla na 3. stupeň.
+- **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a Vaše Kouzla jsou **posílená*** na 3. stupeň.
 - **Pakt**. Získáte schopnost **podtřídy** [[z_Atomy/P/Pakty Černokněžníka\|Paktu]].
 ## LVL 8
 - **Nižší invokace (2)**. Vyberte si **další** [[z_Atomy/N/Menší stínové invokace\|Menší stínovou invokaci]].
@@ -81,16 +80,16 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Dar od Pána (3)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 10
-- **Kouzla 4. stupně**. Nyní můžete sesílat kouzla **4. stupně** a vylepšovat kouzla na 4. stupeň.
+- **Kouzla 4. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **4. stupně** a Vaše Kouzla jsou **posílená*** na 4. stupeň.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 ## LVL 11
 - **Pakt**. Získáte schopnost **podtřídy** [[z_Atomy/P/Pakty Černokněžníka\|Paktu]].
 - **Nižší invokace (3)**. Vyberte si **další** [[z_Atomy/N/Menší stínové invokace\|Menší stínovou invokaci]].
 ## LVL 12
-- **Nenasytný pakt**. Když máte 0 many, můžete požádat svého patrona o více many, než by Vaše tělo normálně zvládlo. Před sesláním kouzla proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Výsledek 1–9: získáte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. Výsledek 20+: sešlete kouzlo, jako by bylo o 1 stupeň vyšší.
+- **Nenasytný pakt**. Když máte 0[[z_Atomy/0-9/🌀\|🌀]], můžete požádat svého patrona o více [[z_Atomy/0-9/🌀\|🌀]], než by Vaše tělo normálně zvládlo. Před [[z_Atomy/0-9/✨\|✨]] kouzla proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Výsledek 1–9: utržíte 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. Výsledek 20+: sešlete kouzlo, jako by bylo o 1 stupeň vyšší.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 13
-- **Kouzla 5. stupně**. Nyní můžete sesílat kouzla **5. stupně** a vylepšovat kouzla na 5. stupeň.
+- **Kouzla 5. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **5. stupně** a Vaše Kouzla jsou **posílená*** na 5. stupeň.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
 - **Dar od Pána (4)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
@@ -99,18 +98,18 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Pakt**. Získáte schopnost **podtřídy** [[z_Atomy/P/Pakty Černokněžníka\|Paktu]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 ## LVL 16
-- **Kouzla 6. stupně**. Nyní můžete sesílat kouzla **6. stupně** a vylepšovat kouzla na 6. stupeň.
+- **Kouzla 6. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **6. stupně** a Vaše Kouzla jsou **posílená*** na 6. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 17
-- **Hrozivé stíny**. Útoky proti [[z_Atomy/S/Stínový sluha\|Stínovým sluhům]] mají [[z_Atomy/0-9/👎\|👎]]. Když [[z_Atomy/S/Stínový sluha\|Stínový sluha]] uspěje na [[z_Atomy/0-9/❗\|❗]], neutrží žádné poškození.
+- **Hrozivé stíny**. [[z_Atomy/0-9/⚔️\|⚔️]] proti [[z_Atomy/S/Stínový sluha\|Stínovým sluhům]] mají [[z_Atomy/0-9/👎\|👎]]. Když [[z_Atomy/S/Stínový sluha\|Stínový sluha]] uspěje [[z_Atomy/0-9/❗\|❗]], neutrží žádné poškození.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 18
 - **Dar od Pána (5)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
 ## LVL 19
-- **Kouzla 7. stupně**. Nyní můžete sesílat kouzla **7. stupně** a vylepšovat kouzla na 7. stupeň.
+- **Kouzla 7. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **7. stupně** a Vaše Kouzla jsou **posílená*** na 7. stupeň.
 - **Epický dar**. Vyberte si jeden [[z_Atomy/E/Epický Dar\|Epický Dar]].
 ## LVL 20
-- **Epický Černokněžník**. 
+- **Temný uchvatitel**
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
 	- Vaše [[z_Atomy/P/Přivolání Stínu\|Přivolání Stínu]] vyvolá najednou 2 stíny do vzdálenosti 6 metrů a [[z_Atomy/S/Stínový sluha\|Stínový sluha]] zemře pouze tehdy, když najednou obdrží 12+ poškození.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
