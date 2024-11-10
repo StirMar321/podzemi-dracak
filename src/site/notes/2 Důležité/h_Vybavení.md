@@ -55,7 +55,7 @@ Každý hrdina má **Inventární Sloty** rovné **(10+[[z_Atomy/0-9/💪\|💪]
 Hrdinové mohou používat jakékoliv [[2 Důležité/h_Vybavení\|Vybavení]], které si zvolí. Nicméně každé [[2 Důležité/e1_Povolání\|Povolání]] Hrdiny má vybrané [[z_Atomy/Z/Zbraně\|Zbraně]] a [[z_Atomy/Z/Zbroje\|Zbroje]], se kterými jsou zdatní. viz Tabulka povolání
 
 - [[z_Atomy/Z/Zbraně\|Zbraně]] **bez zdatnosti** nemohou způsobit [[z_Atomy/0-9/💥\|💥]] a útočí s ([[z_Atomy/0-9/👎\|👎]]). 
-- [[z_Atomy/Z/Zbroje\|Zbroje]] **bez zdatnosti** způsobí, že Vaše [[z_Atomy/0-9/🛡️\|🛡️]] stojí o 1 [[z_Atomy/A/AKCE\|AKCI]] víc.
+- [[z_Atomy/Z/Zbroje\|Zbroje]] **bez zdatnosti** způsobí, že Vaše [[z_Atomy/0-9/🛡️\|🛡️]] stojí o 1 [[z_Atomy/A/Akce\|AKCI]] víc.
 
 </div></div>
 
@@ -109,7 +109,7 @@ Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na blízko** a vybrané schopnosti a kouzla
 
 
 ## Přebíjení  
-Některé zbraně vyžadují [[z_Atomy/A/AKCE\|AKCE]] k založení munice a připravení zbraně, než jimi může být znovu vystřeleno.
+Některé zbraně vyžadují [[z_Atomy/A/Akce\|Akce]] k založení munice a připravení zbraně, než jimi může být znovu vystřeleno.
 
 </div></div>
 
@@ -207,7 +207,7 @@ Můžete změnit hůl na těžkou palici? Jasně! Použít sai místo dýky? Sam
 | **Krátký Luk**      | (1k6+[[z_Atomy/0-9/🎯\|🎯]]) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-12 m                                                    | 25[[z_Atomy/0-9/🟡\|🟡]]  |
 | **Dlouhý Luk**      | (1k8+[[z_Atomy/0-9/🎯\|🎯]]) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 2-18 m                                                    | 30[[z_Atomy/0-9/🟡\|🟡]]  |
 | **Kuše**            | (4k4+[[z_Atomy/0-9/🎯\|🎯]]) Bodné  | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/0-9/🏹\|🏹]] 1-8 m                                                     | 60[[z_Atomy/0-9/🟡\|🟡]]  |
-| **Ruční Balista**   | (1k20+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/P/Přebíjení\|Přebíjení]]: **2** [[z_Atomy/A/AKCE\|AKCE]], <br>[[z_Atomy/0-9/🏹\|🏹]] 1-8 m, (Min. 2 [[z_Atomy/0-9/💪\|💪]]) | 120[[z_Atomy/0-9/🟡\|🟡]] |
+| **Ruční Balista**   | (1k20+[[z_Atomy/0-9/🎯\|🎯]]) Bodné | [[z_Atomy/0-9/2-ruční\|2-ruční]], [[z_Atomy/P/Přebíjení\|Přebíjení]]: **2** [[z_Atomy/A/Akce\|Akce]], <br>[[z_Atomy/0-9/🏹\|🏹]] 1-8 m, (Min. 2 [[z_Atomy/0-9/💪\|💪]]) | 120[[z_Atomy/0-9/🟡\|🟡]] |
 
 
 </div></div>
@@ -376,9 +376,9 @@ Ceny běžných předmětů se obvykle pohybují od několika [[z_Atomy/0-9/⚪\
 
 | PŘEDMĚT                     | POPIS                                                | CENA       |
 | --------------------------- | ---------------------------------------------------- | ---------- |
-| [[z_Atomy/L/Léčivý lektvar\|Léčivý lektvar]]          | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 2k4+4 [[z_Atomy/0-9/💖\|💖]]                      | 50[[z_Atomy/0-9/🟡\|🟡]]   |
-| [[z_Atomy/L/Lepší Léčivý lektvar\|Lepší Léčivý lektvar]]    | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 3k6+6 [[z_Atomy/0-9/💖\|💖]]                      | 150[[z_Atomy/0-9/🟡\|🟡]]  |
-| [[z_Atomy/N/Nejlepší Léčivý lektvar\|Nejlepší Léčivý lektvar]] | (1 [[z_Atomy/A/AKCE\|AKCE]]) Obnoví 4k8+8 [[z_Atomy/0-9/💖\|💖]]                      | 450[[z_Atomy/0-9/🟡\|🟡]]  |
+| [[z_Atomy/L/Léčivý lektvar\|Léčivý lektvar]]          | (1 [[z_Atomy/A/Akce\|Akce]]) Obnoví 2k4+4 [[z_Atomy/0-9/💖\|💖]]                      | 50[[z_Atomy/0-9/🟡\|🟡]]   |
+| [[z_Atomy/L/Lepší Léčivý lektvar\|Lepší Léčivý lektvar]]    | (1 [[z_Atomy/A/Akce\|Akce]]) Obnoví 3k6+6 [[z_Atomy/0-9/💖\|💖]]                      | 150[[z_Atomy/0-9/🟡\|🟡]]  |
+| [[z_Atomy/N/Nejlepší Léčivý lektvar\|Nejlepší Léčivý lektvar]] | (1 [[z_Atomy/A/Akce\|Akce]]) Obnoví 4k8+8 [[z_Atomy/0-9/💖\|💖]]                      | 450[[z_Atomy/0-9/🟡\|🟡]]  |
 | Louče                       | Když je tma. Jedno použití. Sada 2.                  | 5[[z_Atomy/0-9/⚪\|⚪]]     |
 | Lucerna a olej              | Jako louč, ale úspornější. (Potřebuje olej, 1[[z_Atomy/0-9/🟡\|🟡]]) | 10[[z_Atomy/0-9/🟡\|🟡]]   |
 | Lahvička smůly              | VELMI hořlavé                                        | 2[[z_Atomy/0-9/🟡\|🟡]]    |

@@ -12,7 +12,7 @@
 
 ## Lákání
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
@@ -30,7 +30,7 @@ Pokud cíl neuspěje na [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤
 
 ## Chřadnoucí dotek
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
 
 Cíl utrží **1k12** nekrotického poškození. 
@@ -49,7 +49,7 @@ Cíl je považován za *nemrtvého* do konce Vašeho příštího [[z_Atomy/T/Ta
 
 ## Past temnoty
 **STUPEŇ 1**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
 [[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta
 
@@ -67,7 +67,7 @@ První bytost, která vstoupí do dosahu utrží **3k12** nekrotického poškoze
 
 ## Plášť stínů
 **STUPEŇ 2**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 
@@ -85,7 +85,7 @@ Obklopíte se stínem. [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti Vám maj�
 
 ## Upíří žízeň
 **STUPEŇ 3**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
@@ -104,7 +104,7 @@ Bytosti provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Za každý 
 
 ## Větší stín
 **STUPEŇ 4**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 
 Přivolejte vedle sebe **5k12 Větší Stín** (viz [[z_Atomy/P/Poskoci\|Poskoci]]). Můžete mít maximálně **1 Větší stín**. 
 Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|Stínových sluhů]]. Umístěte je kamkoliv do 8m od **Většího stínu**.
@@ -121,7 +121,7 @@ Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|Stínových sl
 
 ## Hnisající rány
 **STUPEŇ 5**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
@@ -140,7 +140,7 @@ Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]
 
 ## Nevyslovitelné slovo  
 **STUPEŇ 6**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 8m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
@@ -160,7 +160,7 @@ Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]
 
 ## Nakažlivá smrt
 **STUPEŇ 7**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m
 
 Udělí **8k12** nekrotického poškození bytosti v dosahu. 
@@ -179,7 +179,7 @@ Tento proces se opakuje, dokud nějaká bytost přežije nebo pokud se v dosahu 
 
 ## Stínový výbuch  
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 ⠀
 Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození.
@@ -196,7 +196,7 @@ Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození.
 
 ## Přivolání stínu  
 **TRIK**  
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
 [[z_Atomy/P/Poskoci\|Poskoci]]
 
@@ -214,7 +214,7 @@ Vaši stínoví sluhové se řídí pravidly jako [[z_Atomy/P/Poskoci\|Poskoci]]
 Mají 1 [[z_Atomy/0-9/💖\|💖]], minou při hodu 1 a nemohou udělit [[z_Atomy/0-9/💥\|💥]]. Okamžitě Vás opustí po skončení boje.
 ⠀
 **1/[[z_Atomy/T/Tah\|Tah]]** 
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaútočili na cíl na blízko.
 
 </div></div>

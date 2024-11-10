@@ -4,7 +4,7 @@
 
 ## Vzplanutí
 **STUPEŇ 1**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 8 metrů
 Podmínka: Cíl je [[z_Atomy/Z/Žhnoucí\|Žhnoucí]]
 

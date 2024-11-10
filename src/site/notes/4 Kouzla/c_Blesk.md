@@ -12,7 +12,7 @@
 
 ## Výboj  
 **TRIK**  
-**1 [[z_Atomy/A/AKCE\|AKCE]]**  
+**1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 
 Cíl utrží **2k8** bleskového poškození. Pokud **Výboj** mine cíl, zasáhne sesílatele. Získá stav [[z_Atomy/Z/Zkrat\|Zkrat]].
@@ -29,7 +29,7 @@ Cíl utrží **2k8** bleskového poškození. Pokud **Výboj** mine cíl, zasáh
 
 ## Uzemnění
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**  
+**1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 2m
 Podmínka: Sesílatel má [[z_Atomy/Z/Zkrat\|Zkrat]]
 
@@ -49,7 +49,7 @@ Sesílatel ukončí svůj [[z_Atomy/Z/Zkrat\|Zkrat]] a bytosti v dosahu utrží 
 
 ## Elektrický oblouk
 **STUPEŇ 1**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 
 Cíl utrží **3k8** bleskového poškození.
@@ -85,7 +85,7 @@ Když se hází [[z_Atomy/0-9/🏁\|🏁]], přičtěte k hodu svůj [[z_Atomy/0
 
 ## Řetězový blesk
 **STUPEŇ 3**  
-**3 [[z_Atomy/A/AKCE\|AKCE]]**  
+**3 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/O/Oblast\|Oblast]] 2x12m od Sesílatele
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
@@ -107,11 +107,11 @@ Bytosti, které se dotýkají většího množství kovu automaticky neuspějí.
 
 ## Elektrotrik
 **STUPEŇ 4**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
-[[z_Atomy/R/REAKCE\|REAKCE]] - Nepřítel provádí [[z_Atomy/A/AKCE\|AKCI]]
+**2 [[z_Atomy/A/Akce\|Akce]]**
+[[z_Atomy/R/REAKCE\|REAKCE]] - Nepřítel provádí [[z_Atomy/A/Akce\|AKCI]]
 [[z_Atomy/0-9/🫱\|🫱]] 12m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
-*Stojí 2 [[z_Atomy/0-9/🌀\|🌀]] a 1 [[z_Atomy/A/AKCE\|AKCI]], pokud máte [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/0-9/🩸\|🩸]]*
+*Stojí 2 [[z_Atomy/0-9/🌀\|🌀]] a 1 [[z_Atomy/A/Akce\|AKCI]], pokud máte [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/0-9/🩸\|🩸]]*
 
 Prohoďte místa jednoho ochotného cíle a jiného cíle v dosahu. Pokud byl jeden z nich cílem útoku/kouzla, druhý se stává novým cílem. Aby neochotný cíl odolal kouzlu, musí uspět [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].  
 
@@ -127,11 +127,11 @@ Prohoďte místa jednoho ochotného cíle a jiného cíle v dosahu. Pokud byl je
 
 ## Nabití
 **STUPEŇ 5**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
 [[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta
 
-Cíl získá: +1 [[z_Atomy/A/AKCE\|AKCI]], +5 [[z_Atomy/B/Brnění\|Brnění]], 2x[[z_Atomy/0-9/🏃\|🏃]] pohyb a [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
+Cíl získá: +1 [[z_Atomy/A/Akce\|AKCI]], +5 [[z_Atomy/B/Brnění\|Brnění]], 2x[[z_Atomy/0-9/🏃\|🏃]] pohyb a [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
 
 **Posílení:** +1 minuta [[z_Atomy/T/Trvání\|Trvání]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
 
@@ -145,7 +145,7 @@ Cíl získá: +1 [[z_Atomy/A/AKCE\|AKCI]], +5 [[z_Atomy/B/Brnění\|Brnění]], 
 
 ## Bleskový jezdec
 **STUPEŇ 6**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 [[z_Atomy/O/Oblast\|Oblast]] 3m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
@@ -165,10 +165,10 @@ Bytosti kolem cíle utrpí **10k8** bleskového poškození a provedou [[z_Atomy
 
 ## Zuřící Bouře  
 **STUPEŇ 9**  
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 4m
 [[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta
-*Udržení vyžaduje 3 [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/K/Kolo\|Kolo]]*
+*Udržení vyžaduje 3 [[z_Atomy/A/Akce\|Akce]]/[[z_Atomy/K/Kolo\|Kolo]]*
 [[z_Atomy/O/Odpočinek\|Odpočinek]]: 1 týden
 
 Jste obklopeni mrakem s dosahem 4 metry. 

@@ -3,7 +3,7 @@
 ---
 
 ## Zuřivost
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 
 Začnete **Zuřit**. Hoďte **1** **[[z_Atomy/0-9/♈\|♈]]** (**1k6**) a odložte ji stranou. Přičtěte ji ke každému Vašemu [[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/⚔️\|⚔️]]. 

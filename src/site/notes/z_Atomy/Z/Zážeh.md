@@ -3,7 +3,7 @@
 ---
 
 ## Zážeh
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 
 **Vytvořte** jednoduchou vizuální iluzi 
 *nebo*

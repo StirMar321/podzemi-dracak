@@ -12,7 +12,7 @@
 
 ## Stínový výbuch  
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 ⠀
 Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození.
@@ -29,7 +29,7 @@ Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození.
 
 ## Přivolání stínu  
 **TRIK**  
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
 [[z_Atomy/P/Poskoci\|Poskoci]]
 
@@ -47,7 +47,7 @@ Vaši stínoví sluhové se řídí pravidly jako [[z_Atomy/P/Poskoci\|Poskoci]]
 Mají 1 [[z_Atomy/0-9/💖\|💖]], minou při hodu 1 a nemohou udělit [[z_Atomy/0-9/💥\|💥]]. Okamžitě Vás opustí po skončení boje.
 ⠀
 **1/[[z_Atomy/T/Tah\|Tah]]** 
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaútočili na cíl na blízko.
 
 </div></div>

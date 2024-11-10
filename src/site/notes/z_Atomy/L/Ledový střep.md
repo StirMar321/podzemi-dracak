@@ -4,7 +4,7 @@
 
 ## Ledový střep
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12 metrů
 
 Cíl utrží **1k6** ledového poškození a má [[z_Atomy/0-9/👍\|👍]] proti stavu [[z_Atomy/Z/Zpomalen\|Zpomalen]].

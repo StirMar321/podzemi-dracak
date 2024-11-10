@@ -38,7 +38,7 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 
 ## Zlomyslný výsměch
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
 
 Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
@@ -136,11 +136,11 @@ Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z 
 
 - **Ne moji krásnou tvář!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Kdykoli použijete [[z_Atomy/R/REAKCE\|Reakci]] [[z_Atomy/0-9/🛡️\|🛡️]], můžete nejprve přinutit útočníka provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu změňte cíl [[z_Atomy/0-9/⚔️\|⚔️]] (pokud žádný není v dosahu, útok selže). Pokud neuspěje o 5+, zaútočí na sebe jako trest za to, že vůbec pomysleli na to Vám ublížit! 
 ⠀
-- **Píseň davů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **2 [[z_Atomy/A/AKCE\|AKCE]]**. Zahrajete okouzlující melodii. Všichni nepřátelé do 6 metrů, kteří ji slyší, musí provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu je můžete přesunout až o 6 metrů libovolným směrem a nemohou se pohnout ve svém dalším tahu.
+- **Píseň davů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **2 [[z_Atomy/A/Akce\|Akce]]**. Zahrajete okouzlující melodii. Všichni nepřátelé do 6 metrů, kteří ji slyší, musí provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu je můžete přesunout až o 6 metrů libovolným směrem a nemohou se pohnout ve svém dalším tahu.
 ⠀
 - **Hrdinská balada**. +2[[z_Atomy/0-9/🔔\|🔔]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] navíc přidává spojenci **(+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** k poškození jeho [[z_Atomy/0-9/⚔️\|⚔️]].
 ⠀
-- **Inspirativní Hymna**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **1 [[z_Atomy/A/AKCE\|AKCE]]**. Dáte všem [[z_Atomy/0-9/🩸\|🩸]] spojencům: 1 [[z_Atomy/0-9/💖\|💖]] a 1 Akci.
+- **Inspirativní Hymna**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **1 [[z_Atomy/A/Akce\|Akce]]**. Dáte všem [[z_Atomy/0-9/🩸\|🩸]] spojencům: 1 [[z_Atomy/0-9/💖\|💖]] a 1 Akci.
 ⠀
 - **Pýcha předchází pád**. Když hodíte 4+ pro [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], můžete použít 1[[z_Atomy/0-9/🔔\|🔔]], abyste dočasně potlačili jakékoli speciální schopnosti cíle až do konce jeho příštího [[z_Atomy/T/Tah\|Tahu]]. Mohou dělat jen to, co by zvládl průměrný vesničan: útočit pouze jednou za **1k4** poškození a pohybovat se až o 6 metrů (nemají **žádné** [[z_Atomy/0-9/⛉⛊\|⛉⛊]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/L/Létání\|Létání]], regenerace, [[z_Atomy/O/Odolnost\|odolnosti]]/[[z_Atomy/I/Imunita\|imunity]], další vrozené nebo získané schopnosti).
 
@@ -163,7 +163,7 @@ Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z 
 
 
 ## Dupák
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 Přivolejte kopcového obra na 1 [[z_Atomy/K/Kolo\|Kolo]]. Vstoupí na bojiště vedle Vás a použije [[z_Atomy/D/Dupy Dup\|Dupy Dup]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/dupy-dup/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -247,7 +247,7 @@ Přivolejte legendární létající (a přátelské) stvoření, které Vás od
 ### LVL 7
 - **Pobuřovač**. 1/[[z_Atomy/T/Tah\|Tah]]. Když je nepřítel poškozen Vaším Trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], může ho váš spojenec  [[z_Atomy/P/Provokován\|Provokovat]], až do konce [[z_Atomy/T/Tah\|Tahu]] nepřítele.
 ### LVL 11
-- **Akord chaosu**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/A/AKCE\|AKCE]]. Můžete přesunout VŠECHNY bytosti, které slyší Vaši píseň, až o 3 metry, pokud se nepohnou do zjevně nebezpečného místa.
+- **Akord chaosu**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/A/Akce\|Akce]]. Můžete přesunout VŠECHNY bytosti, které slyší Vaši píseň, až o 3 metry, pokud se nepohnou do zjevně nebezpečného místa.
 ### LVL 15
 - **Slova jsou dýky**. Poškození způsobené Trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] se zvyšuje na **(1k6+[[z_Atomy/0-9/📖\|📖]]+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** psychického poškození.
 
@@ -265,9 +265,9 @@ Přivolejte legendární létající (a přátelské) stvoření, které Vás od
 ### LVL 7
 - **Neochvějná odvaha**. Vaše přítomnost inspiruje ostatní k hrdinským činům a odvaze, o které se vypráví pouze v legendách. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] dává [[z_Atomy/0-9/👍\|👍]].
 ### LVL 11
-- **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
+- **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 [[z_Atomy/A/Akce\|Akci]] navíc.
 ### LVL 15
-- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
+- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/Akce\|Akci]] navíc.
 
 </div></div>
 

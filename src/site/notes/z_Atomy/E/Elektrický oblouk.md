@@ -4,7 +4,7 @@
 
 ## Elektrický oblouk
 **STUPEŇ 1**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 
 Cíl utrží **3k8** bleskového poškození.

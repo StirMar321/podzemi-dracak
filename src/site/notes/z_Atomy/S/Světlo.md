@@ -3,6 +3,6 @@
 ---
 
 ## Světlo
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 
 **Předmět**, který držíte, začne **svítit**, doku ho držíte.

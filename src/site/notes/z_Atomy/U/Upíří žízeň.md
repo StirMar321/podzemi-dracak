@@ -4,7 +4,7 @@
 
 ## Upíří žízeň
 **STUPEŇ 3**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 

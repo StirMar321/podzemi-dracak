@@ -15,7 +15,7 @@ Jsou pomocné triky, která se nehodí do boje, ale ve správných rukou mohou b
 
 
 ## Zážeh
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 
 **Vytvořte** jednoduchou vizuální iluzi 
 *nebo*
@@ -189,7 +189,7 @@ Bytost do 6 metrů **pomalu** a bezpečně **klesne** na zem.
 
 ## Hrobařina 
 
-[[z_Atomy/A/AKCE\|AKCE]]: **Znečistěte** povrch krví, hlínou nebo jinou nechutnou **špínou**.
+[[z_Atomy/A/Akce\|Akce]]: **Znečistěte** povrch krví, hlínou nebo jinou nechutnou **špínou**.
 
 **Sesílání 1 minuta**: Můžete **pohnout** zeminou o objemu průměrného **hrobu**.
 
@@ -215,7 +215,7 @@ Bytost do 6 metrů **pomalu** a bezpečně **klesne** na zem.
 
 
 ## Myšlenková pijavice
-**[[z_Atomy/A/AKCE\|AKCE]]**
+**[[z_Atomy/A/Akce\|Akce]]**
 
 **Přečtěte myšlenky** bytosti do vzdálenosti 6 metrů. Bytost může **cítit**, že se jí hrabete v hlavě a nemusí se jí to líbit!
 
@@ -230,7 +230,7 @@ Bytost do 6 metrů **pomalu** a bezpečně **klesne** na zem.
 
 
 ## Světlo
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 
 **Předmět**, který držíte, začne **svítit**, doku ho držíte.
 
@@ -243,7 +243,7 @@ Bytost do 6 metrů **pomalu** a bezpečně **klesne** na zem.
 
 
 ## Zkrášlení 
-**[[z_Atomy/A/AKCE\|AKCE]]**
+**[[z_Atomy/A/Akce\|Akce]]**
 
 **Očistíte** špínu a **opravte** malé poškození na nemagickém předmětu.
 Nebo vyčarujte malou **krásnou** věc. (Kytku, motýlky atd.)

@@ -19,6 +19,6 @@
 ⠀
 - **Ozvěna**. (2x [[z_Atomy/0-9/🌀\|🌀]]) Když sesíláte kouzlo cílené na jeden cíl, můžete [[z_Atomy/0-9/✨\|✨]] kopii tohoto kouzla na druhý cíl [[z_Atomy/Z/Zdarma\|Zdarma]].
 ⠀
-- **Metodické sesílání**. (+1 [[z_Atomy/A/AKCE\|AKCE]]) Snižte cenu kouzla o -2 [[z_Atomy/0-9/🌀\|🌀]]. Kouzlo může stát minimálně 1 [[z_Atomy/0-9/🌀\|🌀]].
+- **Metodické sesílání**. (+1 [[z_Atomy/A/Akce\|Akce]]) Snižte cenu kouzla o -2 [[z_Atomy/0-9/🌀\|🌀]]. Kouzlo může stát minimálně 1 [[z_Atomy/0-9/🌀\|🌀]].
 ⠀
-- **Protáhnutí čas**. (+2 [[z_Atomy/0-9/🌀\|🌀]]) Snižte náklady na [[z_Atomy/A/AKCE\|AKCE]] o -1. Kouzlo může stát minimálně 1 [[z_Atomy/A/AKCE\|Akci]].
+- **Protáhnutí čas**. (+2 [[z_Atomy/0-9/🌀\|🌀]]) Snižte náklady na [[z_Atomy/A/Akce\|Akce]] o -1. Kouzlo může stát minimálně 1 [[z_Atomy/A/Akce\|Akci]].

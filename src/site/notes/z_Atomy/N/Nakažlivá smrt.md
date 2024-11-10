@@ -4,7 +4,7 @@
 
 ## Nakažlivá smrt
 **STUPEŇ 7**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m
 
 Udělí **8k12** nekrotického poškození bytosti v dosahu. 

@@ -4,6 +4,6 @@
 
 ## Hrobařina 
 
-[[z_Atomy/A/AKCE\|AKCE]]: **Znečistěte** povrch krví, hlínou nebo jinou nechutnou **špínou**.
+[[z_Atomy/A/Akce\|Akce]]: **Znečistěte** povrch krví, hlínou nebo jinou nechutnou **špínou**.
 
 **Sesílání 1 minuta**: Můžete **pohnout** zeminou o objemu průměrného **hrobu**.

@@ -4,7 +4,7 @@
 
 ## Plášť stínů
 **STUPEŇ 2**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
 [[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 

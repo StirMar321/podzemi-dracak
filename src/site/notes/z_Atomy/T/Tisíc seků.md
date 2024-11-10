@@ -4,7 +4,7 @@
 
 ## Tisíc seků  
 **STUPEŇ 6**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 [[z_Atomy/O/Oblast\|Oblast]] 1m
 

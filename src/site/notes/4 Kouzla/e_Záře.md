@@ -12,7 +12,7 @@
 
 ## Kázání
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 4m
 
 Cíl utrží **1k6** zářivé poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. 
@@ -30,7 +30,7 @@ Dvojnásobné poškození proti *nemrtvým* a cílům za [[z_Atomy/K/Kryt\|Kryte
 
 ## Čestný úder
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 2m
 
 Dejte sobě/spojenci v dosahu [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]] až do konce příštího tahu.
@@ -69,7 +69,7 @@ Pokud je utraceno 5+ [[z_Atomy/0-9/🌀\|🌀]], můžete také vyléčit 1 nega
 
 ## Ochrana
 **STUPEŇ 2**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/T/Trvání\|Trvání]]: 1 hodina
 
 Označte ochotnou bytost jako svého chráněnce na 1 hodinu. Přijímá **polovinu poškození** ze všech útoků, Vy přijmete druhou polovinu.
@@ -86,7 +86,7 @@ Označte ochotnou bytost jako svého chráněnce na 1 hodinu. Přijímá **polov
 
 ## Štít spravedlnosti  
 **STUPEŇ 3**  
-**1 [[z_Atomy/A/AKCE\|AKCE]]**  
+**1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
 [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]]. Odražte zářivé poškození zpět na útočníka rovné bráněnému poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].  
@@ -103,7 +103,7 @@ Označte ochotnou bytost jako svého chráněnce na 1 hodinu. Přijímá **polov
 
 ## Odsouzení
 **STUPEŇ 4**  
-**2 [[z_Atomy/A/AKCE\|AKCE]]**  
+**2 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🏹\|🏹]] 4m
 *Můžete zacílit pouze na bytost, která Vám nebo spojenci zasadila [[z_Atomy/0-9/💥\|💥]] od Vašeho posledního [[z_Atomy/T/Tah\|Tahu]].*
 
@@ -121,7 +121,7 @@ Udělte **2k12+20** zářivého poškození bytosti. Ignoruje [[z_Atomy/0-9/⛉�
 
 ## Exkomunikace
 **STUPEŇ 5**  
-**2 [[z_Atomy/A/AKCE\|AKCE]]**  
+**2 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🏹\|🏹]] 4 metry
 *Můžete zacílit pouze bytost, která snížil spojenci [[z_Atomy/0-9/💖\|💖]] na **0** nebo způsobila [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] od Vašeho posledního [[z_Atomy/T/Tah\|Tahu]].*
 
@@ -139,7 +139,7 @@ Neomylně bytosti udělíte **50** zářivého poškození. Toto poškození nel
 
 ## Oběť  
 **STUPEŇ 6**  
-**1 [[z_Atomy/A/AKCE\|AKCE]]**  
+**1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 4m
 
 Snižte své [[z_Atomy/0-9/💖\|💖]] na **0**. Nemůžete mít více než 0 [[z_Atomy/0-9/💖\|💖]] do konce [[z_Atomy/0-9/🔋\|🔋]].
@@ -177,7 +177,7 @@ Oživte libovolný počet zesnulých bytostí do vzdálenosti 2 kilometrů, kte�
 
 ## Přivolání Duchovního strážce  
 **STUPEŇ 1**  
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 
 Přivolejte duchovního společníka, který Vás věrně následuje. Má [[z_Atomy/I/Imunita\|Imunitu]] vůči všemu poškození a škodlivým efektům. 
 Trvá, dokud: toto kouzlo nevyvoláte znovu,[[z_Atomy/0-9/🔋\|🔋]], nebo dokud nevyléčí tolikrát, kolik bylo utraceno many při jeho přivolání.
@@ -198,9 +198,9 @@ Trvá, dokud: toto kouzlo nevyvoláte znovu,[[z_Atomy/0-9/🔋\|🔋]], nebo dok
 X = [[z_Atomy/0-9/🌀\|🌀]] při seslání
 [[z_Atomy/0-9/🫱\|🫱]] 4m
 
-1 [[z_Atomy/A/AKCE\|AKCE]] + 1 Nabití: Cíl v dosahu obnoví **(1k6+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/💖\|💖]].
+1 [[z_Atomy/A/Akce\|Akce]] + 1 Nabití: Cíl v dosahu obnoví **(1k6+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/💖\|💖]].
 
-1 [[z_Atomy/A/AKCE\|AKCE]]: Cíl v dosahu utrží **(1k6+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** zářivého poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
+1 [[z_Atomy/A/Akce\|Akce]]: Cíl v dosahu utrží **(1k6+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** zářivého poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
 
 </div></div>
 

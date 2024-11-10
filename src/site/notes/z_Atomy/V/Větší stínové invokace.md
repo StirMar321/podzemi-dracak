@@ -16,11 +16,11 @@
 ⠀
 - **Stínové kopí**. Dosah Vašeho Triku [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] je 18 metrů, ignoruje [[z_Atomy/K/Kryt\|Kryt]] a můžete útočit na cíl, který je [[z_Atomy/S/Sražen\|Sražen]] s [[z_Atomy/0-9/👍\|👍]] místo [[z_Atomy/0-9/👎\|👎]].
 ⠀
-- **Splynutí se stíny**. **[[z_Atomy/A/AKCE\|AKCE]]**: Když jste v oblasti zahalené v šeru nebo tmě, můžete získat [[z_Atomy/N/Neviditelnost\|Neviditelnost]], dokud se nepohnete nebo [[z_Atomy/0-9/⚔️\|⚔️]].
+- **Splynutí se stíny**. **[[z_Atomy/A/Akce\|Akce]]**: Když jste v oblasti zahalené v šeru nebo tmě, můžete získat [[z_Atomy/N/Neviditelnost\|Neviditelnost]], dokud se nepohnete nebo [[z_Atomy/0-9/⚔️\|⚔️]].
 ⠀
 - **Rázný výbuch**. Když zasáhnete středně [[z_Atomy/V/Velikost\|Velkou]] nebo menší bytost [[z_Atomy/S/Stínový výbuch\|Stínovým výbuchem]], můžete od Vás bytost odstrčit až o 2 metry.
 ⠀
-- **Cestovatel stíny**. 1 **[[z_Atomy/A/AKCE\|AKCE]]**: Vyměňte si místo s bytostí do 12 metrů, které bylo tento [[z_Atomy/T/Tah\|Tah]] způsobeno nekrotické poškození.
+- **Cestovatel stíny**. 1 **[[z_Atomy/A/Akce\|Akce]]**: Vyměňte si místo s bytostí do 12 metrů, které bylo tento [[z_Atomy/T/Tah\|Tah]] způsobeno nekrotické poškození.
 ⠀
 - **Ďábelská smlouva**. Zvyšte svou [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/📖\|📖]] o **+1**. Máte **-1** maximálních [[z_Atomy/0-9/🟥\|🟥]].
 ⠀

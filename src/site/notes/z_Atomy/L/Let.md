@@ -4,7 +4,7 @@
 
 ## Let  
 **STUPEŇ 3**  
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
 [[z_Atomy/K/Koncentrace\|Koncentrace]], až 10 minut
 

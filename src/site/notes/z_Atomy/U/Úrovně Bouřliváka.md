@@ -12,7 +12,7 @@
 
 
 ## Divotvar
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🐾\|🐾]] = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 
 Můžete se přeměnit v neškodnou suchozemskou bytost. *(např. kráva, veverka, myš atd.)*

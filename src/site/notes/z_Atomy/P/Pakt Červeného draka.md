@@ -13,4 +13,4 @@
 - **Srdce spalujícího žáru**. Obnovte si 1[[z_Atomy/0-9/🌀\|🌀]], když se hází [[z_Atomy/0-9/🏁\|🏁]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
 ### LVL 15
-- **Posedlý Patronem**. Utržíte **1k4** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a sešlete kouzlo [[z_Atomy/D/Dračí forma\|Dračí forma]] za 0 [[z_Atomy/A/AKCE\|AKCÍ]] a 0[[z_Atomy/0-9/🌀\|🌀]].
+- **Posedlý Patronem**. Utržíte **1k4** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a sešlete kouzlo [[z_Atomy/D/Dračí forma\|Dračí forma]] za 0 [[z_Atomy/A/Akce\|AKCÍ]] a 0[[z_Atomy/0-9/🌀\|🌀]].

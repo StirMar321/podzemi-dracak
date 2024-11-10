@@ -3,7 +3,7 @@
 ---
 
 # REAKCE
-Reakce jsou "[[z_Atomy/A/AKCE\|AKCE]]" provedené **mimo Váš [[z_Atomy/T/Tah\|Tah]]**. Hrdina může provést **každou reakci nejvýše jednou za [[z_Atomy/K/Kolo\|Kolo]]**, a začne svůj příští [[z_Atomy/T/Tah\|Tah]] s méně akcemi.
+Reakce jsou "[[z_Atomy/A/Akce\|Akce]]" provedené **mimo Váš [[z_Atomy/T/Tah\|Tah]]**. Hrdina může provést **každou reakci nejvýše jednou za [[z_Atomy/K/Kolo\|Kolo]]**, a začne svůj příští [[z_Atomy/T/Tah\|Tah]] s méně akcemi.
 
 Základní **Reakce** jsou:
 - [[z_Atomy/0-9/🛡️\|🛡️]] = Bránění

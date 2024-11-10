@@ -4,7 +4,7 @@
 
 ## Lavina
 **STUPEŇ 5**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12 metrů
 [[z_Atomy/O/Oblast\|Oblast]]: 2x2m
 

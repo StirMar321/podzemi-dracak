@@ -4,7 +4,7 @@
 
 ## Rampouch
 **STUPEŇ 1**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12 metrů
 
 Cíl utrží **3k6** ledového poškození. [[z_Atomy/0-9/💥\|💥]] [[z_Atomy/S/Sražen\|Srazí]] **střední** a menší cíle. (viz [[z_Atomy/V/Velikost\|Velikost]]) a má [[z_Atomy/0-9/👍\|👍]] proti stavu [[z_Atomy/Z/Zpomalen\|Zpomalen]].

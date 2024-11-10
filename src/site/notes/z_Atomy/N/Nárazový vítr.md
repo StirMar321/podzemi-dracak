@@ -4,7 +4,7 @@
 
 ## Nárazový vítr  
 **STUPEŇ 1**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 
 Cíl v dostřelu utrží **3k4** sečné poškození. 

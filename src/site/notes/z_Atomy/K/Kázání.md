@@ -4,7 +4,7 @@
 
 ## Kázání
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 4m
 
 Cíl utrží **1k6** zářivé poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. 

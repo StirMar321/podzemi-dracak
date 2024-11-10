@@ -5,7 +5,7 @@
 # Kouzla, Triky a Tríčky
 Existuje **6 hlavních domén magie**, z nichž každá má své základní **Triky** a až **9 Stupňů** kouzel.
 Jak [[2 Důležité/e1_Povolání\|Povolání]] získávají [[z_Atomy/L/LVL\|LVL]], získávají přístup k **vyšším Stupňům** kouzel. 
-Hrdinové mohou sesílat jakákoli kouzla domén, které znají, až do **nejvyššího** stupně, který mají odemčený, když použijí [[z_Atomy/A/AKCE\|Akci]] [[z_Atomy/0-9/✨\|✨]].
+Hrdinové mohou sesílat jakákoli kouzla domén, které znají, až do **nejvyššího** stupně, který mají odemčený, když použijí [[z_Atomy/A/Akce\|Akci]] [[z_Atomy/0-9/✨\|✨]].
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Mana/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

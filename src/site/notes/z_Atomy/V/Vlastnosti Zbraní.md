@@ -34,7 +34,7 @@ Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na blízko** a vybrané schopnosti a kouzla
 
 
 ## Přebíjení  
-Některé zbraně vyžadují [[z_Atomy/A/AKCE\|AKCE]] k založení munice a připravení zbraně, než jimi může být znovu vystřeleno.
+Některé zbraně vyžadují [[z_Atomy/A/Akce\|Akce]] k založení munice a připravení zbraně, než jimi může být znovu vystřeleno.
 
 </div></div>
 

@@ -4,7 +4,7 @@
 
 ## Výboj  
 **TRIK**  
-**1 [[z_Atomy/A/AKCE\|AKCE]]**  
+**1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 
 Cíl utrží **2k8** bleskového poškození. Pokud **Výboj** mine cíl, zasáhne sesílatele. Získá stav [[z_Atomy/Z/Zkrat\|Zkrat]].

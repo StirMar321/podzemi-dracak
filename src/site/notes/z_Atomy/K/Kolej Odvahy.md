@@ -8,6 +8,6 @@
 ### LVL 7
 - **Neochvějná odvaha**. Vaše přítomnost inspiruje ostatní k hrdinským činům a odvaze, o které se vypráví pouze v legendách. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] dává [[z_Atomy/0-9/👍\|👍]].
 ### LVL 11
-- **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
+- **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 [[z_Atomy/A/Akce\|Akci]] navíc.
 ### LVL 15
-- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
+- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/Akce\|Akci]] navíc.

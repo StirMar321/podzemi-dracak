@@ -39,7 +39,7 @@ Ať tvé šípy zasáhnou cíl a tětivy nikdy neprasknou.
 
 
 ## Lovcova Marka
-**1 [[z_Atomy/A/AKCE\|Akce]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 ⠀
 Cíl, který vidíte, bude označen jako Vaše **[[z_Atomy/K/Kořist\|Kořist]]** na jeden den nebo dokud neoznačíte jiný cíl. Cíl se před vámi nemůže skrýt a Vaše útoky proti označenému cíli působí **+[[z_Atomy/L/LVL\|LVL]]/**[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] poškození (vyberte vyšší).
 
@@ -60,7 +60,7 @@ Cíl, který vidíte, bude označen jako Vaše **[[z_Atomy/K/Kořist\|Kořist]]*
 - **Průzkumník Divočiny**. +2 metry k Vaší [[z_Atomy/0-9/🏃\|🏃]]. Získáte schopnost **šplhat**.
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
-- **Doražení**. 1[[z_Atomy/0-9/❇️\|❇️]] a 1 [[z_Atomy/A/AKCE\|AKCE]]: Proveďte [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] [[z_Atomy/K/Kořist\|Kořisti]]. Automaticky se počítá jako [[z_Atomy/0-9/💥\|💥]] a zdvojnásobte poškození z [[z_Atomy/L/Lovcova marka\|Lovcovy marky]]. Pokud kořist přežije, udělí vám [[z_Atomy/0-9/💥\|💥]] zpět.
+- **Doražení**. 1[[z_Atomy/0-9/❇️\|❇️]] a 1 [[z_Atomy/A/Akce\|Akce]]: Proveďte [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] [[z_Atomy/K/Kořist\|Kořisti]]. Automaticky se počítá jako [[z_Atomy/0-9/💥\|💥]] a zdvojnásobte poškození z [[z_Atomy/L/Lovcova marka\|Lovcovy marky]]. Pokud kořist přežije, udělí vám [[z_Atomy/0-9/💥\|💥]] zpět.
 - **Zkušený Stopař**. Získáte +1[[z_Atomy/0-9/❇️\|❇️]], když **VY** zabijete [[z_Atomy/K/Kořist\|Kořist]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6
@@ -121,29 +121,29 @@ Cíl, který vidíte, bude označen jako Vaše **[[z_Atomy/K/Kořist\|Kořist]]*
 > Každá schopnost stojí **1[[z_Atomy/0-9/❇️\|❇️]]** a **nelze jimi minout**.
 > Když používáte schopnost **Lovecké horečky**, nemůžete generovat nová [[z_Atomy/0-9/❇️\|❇️]]. Nabití zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
-- **Déšť šípů**. 1[[z_Atomy/0-9/❇️\|❇️]], 2 [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na všechny bytosti v [[z_Atomy/O/Oblast\|oblasti]] 3x3 metry. Bytosti v oblasti mají poloviční [[z_Atomy/0-9/🏃\|🏃]] do konce jejich příštího [[z_Atomy/T/Tah\|Tahu]].
+- **Déšť šípů**. 1[[z_Atomy/0-9/❇️\|❇️]], 2 [[z_Atomy/A/Akce\|Akce]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na všechny bytosti v [[z_Atomy/O/Oblast\|oblasti]] 3x3 metry. Bytosti v oblasti mají poloviční [[z_Atomy/0-9/🏃\|🏃]] do konce jejich příštího [[z_Atomy/T/Tah\|Tahu]].
 ⠀
-- **Dvojitý Výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na vaši [[z_Atomy/K/Kořist\|Kořist]] a založíte další šíp. Zasáhnete další cíl do 2 metrů od Vaší [[z_Atomy/K/Kořist\|kořisti]].
+- **Dvojitý Výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/Akce\|Akce]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na vaši [[z_Atomy/K/Kořist\|Kořist]] a založíte další šíp. Zasáhnete další cíl do 2 metrů od Vaší [[z_Atomy/K/Kořist\|kořisti]].
 ⠀
-- **Kotoul & Výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/AKCE\|AKCE]]: Pohněte se až do poloviny své rychlosti. Ignorujte přitom [[z_Atomy/O/Obtížný terén\|Obtížný terén]]. Poté zaútočte na svou [[z_Atomy/K/Kořist\|Kořist]].
+- **Kotoul & Výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/Akce\|Akce]]: Pohněte se až do poloviny své rychlosti. Ignorujte přitom [[z_Atomy/O/Obtížný terén\|Obtížný terén]]. Poté zaútočte na svou [[z_Atomy/K/Kořist\|Kořist]].
 ⠀
-- **Matoucí šíp**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/AKCE\|AKCE]]: Zaútočte zbraní na dálku. Příští [[z_Atomy/A/AKCE\|AKCE]], kterou cíl provede, musí být útok na nejbližší náhodně vybranou bytost.
+- **Matoucí šíp**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/Akce\|Akce]]: Zaútočte zbraní na dálku. Příští [[z_Atomy/A/Akce\|Akce]], kterou cíl provede, musí být útok na nejbližší náhodně vybranou bytost.
 ⠀
-- **Naváděný Šíp**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na vaši [[z_Atomy/K/Kořist\|Kořist]]. Pokud je Vaše [[z_Atomy/K/Kořist\|Kořist]] [[z_Atomy/Z/Zpomalen\|zpomalena]], ignorujte její [[z_Atomy/0-9/⛉⛊\|⛉⛊]] při útoku zbraní na dálku. Pokud nemá [[z_Atomy/0-9/⛉⛊\|⛉⛊]], zdvojnásobte bonusové poškození z [[z_Atomy/L/Lovcova marka\|Lovcova marka]].
+- **Naváděný Šíp**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/Akce\|Akce]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte na vaši [[z_Atomy/K/Kořist\|Kořist]]. Pokud je Vaše [[z_Atomy/K/Kořist\|Kořist]] [[z_Atomy/Z/Zpomalen\|zpomalena]], ignorujte její [[z_Atomy/0-9/⛉⛊\|⛉⛊]] při útoku zbraní na dálku. Pokud nemá [[z_Atomy/0-9/⛉⛊\|⛉⛊]], zdvojnásobte bonusové poškození z [[z_Atomy/L/Lovcova marka\|Lovcova marka]].
 ⠀
-- **Odstřelovač**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/AKCE\|AKCE]]: Pokud jste se tento tah nepohnuli a Vaše [[z_Atomy/K/Kořist\|Kořist]] je 6+ metrů daleko, zaútočte na ni s dvojnásobným poškozením.
+- **Odstřelovač**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/Akce\|Akce]]: Pokud jste se tento tah nepohnuli a Vaše [[z_Atomy/K/Kořist\|Kořist]] je 6+ metrů daleko, zaútočte na ni s dvojnásobným poškozením.
 ⠀
-- **Ohnivý šíp**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Přidejte **+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]k8** ohnivého poškození.
+- **Ohnivý šíp**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/Akce\|Akce]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Přidejte **+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]k8** ohnivého poškození.
 ⠀
 - **Ostré smysly**. 1[[z_Atomy/0-9/❇️\|❇️]]: Proveďte [[z_Atomy/0-9/🔍\|🔍]] s [[z_Atomy/0-9/👍\|👍]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 ⠀
 - **Past s okem**. 1[[z_Atomy/0-9/❇️\|❇️]], 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]]: když se nepřítel pohne do těsné blízkosti Vás nebo spojence do 6 metrů. Odstrčte ho o 1 metr zpět a bude [[z_Atomy/S/Spoután\|Spoután]], dokud se nevysvobodí **([[z_Atomy/0-9/📶\|📶]]10+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])**.
 ⠀
-- **Pojď si pro mě!** 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/AKCE\|AKCE]]: Zaútočte na cíl. Ten je Vámi [[z_Atomy/P/Provokován\|Provokován]] až do konce svého příštího tahu.
+- **Pojď si pro mě!** 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/Akce\|Akce]]: Zaútočte na cíl. Ten je Vámi [[z_Atomy/P/Provokován\|Provokován]] až do konce svého příštího tahu.
 ⠀
-- **Připínáček**. 1[[z_Atomy/0-9/❇️\|❇️]], 3 [[z_Atomy/A/AKCE\|AKCE]]. Vystřelte na svojí [[z_Atomy/K/Kořist\|Kořist]]. Cíl je [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] dokud neupěje v [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/📶\|📶]]10 +[[z_Atomy/0-9/🗝\|🗝]]).
+- **Připínáček**. 1[[z_Atomy/0-9/❇️\|❇️]], 3 [[z_Atomy/A/Akce\|Akce]]. Vystřelte na svojí [[z_Atomy/K/Kořist\|Kořist]]. Cíl je [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] dokud neupěje v [[z_Atomy/0-9/❗\|❗]] ([[z_Atomy/0-9/📶\|📶]]10 +[[z_Atomy/0-9/🗝\|🗝]]).
 ⠀
-- **Rázný výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Odstrčíte cíl: 3 metry malé bytosti, 2 metry střední bytosti, 1 metr velké bytosti.
+- **Rázný výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/Akce\|Akce]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Odstrčíte cíl: 3 metry malé bytosti, 2 metry střední bytosti, 1 metr velké bytosti.
 ⠀
 - **Mastná Past**. 1[[z_Atomy/0-9/❇️\|❇️]], 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (když se nepřítel pohne do Vaší těsné blízkosti nebo spojence do 6 metrů): Cíl je [[z_Atomy/S/Sražen\|Sražen]] na zem, je zranitelný vůči ohnivému poškození a má stav (jako) [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
 ⠀
@@ -196,7 +196,7 @@ Cíl, který vidíte, bude označen jako Vaše **[[z_Atomy/K/Kořist\|Kořist]]*
 
 ### LVL 7
 - **Zásobený Bylinkář**. Kdykoli provádíte [[z_Atomy/0-9/🔋\|🔋]] na místě, kde mohou růst rostliny nebo houby, můžete sbírat léčivé byliny pro výrobu [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] [[z_Atomy/L/Léčivý lektvar\|Léčivých lektvarů]] .
-- **Léčivá Mast**. [[z_Atomy/A/AKCE\|AKCE]]: Vylečte sobě nebo přilehlé bytosti [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]**k6** [[z_Atomy/0-9/💖\|💖]]. Tuto mast můžete aplikovat pouze Vy nebo jiný zkušený bylinkář a zmizí na konci [[z_Atomy/0-9/🔋\|🔋]].
+- **Léčivá Mast**. [[z_Atomy/A/Akce\|Akce]]: Vylečte sobě nebo přilehlé bytosti [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]**k6** [[z_Atomy/0-9/💖\|💖]]. Tuto mast můžete aplikovat pouze Vy nebo jiný zkušený bylinkář a zmizí na konci [[z_Atomy/0-9/🔋\|🔋]].
 
 ### LVL 11
 - **Ha! Tady Jsem!** 1/[[z_Atomy/0-9/🔋\|🔋]]. Pokud by vám [[z_Atomy/0-9/⚔️\|⚔️]] způsobil pokles na **0** [[z_Atomy/0-9/💖\|💖]], místo toho se přesunete až o polovinu své [[z_Atomy/0-9/🏃\|🏃]] a neobdržíte žádné poškození.

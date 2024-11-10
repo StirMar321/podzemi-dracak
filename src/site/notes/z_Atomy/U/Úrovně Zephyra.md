@@ -61,4 +61,4 @@
 - **Větrný poutník**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**.
 	- Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte +1[[z_Atomy/0-9/⏩\|⏩]]. 
-	- Vždy máte navíc **1 [[z_Atomy/A/AKCE\|Akci]]**. Když máte stav [[z_Atomy/0-9/🩸\|🩸]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]**.
+	- Vždy máte navíc **1 [[z_Atomy/A/Akce\|Akci]]**. Když máte stav [[z_Atomy/0-9/🩸\|🩸]] máte **2 [[z_Atomy/A/Akce\|Akce]]**.

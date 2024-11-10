@@ -118,7 +118,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 >[!NOTE]- **Změna je život**
 > Kdykoli strávíte noc rozhovory s jinými mazanými lotry, můžete vyměnit jeden **Talent** který znáte za jiný.
 
-- **„Kreativní účetnictví“**. Můžete "ukrást" až [[z_Atomy/0-9/📖\|📖]] [[z_Atomy/A/AKCE\|AKCÍ]] z Vašeho příštího [[z_Atomy/T/Tah\|Tahu]] (Získejte až [[z_Atomy/0-9/📖\|📖]] [[z_Atomy/A/AKCE\|AKCE]]. Příští [[z_Atomy/0-9/📖\|📖]] [[z_Atomy/A/AKCE\|AKCE]], které byste získali, jsou ztraceny). Nelze použít 2 [[z_Atomy/K/Kolo\|Kola]] za sebou.
+- **„Kreativní účetnictví“**. Můžete "ukrást" až [[z_Atomy/0-9/📖\|📖]] [[z_Atomy/A/Akce\|AKCÍ]] z Vašeho příštího [[z_Atomy/T/Tah\|Tahu]] (Získejte až [[z_Atomy/0-9/📖\|📖]] [[z_Atomy/A/Akce\|Akce]]. Příští [[z_Atomy/0-9/📖\|📖]] [[z_Atomy/A/Akce\|Akce]], které byste získali, jsou ztraceny). Nelze použít 2 [[z_Atomy/K/Kolo\|Kola]] za sebou.
 ⠀
 - **Mizím odsuď!** Když spojenec do 3 metrů od Vás utrží [[z_Atomy/0-9/💥\|💥]], můžete získat [[z_Atomy/N/Neviditelnost\|Neviditelnost]] až do konce svého příštího [[z_Atomy/T/Tah\|Tahu]] a pohnout se až o polovinu své [[z_Atomy/0-9/🏃\|🏃]].
 ⠀
@@ -126,17 +126,17 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 ⠀
 - **Mazané Brnění**. Přidejte svou [[z_Atomy/0-9/📖\|📖]] ke svému [[z_Atomy/B/Brnění\|Brnění]]. Když používáte reakci [[z_Atomy/0-9/🛡️\|🛡️]], můžete snížit poškození o své [[z_Atomy/B/Brnění\|Brnění]] nebo místo toho snížit poškození na polovinu.
 ⠀
-- **Rozbití (Střední) zbroje**. **1 [[z_Atomy/A/AKCE\|AKCE]]**: [[z_Atomy/0-9/💥\|💥]] proti nepříteli s [[z_Atomy/0-9/⛉\|⛉]] rozbije jeho zbroj. Až do začátku Vašeho příštího tahu útoky proti tomu cíli ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
+- **Rozbití (Střední) zbroje**. **1 [[z_Atomy/A/Akce\|Akce]]**: [[z_Atomy/0-9/💥\|💥]] proti nepříteli s [[z_Atomy/0-9/⛉\|⛉]] rozbije jeho zbroj. Až do začátku Vašeho příštího tahu útoky proti tomu cíli ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
 ⠀
 - **Rozbití (Těžké) zbroje**. Vyžaduje **Rozbití (Střední) zbroje**. Vaše schopnost **Rozbití zbroje** nyní také platí pro nepřátele s [[z_Atomy/0-9/⛊\|⛊]].
 ⠀
-- **Krádež tempa**. Když provedete [[z_Atomy/0-9/💥\|💥]] podruhé v jednom [[z_Atomy/K/Kolo\|Kole]], váš cíl je [[z_Atomy/Z/Zmaten\|Zmaten]] a vy získáte 1 [[z_Atomy/A/AKCE\|AKCI]].
+- **Krádež tempa**. Když provedete [[z_Atomy/0-9/💥\|💥]] podruhé v jednom [[z_Atomy/K/Kolo\|Kole]], váš cíl je [[z_Atomy/Z/Zmaten\|Zmaten]] a vy získáte 1 [[z_Atomy/A/Akce\|AKCI]].
 ⠀
 - **Vypočítaný hod**. Když vrhnete [[z_Atomy/V/Vrhací\|Vrhací]] dýku, vrátí se zpět do vaší ruky na konci Vašeho [[z_Atomy/T/Tah\|Tahu]]. Navíc když zasáhne cíl, odrazí se na další bytost do 2 metrů a způsobí jí polovinu poškození.
 ⠀
-- **Využití slabosti**. **1 [[z_Atomy/A/AKCE\|AKCE]]**: Proveďte [[z_Atomy/0-9/❓\|❓]][[z_Atomy/0-9/📖\|📖]] proti nepříteli. Pokud vyhrajete, jakýkoli útok, který proti němu provedete, je se schopností **Zákeřný Oportunista**, i když není [[z_Atomy/R/Rozptýlen\|Rozptýlen]]. Trvá 1 minutu nebo dokud tuto schopnost nepoužijete proti jinému cíli.
+- **Využití slabosti**. **1 [[z_Atomy/A/Akce\|Akce]]**: Proveďte [[z_Atomy/0-9/❓\|❓]][[z_Atomy/0-9/📖\|📖]] proti nepříteli. Pokud vyhrajete, jakýkoli útok, který proti němu provedete, je se schopností **Zákeřný Oportunista**, i když není [[z_Atomy/R/Rozptýlen\|Rozptýlen]]. Trvá 1 minutu nebo dokud tuto schopnost nepoužijete proti jinému cíli.
 ⠀
-- **Kde ses tu vzal?!** **2 [[z_Atomy/A/AKCE\|AKCE]]**: "Teleportujte" se až o 4 metry k nepříteli, kterého vidíte, a [[z_Atomy/0-9/⚔️\|⚔️]] na blízko. Pokud bude útok [[z_Atomy/0-9/💥\|💥]], můžete se "teleportovat" znovu.
+- **Kde ses tu vzal?!** **2 [[z_Atomy/A/Akce\|Akce]]**: "Teleportujte" se až o 4 metry k nepříteli, kterého vidíte, a [[z_Atomy/0-9/⚔️\|⚔️]] na blízko. Pokud bude útok [[z_Atomy/0-9/💥\|💥]], můžete se "teleportovat" znovu.
 
 </div></div>
 
@@ -177,7 +177,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 
 ## Archetyp Mizera
 ### LVL 3
-- **Podpásovka**. Když provedete [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]], můžete navíc utratit **2** [[z_Atomy/A/AKCE\|AKCE]] aby byl váš cíl [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] do konce jeho příštího [[z_Atomy/T/Tah\|Tahu]] při neúspěšném **[[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]:[[z_Atomy/0-9/📶\|📶]](10 +[[z_Atomy/0-9/🗝\|🗝]])**. Ať už uspěje nebo ne, je vámi [[z_Atomy/P/Provokován\|Provokován]] po zbytek [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Podpásovka**. Když provedete [[z_Atomy/Z/Zákeřný útok\|Zákeřný útok]], můžete navíc utratit **2** [[z_Atomy/A/Akce\|AKCE]] aby byl váš cíl [[z_Atomy/Z/Zneschopněn\|Zneschopněn]] do konce jeho příštího [[z_Atomy/T/Tah\|Tahu]] při neúspěšném **[[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]:[[z_Atomy/0-9/📶\|📶]](10 +[[z_Atomy/0-9/🗝\|🗝]])**. Ať už uspěje nebo ne, je vámi [[z_Atomy/P/Provokován\|Provokován]] po zbytek [[z_Atomy/S/Střetnutí\|Střetnutí]].
 - **Med kolem huby**. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] proti [[z_Atomy/N/NPC\|NPC]], které jste poprvé potkali. Trvá, dokud nezaznamenáte neúspěch [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] nebo dokud se s nimi nesetkáte podruhé. S [[z_Atomy/N/NPC\|NPC]] máte [[z_Atomy/0-9/👎\|👎]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] poté, co tuto schopnost použijete.
 ### LVL 7
 - **Jedna kapsa prázdná...** 2/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Při [[z_Atomy/0-9/🛡️\|🛡️]] proti [[z_Atomy/0-9/⚔️\|⚔️]] na blízko nasbíráte bordel a prach z Vaší kapsy a hodíte ho nepříteli do očí! Přinutíte ho přehodit [[z_Atomy/0-9/⚔️\|⚔️]] a získá stav [[z_Atomy/O/Oslepen\|Oslepen]]. Všechny jeho útoky mají [[z_Atomy/0-9/👎\|👎]] až do konce jeho příštího [[z_Atomy/T/Tah\|Tahu]].

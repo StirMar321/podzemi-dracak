@@ -4,7 +4,7 @@
 
 ## Ochrana
 **STUPEŇ 2**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/T/Trvání\|Trvání]]: 1 hodina
 
 Označte ochotnou bytost jako svého chráněnce na 1 hodinu. Přijímá **polovinu poškození** ze všech útoků, Vy přijmete druhou polovinu.

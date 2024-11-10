@@ -15,7 +15,7 @@
 ### LVL 7
 - **Pobuřovač**. 1/[[z_Atomy/T/Tah\|Tah]]. Když je nepřítel poškozen Vaším Trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], může ho váš spojenec  [[z_Atomy/P/Provokován\|Provokovat]], až do konce [[z_Atomy/T/Tah\|Tahu]] nepřítele.
 ### LVL 11
-- **Akord chaosu**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/A/AKCE\|AKCE]]. Můžete přesunout VŠECHNY bytosti, které slyší Vaši píseň, až o 3 metry, pokud se nepohnou do zjevně nebezpečného místa.
+- **Akord chaosu**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/A/Akce\|Akce]]. Můžete přesunout VŠECHNY bytosti, které slyší Vaši píseň, až o 3 metry, pokud se nepohnou do zjevně nebezpečného místa.
 ### LVL 15
 - **Slova jsou dýky**. Poškození způsobené Trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] se zvyšuje na **(1k6+[[z_Atomy/0-9/📖\|📖]]+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** psychického poškození.
 
@@ -33,9 +33,9 @@
 ### LVL 7
 - **Neochvějná odvaha**. Vaše přítomnost inspiruje ostatní k hrdinským činům a odvaze, o které se vypráví pouze v legendách. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] dává [[z_Atomy/0-9/👍\|👍]].
 ### LVL 11
-- **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
+- **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 [[z_Atomy/A/Akce\|Akci]] navíc.
 ### LVL 15
-- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
+- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/Akce\|Akci]] navíc.
 
 </div></div>
 

@@ -399,7 +399,7 @@ Některé schopnosti nebo efekty mohou poskytnout **Bariéru** (💗). Bariéra 
 
 # 🩸 = Umírání
 Když Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, začnete **Umírat** (🩸). 
-Máte **1** [[z_Atomy/A/AKCE\|Akci]]/[[z_Atomy/K/Kolo\|Kolo]].
+Máte **1** [[z_Atomy/A/Akce\|Akci]]/[[z_Atomy/K/Kolo\|Kolo]].
 Vaše [[z_Atomy/K/Koncentrace\|Koncentrace]] je přerušena a pokračování v boji vám může způsobit [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 Když:
 - Provedete [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]]: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]:[[z_Atomy/0-9/📶\|📶]] **10**. Při neúspěchu utrpíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] .
@@ -558,7 +558,7 @@ Pokud je bytost **kompletně krytá**, nelze na něj normálně zaútočit.
 
 
 # Skrývání
-Aby se Hrdina/bytost mohli **Skrýt**, musí být mimo zorné pole (viz [[z_Atomy/K/Kryt\|Kryt]]) a použít **1 [[z_Atomy/A/AKCE\|AKCI]]** k provedení **[[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]]:[[z_Atomy/0-9/📶\|📶]] 15**. Pokud je bytost **kompletně krytá**, automaticky uspěje .
+Aby se Hrdina/bytost mohli **Skrýt**, musí být mimo zorné pole (viz [[z_Atomy/K/Kryt\|Kryt]]) a použít **1 [[z_Atomy/A/Akce\|AKCI]]** k provedení **[[z_Atomy/0-9/❓\|❓]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]]:[[z_Atomy/0-9/📶\|📶]] 15**. Pokud je bytost **kompletně krytá**, automaticky uspěje .
 
 První [[z_Atomy/0-9/⚔️\|⚔️]] ,když jste **skrytí**, má [[z_Atomy/0-9/👍\|👍]] a ukončí Vaše **skrytí**. Pokud tento [[z_Atomy/0-9/⚔️\|⚔️]] zabije nepřítele a nejste v zorném poli nebo v doslechu žádného jiného nepřítele, můžete zůstat **skrytí**. ([[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může chtít [[z_Atomy/0-9/❓\|❓]])
 
@@ -571,7 +571,7 @@ První [[z_Atomy/0-9/⚔️\|⚔️]] ,když jste **skrytí**, má [[z_Atomy/0-9
 
 
 # Chycení
-Hrdina/bytost může použít **1 [[z_Atomy/A/AKCE\|AKCI]]** k pokusu o chycení bytosti stejné nebo menší [[z_Atomy/V/Velikost\|Velikosti]]. Oba provedou libovolný [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. Pokud chytaná bytost prohraje (hodila méně), získá stav [[z_Atomy/CH/Chycen\|Chycen]] (nebo podobně omezen, podle kontextu). Počítá se do [[z_Atomy/U/Uspěchané útoky\|Uspěchaných útoků]].
+Hrdina/bytost může použít **1 [[z_Atomy/A/Akce\|AKCI]]** k pokusu o chycení bytosti stejné nebo menší [[z_Atomy/V/Velikost\|Velikosti]]. Oba provedou libovolný [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]]. Pokud chytaná bytost prohraje (hodila méně), získá stav [[z_Atomy/CH/Chycen\|Chycen]] (nebo podobně omezen, podle kontextu). Počítá se do [[z_Atomy/U/Uspěchané útoky\|Uspěchaných útoků]].
 
 </div></div>
 
@@ -656,7 +656,7 @@ Máte [[z_Atomy/0-9/👎\|👎]] pro všechny hody, pokud je zdroj Vašeho strac
 
 
 ## Zmaten
-Každý váš [[z_Atomy/T/Tah\|Tah]] ztratíte **1** [[z_Atomy/A/AKCE\|AKCI]].
+Každý váš [[z_Atomy/T/Tah\|Tah]] ztratíte **1** [[z_Atomy/A/Akce\|AKCI]].
 
 </div></div>
 

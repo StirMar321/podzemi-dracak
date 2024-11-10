@@ -569,7 +569,7 @@ Některé schopnosti nebo efekty mohou poskytnout **Bariéru** (💗). Bariéra 
 
 # 🩸 = Umírání
 Když Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, začnete **Umírat** (🩸). 
-Máte **1** [[z_Atomy/A/AKCE\|Akci]]/[[z_Atomy/K/Kolo\|Kolo]].
+Máte **1** [[z_Atomy/A/Akce\|Akci]]/[[z_Atomy/K/Kolo\|Kolo]].
 Vaše [[z_Atomy/K/Koncentrace\|Koncentrace]] je přerušena a pokračování v boji vám může způsobit [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 Když:
 - Provedete [[z_Atomy/0-9/⚔️\|⚔️]] / [[z_Atomy/0-9/✨\|✨]]: [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]:[[z_Atomy/0-9/📶\|📶]] **10**. Při neúspěchu utrpíte **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] .

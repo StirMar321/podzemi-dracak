@@ -60,5 +60,5 @@
 ## LVL 20
 - **Arcimág**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**.
-	- První kouzlo, které sešlete v každém [[z_Atomy/S/Střetnutí\|Střetnutí]], stojí o 1 [[z_Atomy/A/AKCE\|Akci]] a 5 [[z_Atomy/0-9/🌀\|🌀]] **méně**.
+	- První kouzlo, které sešlete v každém [[z_Atomy/S/Střetnutí\|Střetnutí]], stojí o 1 [[z_Atomy/A/Akce\|Akci]] a 5 [[z_Atomy/0-9/🌀\|🌀]] **méně**.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.

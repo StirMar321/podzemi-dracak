@@ -11,7 +11,7 @@
 
 
 ## Lovcova Marka
-**1 [[z_Atomy/A/AKCE\|Akce]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 ⠀
 Cíl, který vidíte, bude označen jako Vaše **[[z_Atomy/K/Kořist\|Kořist]]** na jeden den nebo dokud neoznačíte jiný cíl. Cíl se před vámi nemůže skrýt a Vaše útoky proti označenému cíli působí **+[[z_Atomy/L/LVL\|LVL]]/**[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] poškození (vyberte vyšší).
 
@@ -32,7 +32,7 @@ Cíl, který vidíte, bude označen jako Vaše **[[z_Atomy/K/Kořist\|Kořist]]*
 - **Průzkumník Divočiny**. +2 metry k Vaší [[z_Atomy/0-9/🏃\|🏃]]. Získáte schopnost **šplhat**.
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
-- **Doražení**. 1[[z_Atomy/0-9/❇️\|❇️]] a 1 [[z_Atomy/A/AKCE\|AKCE]]: Proveďte [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] [[z_Atomy/K/Kořist\|Kořisti]]. Automaticky se počítá jako [[z_Atomy/0-9/💥\|💥]] a zdvojnásobte poškození z [[z_Atomy/L/Lovcova marka\|Lovcovy marky]]. Pokud kořist přežije, udělí vám [[z_Atomy/0-9/💥\|💥]] zpět.
+- **Doražení**. 1[[z_Atomy/0-9/❇️\|❇️]] a 1 [[z_Atomy/A/Akce\|Akce]]: Proveďte [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti [[z_Atomy/Z/Zkrvaven\|Zkrvavené]] [[z_Atomy/K/Kořist\|Kořisti]]. Automaticky se počítá jako [[z_Atomy/0-9/💥\|💥]] a zdvojnásobte poškození z [[z_Atomy/L/Lovcova marka\|Lovcovy marky]]. Pokud kořist přežije, udělí vám [[z_Atomy/0-9/💥\|💥]] zpět.
 - **Zkušený Stopař**. Získáte +1[[z_Atomy/0-9/❇️\|❇️]], když **VY** zabijete [[z_Atomy/K/Kořist\|Kořist]].
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6

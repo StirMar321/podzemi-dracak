@@ -12,7 +12,7 @@
 
 ## Zlomyslný výsměch
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
 
 Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].

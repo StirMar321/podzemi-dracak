@@ -26,4 +26,4 @@
 ⠀
 - **Větrný chodec**. Pokud procházíte prostorem ochotné bytosti při používání **Kroku větru** ([[z_Atomy/V/Výbuch rychlosti\|Výbuch rychlosti]]), může se přidat k pohybu a zvolit si jakýkoli prostor přilehlý k vaší cestě pohybu, ve kterém skončí.
 ⠀
-- **Hluboká trpělivost**. Můžete utratit 1 [[z_Atomy/A/AKCE\|Akci]] k ukončení jakéhokoli svého stavu. ([[z_Atomy/S/Stavy\|Stavy]]) (neplatí na [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]])
+- **Hluboká trpělivost**. Můžete utratit 1 [[z_Atomy/A/Akce\|Akci]] k ukončení jakéhokoli svého stavu. ([[z_Atomy/S/Stavy\|Stavy]]) (neplatí na [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]])

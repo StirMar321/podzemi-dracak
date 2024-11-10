@@ -4,7 +4,7 @@
 
 ## Větší stín
 **STUPEŇ 4**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 
 Přivolejte vedle sebe **5k12 Větší Stín** (viz [[z_Atomy/P/Poskoci\|Poskoci]]). Můžete mít maximálně **1 Větší stín**. 
 Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|Stínových sluhů]]. Umístěte je kamkoliv do 8m od **Většího stínu**.

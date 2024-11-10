@@ -4,7 +4,7 @@
 
 ## Exkomunikace
 **STUPEŇ 5**  
-**2 [[z_Atomy/A/AKCE\|AKCE]]**  
+**2 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🏹\|🏹]] 4 metry
 *Můžete zacílit pouze bytost, která snížil spojenci [[z_Atomy/0-9/💖\|💖]] na **0** nebo způsobila [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] od Vašeho posledního [[z_Atomy/T/Tah\|Tahu]].*
 

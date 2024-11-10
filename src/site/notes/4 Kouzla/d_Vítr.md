@@ -12,7 +12,7 @@
 
 ## Ostrý vítr  
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 
 Až 2 sousedící cíle utrží **1k4** sečného poškození. [[z_Atomy/Z/Zákeřný\|Zákeřný]].
@@ -29,7 +29,7 @@ Až 2 sousedící cíle utrží **1k4** sečného poškození. [[z_Atomy/Z/Záke
 
 ## Dech života  
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 6m
 
 Obnovte 1[[z_Atomy/0-9/💖\|💖]] bytosti se stavem [[z_Atomy/0-9/🩸\|🩸]].
@@ -47,7 +47,7 @@ Obnovte 1[[z_Atomy/0-9/💖\|💖]] bytosti se stavem [[z_Atomy/0-9/🩸\|🩸]]
 
 ## Nárazový vítr  
 **STUPEŇ 1**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 
 Cíl v dostřelu utrží **3k4** sečné poškození. 
@@ -67,7 +67,7 @@ Pohnete středně [[z_Atomy/V/Velikost\|velkým]] cílem o 1m. [[z_Atomy/0-9/�
 
 ## Větná bariéra
 **STUPEŇ 2**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
 Útoky na dálku proti Vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího [[z_Atomy/T/Tah\|Tahu]] (včetně útoku, kterému se bráníte). Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]].
@@ -84,7 +84,7 @@ Pohnete středně [[z_Atomy/V/Velikost\|velkým]] cílem o 1m. [[z_Atomy/0-9/�
 
 ## Let  
 **STUPEŇ 3**  
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
 [[z_Atomy/K/Koncentrace\|Koncentrace]], až 10 minut
 
@@ -102,7 +102,7 @@ Bytost, které se dotknete, je nadnášena proudem silného větru. Po dobu [[z_
 
 ## Oko bouře  
 **STUPEŇ 4**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 3m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
@@ -121,7 +121,7 @@ Pokud zasažené bytosti neuspějí [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|
 
 ## Vichr z hor
 **STUPEŇ 5**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
 [[z_Atomy/O/Oblast\|Oblast]]: 5x5 m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
@@ -142,7 +142,7 @@ Utrpí **1k6** drtivého poškození za 2 metry pádu. *(viz [[z_Atomy/P/Pády a
 
 ## Tisíc seků  
 **STUPEŇ 6**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 [[z_Atomy/O/Oblast\|Oblast]] 1m
 
@@ -161,7 +161,7 @@ Poškození utrží všichni nepřátelé do 1m od cíle.
 
 ## Vzdušné proudy
 **STUPEŇ 9**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/K/Koncentrace\|Koncentrace]], až 1 minuta
 
 Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [[z_Atomy/0-9/🏃\|🏃]] 12 metrů. Můžete se jednou za kolo použít [[z_Atomy/0-9/🥾\|🥾]] [[z_Atomy/Z/Zdarma\|Zdarma]] a útoky na dálku proti vám mají [[z_Atomy/0-9/👎\|👎]].
@@ -195,7 +195,7 @@ Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z 
 
 ## Zlomyslný výsměch
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
 
 Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].

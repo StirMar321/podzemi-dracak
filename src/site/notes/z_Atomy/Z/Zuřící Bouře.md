@@ -4,10 +4,10 @@
 
 ## Zuřící Bouře  
 **STUPEŇ 9**  
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 4m
 [[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta
-*Udržení vyžaduje 3 [[z_Atomy/A/AKCE\|AKCE]]/[[z_Atomy/K/Kolo\|Kolo]]*
+*Udržení vyžaduje 3 [[z_Atomy/A/Akce\|Akce]]/[[z_Atomy/K/Kolo\|Kolo]]*
 [[z_Atomy/O/Odpočinek\|Odpočinek]]: 1 týden
 
 Jste obklopeni mrakem s dosahem 4 metry. 

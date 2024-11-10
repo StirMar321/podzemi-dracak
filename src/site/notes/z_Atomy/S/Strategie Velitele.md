@@ -42,7 +42,7 @@
 - **Zkoumání Bojiště**. Pokaždé, když se hází [[z_Atomy/0-9/🏁\|🏁]], obnovíte +1[[z_Atomy/0-9/🔀\|🔀]].
 
 ### LVL 15
-- **Jako Jeden!** [[z_Atomy/0-9/⚔️\|⚔️]] provedené s Vaším [[z_Atomy/K/Koordinovaný útok!\|Koordinovaným útokem!]] dávají [[z_Atomy/0-9/👍\|👍]] a ignorují [[z_Atomy/0-9/👎\|👎]]. Vybraní spojenci získají 1 [[z_Atomy/A/AKCE\|Akci]], kterou mohou použít ve svém příštím [[z_Atomy/T/Tah\|Tahu]].
+- **Jako Jeden!** [[z_Atomy/0-9/⚔️\|⚔️]] provedené s Vaším [[z_Atomy/K/Koordinovaný útok!\|Koordinovaným útokem!]] dávají [[z_Atomy/0-9/👍\|👍]] a ignorují [[z_Atomy/0-9/👎\|👎]]. Vybraní spojenci získají 1 [[z_Atomy/A/Akce\|Akci]], kterou mohou použít ve svém příštím [[z_Atomy/T/Tah\|Tahu]].
 
 </div></div>
 

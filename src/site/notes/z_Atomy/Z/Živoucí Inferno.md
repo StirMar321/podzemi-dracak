@@ -4,7 +4,7 @@
 
 ## Živoucí Inferno
 **STUPEŇ 7**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/T/Trvání\|Trvání]]: Konec příštího Tahu
 
 Stanete se živoucím plamenem.

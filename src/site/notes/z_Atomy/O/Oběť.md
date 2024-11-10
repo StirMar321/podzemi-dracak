@@ -4,7 +4,7 @@
 
 ## Oběť  
 **STUPEŇ 6**  
-**1 [[z_Atomy/A/AKCE\|AKCE]]**  
+**1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 4m
 
 Snižte své [[z_Atomy/0-9/💖\|💖]] na **0**. Nemůžete mít více než 0 [[z_Atomy/0-9/💖\|💖]] do konce [[z_Atomy/0-9/🔋\|🔋]].

@@ -4,7 +4,7 @@
 
 ## Uzemnění
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**  
+**1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 2m
 Podmínka: Sesílatel má [[z_Atomy/Z/Zkrat\|Zkrat]]
 

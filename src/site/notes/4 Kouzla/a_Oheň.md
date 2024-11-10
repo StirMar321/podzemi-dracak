@@ -12,7 +12,7 @@
 
 ## Ohnivá šipka
 **TRIK**  
-**1 [[z_Atomy/A/AKCE\|AKCE]]**  
+**1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🏹\|🏹]] 8m
 
 Cíl utrží **1k10** ohnivého poškození. [[z_Atomy/0-9/💥\|💥]] způsobí stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
@@ -29,10 +29,10 @@ Cíl utrží **1k10** ohnivého poškození. [[z_Atomy/0-9/💥\|💥]] způsob�
 
 ## Ohnivé srdce
 **TRIK**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 4m
 
-Spojenec získá extra **[[z_Atomy/A/AKCE\|AKCI]]**.
+Spojenec získá extra **[[z_Atomy/A/Akce\|AKCI]]**.
 
 **Posílení**: +2 metry [[z_Atomy/0-9/🏹\|🏹]] každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
@@ -47,7 +47,7 @@ Spojenec získá extra **[[z_Atomy/A/AKCE\|AKCI]]**.
 
 ## Vzplanutí
 **STUPEŇ 1**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 8 metrů
 Podmínka: Cíl je [[z_Atomy/Z/Žhnoucí\|Žhnoucí]]
 
@@ -65,7 +65,7 @@ Podmínka: Cíl je [[z_Atomy/Z/Žhnoucí\|Žhnoucí]]
 
 ## Žhavé železo
 **STUPEŇ 2**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
 [[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta
 
@@ -84,7 +84,7 @@ Přidejte k poškození [[z_Atomy/Z/Zbraně\|Zbraně]] +[[z_Atomy/0-9/🗝\|🗝
 
 ## Ohnivá bariéra
 **STUPEŇ 3**
-**1 [[z_Atomy/A/AKCE\|AKCE]]**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
 Použijte [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]] do začátku Vašeho příštího [[z_Atomy/T/Tah\|Tahu]].
@@ -102,7 +102,7 @@ Použijte [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]] do zač�
 
 ## Ohnivá koule
 **STUPEŇ 4**  
-**3 [[z_Atomy/A/AKCE\|AKCE]]**  
+**3 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 3m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
@@ -123,7 +123,7 @@ Bytosti se stavem [[z_Atomy/Z/Žhnoucí\|Žhnoucí]] automaticky neuspějí.
 
 ## Spalující žár
 **STUPEŇ 5**
-**2 [[z_Atomy/A/AKCE\|AKCE]]**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m
 [[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta
 
@@ -142,7 +142,7 @@ Zasažené bytosti mají své [[z_Atomy/O/Odolnost\|Odolnosti]] zrušeny a své 
 
 ## Živoucí Inferno
 **STUPEŇ 7**
-**3 [[z_Atomy/A/AKCE\|AKCE]]**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/T/Trvání\|Trvání]]: Konec příštího Tahu
 
 Stanete se živoucím plamenem.
@@ -165,15 +165,15 @@ Na konci tohoto a příštího [[z_Atomy/T/Tah\|Tahu]] sešlete kouzlo [[z_Atomy
 [[z_Atomy/T/Trvání\|Trvání]]: 10 minut
 
 Proměníte se v **Červeného Draka**. 
-**Získáte**: 3 [[z_Atomy/A/AKCE\|AKCE]], **(10x[[z_Atomy/L/LVL\|LVL]])** [[z_Atomy/0-9/💗\|💗]], [[z_Atomy/L/Létání\|Létání]], [[z_Atomy/0-9/🏃\|🏃]] 16 metrů, [[z_Atomy/L/LVL\|LVL]] [[z_Atomy/B/Brnění\|Brnění]].
+**Získáte**: 3 [[z_Atomy/A/Akce\|Akce]], **(10x[[z_Atomy/L/LVL\|LVL]])** [[z_Atomy/0-9/💗\|💗]], [[z_Atomy/L/Létání\|Létání]], [[z_Atomy/0-9/🏃\|🏃]] 16 metrů, [[z_Atomy/L/LVL\|LVL]] [[z_Atomy/B/Brnění\|Brnění]].
 Máte podobu draka, dokud máte [[z_Atomy/0-9/💗\|💗]] získané tímto kouzlem. 
 Když toto kouzlo skončí, Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0** .
 
 Máte tyto útoky:
 - **Zuby a Drápy**
-	- [[z_Atomy/A/AKCE\|AKCE]]: [[z_Atomy/0-9/🫱\|🫱]] 2 metry, **(1k20+[[z_Atomy/L/LVL\|LVL]])** sečné poškození. Způsobuje stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
+	- [[z_Atomy/A/Akce\|Akce]]: [[z_Atomy/0-9/🫱\|🫱]] 2 metry, **(1k20+[[z_Atomy/L/LVL\|LVL]])** sečné poškození. Způsobuje stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].
 - **Zničující dech**
-	- 2 [[z_Atomy/A/AKCE\|AKCE]]: Kužel o dosahu 12 metrů. Zasažení provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]:[[z_Atomy/0-9/📶\|📶]] **20**. Udělte **([[z_Atomy/L/LVL\|LVL]]k6)** ohnivého poškození, úspěch = poloviční poškození. [[z_Atomy/Z/Žhnoucí\|Žhnoucí]] bytosti automaticky neuspějí.
+	- 2 [[z_Atomy/A/Akce\|Akce]]: Kužel o dosahu 12 metrů. Zasažení provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]]:[[z_Atomy/0-9/📶\|📶]] **20**. Udělte **([[z_Atomy/L/LVL\|LVL]]k6)** ohnivého poškození, úspěch = poloviční poškození. [[z_Atomy/Z/Žhnoucí\|Žhnoucí]] bytosti automaticky neuspějí.
 
 </div></div>
 

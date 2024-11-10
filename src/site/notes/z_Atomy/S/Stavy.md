@@ -77,7 +77,7 @@ Máte [[z_Atomy/0-9/👎\|👎]] pro všechny hody, pokud je zdroj Vašeho strac
 
 
 ## Zmaten
-Každý váš [[z_Atomy/T/Tah\|Tah]] ztratíte **1** [[z_Atomy/A/AKCE\|AKCI]].
+Každý váš [[z_Atomy/T/Tah\|Tah]] ztratíte **1** [[z_Atomy/A/Akce\|AKCI]].
 
 </div></div>
 

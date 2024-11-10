@@ -87,7 +87,7 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 ## LVL 20
 - **Arcimág**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**.
-	- První kouzlo, které sešlete v každém [[z_Atomy/S/Střetnutí\|Střetnutí]], stojí o 1 [[z_Atomy/A/AKCE\|Akci]] a 5 [[z_Atomy/0-9/🌀\|🌀]] **méně**.
+	- První kouzlo, které sešlete v každém [[z_Atomy/S/Střetnutí\|Střetnutí]], stojí o 1 [[z_Atomy/A/Akce\|Akci]] a 5 [[z_Atomy/0-9/🌀\|🌀]] **méně**.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 
 </div></div>
@@ -115,9 +115,9 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 ⠀
 - **Ozvěna**. (2x [[z_Atomy/0-9/🌀\|🌀]]) Když sesíláte kouzlo cílené na jeden cíl, můžete [[z_Atomy/0-9/✨\|✨]] kopii tohoto kouzla na druhý cíl [[z_Atomy/Z/Zdarma\|Zdarma]].
 ⠀
-- **Metodické sesílání**. (+1 [[z_Atomy/A/AKCE\|AKCE]]) Snižte cenu kouzla o -2 [[z_Atomy/0-9/🌀\|🌀]]. Kouzlo může stát minimálně 1 [[z_Atomy/0-9/🌀\|🌀]].
+- **Metodické sesílání**. (+1 [[z_Atomy/A/Akce\|Akce]]) Snižte cenu kouzla o -2 [[z_Atomy/0-9/🌀\|🌀]]. Kouzlo může stát minimálně 1 [[z_Atomy/0-9/🌀\|🌀]].
 ⠀
-- **Protáhnutí čas**. (+2 [[z_Atomy/0-9/🌀\|🌀]]) Snižte náklady na [[z_Atomy/A/AKCE\|AKCE]] o -1. Kouzlo může stát minimálně 1 [[z_Atomy/A/AKCE\|Akci]].
+- **Protáhnutí čas**. (+2 [[z_Atomy/0-9/🌀\|🌀]]) Snižte náklady na [[z_Atomy/A/Akce\|Akce]] o -1. Kouzlo může stát minimálně 1 [[z_Atomy/A/Akce\|Akci]].
 
 </div></div>
 
@@ -150,7 +150,7 @@ Vyberte možnost, která ještě nebyla vybrána. Obnoví se, když hodíte [[z_
 - **Vyžaduji kontrolu**. 1/[[z_Atomy/K/Kolo\|Kolo]] můžete **Vyžádat kontrolu**: vyberte jednu možnost z Tabulky kontroly. Když minete nebo nepřítel uspěje proti vašemu [[z_Atomy/0-9/❗\|❗]], *musíte* **Vyžádat kontrolu**.
 ### LVL 7
 - **Morbidní zvědavost**. Naučte se jeden Trik a jedno Kouzlo z domény [[4 Kouzla/f_Nekro\|Nekro]]. Můžete je kdykoli změnit během [[z_Atomy/0-9/🔋\|🔋]].
-- **Neutralizace**. 1/[[z_Atomy/0-9/🔋\|🔋]]. Ve vaší příští [[z_Atomy/A/AKCE\|Akci]] v tomto [[z_Atomy/K/Kolo\|kole]] ignorujte [[z_Atomy/0-9/👎\|👎]] a jiné negativní efekty. Poté **Vyžádeje kontrolu**.
+- **Neutralizace**. 1/[[z_Atomy/0-9/🔋\|🔋]]. Ve vaší příští [[z_Atomy/A/Akce\|Akci]] v tomto [[z_Atomy/K/Kolo\|kole]] ignorujte [[z_Atomy/0-9/👎\|👎]] a jiné negativní efekty. Poté **Vyžádeje kontrolu**.
 ### LVL 11
 - **Vůle z oceli**. 1/[[z_Atomy/0-9/🔋\|🔋]]. Kdykoli byste neuspěli [[z_Atomy/0-9/❗\|❗]][[z_Atomy/K/Koncentrace\|Koncentrace]], můžete místo toho uspět. Kdykoli hodíte 1 na kostce **Elementární vlny**, můžete ji jednou přehodit.
 ### LVL 15
