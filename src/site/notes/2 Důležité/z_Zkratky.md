@@ -109,7 +109,7 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Plížení** k tomu, abyste se ukryli
 
 
 ## Zručnost (🎯)
-Vaše schopnost používat své ruce, nohy a tělo chytře a obratně. 
+Vaše schopnost používat své ruce, nohy a tělo hbitě a obratně.
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Zručnost** pro činnosti, jako je odemykání zámků, řízení vozidel, karetní triky, kradení nebo podstrkování předmětů a jakýkoli jiný úkol, který vyžaduje přesné pohyby rukou a rychlé reflexy.
 
 </div></div>
@@ -121,7 +121,7 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Zručnost** pro činnosti, jako je od
 
 
 ## Historie (📖)
-Vaše porozumění dějinám civilizací, království a náboženství. 
+Vaše porozumění dějinám civilizací, kultur a náboženství. 
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] k vybavení **historických** událostí a pochopení významu kulturních praktik. Tato dovednost zahrnuje také znalosti o Nebeských tvorech, Dracích, Vílách, Démonických tvorech, Obrech, Humanoidech a Nemrtvých a dalších stvořeních a poskytuje vhled do jejich chování a schopností.
 
 </div></div>
@@ -145,7 +145,7 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Mystika** k identifikování magický
 
 
 ## Zkoumání (📖)
-Vaše schopnost analýzy a dedukce. 
+Vaše schopnost analýzy, hledání a dedukce. 
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Zkoumání** k diagnostikování zranění, určení příčin smrti, odhalování stop, rozklíčování mechanismů pastí nebo manipulaci s mechanickými zařízeními. Tato dovednost vám také může pomoci k [[z_Atomy/0-9/🔍\|🔍]] schopností a slabin bytostí.
 
 </div></div>
@@ -157,7 +157,7 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Zkoumání** k diagnostikování zran
 
 
 ## Příroda (❤️‍🔥)
-Vaše odborné znalosti v přežití v divočině, navigaci, stopování a zacházení se zvířaty. 
+Vaše znalosti o přežití v divočině, navigaci, stopování a zacházení se zvířaty. 
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Příroda** k tomu, abyste se vyznali v přírodě, identifikovali flóru a faunu a úspěšně vystopovali bytosti. Tato dovednost zahrnuje také znalosti o Zvířatech, Monstrech a Rostlinách a poskytuje vhled do jejich chování, stanovišť a charakteristik.
 
 </div></div>
@@ -169,7 +169,7 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Příroda** k tomu, abyste se vyznali
 
 
 ## Vnímání (❤️‍🔥)
-Vaše schopnost všímat si jemných detailů ve Vašem okolí a [[z_Atomy/N/NPC\|NPC]]. 
+Vaše schopnost všímat si jemných detailů ve Vašem okolí a bytostech. ([[z_Atomy/N/NPC\|NPC]])
 Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Vnímání** k odhalení skrytých předmětů, nalezení tajných průchodů, rozpoznání jemných změn v prostředí a k tomu, abyste vycítili, když jste sledováni nebo pozorováni. Tato dovednost zahrnuje vaši schopnost zachytit nenápadné podněty a rozpoznat přítomnost skrytých hrozeb.
 
 </div></div>
