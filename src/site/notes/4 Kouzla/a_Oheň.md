@@ -11,6 +11,7 @@
 
 
 ## Ohnivá šipka
+![Ohnivá šipka.png|200](/img/user/z_img/Ohniv%C3%A1%20%C5%A1ipka.png)
 **TRIK**  
 **1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🏹\|🏹]] 8m
