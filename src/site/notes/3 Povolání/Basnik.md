@@ -21,7 +21,7 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 
 | [[z_Atomy/0-9/🗝\|🗝]]          | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]                     | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]               |
 | --------------- | ------- | --------------- | --------------------------------- | -------------------------------- | -------------------------------- | ---------------------------------- |
-| [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/📖\|📖]] | **1k8** | **13**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/R/Tkanina\|Tkanina]], [[z_Atomy/K/Kůže\|Kůže]]            | [[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]]       | 2x Dýka, Levná kožená zbroj, Křída |
+| [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/📖\|📖]] | **1k8** | **13**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/T/Tkanina\|Tkanina]], [[z_Atomy/K/Kůže\|Kůže]]            | [[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/K/Kouzelné hůlky\|Kouzelné hůlky]]       | 2x Dýka, Levná kožená zbroj, Křída |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-basnika/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -54,7 +54,7 @@ Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškozen�
 
 
 ## Básníkova Inspirace  
-**[[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]**
+**[[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
 [[z_Atomy/0-9/🔔\|🔔]] = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/R/REAKCE\|REAKCE]]: spojenec hodí kostku
 
@@ -267,7 +267,7 @@ Přivolejte legendární létající (a přátelské) stvoření, které Vás od
 ### LVL 11
 - **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
 ### LVL 15
-- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
+- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
 
 </div></div>
 

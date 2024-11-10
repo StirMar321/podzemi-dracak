@@ -21,7 +21,7 @@ Pro mnohé je cesta služby obtížnou - přesto v tomto úkolu nejsme osamoceni
 
 | [[z_Atomy/0-9/🗝\|🗝]]              | [[z_Atomy/0-9/🟥\|🟥]]       | Počáteční[[z_Atomy/0-9/💖\|💖]]  | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]                     | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]                  |
 | ------------------- | ------------ | ---------------- | --------------------------------- | -------------------------------- | -------------------------------- | ------------------------------------- |
-| [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/💪\|💪]]<br> | **1k10**<br> | **17**[[z_Atomy/0-9/💖\|💖]]<br> | [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/K/Kroužky\|Kroužky]], [[z_Atomy/S/Štíty\|Štíty]]           | [[z_Atomy/0-9/💪\|💪]], [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]]       | Rezavá košile, Palice, Pukléř, Zvonek |
+| [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/💪\|💪]]<br> | **1k10**<br> | **17**[[z_Atomy/0-9/💖\|💖]]<br> | [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/K/Kroužky\|Kroužky]], [[z_Atomy/S/Štíty\|Štíty]]           | [[z_Atomy/0-9/💪\|💪]], [[z_Atomy/K/Kouzelné hůlky\|Kouzelné hůlky]]       | Rezavá košile, Palice, Pukléř, Zvonek |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-pastyre/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -187,7 +187,7 @@ X = [[z_Atomy/0-9/🌀\|🌀]] při seslání
 
 ## Vyznání života
 ### LVL 3
-- **Milosrdné léčení**. Když váš efekt obnoví [[z_Atomy/0-9/💖\|💖]]  bytosti, která [[z_Atomy/0-9/🩸\|🩸]], vyléčí ji za dvojnásobek. Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] může *jednat* 1/[[z_Atomy/K/Kolo\|Kolo]] [[z_Atomy/A/Zdarma\|Zdarma]], když Vy [[z_Atomy/0-9/🩸\|🩸]].
+- **Milosrdné léčení**. Když váš efekt obnoví [[z_Atomy/0-9/💖\|💖]]  bytosti, která [[z_Atomy/0-9/🩸\|🩸]], vyléčí ji za dvojnásobek. Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] může *jednat* 1/[[z_Atomy/K/Kolo\|Kolo]] [[z_Atomy/Z/Zdarma\|Zdarma]], když Vy [[z_Atomy/0-9/🩸\|🩸]].
 - **Svět je krásný**. Neškodné a krásné bytosti, jako motýli a kolibříci, jsou k Vám přitahováni a často Vás následují. Květiny kvetou ve vaší přítomnosti.
 
 ### LVL 7

@@ -22,7 +22,7 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 
 | [[z_Atomy/0-9/🗝\|🗝]]          | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]<br>              | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]]<br> | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]            |
 | --------------- | ------- | --------------- | ------------------------------ | ------------------------------------ | -------------------------------- | ------------------------------- |
-| [[z_Atomy/0-9/📖\|📖]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] | **1k6** | **10**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/R/Tkanina\|Tkanina]]                          | Ostří, Hole, [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]]  | Oblečení dobrodruha, Hůl, Mýdlo |
+| [[z_Atomy/0-9/📖\|📖]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] | **1k6** | **10**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/T/Tkanina\|Tkanina]]                          | Ostří, Hole, [[z_Atomy/K/Kouzelné hůlky\|Kouzelné hůlky]]  | Oblečení dobrodruha, Hůl, Mýdlo |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-maga/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -113,7 +113,7 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 ⠀
 - **Elementární transmutace**. (+1 [[z_Atomy/0-9/🌀\|🌀]]) Změníte typ poškození kouzla.
 ⠀
-- **Ozvěna**. (2x [[z_Atomy/0-9/🌀\|🌀]]) Když sesíláte kouzlo cílené na jeden cíl, můžete [[z_Atomy/0-9/✨\|✨]] kopii tohoto kouzla na druhý cíl [[z_Atomy/A/Zdarma\|Zdarma]].
+- **Ozvěna**. (2x [[z_Atomy/0-9/🌀\|🌀]]) Když sesíláte kouzlo cílené na jeden cíl, můžete [[z_Atomy/0-9/✨\|✨]] kopii tohoto kouzla na druhý cíl [[z_Atomy/Z/Zdarma\|Zdarma]].
 ⠀
 - **Metodické sesílání**. (+1 [[z_Atomy/A/AKCE\|AKCE]]) Snižte cenu kouzla o -2 [[z_Atomy/0-9/🌀\|🌀]]. Kouzlo může stát minimálně 1 [[z_Atomy/0-9/🌀\|🌀]].
 ⠀
@@ -142,7 +142,7 @@ Vyberte možnost, která ještě nebyla vybrána. Obnoví se, když hodíte [[z_
 
 | Možnost          | Efekt                                                                                                       |
 | ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| TRVÁM NA TOM     | [[z_Atomy/0-9/✨\|✨]] [[z_Atomy/A/Zdarma\|Zdarma]] kouzelný Trik. Nemůže minout.                                                              |
+| TRVÁM NA TOM     | [[z_Atomy/0-9/✨\|✨]] [[z_Atomy/Z/Zdarma\|Zdarma]] kouzelný Trik. Nemůže minout.                                                              |
 | ELEMENTÁLNÍ VLIV | Bytost Vašeho výběru do 12 metrů získá stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/Z/Zpomalen\|Zpomalen]] (má poloviční [[z_Atomy/0-9/🏃\|🏃]]). |
 | NE               | Vyberte nepřítele. Ten nemůže ublížit bytosti Vašeho výběru během svého příštího [[z_Atomy/T/Tah\|Tahu]].             |
 | ZTRAŤ KONTROLU   | Provedete všechny možnosti výše, ale vybírá [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]].                                                    |

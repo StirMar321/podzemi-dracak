@@ -4,7 +4,7 @@
 
 ## Svižnost  
 **STUPEŇ 2**  
-**[[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]**
+**[[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
 
 Když se hází [[z_Atomy/0-9/🏁\|🏁]], přičtěte k hodu svůj [[z_Atomy/0-9/🗝\|🗝]]. (*Lze seslat pouze jednou za [[z_Atomy/S/Střetnutí\|Střetnutí]].*)
 

@@ -21,7 +21,7 @@ Ne každá PRASTARÁ HRŮZA je stejná. To je jako říkat, že havraní černá
 
 | [[z_Atomy/0-9/🗝\|🗝]]       | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]<br>                 | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]]<br> | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]]<br> | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]             |
 | ------------ | ------- | --------------- | --------------------------------- | ------------------------------------ | ------------------------------------ | -------------------------------- |
-| [[z_Atomy/0-9/📖\|📖]][[z_Atomy/0-9/🎯\|🎯]] | **1k8** | **13**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/R/Tkanina\|Tkanina]]                          | [[z_Atomy/L/Lehká\|Lehká]] ostří, [[z_Atomy/H/Kouzelné hůlky\|Kouzelné hůlky]]  | Oblečení dobrodruha, Srp, Lopata |
+| [[z_Atomy/0-9/📖\|📖]][[z_Atomy/0-9/🎯\|🎯]] | **1k8** | **13**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/T/Tkanina\|Tkanina]]                          | [[z_Atomy/L/Lehká\|Lehká]] ostří, [[z_Atomy/K/Kouzelné hůlky\|Kouzelné hůlky]]  | Oblečení dobrodruha, Srp, Lopata |
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/urovne-cernokneznika/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -84,7 +84,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 ## LVL 2
 - **Důvěryhodné médium**. Váš Patron vám propůjčuje přístup ke [[2 Důležité/Kouzla\|Kouzlům a Trikům ]] **1. stupně** domény [[4 Kouzla/f_Nekro\|Nekro]] a poskytuje vám část své vlastní [[z_Atomy/0-9/🌀\|🌀]]. Její množství je rovno Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Vaše Kouzla stojí **vždy** 1[[z_Atomy/0-9/🌀\|🌀]] a jsou **vždy** [[z_Atomy/0-9/✨\|✨]] na nejvyšším stupni, který máte odemčen. [[z_Atomy/0-9/🌀\|🌀]] se obnovuje během [[z_Atomy/0-9/🔋\|🔋]] při komunikaci s vaším patronem.
 ## LVL 3
-- **PAKT JE SPEČETĚN**. Vyberte si [[z_Atomy/P/Pakty Černokněžníka\|Pakt]] a jednu [[z_Atomy/N/Menší stínové invokace\|Menší stínovou invokaci]].
+- **PAKT JE SPEČETĚN**. Vyberte si [[z_Atomy/P/Pakty Černokněžníka\|Pakt]] a jednu [[z_Atomy/M/Menší stínové invokace\|Menší stínovou invokaci]].
 ## LVL 4
 - **Dar od Pána.** Vyberte si jednu [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
@@ -99,7 +99,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a Vaše Kouzla jsou **posílená*** na 3. stupeň.
 - **Pakt**. Získáte schopnost **podtřídy** [[z_Atomy/P/Pakty Černokněžníka\|Paktu]].
 ## LVL 8
-- **Nižší invokace (2)**. Vyberte si **další** [[z_Atomy/N/Menší stínové invokace\|Menší stínovou invokaci]].
+- **Nižší invokace (2)**. Vyberte si **další** [[z_Atomy/M/Menší stínové invokace\|Menší stínovou invokaci]].
 - **Stínové mistrovství (2)**. Vyberte si **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z domény Nekro.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 9
@@ -110,7 +110,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 ## LVL 11
 - **Pakt**. Získáte schopnost **podtřídy** [[z_Atomy/P/Pakty Černokněžníka\|Paktu]].
-- **Nižší invokace (3)**. Vyberte si **další** [[z_Atomy/N/Menší stínové invokace\|Menší stínovou invokaci]].
+- **Nižší invokace (3)**. Vyberte si **další** [[z_Atomy/M/Menší stínové invokace\|Menší stínovou invokaci]].
 ## LVL 12
 - **Nenasytný pakt**. Když máte 0[[z_Atomy/0-9/🌀\|🌀]], můžete požádat svého patrona o více [[z_Atomy/0-9/🌀\|🌀]], než by Vaše tělo normálně zvládlo. Před [[z_Atomy/0-9/✨\|✨]] kouzla proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Výsledek 1–9: utržíte 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. Výsledek 20+: sešlete kouzlo, jako by bylo o 1 stupeň vyšší.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
@@ -143,7 +143,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/n/mensi-stinove-invokace/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/m/mensi-stinove-invokace/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

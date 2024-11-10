@@ -29,9 +29,9 @@ Maximální počet [[z_Atomy/0-9/♈\|♈]] je roven Vašemu [[z_Atomy/L/LVL\|LV
 - **Rada předků**. 1/den. Když stojíte před rozhodnutím, jakým směrem se vydat nebo jaký postup zvolit, můžete povolat své předky, aby Vás vedli po **nejnebezpečnější** nebo **nejnáročnější** cestě.
 ## LVL 3
 - **Cesta Berserka**. Vyberte si **podtřídu**. ([[z_Atomy/C/Cesty Berserka\|Cesty Berserka]])
-- **Krvežíznivost**. [[z_Atomy/A/AKCE\|AKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]. Utraťte Vaše [[z_Atomy/0-9/♈\|♈]] během svého tahu a [[z_Atomy/0-9/🥾\|🥾]] se [[z_Atomy/A/Zdarma\|Zdarma]] až o [[z_Atomy/0-9/🎯\|🎯]] metrů za [[z_Atomy/0-9/♈\|♈]].
+- **Krvežíznivost**. [[z_Atomy/A/AKCE\|AKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]. Utraťte Vaše [[z_Atomy/0-9/♈\|♈]] během svého tahu a [[z_Atomy/0-9/🥾\|🥾]] se [[z_Atomy/Z/Zdarma\|Zdarma]] až o [[z_Atomy/0-9/🎯\|🎯]] metrů za [[z_Atomy/0-9/♈\|♈]].
 ## LVL 4
-- **Vytrvalá zuřivost.** Když máte stav [[z_Atomy/0-9/🩸\|🩸]] na začátku svého [[z_Atomy/T/Tah\|Tahu]], automaticky [[z_Atomy/A/Zdarma\|Zdarma]] začnete [[z_Atomy/Z/Zuřivost\|Zuřit]]. Během [[z_Atomy/0-9/🩸\|🩸]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]** a **ignorujete** [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] při [[z_Atomy/0-9/⚔️\|⚔️]].
+- **Vytrvalá zuřivost.** Když máte stav [[z_Atomy/0-9/🩸\|🩸]] na začátku svého [[z_Atomy/T/Tah\|Tahu]], automaticky [[z_Atomy/Z/Zdarma\|Zdarma]] začnete [[z_Atomy/Z/Zuřivost\|Zuřit]]. Během [[z_Atomy/0-9/🩸\|🩸]] máte **2 [[z_Atomy/A/AKCE\|AKCE]]** a **ignorujete** [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] při [[z_Atomy/0-9/⚔️\|⚔️]].
 - **Divoký arzenál**. Získejte **jednu** schopnost [[z_Atomy/D/Divoký arzenál\|Divokého arzenálu]].
 - **Zvýšení klíčové statistiky.** +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 5

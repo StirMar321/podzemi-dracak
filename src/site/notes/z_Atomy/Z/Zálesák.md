@@ -4,7 +4,7 @@
 
 ## Zaměření Zálesák
 ### LVL 3
-- **Mám Navrh!** Když získáte [[z_Atomy/0-9/❇️\|❇️]], můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|🏃]] [[z_Atomy/A/Zdarma\|Zdarma]], ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
+- **Mám Navrh!** Když získáte [[z_Atomy/0-9/❇️\|❇️]], můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|🏃]] [[z_Atomy/Z/Zdarma\|Zdarma]], ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 - **Působivá Forma**. Máte **+5** max [[z_Atomy/0-9/💖\|💖]] a Vaše [[z_Atomy/0-9/🟥\|🟥]] se vylepší na **k10**.
 
 ### LVL 7
@@ -17,4 +17,4 @@
 ### LVL 15
 - **Nepřekonatelný Zálesák**
 	- Přidejte svou [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] ke svému [[z_Atomy/B/Brnění\|Brnění]]
-	- Když [[z_Atomy/0-9/⚔️\|⚔️]] [[z_Atomy/Z/Zbraně na dálku\|Zbraní na dálku]], můžete se nejprve [[z_Atomy/A/Zdarma\|Zdarma]] pohnout o polovinu své [[z_Atomy/0-9/🏃\|🏃]].
+	- Když [[z_Atomy/0-9/⚔️\|⚔️]] [[z_Atomy/Z/Zbraně na dálku\|Zbraní na dálku]], můžete se nejprve [[z_Atomy/Z/Zdarma\|Zdarma]] pohnout o polovinu své [[z_Atomy/0-9/🏃\|🏃]].

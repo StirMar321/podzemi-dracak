@@ -58,7 +58,7 @@ Podmínka: Cíl je [[z_Atomy/Z/Žhnoucí\|Žhnoucí]]
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/r/zhave-zelezo/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/z/zhave-zelezo/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -87,7 +87,7 @@ Přidejte k poškození [[z_Atomy/Z/Zbraně\|Zbraně]] +[[z_Atomy/0-9/🗝\|🗝
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
-Použijte [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/A/Zdarma\|Zdarma]] do začátku Vašeho příštího [[z_Atomy/T/Tah\|Tahu]].
+Použijte [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]] do začátku Vašeho příštího [[z_Atomy/T/Tah\|Tahu]].
 Útočník na blízko utrpí [[z_Atomy/0-9/🗝\|🗝]] ohnivého poškození a získá stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]] 
 
 **Posílení** +**[[z_Atomy/0-9/🗝\|🗝]]** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].
@@ -147,7 +147,7 @@ Zasažené bytosti mají své [[z_Atomy/O/Odolnost\|Odolnosti]] zrušeny a své 
 
 Stanete se živoucím plamenem.
 Až do konce Vašeho příštího [[z_Atomy/T/Tah\|Tahu]] získáte efekty kouzla [[z_Atomy/O/Ohnivá bariéra\|Ohnivá bariéra]].
-Na konci tohoto a příštího [[z_Atomy/T/Tah\|Tahu]] sešlete kouzlo [[z_Atomy/O/Ohnivá koule\|Ohnivá koule]] [[z_Atomy/A/Zdarma\|Zdarma]].
+Na konci tohoto a příštího [[z_Atomy/T/Tah\|Tahu]] sešlete kouzlo [[z_Atomy/O/Ohnivá koule\|Ohnivá koule]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 
 **Posílení**: +2 metry [[z_Atomy/0-9/🏃\|🏃]] po dobu [[z_Atomy/T/Trvání\|Trvání]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
 

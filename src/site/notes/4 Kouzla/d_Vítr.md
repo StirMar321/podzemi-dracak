@@ -70,7 +70,7 @@ Pohnete středně [[z_Atomy/V/Velikost\|velkým]] cílem o 1m. [[z_Atomy/0-9/�
 **1 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
-Útoky na dálku proti Vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího [[z_Atomy/T/Tah\|Tahu]] (včetně útoku, kterému se bráníte). Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/A/Zdarma\|Zdarma]].
+Útoky na dálku proti Vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího [[z_Atomy/T/Tah\|Tahu]] (včetně útoku, kterému se bráníte). Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 
 **Posílení**: +2 [[z_Atomy/B/Brnění\|Brnění]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
 
@@ -164,7 +164,7 @@ Poškození utrží všichni nepřátelé do 1m od cíle.
 **3 [[z_Atomy/A/AKCE\|AKCE]]**
 [[z_Atomy/K/Koncentrace\|Koncentrace]], až 1 minuta
 
-Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [[z_Atomy/0-9/🏃\|🏃]] 12 metrů. Můžete se jednou za kolo použít [[z_Atomy/0-9/🥾\|🥾]] [[z_Atomy/A/Zdarma\|Zdarma]] a útoky na dálku proti vám mají [[z_Atomy/0-9/👎\|👎]].
+Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [[z_Atomy/0-9/🏃\|🏃]] 12 metrů. Můžete se jednou za kolo použít [[z_Atomy/0-9/🥾\|🥾]] [[z_Atomy/Z/Zdarma\|Zdarma]] a útoky na dálku proti vám mají [[z_Atomy/0-9/👎\|👎]].
 
 **Posílení**: +1 minuta / +2 cíle za každou další utracenou manu.
 
@@ -179,7 +179,7 @@ Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [
 
 
 ## Básníkova Inspirace  
-**[[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]**
+**[[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
 [[z_Atomy/0-9/🔔\|🔔]] = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/R/REAKCE\|REAKCE]]: spojenec hodí kostku
 

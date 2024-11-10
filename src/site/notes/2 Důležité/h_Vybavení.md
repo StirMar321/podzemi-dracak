@@ -66,7 +66,7 @@ Hrdinové mohou používat jakékoliv [[2 Důležité/h_Vybavení\|Vybavení]], 
 
 
 >[!NOTE]- **Výměna zbraní v boji**
->Hrdina může **jednou** za [[z_Atomy/K/Kolo\|Kolo]] [[z_Atomy/A/Zdarma\|Zdarma]] schovat zbraň, se kterou je [[z_Atomy/Z/Zdatnost\|Zdatný]], a tasit jinou.
+>Hrdina může **jednou** za [[z_Atomy/K/Kolo\|Kolo]] [[z_Atomy/Z/Zdarma\|Zdarma]] schovat zbraň, se kterou je [[z_Atomy/Z/Zdatnost\|Zdatný]], a tasit jinou.
 
 
 </div></div>
@@ -248,7 +248,7 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/r/tkanina/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/t/tkanina/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -327,7 +327,7 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 
 ## Štíty
 > [!NOTE]+ **Štíty**
-> Kromě zvýšení Vašeho **Brnění** mohou štíty [[z_Atomy/A/Zdarma\|Zdarma]] snížit poškození z jednoho útoku za [[z_Atomy/K/Kolo\|Kolo]] o hodnotu **Brnění**, kterou poskytují.
+> Kromě zvýšení Vašeho **Brnění** mohou štíty [[z_Atomy/Z/Zdarma\|Zdarma]] snížit poškození z jednoho útoku za [[z_Atomy/K/Kolo\|Kolo]] o hodnotu **Brnění**, kterou poskytují.
 
 | **Štíty**    | **[[z_Atomy/B/Brnění\|Brnění]]** | Vlastnosti                   | **Cena**    |
 | ------------ | -------------- | ---------------------------- | ----------- |

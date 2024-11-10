@@ -8,9 +8,9 @@
 
 - **Nesmrtelná zuřivost.** 1/[[z_Atomy/K/Kolo\|Kolo]]. Když máte stav [[z_Atomy/0-9/🩸\|🩸]], můžete utrpět 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a získat 1 [[z_Atomy/A/AKCE\|Akci]].
 ⠀
-- **Bojechtivost.** Vaše [[z_Atomy/0-9/🏁\|🏁]] má [[z_Atomy/0-9/👍\|👍]]. První [[z_Atomy/T/Tah\|Tah]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]] se můžete [[z_Atomy/A/Zdarma\|Zdarma]] [[z_Atomy/0-9/🥾\|🥾]] o (2x[[z_Atomy/0-9/🎯\|🎯]]) metrů.
+- **Bojechtivost.** Vaše [[z_Atomy/0-9/🏁\|🏁]] má [[z_Atomy/0-9/👍\|👍]]. První [[z_Atomy/T/Tah\|Tah]] ve [[z_Atomy/S/Střetnutí\|Střetnutí]] se můžete [[z_Atomy/Z/Zdarma\|Zdarma]] [[z_Atomy/0-9/🥾\|🥾]] o (2x[[z_Atomy/0-9/🎯\|🎯]]) metrů.
 ⠀
-- **Do bitvy.** **1 [[z_Atomy/A/AKCE\|AKCE]]**. Skočte až (2x[[z_Atomy/0-9/🎯\|🎯]]) metrů směrem k nepříteli. Pokud přistanete vedle alespoň 2 nepřátel, proveďte [[z_Atomy/A/Zdarma\|Zdarma]] [[z_Atomy/0-9/⚔️\|⚔️]].
+- **Do bitvy.** **1 [[z_Atomy/A/AKCE\|AKCE]]**. Skočte až (2x[[z_Atomy/0-9/🎯\|🎯]]) metrů směrem k nepříteli. Pokud přistanete vedle alespoň 2 nepřátel, proveďte [[z_Atomy/Z/Zdarma\|Zdarma]] [[z_Atomy/0-9/⚔️\|⚔️]].
 ⠀
 - **Smrtící úder.** Když Vaši [[z_Atomy/Z/Zuřivost\|Zuřivost]] ukončí Váš [[z_Atomy/0-9/💥\|💥]], zdvojnásobte pro něj hodnotu Vašich [[z_Atomy/0-9/♈\|♈]].
 ⠀
@@ -20,7 +20,7 @@
 ⠀
 - **Primitivní léčba.** Kdykoli najednou obnovíte 10+ [[z_Atomy/0-9/💖\|💖]], uzdravíte 1[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 ⠀
-- **Rychlá zuřivost.** Kdykoli aktivujete svojí [[z_Atomy/Z/Zuřivost\|Zuřivost]], můžete se [[z_Atomy/A/Zdarma\|Zdarma]] [[z_Atomy/0-9/🥾\|🥾]] až o [[z_Atomy/0-9/🎯\|🎯]] metrů, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
+- **Rychlá zuřivost.** Kdykoli aktivujete svojí [[z_Atomy/Z/Zuřivost\|Zuřivost]], můžete se [[z_Atomy/Z/Zdarma\|Zdarma]] [[z_Atomy/0-9/🥾\|🥾]] až o [[z_Atomy/0-9/🎯\|🎯]] metrů, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 ⠀
 - **Nezastavitelná síla** [[z_Atomy/Z/Zuřivost\|Zuřivost]] upravuje přijímání poškození ve stavu [[z_Atomy/0-9/🩸\|🩸]]. Utržení poškození způsobí pouze 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] místo 2; [[z_Atomy/0-9/💥\|💥]] způsobí pouze 2 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], místo 3.
 ⠀

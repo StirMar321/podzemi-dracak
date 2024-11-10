@@ -18,7 +18,7 @@
 Můžete se přeměnit v neškodnou suchozemskou bytost. *(např. kráva, veverka, myš atd.)*
 Když jste přeměněni, rozumíte zvířecí řeči.
 
-Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[z_Atomy/0-9/✨\|✨]] Kouzlo nebo ji sami [[z_Atomy/A/Zdarma\|Zdarma]] ve svém [[z_Atomy/T/Tah\|Tahu]] nezrušíte.
+Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[z_Atomy/0-9/✨\|✨]] Kouzlo nebo ji sami [[z_Atomy/Z/Zdarma\|Zdarma]] ve svém [[z_Atomy/T/Tah\|Tahu]] nezrušíte.
 
 </div></div>
 
@@ -38,7 +38,7 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a **posilovat** kouzla na 3. stupeň.
-- **Chiméra**. Vyberte si **dva** [[z_Atomy/P/Aspekty Chiméry\|Aspekty Chiméry]].
+- **Chiméra**. Vyberte si **dva** [[z_Atomy/A/Aspekty Chiméry\|Aspekty Chiméry]].
 - **Zkušený měnič**. +1 [[z_Atomy/0-9/🐾\|🐾]]/[[z_Atomy/0-9/🔋\|🔋]].
 ## LVL 7
 - **Kruh Bouřliváků**. Získáte schopnost **podtřídy** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
@@ -48,7 +48,7 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[
 - **Bouřerozený**. 1/den. Získáte [[z_Atomy/O/Odolnost\|Odolnost]] vůči poškození bleskem. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]] a [[z_Atomy/K/Koncentrace\|Koncentrace]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 9
-- **Chiméra (2)**. Naučte se **další** [[z_Atomy/P/Aspekty Chiméry\|Aspekt Chiméry]].
+- **Chiméra (2)**. Naučte se **další** [[z_Atomy/A/Aspekty Chiméry\|Aspekt Chiméry]].
 - **Zkušený měnič (2)**. +1 [[z_Atomy/0-9/🐾\|🐾]]/[[z_Atomy/0-9/🔋\|🔋]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 10
@@ -58,13 +58,13 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[
 - **Kruh Bouřliváků**. Získáte schopnost **podtřídy** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
 ## LVL 12
 - **Kouzla 6. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **6. stupně** a **posilovat** kouzla na 6. stupeň.
-- **Chiméra (3)**. Naučte se **další** [[z_Atomy/P/Aspekty Chiméry\|Aspekt Chiméry]].
+- **Chiméra (3)**. Naučte se **další** [[z_Atomy/A/Aspekty Chiméry\|Aspekt Chiméry]].
 - **Zkušený měnič (3)**. +1 [[z_Atomy/0-9/🐾\|🐾]]/[[z_Atomy/0-9/🔋\|🔋]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 13
 - **Bouřerozený (2)**. Získáte následující schopnosti:
 	- Místo hodu kostkami můžete způsobit maximální poškození kouzel domény [[4 Kouzla/d_Vítr\|Vítr]] za 1[[z_Atomy/0-9/🐾\|🐾]] (nepočítá se jako [[z_Atomy/0-9/💥\|💥]]).
-	- Když ukončíte [[z_Atomy/D/Divotvar\|Divotvar]], [[z_Atomy/0-9/✨\|✨]] Trik [[z_Atomy/A/Zdarma\|Zdarma]].
+	- Když ukončíte [[z_Atomy/D/Divotvar\|Divotvar]], [[z_Atomy/0-9/✨\|✨]] Trik [[z_Atomy/Z/Zdarma\|Zdarma]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 14
 - **Kouzla 7. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **7. stupně** a **posilovat** kouzla na 7. stupeň.
@@ -75,7 +75,7 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[
 - **Kouzla 8. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **8. stupně** a **posilovat** kouzla na 8. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 17
-- **Chiméra (4)**. Naučte se **další** [[z_Atomy/P/Aspekty Chiméry\|Aspekt Chiméry]].
+- **Chiméra (4)**. Naučte se **další** [[z_Atomy/A/Aspekty Chiméry\|Aspekt Chiméry]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 18
 - **Kouzla 9. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **9. stupně** a **posilovat** kouzla na 9. stupeň.
@@ -84,5 +84,5 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[
 ## LVL 20
 - **Arcidruid**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
-	- 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když vstupujete nebo opouštíte [[z_Atomy/D/Divotvar\|Divotvar]], můžete [[z_Atomy/0-9/✨\|✨]] [[z_Atomy/A/Zdarma\|Zdarma]] a za 0 [[z_Atomy/0-9/🌀\|🌀]] kouzlo 4. stupně.
+	- 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když vstupujete nebo opouštíte [[z_Atomy/D/Divotvar\|Divotvar]], můžete [[z_Atomy/0-9/✨\|✨]] [[z_Atomy/Z/Zdarma\|Zdarma]] a za 0 [[z_Atomy/0-9/🌀\|🌀]] kouzlo 4. stupně.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.

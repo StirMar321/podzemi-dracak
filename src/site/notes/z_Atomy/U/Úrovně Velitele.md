@@ -3,7 +3,7 @@
 ---
 
 ## LVL 1
-- **Příkaz velitele**. Vyberte si **dva** [[z_Atomy/P/Rozkazy\|Rozkazy]], které umíte.
+- **Příkaz velitele**. Vyberte si **dva** [[z_Atomy/R/Rozkazy\|Rozkazy]], které umíte.
 ## LVL 2
 - **Koordinovaný útok!** Získáte schopnost [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]]
 
@@ -16,9 +16,9 @@
 **Max Nabití ([[z_Atomy/0-9/🔀\|🔀]]) = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)**
 **1/[[z_Atomy/K/Kolo\|Kolo]] ve svém [[z_Atomy/T/Tah\|Tahu]]**
 [[z_Atomy/0-9/🫱\|🫱]] 6 metrů
-**[[z_Atomy/A/AKCE\|AKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]**
+**[[z_Atomy/A/AKCE\|AKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
 ⠀
-**Vy a spojenec** v dosahu můžete okamžitě provést [[z_Atomy/0-9/⚔️\|⚔️]] zbraní nebo [[z_Atomy/0-9/✨\|✨]] **Trik** [[z_Atomy/A/Zdarma\|Zdarma]].
+**Vy a spojenec** v dosahu můžete okamžitě provést [[z_Atomy/0-9/⚔️\|⚔️]] zbraní nebo [[z_Atomy/0-9/✨\|✨]] **Trik** [[z_Atomy/Z/Zdarma\|Zdarma]].
 
 </div></div>
 

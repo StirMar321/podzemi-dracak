@@ -4,7 +4,7 @@
 
 ## Strategie Předvoje
 ### LVL 3
-- **Vpřed!** 1/[[z_Atomy/K/Kolo\|Kolo]]. Po [[z_Atomy/0-9/🥾\|🥾]] směrem k nepříteli získáte [[z_Atomy/0-9/👍\|👍]] pro první [[z_Atomy/0-9/⚔️\|⚔️]] zblízka. Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]], můžete se Vy a všichni spojenci do 12 metrů od Vás nejprve pohnout až o polovinu své [[z_Atomy/0-9/🏃\|🏃]] [[z_Atomy/A/Zdarma\|Zdarma]].
+- **Vpřed!** 1/[[z_Atomy/K/Kolo\|Kolo]]. Po [[z_Atomy/0-9/🥾\|🥾]] směrem k nepříteli získáte [[z_Atomy/0-9/👍\|👍]] pro první [[z_Atomy/0-9/⚔️\|⚔️]] zblízka. Když použijete [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]], můžete se Vy a všichni spojenci do 12 metrů od Vás nejprve pohnout až o polovinu své [[z_Atomy/0-9/🏃\|🏃]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 
 ### LVL 7
 - **Zkušený Velitel**. Váš [[z_Atomy/K/Koordinovaný útok!\|Koordinovaný útok!]] může zacílit jednoho dalšího spojence. Získejte +1[[z_Atomy/0-9/🔀\|🔀]]/[[z_Atomy/0-9/🔋\|🔋]]

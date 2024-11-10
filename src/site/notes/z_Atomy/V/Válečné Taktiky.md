@@ -4,7 +4,7 @@
 
 # Válečné Taktiky
 >[!NOTE]- **Změna je život**
->Kdykoli trénujete se svou skupinou nebo jinými vojáky během [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu schopnost [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]], [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] nebo [[z_Atomy/P/Rozkazy\|Rozkazy]], kterou znáte za jinou, stejného typu.
+>Kdykoli trénujete se svou skupinou nebo jinými vojáky během [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu schopnost [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]], [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] nebo [[z_Atomy/R/Rozkazy\|Rozkazy]], kterou znáte za jinou, stejného typu.
 
 > [!NOTE]+ **Kostky Války**
 > Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], získáte **Kostky Války** ([[z_Atomy/0-9/♐\|♐]]) rovné Vaší [[z_Atomy/0-9/📖\|📖]]. Jednou za útok můžete utratit jednu **Válečnou Kostku** pro provedení [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]].

@@ -10,7 +10,7 @@
 
 
 # AKCE
-Hrdinové mají typicky **3 akce** v každém [[z_Atomy/K/Kolo\|Kole]], které mohou během svého tahu použít k útokům, pohybu po bojišti, sesílání kouzel apod. Obecně jakákoli akce během [[z_Atomy/S/Střetnutí\|Střetnutí]] stojí **1 akci**. Některé schopnosti jsou "[[z_Atomy/A/Zdarma\|Zdarma]]“ nebo "volné", tedy nevyžadují akci. Jiná, velmi silná kouzla nebo speciální schopnosti, mohou zabrat delší dobu a proto stojí více akcí. 
+Hrdinové mají typicky **3 akce** v každém [[z_Atomy/K/Kolo\|Kole]], které mohou během svého tahu použít k útokům, pohybu po bojišti, sesílání kouzel apod. Obecně jakákoli akce během [[z_Atomy/S/Střetnutí\|Střetnutí]] stojí **1 akci**. Některé schopnosti jsou "[[z_Atomy/Z/Zdarma\|Zdarma]]“ nebo "volné", tedy nevyžadují akci. Jiná, velmi silná kouzla nebo speciální schopnosti, mohou zabrat delší dobu a proto stojí více akcí. 
 
 **Všechny 3 akce se obnoví na KONCI Vašeho [[z_Atomy/T/Tah\|Tahu]]**, takže není potřeba si je šetřit. Využijte je všechny během svého tahu, protože když ukončíte svůj tah, nevyužité akce budou ztraceny!
 
@@ -63,7 +63,7 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 
 
 >[!NOTE]- **Výměna zbraní v boji**
->Hrdina může **jednou** za [[z_Atomy/K/Kolo\|Kolo]] [[z_Atomy/A/Zdarma\|Zdarma]] schovat zbraň, se kterou je [[z_Atomy/Z/Zdatnost\|Zdatný]], a tasit jinou.
+>Hrdina může **jednou** za [[z_Atomy/K/Kolo\|Kolo]] [[z_Atomy/Z/Zdarma\|Zdarma]] schovat zbraň, se kterou je [[z_Atomy/Z/Zdatnost\|Zdatný]], a tasit jinou.
 
 
 </div></div>
@@ -350,7 +350,7 @@ Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🏁\|🏁]] s [[z_Atom
 
 
 ### Použití Akcí ve více kolech
-U schopností, které stojí více než 1 [[z_Atomy/A/AKCE\|AKCE]] (typicky kouzla vyšších stupňů), mohou být Akce "**rozloženy**" do více kol v [[z_Atomy/S/Střetnutí\|Střetnutí]], pokud je udržena [[z_Atomy/K/Koncentrace\|Koncentrace]] a nemůžete provádět jiné [[z_Atomy/A/AKCE\|AKCE]]. (Ale můžete provádět [[z_Atomy/A/AKCE\|AKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]).
+U schopností, které stojí více než 1 [[z_Atomy/A/AKCE\|AKCE]] (typicky kouzla vyšších stupňů), mohou být Akce "**rozloženy**" do více kol v [[z_Atomy/S/Střetnutí\|Střetnutí]], pokud je udržena [[z_Atomy/K/Koncentrace\|Koncentrace]] a nemůžete provádět jiné [[z_Atomy/A/AKCE\|AKCE]]. (Ale můžete provádět [[z_Atomy/A/AKCE\|AKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]).
 
 >[!NOTE]- **Příklad**
 > [[3 Povolání/Mag\|Mág]] Knihomol chce seslat kouzlo [[z_Atomy/O/Ohnivá koule\|Ohnivá koule]] (3 Akce), ale má k dispozici jen 1 Akci. Použije 1 Akci v tomto kole a ve svém příštím kole použije další 2 Akce, aby kouzlo úspěšně seslal.

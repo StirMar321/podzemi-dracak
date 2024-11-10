@@ -43,7 +43,7 @@ Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbr
 
 
 ## 📖 = INTELIGENCE
-Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a mazanosti. Ovlivňuje [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/0-9/✨\|✨]], používaní [[z_Atomy/K/Kouzelný svitek\|Kouzelných svitků]] a [[z_Atomy/H/Kouzelné hůlky\|Kouzelných hůlek]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].
+Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a mazanosti. Ovlivňuje [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/0-9/✨\|✨]], používaní [[z_Atomy/K/Kouzelný svitek\|Kouzelných svitků]] a [[z_Atomy/K/Kouzelné hůlky\|Kouzelných hůlek]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].
 
 </div></div>
 
