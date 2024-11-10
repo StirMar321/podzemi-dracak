@@ -156,7 +156,7 @@
 
 ## Ork
 
-| ![ork.png](/img/user/z_img/ork.png) | Když si myslíš, že jsi porazil **orka**, akorát jsi probudil jeho hněv. Pustit se do boje s **orkem** není úkol pro slabé. Zatímco jiní před příchodem smrti ustupují, **orkové** ji vítají.<br><br>**Nezdolný**: 1/[[z_Atomy/0-9/🔋\|🔋]]. Kdykoli začnete [[z_Atomy/0-9/🩸\|Umírat]], můžete místo toho nastavit své [[z_Atomy/0-9/💖\|💖]] na hodnotu [[z_Atomy/L/LVL\|LVL]].<br>**Silný**: +1 [[z_Atomy/M/Moc (💪)\|Moc (💪)]]<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Orkština (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ![ork.png](/img/user/z_img/ork.png) | Když si myslíš, že jsi porazil **orka**, akorát jsi probudil jeho hněv. Pustit se do boje s **orkem** není úkol pro slabé. Zatímco jiní před příchodem smrti ustupují, **orkové** ji vítají.<br><br>**Nezdolný**: 1/[[z_Atomy/0-9/🔋\|🔋]]. Kdykoli začnete [[z_Atomy/0-9/🩸\|Umírat]], můžete místo toho nastavit své [[z_Atomy/0-9/💖\|💖]] na hodnotu [[z_Atomy/L/LVL\|LVL]].<br>**Silný**: +1 [[z_Atomy/M/Nezdolnost (💪)\|Nezdolnost (💪)]]<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Orkština (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
@@ -226,7 +226,7 @@
 
 ## Polobr
 
-| ![polobr.png](/img/user/z_img/polobr.png) | Mohutné bytosti, jejichž síla je stejně neotřesitelná jako hory, které nazývají svým domovem. Díky své velikosti a odolnosti jsou **Polobři** obávanými protivníky, schopní přežít i ty nejsmrtelnější údery.<br><br>**Síla kamene**: 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Můžeš přinutit nepřítele přehodit [[z_Atomy/0-9/💥\|💥]] mířený proti tobě.<br>**Síla hor**: +2 [[z_Atomy/M/Moc (💪)\|Moc (💪)]].<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Trpasličtina (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Velký |
+| ![polobr.png](/img/user/z_img/polobr.png) | Mohutné bytosti, jejichž síla je stejně neotřesitelná jako hory, které nazývají svým domovem. Díky své velikosti a odolnosti jsou **Polobři** obávanými protivníky, schopní přežít i ty nejsmrtelnější údery.<br><br>**Síla kamene**: 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Můžeš přinutit nepřítele přehodit [[z_Atomy/0-9/💥\|💥]] mířený proti tobě.<br>**Síla hor**: +2 [[z_Atomy/M/Nezdolnost (💪)\|Nezdolnost (💪)]].<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Trpasličtina (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Velký |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 

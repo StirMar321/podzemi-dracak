@@ -26,7 +26,7 @@
 ⠀
 - **Hromové kroky.** Když [[z_Atomy/Z/Zuřivost\|Zuříte]] a pohnete se o 4+ metrů, způsobíte všem přilehlým bytostem na místě, kde se zastavíte, [[z_Atomy/0-9/💪\|💪]] drtivého poškození.
 ⠀
-- **Jsi další!** **1 [[z_Atomy/A/Akce\|Akce]]**. Musíte [[z_Atomy/Z/Zuřivost\|Zuřit]]. [[z_Atomy/0-9/❓\|❓]][[z_Atomy/M/Moc (💪)\|Moc (💪)]] může demoralizovat nepřítele do 12 metrů. Pokud hodíte vyšší hodnotu než jeho zbývající [[z_Atomy/0-9/💖\|💖]], okamžitě uprchne.
+- **Jsi další!** **1 [[z_Atomy/A/Akce\|Akce]]**. Musíte [[z_Atomy/Z/Zuřivost\|Zuřit]]. [[z_Atomy/0-9/❓\|❓]][[z_Atomy/M/Nezdolnost (💪)\|Nezdolnost (💪)]] může demoralizovat nepřítele do 12 metrů. Pokud hodíte vyšší hodnotu než jeho zbývající [[z_Atomy/0-9/💖\|💖]], okamžitě uprchne.
 ⠀
 - **Smršť.** **2 [[z_Atomy/A/Akce\|Akce]]**. [[z_Atomy/0-9/⚔️\|⚔️]] na VŠECHNY cíle v dosahu vaší [[z_Atomy/Z/Zbraně na blízko\|Zbraně na blízko]].
 ⠀

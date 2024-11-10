@@ -21,7 +21,7 @@ Každé [[2 Důležité/e1_Povolání\|Povolání]] má **dvě klíčové [[z_At
 
 
 ## 💪 = SÍLA
-Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbraní a schopností, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], udržení [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Moc (💪)\|Moc (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
+Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbraní a schopností, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], udržení [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Nezdolnost (💪)\|Nezdolnost (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
 
 </div></div>
 
@@ -84,9 +84,9 @@ Kdykoli chce hrdina interagovat se světem, může chtít použít jednu ze svý
 
 
 
-## Moc (💪)
+## Nezdolnost (💪)
 Vaše surová fyzická síla a schopnost ji efektivně použít. 
-Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Moc** k zvedání těžkých předmětů, prorážení překážek, lezení, zápasení a provádění činů vyžadujících sílu a vytrvalost.
+Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Nezdolnost** k zvedání těžkých předmětů, prorážení překážek, lezení, zápasení a provádění činů vyžadujících sílu a vytrvalost.
 
 </div></div>
 
