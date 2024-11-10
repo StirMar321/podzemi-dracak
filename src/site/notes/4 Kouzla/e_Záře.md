@@ -87,7 +87,7 @@ Označte ochotnou bytost jako svého chráněnce na 1 hodinu. Přijímá **polov
 ## Štít spravedlnosti  
 **STUPEŇ 3**  
 **1 [[z_Atomy/A/Akce\|Akce]]**  
-[[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
+[[z_Atomy/R/Reakce\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
 [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]]. Odražte zářivé poškození zpět na útočníka rovné bráněnému poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].  
 

@@ -38,7 +38,7 @@ Už ale nezískáváte [[z_Atomy/0-9/♎\|♎]], když jste napaden. Místo toho
 
 ### LVL 3
 - **Všichni trpíme**. Když by spojenec ve tvé auře utrpěl [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] nebo neuspěl [[z_Atomy/0-9/❗\|❗]], můžete místo něj tento efekt převzít na sebe Vy. Získáváte +2 k maximálnímu počtu [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
-- **Dej mi svou bolest**. [[z_Atomy/R/REAKCE\|REAKCE]]: když by spojenec ve tvé auře klesly [[z_Atomy/0-9/💖\|💖]] na **0**. Můžete si s ním vyměnit [[z_Atomy/0-9/💖\|💖]] (pokud je Váš aktuální počet [[z_Atomy/0-9/💖\|💖]] vyšší než jeho maximální, získá [[z_Atomy/0-9/💗\|💗]] rovné rozdílu).
+- **Dej mi svou bolest**. [[z_Atomy/R/Reakce\|Reakce]]: když by spojenec ve tvé auře klesly [[z_Atomy/0-9/💖\|💖]] na **0**. Můžete si s ním vyměnit [[z_Atomy/0-9/💖\|💖]] (pokud je Váš aktuální počet [[z_Atomy/0-9/💖\|💖]] vyšší než jeho maximální, získá [[z_Atomy/0-9/💗\|💗]] rovné rozdílu).
 ### LVL 7
 - **Utrpení**. Vaše [[z_Atomy/K/Kladení rukou\|Kladení rukou]] Vás uzdravuje dvojnásobně, ale ostatní pouze polovičně. Kdykoli způsobíte poškození, můžete utratit [[z_Atomy/0-9/⚜️\|⚜️]], abys zvýšili způsobené poškození o množství rovnající se utraceným [[z_Atomy/0-9/⚜️\|⚜️]] (ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]).
 ### LVL 11

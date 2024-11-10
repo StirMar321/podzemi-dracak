@@ -10,4 +10,4 @@
 ### LVL 11
 - **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 [[z_Atomy/A/Akce\|Akci]] navíc.
 ### LVL 15
-- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/Akce\|Akci]] navíc.
+- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/Reakce\|Reakce]] [[z_Atomy/Z/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/Akce\|Akci]] navíc.

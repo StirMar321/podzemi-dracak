@@ -12,7 +12,7 @@
 ⠀
 - **Odhodlaná duše**. Nelze Vámi pohnout proti vaší vůli. Neúspěšný [[z_Atomy/0-9/❗\|❗]] můžete zvrátit v úspěch tím, že utržíte jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste přidali svou +[[z_Atomy/0-9/💪\|💪]] k výsledku [[z_Atomy/0-9/❗\|❗]]. Toto můžete opakovat kolikrát chcete.
 ⠀
-- **Rychlý úder**. Když použijete [[z_Atomy/R/REAKCE\|Reakci]] [[z_Atomy/0-9/🔰\|🔰]], můžete nejprve provést neozbrojený úder proti nepříteli [[z_Atomy/Z/Zdarma\|Zdarma]].
+- **Rychlý úder**. Když použijete [[z_Atomy/R/Reakce\|Reakci]] [[z_Atomy/0-9/🔰\|🔰]], můžete nejprve provést neozbrojený úder proti nepříteli [[z_Atomy/Z/Zdarma\|Zdarma]].
 ⠀
 - **Přesměrování útoku**. Kdykoli vykryjete veškeré poškození z útoku na blízko proti vám (ať už jste se vyhnuli, nebo použili [[z_Atomy/0-9/🛡️\|🛡️]]), můžete si vyměnit místo s útočníkem a pak vybrat jiný cíl v dosahu, který je zasažen místo Vás.
 ⠀

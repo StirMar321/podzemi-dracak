@@ -6,7 +6,7 @@
 >[!NOTE]- **Změna je život**
 > Kdykoli vystoupíte na místě, které Vás inspiruje, nebo si měníte příběhy s jinými schopným bardy a poety během [[z_Atomy/0-9/🔋\|🔋]], můžete vyměnit jednu z těchto schopností za jinou.
 
-- **Ne moji krásnou tvář!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Kdykoli použijete [[z_Atomy/R/REAKCE\|Reakci]] [[z_Atomy/0-9/🛡️\|🛡️]], můžete nejprve přinutit útočníka provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu změňte cíl [[z_Atomy/0-9/⚔️\|⚔️]] (pokud žádný není v dosahu, útok selže). Pokud neuspěje o 5+, zaútočí na sebe jako trest za to, že vůbec pomysleli na to Vám ublížit! 
+- **Ne moji krásnou tvář!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Kdykoli použijete [[z_Atomy/R/Reakce\|Reakci]] [[z_Atomy/0-9/🛡️\|🛡️]], můžete nejprve přinutit útočníka provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu změňte cíl [[z_Atomy/0-9/⚔️\|⚔️]] (pokud žádný není v dosahu, útok selže). Pokud neuspěje o 5+, zaútočí na sebe jako trest za to, že vůbec pomysleli na to Vám ublížit! 
 ⠀
 - **Píseň davů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **2 [[z_Atomy/A/Akce\|Akce]]**. Zahrajete okouzlující melodii. Všichni nepřátelé do 6 metrů, kteří ji slyší, musí provést [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Při neúspěchu je můžete přesunout až o 6 metrů libovolným směrem a nemohou se pohnout ve svém dalším tahu.
 ⠀

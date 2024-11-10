@@ -137,7 +137,7 @@ Cíl, který vidíte, bude označen jako Vaše **[[z_Atomy/K/Kořist\|Kořist]]*
 ⠀
 - **Ostré smysly**. 1[[z_Atomy/0-9/❇️\|❇️]]: Proveďte [[z_Atomy/0-9/🔍\|🔍]] s [[z_Atomy/0-9/👍\|👍]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 ⠀
-- **Past s okem**. 1[[z_Atomy/0-9/❇️\|❇️]], 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]]: když se nepřítel pohne do těsné blízkosti Vás nebo spojence do 6 metrů. Odstrčte ho o 1 metr zpět a bude [[z_Atomy/S/Spoután\|Spoután]], dokud se nevysvobodí **([[z_Atomy/0-9/📶\|📶]]10+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])**.
+- **Past s okem**. 1[[z_Atomy/0-9/❇️\|❇️]], 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/Reakce\|Reakce]]: když se nepřítel pohne do těsné blízkosti Vás nebo spojence do 6 metrů. Odstrčte ho o 1 metr zpět a bude [[z_Atomy/S/Spoután\|Spoután]], dokud se nevysvobodí **([[z_Atomy/0-9/📶\|📶]]10+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])**.
 ⠀
 - **Pojď si pro mě!** 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/Akce\|Akce]]: Zaútočte na cíl. Ten je Vámi [[z_Atomy/P/Provokován\|Provokován]] až do konce svého příštího tahu.
 ⠀
@@ -145,9 +145,9 @@ Cíl, který vidíte, bude označen jako Vaše **[[z_Atomy/K/Kořist\|Kořist]]*
 ⠀
 - **Rázný výstřel**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/A/Akce\|Akce]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Odstrčíte cíl: 3 metry malé bytosti, 2 metry střední bytosti, 1 metr velké bytosti.
 ⠀
-- **Mastná Past**. 1[[z_Atomy/0-9/❇️\|❇️]], 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] (když se nepřítel pohne do Vaší těsné blízkosti nebo spojence do 6 metrů): Cíl je [[z_Atomy/S/Sražen\|Sražen]] na zem, je zranitelný vůči ohnivému poškození a má stav (jako) [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
+- **Mastná Past**. 1[[z_Atomy/0-9/❇️\|❇️]], 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/Reakce\|Reakce]] (když se nepřítel pohne do Vaší těsné blízkosti nebo spojence do 6 metrů): Cíl je [[z_Atomy/S/Sražen\|Sražen]] na zem, je zranitelný vůči ohnivému poškození a má stav (jako) [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
 ⠀
-- **Vábnička**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]. Nepřítel mine. Přesuňte se až o polovinu své [[z_Atomy/0-9/🏃\|rychlosti]] (kde jste skutečně byli celou dobu!).
+- **Vábnička**. 1[[z_Atomy/0-9/❇️\|❇️]], [[z_Atomy/R/Reakce\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]]. Nepřítel mine. Přesuňte se až o polovinu své [[z_Atomy/0-9/🏃\|rychlosti]] (kde jste skutečně byli celou dobu!).
 
 </div></div>
 

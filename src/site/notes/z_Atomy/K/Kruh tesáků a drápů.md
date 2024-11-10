@@ -4,8 +4,8 @@
 
 ## Kruh tesáků a drápů
 ### LVL 3
-- **Rychlá proměna**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], můžete se [[z_Atomy/Z/Zdarma\|Zdarma]] proměnit v [[z_Atomy/D/Divotvar\|Divotvar]] nebo [[z_Atomy/0-9/🥾\|🥾]]. Když jste [[z_Atomy/D/Divotvar\|Divotvar]], můžete svou podobu měnit [[z_Atomy/Z/Zdarma\|Zdarma]] jako [[z_Atomy/R/REAKCE\|Reakci]] za 1[[z_Atomy/0-9/🌀\|🌀]]. Když se takto měníte, nemůžete získat [[z_Atomy/0-9/💗\|💗]].
-- **Větrný ochránce**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]], 2[[z_Atomy/0-9/🌀\|🌀]]: Přeměňte se na [[z_Atomy/B/Bestie Děsu\|Bestii Děsu]] a hned [[z_Atomy/0-9/🔰\|🔰]] do vzdálenosti 12 metrů a [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]].
+- **Rychlá proměna**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], můžete se [[z_Atomy/Z/Zdarma\|Zdarma]] proměnit v [[z_Atomy/D/Divotvar\|Divotvar]] nebo [[z_Atomy/0-9/🥾\|🥾]]. Když jste [[z_Atomy/D/Divotvar\|Divotvar]], můžete svou podobu měnit [[z_Atomy/Z/Zdarma\|Zdarma]] jako [[z_Atomy/R/Reakce\|Reakci]] za 1[[z_Atomy/0-9/🌀\|🌀]]. Když se takto měníte, nemůžete získat [[z_Atomy/0-9/💗\|💗]].
+- **Větrný ochránce**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/Reakce\|Reakce]], 2[[z_Atomy/0-9/🌀\|🌀]]: Přeměňte se na [[z_Atomy/B/Bestie Děsu\|Bestii Děsu]] a hned [[z_Atomy/0-9/🔰\|🔰]] do vzdálenosti 12 metrů a [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 - **Přítel zvířat**. Stvoření a zvířata na Vás nezaútočí, dokud jim neublížíte. Můžete se proměnit v neškodnou bytost bez [[z_Atomy/0-9/🐾\|🐾]].
 ### LVL 7
 - **Vypusť zvíře!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Změňte **minutí** na [[z_Atomy/0-9/💥\|💥]].

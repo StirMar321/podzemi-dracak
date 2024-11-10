@@ -68,9 +68,9 @@ Cíl utrží **3k6** ledového poškození. [[z_Atomy/0-9/💥\|💥]] [[z_Atomy
 ## Ledový štít
 **STUPEŇ 2**
 **1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
+[[z_Atomy/R/Reakce\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
-Obdržíte [[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] a použijte [[z_Atomy/R/REAKCE\|Reakci]] [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]].
+Obdržíte [[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] a použijte [[z_Atomy/R/Reakce\|Reakci]] [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 
 **Posílení**: +[[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
 

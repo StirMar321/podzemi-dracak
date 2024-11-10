@@ -10,9 +10,9 @@
 
 
 # Akce
-Hrdinové mají typicky **3 akce** v každém [[z_Atomy/K/Kolo\|Kole]], které mohou během svého tahu použít k útokům, pohybu po bojišti, sesílání kouzel apod. Obecně jakákoli akce během [[z_Atomy/S/Střetnutí\|Střetnutí]] stojí **1 akci**. Některé schopnosti jsou "[[z_Atomy/Z/Zdarma\|Zdarma]]“ nebo "volné", tedy nevyžadují akci. Jiná, velmi silná kouzla nebo speciální schopnosti, mohou zabrat delší dobu a proto stojí více akcí. 
+Hrdinové mají typicky **3 akce** v každém [[z_Atomy/K/Kolo\|Kole]], které mohou během svého tahu použít k útokům, pohybu po bojišti, sesílání kouzel apod. Obecně jakákoli **Akce** během [[z_Atomy/S/Střetnutí\|Střetnutí]] stojí **1 Akci**. Některé schopnosti jsou "[[z_Atomy/Z/Zdarma\|Zdarma]]“ nebo "volné", tedy nevyžadují **Akci**. Jiná, velmi silná kouzla nebo speciální schopnosti, mohou zabrat delší dobu a proto stojí více **Akcí**. 
 
-**Všechny 3 akce se obnoví na KONCI Vašeho [[z_Atomy/T/Tah\|Tahu]]**, takže není potřeba si je šetřit. Využijte je všechny během svého tahu, protože když ukončíte svůj tah, nevyužité akce budou ztraceny!
+**Všechny 3 akce se obnoví na KONCI Vašeho [[z_Atomy/T/Tah\|Tahu]]**, takže není potřeba si je šetřit. Využijte je všechny během svého tahu, protože když ukončíte svůj [[z_Atomy/T/Tah\|Tah]], nevyužité **Akce** budou ztraceny!
 
 Základní **Akce** jsou:
 - [[z_Atomy/0-9/⚔️\|⚔️]] = Útok
@@ -125,18 +125,18 @@ Hráč může použít akci k **Pohybu** do vzdálenosti své [[z_Atomy/0-9/🏃
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/r/reakce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/re-akce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# REAKCE
-Reakce jsou "[[z_Atomy/A/Akce\|Akce]]" provedené **mimo Váš [[z_Atomy/T/Tah\|Tah]]**. Hrdina může provést **každou reakci nejvýše jednou za [[z_Atomy/K/Kolo\|Kolo]]**, a začne svůj příští [[z_Atomy/T/Tah\|Tah]] s méně akcemi.
+# Reakce
+Reakce jsou "[[z_Atomy/A/Akce\|Akce]]" provedené **mimo Váš [[z_Atomy/T/Tah\|Tah]]**. Hrdina může provést **každou Reakci nejvýše jednou za [[z_Atomy/K/Kolo\|Kolo]]**, a začne svůj příští [[z_Atomy/T/Tah\|Tah]] s méně [[z_Atomy/A/Akce\|Akcemi]].
 
 Základní **Reakce** jsou:
 - [[z_Atomy/0-9/🛡️\|🛡️]] = Bránění
 - [[z_Atomy/0-9/🔰\|🔰]] = Chránění
--  [[z_Atomy/0-9/🛑\|🛑]] = Příležitostný útok
+- [[z_Atomy/0-9/🛑\|🛑]] = Příležitostný útok
 - [[z_Atomy/0-9/🆘\|🆘]] = Pomoc
 
 </div></div>

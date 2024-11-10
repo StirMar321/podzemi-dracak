@@ -68,7 +68,7 @@ Pohnete středně [[z_Atomy/V/Velikost\|velkým]] cílem o 1m. [[z_Atomy/0-9/�
 ## Větná bariéra
 **STUPEŇ 2**
 **1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
+[[z_Atomy/R/Reakce\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
 Útoky na dálku proti Vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího [[z_Atomy/T/Tah\|Tahu]] (včetně útoku, kterému se bráníte). Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 
@@ -179,9 +179,9 @@ Vy a až 12 spojenců získáte schopnost [[z_Atomy/L/Létání\|Létání]] a [
 
 
 ## Básníkova Inspirace  
-**[[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
+**[[z_Atomy/R/Reakce\|Reakce]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
 [[z_Atomy/0-9/🔔\|🔔]] = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
-[[z_Atomy/R/REAKCE\|REAKCE]]: spojenec hodí kostku
+[[z_Atomy/R/Reakce\|Reakce]]: spojenec hodí kostku
 
 Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z výsledků.
 

@@ -69,7 +69,7 @@ Pokud **Elektrický oblouk** mine cíl, zasáhne sesílatele. Získá stav [[z_
 
 ## Svižnost  
 **STUPEŇ 2**  
-**[[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
+**[[z_Atomy/R/Reakce\|Reakce]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
 
 Když se hází [[z_Atomy/0-9/🏁\|🏁]], přičtěte k hodu svůj [[z_Atomy/0-9/🗝\|🗝]]. (*Lze seslat pouze jednou za [[z_Atomy/S/Střetnutí\|Střetnutí]].*)
 
@@ -108,7 +108,7 @@ Bytosti, které se dotýkají většího množství kovu automaticky neuspějí.
 ## Elektrotrik
 **STUPEŇ 4**
 **2 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/R/REAKCE\|REAKCE]] - Nepřítel provádí [[z_Atomy/A/Akce\|AKCI]]
+[[z_Atomy/R/Reakce\|Reakce]] - Nepřítel provádí [[z_Atomy/A/Akce\|AKCI]]
 [[z_Atomy/0-9/🫱\|🫱]] 12m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 *Stojí 2 [[z_Atomy/0-9/🌀\|🌀]] a 1 [[z_Atomy/A/Akce\|AKCI]], pokud máte [[z_Atomy/Z/Zkrat\|Zkrat]] nebo [[z_Atomy/0-9/🩸\|🩸]]*
