@@ -3,4 +3,9 @@
 ---
 
 ## Temné požehnání 
-Padlý ze světla, ale ne zcela. Ztrácíte přístup k následujícím zářivým kouzlům: [[z_Atomy/C/Čestný úder\|Čestný úder]], [[z_Atomy/U/Uzdravení\|Uzdravení]] a [[z_Atomy/O/Ochrana\|Ochrana]]. Místo toho získáte přístup k následujícím nekrotickým kouzlům: [[z_Atomy/L/Lákání\|Lákání]], [[z_Atomy/P/Past temnoty\|Past temnoty]] a [[z_Atomy/P/Plášť stínů\|Plášť stínů]]. Kdykoli můžete vybrat [[4 Kouzla/g_Tríčky\|Tríček]], můžete si vybrat zářivý nebo nekrotický [[4 Kouzla/g_Tríčky\|Tríček]].
+Zatracen světlem, ale ne zcela.
+
+| Ztrácíte přístup k těmto [[4 Kouzla/e_Záře\|zářivým]] kouzlům: | Získáte přístup k těmto [[4 Kouzla/f_Nekro\|nekrotickým]] kouzlům: |
+| ----------------------------------------------------- | --------------------------------------------------------- |
+| [[z_Atomy/C/Čestný úder\|Čestný úder]]<br>[[z_Atomy/U/Uzdravení\|Uzdravení]]<br>[[z_Atomy/O/Ochrana\|Ochrana]]       | [[z_Atomy/L/Lákání\|Lákání]]<br>[[z_Atomy/P/Past temnoty\|Past temnoty]]<br>[[z_Atomy/P/Plášť stínů\|Plášť stínů]]         |
+Kdykoli se můžete naučit [[4 Kouzla/g_Tríčky\|Tríček]], můžete si vybrat zářivý nebo nekrotický [[4 Kouzla/g_Tríčky\|Tríček]].
