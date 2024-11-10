@@ -12,8 +12,8 @@
 
 ## Ohnivá šipka
 ![Ohnivá šipka.png|200](/img/user/z_img/Ohniv%C3%A1%20%C5%A1ipka.png)
-**TRIK**  
-**1 [[z_Atomy/A/Akce\|Akce]]**  
+**TRIK**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 8m
 
 Cíl utrží **1k10** ohnivého poškození. [[z_Atomy/0-9/💥\|💥]] způsobí stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
@@ -29,6 +29,7 @@ Cíl utrží **1k10** ohnivého poškození. [[z_Atomy/0-9/💥\|💥]] způsob�
 
 
 ## Ohnivé srdce
+![Ohnivé srdce.png|200](/img/user/z_img/Ohniv%C3%A9%20srdce.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 4m
@@ -47,6 +48,7 @@ Spojenec získá extra **[[z_Atomy/A/Akce\|AKCI]]**.
 
 
 ## Vzplanutí
+![Spolknutí plamene.png|200](/img/user/z_img/Spolknut%C3%AD%20plamene.png)
 **STUPEŇ 1**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 8 metrů
@@ -65,6 +67,7 @@ Podmínka: Cíl je [[z_Atomy/Z/Žhnoucí\|Žhnoucí]]
 
 
 ## Žhavé železo
+![Žhavé železo.png|200](/img/user/z_img/%C5%BDhav%C3%A9%20%C5%BEelezo.png)
 **STUPEŇ 2**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
@@ -84,6 +87,7 @@ Přidejte k poškození [[z_Atomy/Z/Zbraně\|Zbraně]] +[[z_Atomy/0-9/🗝\|🗝
 
 
 ## Ohnivá bariéra
+![Ohnivá bariéra.png|200](/img/user/z_img/Ohniv%C3%A1%20bari%C3%A9ra.png)
 **STUPEŇ 3**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/R/Reakce\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]]
@@ -102,6 +106,7 @@ Použijte [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]] do zač�
 
 
 ## Ohnivá koule
+![Ohnivá koule.png|200](/img/user/z_img/Ohniv%C3%A1%20koule.png)
 **STUPEŇ 4**  
 **3 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 3m
@@ -123,6 +128,7 @@ Bytosti se stavem [[z_Atomy/Z/Žhnoucí\|Žhnoucí]] automaticky neuspějí.
 
 
 ## Spalující žár
+![Spalující žár.png|200](/img/user/z_img/Spaluj%C3%ADc%C3%AD%20%C5%BE%C3%A1r.png)
 **STUPEŇ 5**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m
@@ -142,6 +148,7 @@ Zasažené bytosti mají své [[z_Atomy/O/Odolnost\|Odolnosti]] zrušeny a své 
 
 
 ## Živoucí Inferno
+![Živoucí Inferno.png|200](/img/user/z_img/%C5%BDivouc%C3%AD%20Inferno.png)
 **STUPEŇ 7**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/T/Trvání\|Trvání]]: Konec příštího Tahu
@@ -161,6 +168,7 @@ Na konci tohoto a příštího [[z_Atomy/T/Tah\|Tahu]] sešlete kouzlo [[z_Atomy
 
 
 ## Dračí forma
+![Dračí forma.png|200](/img/user/z_img/Dra%C4%8D%C3%AD%20forma.png)
 **STUPEŇ 9**
 **6 AKCÍ**
 [[z_Atomy/T/Trvání\|Trvání]]: 10 minut

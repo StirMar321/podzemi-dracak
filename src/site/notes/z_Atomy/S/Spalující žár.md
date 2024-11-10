@@ -3,6 +3,7 @@
 ---
 
 ## Spalující žár
+![Spalující žár.png|200](/img/user/z_img/Spaluj%C3%ADc%C3%AD%20%C5%BE%C3%A1r.png)
 **STUPEŇ 5**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m
