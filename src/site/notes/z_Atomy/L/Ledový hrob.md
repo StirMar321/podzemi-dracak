@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/z-atomy/l/ledovy-hrob/"}
 ---
 
-## Ledový hrob  
-**STUPEŇ 8**  
-**3 [[z_Atomy/A/Akce\|Akce]]**  
+## Ledový hrob
+![Ledový hrob.png|300](/img/user/z_img/Ledov%C3%BD%20hrob.png)
+**STUPEŇ 8**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12 metrů
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 

@@ -11,6 +11,7 @@
 
 
 ## Ledový střep
+![Ledový střep.png|300](/img/user/z_img/Ledov%C3%BD%20st%C5%99ep.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12 metrů
@@ -28,6 +29,7 @@ Cíl utrží **1k6** ledového poškození a má [[z_Atomy/0-9/👍\|👍]] prot
 
 
 ## Ledová mlha
+![Ledová mlha.png|300](/img/user/z_img/Ledov%C3%A1%20mlha.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1 metr
@@ -49,6 +51,7 @@ Bytosti v ní obdrží **1k6** ledového poškození při seslání a na konci j
 
 
 ## Rampouch
+![Rampouch.png|300](/img/user/z_img/Rampouch.png)
 **STUPEŇ 1**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12 metrů
@@ -66,6 +69,7 @@ Cíl utrží **3k6** ledového poškození. [[z_Atomy/0-9/💥\|💥]] [[z_Atomy
 
 
 ## Ledový štít
+![Ledový štít.png|300](/img/user/z_img/Ledov%C3%BD%20%C5%A1t%C3%ADt.png)
 **STUPEŇ 2**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/R/Reakce\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]]
@@ -83,6 +87,7 @@ Obdržíte [[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] a použijte [[z
 
 
 ## Mrazivá nova
+![Mrazivá nova.png|300](/img/user/z_img/Mraziv%C3%A1%20nova.png)
 **STUPEŇ 3**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 3 metry
@@ -103,9 +108,10 @@ Pokud již byly [[z_Atomy/S/Sražen\|Sraženy]], budou [[z_Atomy/O/Omráčen\|Om
 
 
 
-## Ledová Aura  
-**STUPEŇ 4**  
-**2 [[z_Atomy/A/Akce\|Akce]]**  
+## Ledová Aura
+![Ledová Aura.png|300](/img/user/z_img/Ledov%C3%A1%20Aura.png)
+**STUPEŇ 4**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12 metrů
 [[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta
 
@@ -123,6 +129,7 @@ Vy a jeden spojenec jste [[z_Atomy/I/Imunita\|imunní]] vůči tomuto kouzlu.
 
 
 ## Lavina
+![Lavina.png|300](/img/user/z_img/Lavina.png)
 **STUPEŇ 5**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12 metrů
@@ -130,7 +137,7 @@ Vy a jeden spojenec jste [[z_Atomy/I/Imunita\|imunní]] vůči tomuto kouzlu.
 
 Vyberte [[z_Atomy/O/Oblast\|Oblast]] 2x2 m v dosahu. Bytosti v oblasti utrpí **8k6** ledového poškození, bytosti sousedící s oblastí utrpí polovinu poškození. [[z_Atomy/O/Oblast\|Oblast]] je trvale [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 
-**Posílení**: +1 metr [[z_Atomy/O/Oblast\|oblasti]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**Posílení**: +1 metr [[z_Atomy/O/Oblast\|Oblasti]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
 
 </div></div>
 
@@ -140,9 +147,10 @@ Vyberte [[z_Atomy/O/Oblast\|Oblast]] 2x2 m v dosahu. Bytosti v oblasti utrpí **
 
 
 
-## Ledový hrob  
-**STUPEŇ 8**  
-**3 [[z_Atomy/A/Akce\|Akce]]**  
+## Ledový hrob
+![Ledový hrob.png|300](/img/user/z_img/Ledov%C3%BD%20hrob.png)
+**STUPEŇ 8**
+**3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12 metrů
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
@@ -161,8 +169,9 @@ Cíl může zopakovat [[z_Atomy/0-9/❗\|❗]]/10 dní. Velké bytosti mají [[z
 
 
 ## Arktická pohroma
-**STUPEŇ 9**  
-**3 [[z_Atomy/A/Akce\|AKCE]]**  
+![Arktická pohroma.png|300](/img/user/z_img/Arktick%C3%A1%20pohroma.png)
+**STUPEŇ 9**
+**3 [[z_Atomy/A/Akce\|AKCE]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
 [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 [[z_Atomy/O/Odpočinek\|Odpočinek]]: 1 týden

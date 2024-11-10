@@ -3,7 +3,7 @@
 ---
 
 ## Živoucí Inferno
-![Živoucí Inferno.png|200](/img/user/z_img/%C5%BDivouc%C3%AD%20Inferno.png)
+![Živoucí Inferno.png|300](/img/user/z_img/%C5%BDivouc%C3%AD%20Inferno.png)
 **STUPEŇ 7**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/T/Trvání\|Trvání]]: Konec příštího Tahu

@@ -3,7 +3,7 @@
 ---
 
 ## Ohnivá bariéra
-![Ohnivá bariéra.png|200](/img/user/z_img/Ohniv%C3%A1%20bari%C3%A9ra.png)
+![Ohnivá bariéra.png|300](/img/user/z_img/Ohniv%C3%A1%20bari%C3%A9ra.png)
 **STUPEŇ 3**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/R/Reakce\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]]

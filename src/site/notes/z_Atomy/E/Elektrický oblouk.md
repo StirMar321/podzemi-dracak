@@ -3,6 +3,7 @@
 ---
 
 ## Elektrický oblouk
+![Elektrický oblouk.png|300](/img/user/z_img/Elektrick%C3%BD%20oblouk.png)
 **STUPEŇ 1**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m

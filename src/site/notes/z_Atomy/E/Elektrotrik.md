@@ -3,6 +3,7 @@
 ---
 
 ## Elektrotrik
+![Elektrotrik.png|300](/img/user/z_img/Elektrotrik.png)
 **STUPEŇ 4**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/R/Reakce\|Reakce]] - Nepřítel provádí [[z_Atomy/A/Akce\|AKCI]]

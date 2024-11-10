@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/z-atomy/l/ledova-aura/"}
 ---
 
-## Ledová Aura  
-**STUPEŇ 4**  
-**2 [[z_Atomy/A/Akce\|Akce]]**  
+## Ledová Aura
+![Ledová Aura.png|300](/img/user/z_img/Ledov%C3%A1%20Aura.png)
+**STUPEŇ 4**
+**2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12 metrů
 [[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta
 

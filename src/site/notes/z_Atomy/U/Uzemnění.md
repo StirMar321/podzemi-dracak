@@ -3,6 +3,7 @@
 ---
 
 ## Uzemnění
+![Uzemnění.png|300](/img/user/z_img/Uzemn%C4%9Bn%C3%AD.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 2m

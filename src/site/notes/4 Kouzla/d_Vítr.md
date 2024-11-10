@@ -10,7 +10,8 @@
 
 
 
-## Ostrý vítr  
+## Ostrý vítr
+![Ostrý vítr.png|300](/img/user/z_img/Ostr%C3%BD%20v%C3%ADtr.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
@@ -27,7 +28,8 @@ Až 2 sousedící cíle utrží **1k4** sečného poškození. [[z_Atomy/Z/Záke
 
 
 
-## Dech života  
+## Dech života
+![Dech života.png|300](/img/user/z_img/Dech%20%C5%BEivota.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 6m
@@ -45,7 +47,8 @@ Obnovte 1[[z_Atomy/0-9/💖\|💖]] bytosti se stavem [[z_Atomy/0-9/🩸\|🩸]]
 
 
 
-## Nárazový vítr  
+## Nárazový vítr
+![Nárazový vítr.png|300](/img/user/z_img/N%C3%A1razov%C3%BD%20v%C3%ADtr.png)
 **STUPEŇ 1**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
@@ -54,7 +57,6 @@ Cíl v dostřelu utrží **3k4** sečné poškození.
 Pohnete středně [[z_Atomy/V/Velikost\|velkým]] cílem o 1m. [[z_Atomy/0-9/👍\|👍]] proti **[[z_Atomy/L/Létání\|Létající]]** nebo menším bytostem a pohnete jimi dvakrát. [[z_Atomy/Z/Zákeřný\|Zákeřný]].
 
 **Posílení**: Vyber: Pohne o 1 metr / o 1 větší bytostí za každou další [[z_Atomy/0-9/🌀\|🌀]].
-
 *([[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])*
 
 </div></div>
@@ -66,6 +68,7 @@ Pohnete středně [[z_Atomy/V/Velikost\|velkým]] cílem o 1m. [[z_Atomy/0-9/�
 
 
 ## Větná bariéra
+![Větná bariéra.png|300](/img/user/z_img/V%C4%9Btn%C3%A1%20bari%C3%A9ra.png)
 **STUPEŇ 2**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/R/Reakce\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]]
@@ -82,8 +85,9 @@ Pohnete středně [[z_Atomy/V/Velikost\|velkým]] cílem o 1m. [[z_Atomy/0-9/�
 
 
 
-## Let  
-**STUPEŇ 3**  
+## Let
+![Let.png|300](/img/user/z_img/Let.png)
+**STUPEŇ 3**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
 [[z_Atomy/K/Koncentrace\|Koncentrace]], až 10 minut
@@ -100,7 +104,8 @@ Bytost, které se dotknete, je nadnášena proudem silného větru. Po dobu [[z_
 
 
 
-## Oko bouře  
+## Oko bouře
+![Oko bouře.png|300](/img/user/z_img/Oko%20bou%C5%99e.png)
 **STUPEŇ 4**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 3m
@@ -120,6 +125,7 @@ Pokud zasažené bytosti neuspějí [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|
 
 
 ## Vichr z hor
+![Vichr z hor.png|300](/img/user/z_img/Vichr%20z%20hor.png)
 **STUPEŇ 5**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
@@ -140,7 +146,8 @@ Utrpí **1k6** drtivého poškození za 2 metry pádu. *(viz [[z_Atomy/P/Pády a
 
 
 
-## Tisíc seků  
+## Tisíc seků
+![Tisíc seků.png|300](/img/user/z_img/Tis%C3%ADc%20sek%C5%AF.png)
 **STUPEŇ 6**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
@@ -160,6 +167,7 @@ Poškození utrží všichni nepřátelé do 1m od cíle.
 
 
 ## Vzdušné proudy
+![Vzdušné proudy.png|300](/img/user/z_img/Vzdu%C5%A1n%C3%A9%20proudy.png)
 **STUPEŇ 9**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/K/Koncentrace\|Koncentrace]], až 1 minuta

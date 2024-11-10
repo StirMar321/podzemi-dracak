@@ -10,9 +10,10 @@
 
 
 
-## Výboj  
-**TRIK**  
-**1 [[z_Atomy/A/Akce\|Akce]]**  
+## Výboj
+![Výboj.png|300](/img/user/z_img/V%C3%BDboj.png)
+**TRIK**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
 
 Cíl utrží **2k8** bleskového poškození. Pokud **Výboj** mine cíl, zasáhne sesílatele. Získá stav [[z_Atomy/Z/Zkrat\|Zkrat]].
@@ -28,6 +29,7 @@ Cíl utrží **2k8** bleskového poškození. Pokud **Výboj** mine cíl, zasáh
 
 
 ## Uzemnění
+![Uzemnění.png|300](/img/user/z_img/Uzemn%C4%9Bn%C3%AD.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 2m
@@ -48,6 +50,7 @@ Sesílatel ukončí svůj [[z_Atomy/Z/Zkrat\|Zkrat]] a bytosti v dosahu utrží 
 
 
 ## Elektrický oblouk
+![Elektrický oblouk.png|300](/img/user/z_img/Elektrick%C3%BD%20oblouk.png)
 **STUPEŇ 1**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
@@ -67,8 +70,9 @@ Pokud **Elektrický oblouk** mine cíl, zasáhne sesílatele. Získá stav [[z_
 
 
 
-## Svižnost  
-**STUPEŇ 2**  
+## Svižnost
+![Svižnost.png|300](/img/user/z_img/Svi%C5%BEnost.png)
+**STUPEŇ 2**
 **[[z_Atomy/R/Reakce\|Reakce]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
 
 Když se hází [[z_Atomy/0-9/🏁\|🏁]], přičtěte k hodu svůj [[z_Atomy/0-9/🗝\|🗝]]. (*Lze seslat pouze jednou za [[z_Atomy/S/Střetnutí\|Střetnutí]].*)
@@ -84,6 +88,7 @@ Když se hází [[z_Atomy/0-9/🏁\|🏁]], přičtěte k hodu svůj [[z_Atomy/0
 
 
 ## Řetězový blesk
+![Řetězový blesk.png|300](/img/user/z_img/%C5%98et%C4%9Bzov%C3%BD%20blesk.png)
 **STUPEŇ 3**  
 **3 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/O/Oblast\|Oblast]] 2x12m od Sesílatele
@@ -106,6 +111,7 @@ Bytosti, které se dotýkají většího množství kovu automaticky neuspějí.
 
 
 ## Elektrotrik
+![Elektrotrik.png|300](/img/user/z_img/Elektrotrik.png)
 **STUPEŇ 4**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/R/Reakce\|Reakce]] - Nepřítel provádí [[z_Atomy/A/Akce\|AKCI]]
@@ -126,6 +132,7 @@ Prohoďte místa jednoho ochotného cíle a jiného cíle v dosahu. Pokud byl je
 
 
 ## Nabití
+![Nabití.png|300](/img/user/z_img/Nabit%C3%AD.png)
 **STUPEŇ 5**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
@@ -144,6 +151,7 @@ Cíl získá: +1 [[z_Atomy/A/Akce\|AKCI]], +5 [[z_Atomy/B/Brnění\|Brnění]], 
 
 
 ## Bleskový jezdec
+![Bleskový jezdec.png|300](/img/user/z_img/Bleskov%C3%BD%20jezdec.png)
 **STUPEŇ 6**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
@@ -163,8 +171,9 @@ Bytosti kolem cíle utrpí **10k8** bleskového poškození a provedou [[z_Atomy
 
 
 
-## Zuřící Bouře  
-**STUPEŇ 9**  
+## Zuřící Bouře
+![Zuřící Bouře.png|300](/img/user/z_img/Zu%C5%99%C3%ADc%C3%AD%20Bou%C5%99e.png)
+**STUPEŇ 9**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 4m
 [[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta

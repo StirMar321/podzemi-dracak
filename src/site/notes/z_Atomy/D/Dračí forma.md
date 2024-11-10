@@ -3,7 +3,7 @@
 ---
 
 ## Dračí forma
-![Dračí forma.png|200](/img/user/z_img/Dra%C4%8D%C3%AD%20forma.png)
+![Dračí forma.png|300](/img/user/z_img/Dra%C4%8D%C3%AD%20forma.png)
 **STUPEŇ 9**
 **6 AKCÍ**
 [[z_Atomy/T/Trvání\|Trvání]]: 10 minut

@@ -3,7 +3,7 @@
 ---
 
 ## Vzplanutí
-![Spolknutí plamene.png|200](/img/user/z_img/Spolknut%C3%AD%20plamene.png)
+![Spolknutí plamene.png|300](/img/user/z_img/Spolknut%C3%AD%20plamene.png)
 **STUPEŇ 1**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 8 metrů

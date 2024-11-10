@@ -3,7 +3,7 @@
 ---
 
 ## Žhavé železo
-![Žhavé železo.png|200](/img/user/z_img/%C5%BDhav%C3%A9%20%C5%BEelezo.png)
+![Žhavé železo.png|300](/img/user/z_img/%C5%BDhav%C3%A9%20%C5%BEelezo.png)
 **STUPEŇ 2**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk

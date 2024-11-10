@@ -3,7 +3,7 @@
 ---
 
 ## Ohnivá koule
-![Ohnivá koule.png|200](/img/user/z_img/Ohniv%C3%A1%20koule.png)
+![Ohnivá koule.png|300](/img/user/z_img/Ohniv%C3%A1%20koule.png)
 **STUPEŇ 4**  
 **3 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 3m

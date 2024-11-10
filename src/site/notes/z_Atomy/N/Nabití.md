@@ -3,6 +3,7 @@
 ---
 
 ## Nabití
+![Nabití.png|300](/img/user/z_img/Nabit%C3%AD.png)
 **STUPEŇ 5**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk

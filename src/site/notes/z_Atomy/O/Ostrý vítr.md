@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/z-atomy/o/ostry-vitr/"}
 ---
 
-## Ostrý vítr  
+## Ostrý vítr
+![Ostrý vítr.png|300](/img/user/z_img/Ostr%C3%BD%20v%C3%ADtr.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m

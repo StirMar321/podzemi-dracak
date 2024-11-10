@@ -3,7 +3,7 @@
 ---
 
 ## Ohnivé srdce
-![Ohnivé srdce.png|200](/img/user/z_img/Ohniv%C3%A9%20srdce.png)
+![Ohnivé srdce.png|300](/img/user/z_img/Ohniv%C3%A9%20srdce.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 4m

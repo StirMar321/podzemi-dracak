@@ -3,6 +3,7 @@
 ---
 
 ## Vichr z hor
+![Vichr z hor.png|300](/img/user/z_img/Vichr%20z%20hor.png)
 **STUPEŇ 5**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m

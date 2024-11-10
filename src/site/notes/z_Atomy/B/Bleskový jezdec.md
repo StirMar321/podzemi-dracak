@@ -3,6 +3,7 @@
 ---
 
 ## Bleskový jezdec
+![Bleskový jezdec.png|300](/img/user/z_img/Bleskov%C3%BD%20jezdec.png)
 **STUPEŇ 6**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m

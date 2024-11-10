@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/z-atomy/t/tisic-seku/"}
 ---
 
-## Tisíc seků  
+## Tisíc seků
+![Tisíc seků.png|300](/img/user/z_img/Tis%C3%ADc%20sek%C5%AF.png)
 **STUPEŇ 6**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m

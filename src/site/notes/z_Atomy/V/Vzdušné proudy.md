@@ -3,6 +3,7 @@
 ---
 
 ## Vzdušné proudy
+![Vzdušné proudy.png|300](/img/user/z_img/Vzdu%C5%A1n%C3%A9%20proudy.png)
 **STUPEŇ 9**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/K/Koncentrace\|Koncentrace]], až 1 minuta

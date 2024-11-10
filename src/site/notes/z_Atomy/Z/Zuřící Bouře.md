@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/z-atomy/z/zurici-boure/"}
 ---
 
-## Zuřící Bouře  
-**STUPEŇ 9**  
+## Zuřící Bouře
+![Zuřící Bouře.png|300](/img/user/z_img/Zu%C5%99%C3%ADc%C3%AD%20Bou%C5%99e.png)
+**STUPEŇ 9**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 4m
 [[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/z-atomy/o/oko-boure/"}
 ---
 
-## Oko bouře  
+## Oko bouře
+![Oko bouře.png|300](/img/user/z_img/Oko%20bou%C5%99e.png)
 **STUPEŇ 4**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 3m

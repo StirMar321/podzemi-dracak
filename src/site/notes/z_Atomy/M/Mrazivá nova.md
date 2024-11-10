@@ -3,6 +3,7 @@
 ---
 
 ## Mrazivá nova
+![Mrazivá nova.png|300](/img/user/z_img/Mraziv%C3%A1%20nova.png)
 **STUPEŇ 3**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 3 metry

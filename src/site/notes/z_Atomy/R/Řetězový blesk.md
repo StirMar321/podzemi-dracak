@@ -3,6 +3,7 @@
 ---
 
 ## Řetězový blesk
+![Řetězový blesk.png|300](/img/user/z_img/%C5%98et%C4%9Bzov%C3%BD%20blesk.png)
 **STUPEŇ 3**  
 **3 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/O/Oblast\|Oblast]] 2x12m od Sesílatele
