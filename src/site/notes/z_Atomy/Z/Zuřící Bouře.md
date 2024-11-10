@@ -11,7 +11,7 @@
 [[z_Atomy/O/Odpočinek\|Odpočinek]]: 1 týden
 
 Jste obklopeni mrakem s dosahem 4 metry. 
-Můžete [[z_Atomy/L/Létání\|Létat]] a 1/[[z_Atomy/K/Kolo\|Kolo]] provést [[z_Atomy/0-9/🥾\|🥾]] zdarma. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👎\|👎]].
+Můžete [[z_Atomy/L/Létání\|Létat]] a 1/[[z_Atomy/K/Kolo\|Kolo]] provést [[z_Atomy/0-9/🥾\|🥾]] [[z_Atomy/A/Zdarma\|Zdarma]]. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👎\|👎]].
 1/[[z_Atomy/K/Kolo\|Kolo]]: 6 cílů v dosahu utrpí **10k8** bleskového poškození. **Nemůže** minout.
 
 Každé další [[z_Atomy/K/Kolo\|Kolo]]: +2m k dosahu, +2 cíle

@@ -15,17 +15,17 @@
 - **Plemeno víl**. Můžete sesílat kouzla když jste proměněni schopností [[z_Atomy/D/Divotvar\|Divotvar]].
 - **Sladěný s přírodou**. 1/den. Vaše [[z_Atomy/0-9/❓\|❓]][[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]] má +[[z_Atomy/L/LVL\|LVL]].
 ### LVL 7
-- **Nabitá bouře**. Kdykoli zasadíte [[z_Atomy/0-9/💥\|💥]] kouzlem (ne trikem), můžete zdarma seslat Trik ze školy, kterou jste toto [[z_Atomy/K/Kolo\|Kolo]] nepoužili (se stejně [[z_Atomy/0-9/👍\|👍]]/[[z_Atomy/0-9/👎\|👎]]).
+- **Nabitá bouře**. Kdykoli zasadíte [[z_Atomy/0-9/💥\|💥]] kouzlem (ne trikem), můžete [[z_Atomy/A/Zdarma\|Zdarma]] [[z_Atomy/0-9/✨\|✨]] Trik z domény, kterou jste toto [[z_Atomy/K/Kolo\|Kolo]] nepoužili (se stejně [[z_Atomy/0-9/👍\|👍]]/[[z_Atomy/0-9/👎\|👎]]).
 ### LVL 11
 - **Mistr živlů**. Utracení 2+ [[z_Atomy/0-9/🌀\|🌀]] při [[z_Atomy/0-9/✨\|✨]] kouzla vyvolá jeden další efekt:
 	- **Led**. Získáte [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] [[z_Atomy/0-9/💗\|💗]]. 
 	- **Blesk**. +[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] poškození.
 	- **Záře**. Můžete obnovit bytosti do 6 metrů [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/💖\|💖]].
-	- **Vítr**. Máte schopnost [[z_Atomy/L/Létání\|Létání]] a [[z_Atomy/0-9/🥾\|🥾]] se zdarma až o 6 metrů do konce svého [[z_Atomy/T/Tah\|Tahu]].
+	- **Vítr**. Máte schopnost [[z_Atomy/L/Létání\|Létání]] a [[z_Atomy/0-9/🥾\|🥾]] [[z_Atomy/A/Zdarma\|Zdarma]] až o 6 metrů do konce svého [[z_Atomy/T/Tah\|Tahu]].
 ### LVL 15
 - **Mistr bouře**.
 	- Můžete se mít [[z_Atomy/K/Koncentrace\|Koncentrace]] na 1 kouzlo blesků a 1 kouzlo větru **současně**. 
-	- 1/[[z_Atomy/0-9/🔋\|🔋]]. Můžete seslat kouzlo [[z_Atomy/B/Bleskový jezdec\|Bleskový jezdec]] za 0 [[z_Atomy/0-9/🌀\|🌀]].
+	- 1/[[z_Atomy/0-9/🔋\|🔋]]. Můžete [[z_Atomy/0-9/✨\|✨]] kouzlo [[z_Atomy/B/Bleskový jezdec\|Bleskový jezdec]] za 0 [[z_Atomy/0-9/🌀\|🌀]].
 
 </div></div>
 
@@ -37,8 +37,8 @@
 
 ## Kruh tesáků a drápů
 ### LVL 3
-- **Rychlá proměna**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], můžete se **zdarma** proměnit v [[z_Atomy/D/Divotvar\|Divotvar]] nebo [[z_Atomy/0-9/🥾\|🥾]]. Když jste [[z_Atomy/D/Divotvar\|Divotvar]], můžete svou podobu měnit zdarma jako [[z_Atomy/R/REAKCE\|Reakci]] za 1[[z_Atomy/0-9/🌀\|🌀]]. Když se takto měníte, nemůžete získat [[z_Atomy/0-9/💗\|💗]].
-- **Větrný ochránce**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]], 2[[z_Atomy/0-9/🌀\|🌀]]: Přeměňte se na [[z_Atomy/B/Bestie Děsu\|Bestii Děsu]] a hned [[z_Atomy/0-9/🔰\|🔰]] do vzdálenosti 12 metrů a [[z_Atomy/0-9/🛡️\|🛡️]] zdarma.
+- **Rychlá proměna**. Když se hází [[z_Atomy/0-9/🏁\|🏁]], můžete se [[z_Atomy/A/Zdarma\|Zdarma]] proměnit v [[z_Atomy/D/Divotvar\|Divotvar]] nebo [[z_Atomy/0-9/🥾\|🥾]]. Když jste [[z_Atomy/D/Divotvar\|Divotvar]], můžete svou podobu měnit [[z_Atomy/A/Zdarma\|Zdarma]] jako [[z_Atomy/R/REAKCE\|Reakci]] za 1[[z_Atomy/0-9/🌀\|🌀]]. Když se takto měníte, nemůžete získat [[z_Atomy/0-9/💗\|💗]].
+- **Větrný ochránce**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]], 2[[z_Atomy/0-9/🌀\|🌀]]: Přeměňte se na [[z_Atomy/B/Bestie Děsu\|Bestii Děsu]] a hned [[z_Atomy/0-9/🔰\|🔰]] do vzdálenosti 12 metrů a [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/A/Zdarma\|Zdarma]].
 - **Přítel zvířat**. Stvoření a zvířata na Vás nezaútočí, dokud jim neublížíte. Můžete se proměnit v neškodnou bytost bez [[z_Atomy/0-9/🐾\|🐾]].
 ### LVL 7
 - **Vypusť zvíře!** 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Změňte **minutí** na [[z_Atomy/0-9/💥\|💥]].

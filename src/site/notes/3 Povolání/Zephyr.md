@@ -34,23 +34,7 @@ Váleční mniši, zruční a disciplinovaní, zasvětili své životy bojovému
 - **Rychlé nohy**. Pokud jste [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]] máte:
 	- +2 metry [[z_Atomy/0-9/🏃\|🏃]]
 	- +[[z_Atomy/L/LVL\|LVL]] k [[z_Atomy/0-9/🏁\|🏁]]
-- **Disciplinované manévry**. Umíte [[z_Atomy/D/Výbuch rychlosti\|Výbuch rychlosti]].
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/vybuch-rychlosti/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-## Výbuch rychlosti
-Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte [[z_Atomy/0-9/🎯\|🎯]] **Bodů rychlosti** ([[z_Atomy/0-9/⏩\|⏩]]). 
-Můžete utratit 1[[z_Atomy/0-9/⏩\|⏩]]/[[z_Atomy/K/Kolo\|Kolo]] pro použití jednoho manévru *zdarma*:
-- **Vzdušný proud**. [[z_Atomy/0-9/🛡️\|🛡️]]: [[z_Atomy/0-9/⚔️\|⚔️]] proti Vám mine.
-- **Vír krytí**. [[z_Atomy/0-9/🛡️\|🛡️]]: snižte veškeré [[z_Atomy/0-9/⚔️\|⚔️]] proti Vám toto [[z_Atomy/K/Kolo\|Kolo]] o hodnotu Vašeho [[z_Atomy/B/Brnění\|Brnění]].
-- **Rychlý úder**. [[z_Atomy/0-9/⚔️\|⚔️]]: bez [[z_Atomy/0-9/👎\|👎]] z [[z_Atomy/U/Uspěchané útoky\|Uspěchaných útoků]].
-- **Krok větru**. [[z_Atomy/0-9/🥾\|🥾]]: ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
-
-</div></div>
-
+- **Disciplinované manévry**. Umíte [[z_Atomy/D/Výbuch rychlosti\|Výbuchy rychlosti]].
 ## LVL 3
 - **Řády Zephyra**. Vyberte si **podtřídu** [[z_Atomy/R/Řády Zephyra\|Řádu Zephyra]].
 - **Momentum**. Když utržíte [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], získáte +1[[z_Atomy/0-9/⏩\|⏩]].
@@ -82,7 +66,7 @@ Můžete utratit 1[[z_Atomy/0-9/⏩\|⏩]]/[[z_Atomy/K/Kolo\|Kolo]] pro použit�
 - **Mistr bojových umění (5)**. Vyberte si **další** [[z_Atomy/CH/Bojová umění\|Bojové umění]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/💪\|💪]].
 ## LVL 13
-- **Obrana bez zbroje (2)**. Pokud jste [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]], Vaše [[z_Atomy/B/Brnění\|Brnění]] je **([[z_Atomy/0-9/🎯\|🎯]]+2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])**.
+- **Železná obrana (2)**. Pokud jste [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]], Vaše [[z_Atomy/B/Brnění\|Brnění]] je **([[z_Atomy/0-9/🎯\|🎯]]+2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])**.
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 14
 - **Mistr bojových umění (6)**. Vyberte si **další** [[z_Atomy/CH/Bojová umění\|Bojové umění]].
@@ -107,6 +91,23 @@ Můžete utratit 1[[z_Atomy/0-9/⏩\|⏩]]/[[z_Atomy/K/Kolo\|Kolo]] pro použit�
 </div></div>
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/vybuch-rychlosti/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Výbuch rychlosti
+Když se hází [[z_Atomy/0-9/🏁\|🏁]], získáte [[z_Atomy/0-9/🎯\|🎯]] **Bodů vánku** ([[z_Atomy/0-9/⏩\|⏩]]). 
+Můžete utratit 1[[z_Atomy/0-9/⏩\|⏩]]/[[z_Atomy/K/Kolo\|Kolo]] pro použití jednoho **Výbuchu rychlosti** [[z_Atomy/A/Zdarma\|Zdarma]]:
+⠀
+- **Vzdušný proud**. [[z_Atomy/0-9/🛡️\|🛡️]]: [[z_Atomy/0-9/⚔️\|⚔️]] proti Vám mine.
+- **Vír krytí**. [[z_Atomy/0-9/🛡️\|🛡️]]: snižte veškeré [[z_Atomy/0-9/⚔️\|⚔️]] proti Vám toto [[z_Atomy/K/Kolo\|Kolo]] o hodnotu Vašeho [[z_Atomy/B/Brnění\|Brnění]].
+- **Rychlý úder**. [[z_Atomy/0-9/⚔️\|⚔️]]: bez [[z_Atomy/0-9/👎\|👎]] z [[z_Atomy/U/Uspěchané útoky\|Uspěchaných útoků]].
+- **Krok větru**. [[z_Atomy/0-9/🥾\|🥾]]: ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
+
+</div></div>
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/ch/bojova-umeni/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -122,7 +123,7 @@ Můžete utratit 1[[z_Atomy/0-9/⏩\|⏩]]/[[z_Atomy/K/Kolo\|Kolo]] pro použit�
 ⠀
 - **Odhodlaná duše**. Nelze Vámi pohnout proti vaší vůli. Neúspěšný [[z_Atomy/0-9/❗\|❗]] můžete zvrátit v úspěch tím, že utržíte jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste přidali svou +[[z_Atomy/0-9/💪\|💪]] k výsledku [[z_Atomy/0-9/❗\|❗]]. Toto můžete opakovat kolikrát chcete.
 ⠀
-- **Rychlý úder**. Když použijete [[z_Atomy/R/REAKCE\|Reakci]] [[z_Atomy/0-9/🔰\|🔰]], můžete nejprve provést neozbrojený úder proti nepříteli zdarma.
+- **Rychlý úder**. Když použijete [[z_Atomy/R/REAKCE\|Reakci]] [[z_Atomy/0-9/🔰\|🔰]], můžete nejprve provést neozbrojený úder proti nepříteli [[z_Atomy/A/Zdarma\|Zdarma]].
 ⠀
 - **Přesměrování útoku**. Kdykoli vykryjete veškeré poškození z útoku na blízko proti vám (ať už jste se vyhnuli, nebo použili [[z_Atomy/0-9/🛡️\|🛡️]]), můžete si vyměnit místo s útočníkem a pak vybrat jiný cíl v dosahu, který je zasažen místo Vás.
 ⠀

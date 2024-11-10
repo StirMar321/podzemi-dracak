@@ -69,9 +69,9 @@ Pokud **Elektrický oblouk** mine cíl, zasáhne sesílatele. Získá stav [[z_
 
 ## Svižnost  
 **STUPEŇ 2**  
-**[[z_Atomy/R/REAKCE\|REAKCE]] ZDARMA**
+**[[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]**
 
-Když se hází [[z_Atomy/0-9/🏁\|🏁]], přičtěte k hodu svůj [[z_Atomy/0-9/🗝\|🗝]]. (*Lze seslat pouze jednou.*)
+Když se hází [[z_Atomy/0-9/🏁\|🏁]], přičtěte k hodu svůj [[z_Atomy/0-9/🗝\|🗝]]. (*Lze seslat pouze jednou za [[z_Atomy/S/Střetnutí\|Střetnutí]].*)
 
 **Posílení:** +1 [[z_Atomy/0-9/🏁\|🏁]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
 
@@ -172,7 +172,7 @@ Bytosti kolem cíle utrpí **10k8** bleskového poškození a provedou [[z_Atomy
 [[z_Atomy/O/Odpočinek\|Odpočinek]]: 1 týden
 
 Jste obklopeni mrakem s dosahem 4 metry. 
-Můžete [[z_Atomy/L/Létání\|Létat]] a 1/[[z_Atomy/K/Kolo\|Kolo]] provést [[z_Atomy/0-9/🥾\|🥾]] zdarma. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👎\|👎]].
+Můžete [[z_Atomy/L/Létání\|Létat]] a 1/[[z_Atomy/K/Kolo\|Kolo]] provést [[z_Atomy/0-9/🥾\|🥾]] [[z_Atomy/A/Zdarma\|Zdarma]]. [[z_Atomy/0-9/⚔️\|⚔️]] proti vám mají [[z_Atomy/0-9/👎\|👎]].
 1/[[z_Atomy/K/Kolo\|Kolo]]: 6 cílů v dosahu utrpí **10k8** bleskového poškození. **Nemůže** minout.
 
 Každé další [[z_Atomy/K/Kolo\|Kolo]]: +2m k dosahu, +2 cíle

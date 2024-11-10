@@ -11,7 +11,7 @@
 
 ## Kolej Sarkasmu
 ### LVL 3
-- **Verbální smeč**. Můžete seslat [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] jako reakci, kdykoli nepřítel mine útok. Navíc způsobí **dvojnásobné** poškození, když je seslán tímto způsobem.
+- **Verbální smeč**. Můžete [[z_Atomy/0-9/✨\|✨]] [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] jako reakci, kdykoli nepřítel mine útok. Navíc způsobí **dvojnásobné** poškození, když je seslán tímto způsobem.
 ### LVL 7
 - **Pobuřovač**. 1/[[z_Atomy/T/Tah\|Tah]]. Když je nepřítel poškozen Vaším Trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], může ho váš spojenec  [[z_Atomy/P/Provokován\|Provokovat]], až do konce [[z_Atomy/T/Tah\|Tahu]] nepřítele.
 ### LVL 11
@@ -35,7 +35,7 @@
 ### LVL 11
 - **Cítím to v kostech**. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] přidává cíli 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
 ### LVL 15
-- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] zdarma: Přidejte všem členům své družiny 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
+- **Chór šampionů**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]: Přidejte všem členům své družiny 1 [[z_Atomy/A/AKCE\|Akci]] navíc.
 
 </div></div>
 

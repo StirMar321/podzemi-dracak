@@ -10,7 +10,7 @@
 ⠀
 - **Záplava stínů**. Kdykoli by [[z_Atomy/S/Stínový sluha\|Stínový sluha]] udělil [[z_Atomy/0-9/💥\|💥]], objeví se u cíle další [[z_Atomy/S/Stínový sluha\|Stínový sluha]].
 ⠀
-- **Výbušná pomsta**. Kdykoli [[z_Atomy/S/Stínový sluha\|Stínový sluha]] zemře, můžete seslat [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] jako [[z_Atomy/R/REAKCE\|Reakci]] (i když byl [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] toto [[z_Atomy/K/Kolo\|Kolo]] seslán).
+- **Výbušná pomsta**. Kdykoli [[z_Atomy/S/Stínový sluha\|Stínový sluha]] zemře, můžete [[z_Atomy/0-9/✨\|✨]] [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] jako [[z_Atomy/R/REAKCE\|Reakci]] (i když byl [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] toto [[z_Atomy/K/Kolo\|Kolo]] seslán).
 ⠀
 - **Brnění stínů**. Snížíte veškeré poškození, které dostáváte o počet vašich [[z_Atomy/S/Stínový sluha\|Stínových přisluhovačů]] na bojišti.
 ⠀

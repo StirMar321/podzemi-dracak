@@ -3,7 +3,7 @@
 ---
 
 ## Básníkova Inspirace  
-**VOLNÁ [[z_Atomy/R/REAKCE\|REAKCE]]**
+**[[z_Atomy/R/REAKCE\|REAKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]**
 [[z_Atomy/0-9/🔔\|🔔]] = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/R/REAKCE\|REAKCE]]: spojenec hodí kostku
 

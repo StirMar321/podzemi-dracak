@@ -11,7 +11,7 @@
 
 ## Zaměření Stopař
 ### LVL 3
-- **Útočník ze zálohy**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete zdarma seslat schopnost [[z_Atomy/L/Lovcova marka\|Lovcova marka]]. Máte [[z_Atomy/0-9/👍\|👍]] pro Váš první [[z_Atomy/0-9/⚔️\|⚔️]] v každém [[z_Atomy/S/Střetnutí\|Střetnutí]].
+- **Útočník ze zálohy**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete [[z_Atomy/A/Zdarma\|Zdarma]] použít schopnost [[z_Atomy/L/Lovcova marka\|Lovcova marka]]. Máte [[z_Atomy/0-9/👍\|👍]] pro Váš první [[z_Atomy/0-9/⚔️\|⚔️]] v každém [[z_Atomy/S/Střetnutí\|Střetnutí]].
 - **Zkušený stopař**. Vaše [[z_Atomy/0-9/❓\|❓]] mají [[z_Atomy/0-9/👍\|👍]] při stopování.
 - **Zkušený navigátor**. Nemůžete se ztratit nemagickými prostředky.
 
@@ -36,7 +36,7 @@
 
 ## Zaměření Zálesák
 ### LVL 3
-- **Mám Navrh!** Když získáte [[z_Atomy/0-9/❇️\|❇️]], můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|🏃]] zdarma, ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
+- **Mám Navrh!** Když získáte [[z_Atomy/0-9/❇️\|❇️]], můžete se pohnout až o polovinu vaší [[z_Atomy/0-9/🏃\|🏃]] [[z_Atomy/A/Zdarma\|Zdarma]], ignorujte [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 - **Působivá Forma**. Máte **+5** max [[z_Atomy/0-9/💖\|💖]] a Vaše [[z_Atomy/0-9/🟥\|🟥]] se vylepší na **k10**.
 
 ### LVL 7
@@ -49,6 +49,6 @@
 ### LVL 15
 - **Nepřekonatelný Zálesák**
 	- Přidejte svou [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] ke svému [[z_Atomy/B/Brnění\|Brnění]]
-	- Když [[z_Atomy/0-9/⚔️\|⚔️]] [[z_Atomy/Z/Zbraně na dálku\|Zbraní na dálku]], můžete se nejprve zdarma pohnout o polovinu své [[z_Atomy/0-9/🏃\|🏃]].
+	- Když [[z_Atomy/0-9/⚔️\|⚔️]] [[z_Atomy/Z/Zbraně na dálku\|Zbraní na dálku]], můžete se nejprve [[z_Atomy/A/Zdarma\|Zdarma]] pohnout o polovinu své [[z_Atomy/0-9/🏃\|🏃]].
 
 </div></div>

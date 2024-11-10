@@ -4,7 +4,7 @@
 
 ## Vyznání života
 ### LVL 3
-- **Milosrdné léčení**. Když váš efekt obnoví [[z_Atomy/0-9/💖\|💖]]  bytosti, která [[z_Atomy/0-9/🩸\|🩸]], vyléčí ji za dvojnásobek. Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] může jednat 1/[[z_Atomy/K/Kolo\|Kolo]] zdarma, když Vy [[z_Atomy/0-9/🩸\|🩸]].
+- **Milosrdné léčení**. Když váš efekt obnoví [[z_Atomy/0-9/💖\|💖]]  bytosti, která [[z_Atomy/0-9/🩸\|🩸]], vyléčí ji za dvojnásobek. Váš [[z_Atomy/D/Duchovní strážce\|Duchovní strážce]] může *jednat* 1/[[z_Atomy/K/Kolo\|Kolo]] [[z_Atomy/A/Zdarma\|Zdarma]], když Vy [[z_Atomy/0-9/🩸\|🩸]].
 - **Svět je krásný**. Neškodné a krásné bytosti, jako motýli a kolibříci, jsou k Vám přitahováni a často Vás následují. Květiny kvetou ve vaší přítomnosti.
 
 ### LVL 7

@@ -24,7 +24,7 @@
 ⠀
 - **Ohnivý šíp**. 1[[z_Atomy/0-9/❇️\|❇️]], 1 [[z_Atomy/A/AKCE\|AKCE]]: Poloviční [[z_Atomy/0-9/🏹\|🏹]]. Zaútočte. Přidejte **+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]k8** ohnivého poškození.
 ⠀
-- **Ostré smysly**. 1[[z_Atomy/0-9/❇️\|❇️]]: Proveďte [[z_Atomy/0-9/🔍\|🔍]] s [[z_Atomy/0-9/👍\|👍]] zdarma.
+- **Ostré smysly**. 1[[z_Atomy/0-9/❇️\|❇️]]: Proveďte [[z_Atomy/0-9/🔍\|🔍]] s [[z_Atomy/0-9/👍\|👍]] [[z_Atomy/A/Zdarma\|Zdarma]].
 ⠀
 - **Past s okem**. 1[[z_Atomy/0-9/❇️\|❇️]], 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. [[z_Atomy/R/REAKCE\|REAKCE]]: když se nepřítel pohne do těsné blízkosti Vás nebo spojence do 6 metrů. Odstrčte ho o 1 metr zpět a bude [[z_Atomy/S/Spoután\|Spoután]], dokud se nevysvobodí **([[z_Atomy/0-9/📶\|📶]]10+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])**.
 ⠀

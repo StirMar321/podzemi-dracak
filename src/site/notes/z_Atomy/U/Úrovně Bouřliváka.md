@@ -18,7 +18,7 @@
 Můžete se přeměnit v neškodnou suchozemskou bytost. *(např. kráva, veverka, myš atd.)*
 Když jste přeměněni, rozumíte zvířecí řeči.
 
-Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[z_Atomy/0-9/✨\|✨]] Kouzlo nebo ji sami zdarma ve svém [[z_Atomy/T/Tah\|Tahu]] nezrušíte.
+Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[z_Atomy/0-9/✨\|✨]] Kouzlo nebo ji sami [[z_Atomy/A/Zdarma\|Zdarma]] ve svém [[z_Atomy/T/Tah\|Tahu]] nezrušíte.
 
 </div></div>
 
@@ -64,7 +64,7 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[
 ## LVL 13
 - **Bouřerozený (2)**. Získáte následující schopnosti:
 	- Místo hodu kostkami můžete způsobit maximální poškození kouzel domény [[4 Kouzla/d_Vítr\|Vítr]] za 1[[z_Atomy/0-9/🐾\|🐾]] (nepočítá se jako [[z_Atomy/0-9/💥\|💥]]).
-	- Když ukončíte [[z_Atomy/D/Divotvar\|Divotvar]], [[z_Atomy/0-9/✨\|✨]] Trik zdarma.
+	- Když ukončíte [[z_Atomy/D/Divotvar\|Divotvar]], [[z_Atomy/0-9/✨\|✨]] Trik [[z_Atomy/A/Zdarma\|Zdarma]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 14
 - **Kouzla 7. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **7. stupně** a **posilovat** kouzla na 7. stupeň.
@@ -84,5 +84,5 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[
 ## LVL 20
 - **Arcidruid**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o +1.
-	- 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když vstupujete nebo opouštíte [[z_Atomy/D/Divotvar\|Divotvar]], můžete zdarma a za 0 [[z_Atomy/0-9/🌀\|🌀]] seslat kouzlo 4. stupně.
+	- 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Když vstupujete nebo opouštíte [[z_Atomy/D/Divotvar\|Divotvar]], můžete [[z_Atomy/0-9/✨\|✨]] [[z_Atomy/A/Zdarma\|Zdarma]] a za 0 [[z_Atomy/0-9/🌀\|🌀]] kouzlo 4. stupně.
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.

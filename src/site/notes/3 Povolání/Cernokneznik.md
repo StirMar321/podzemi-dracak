@@ -188,7 +188,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 ⠀
 - **Záplava stínů**. Kdykoli by [[z_Atomy/S/Stínový sluha\|Stínový sluha]] udělil [[z_Atomy/0-9/💥\|💥]], objeví se u cíle další [[z_Atomy/S/Stínový sluha\|Stínový sluha]].
 ⠀
-- **Výbušná pomsta**. Kdykoli [[z_Atomy/S/Stínový sluha\|Stínový sluha]] zemře, můžete seslat [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] jako [[z_Atomy/R/REAKCE\|Reakci]] (i když byl [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] toto [[z_Atomy/K/Kolo\|Kolo]] seslán).
+- **Výbušná pomsta**. Kdykoli [[z_Atomy/S/Stínový sluha\|Stínový sluha]] zemře, můžete [[z_Atomy/0-9/✨\|✨]] [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] jako [[z_Atomy/R/REAKCE\|Reakci]] (i když byl [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] toto [[z_Atomy/K/Kolo\|Kolo]] seslán).
 ⠀
 - **Brnění stínů**. Snížíte veškeré poškození, které dostáváte o počet vašich [[z_Atomy/S/Stínový sluha\|Stínových přisluhovačů]] na bojišti.
 ⠀
@@ -226,7 +226,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Dračí pokrevní přísaha**. Váš Patron vám propůjčí znalost kouzel domény [[4 Kouzla/a_Oheň\|Ohně]]. Vaši [[z_Atomy/S/Stínový sluha\|Stínoví sluhové]] se promění v plamenný stín červeného dráčata. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] a [[z_Atomy/S/Stínový sluha\|Stínový sluha]] svými [[z_Atomy/0-9/⚔️\|⚔️]] můžou způsobit **ohnivé** nebo **nekrotické poškození** a způsobují cíli stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], kdykoli by udělili [[z_Atomy/0-9/💥\|💥]].
 
 ### LVL 7
-- **VŠICHNI shoříme!** Můžete seslat kouzlo [[z_Atomy/O/Ohnivá koule\|Ohnivá koule]] za 0[[z_Atomy/0-9/🌀\|🌀]], ale zahrnete do poškození také sebe. Máte [[z_Atomy/0-9/👍\|👍]] pro[[z_Atomy/0-9/❗\|❗]]. Naučte se 1 [[4 Kouzla/g_Tríčky\|Tríček]] z domény Ohně.
+- **VŠICHNI shoříme!** Můžete [[z_Atomy/0-9/✨\|✨]] kouzlo [[z_Atomy/O/Ohnivá koule\|Ohnivá koule]] za 0[[z_Atomy/0-9/🌀\|🌀]], ale zahrnete do poškození také sebe. Máte [[z_Atomy/0-9/👍\|👍]] pro[[z_Atomy/0-9/❗\|❗]]. Naučte se 1 [[4 Kouzla/g_Tríčky\|Tríček]] z domény Ohně.
 
 ### LVL 11
 - **Srdce spalujícího žáru**. Obnovte si 1[[z_Atomy/0-9/🌀\|🌀]], když se hází [[z_Atomy/0-9/🏁\|🏁]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
@@ -247,13 +247,13 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Mistr nočního mrazu**. Váš Patron vám uděluje znalost kouzel domény [[4 Kouzla/b_Led\|Ledu]]. Získáte schopnost dýchat pod vodou. Vaši [[z_Atomy/S/Stínový sluha\|Stínoví sluhové]] se stanou Stíny Nočního mrazu. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] a [[z_Atomy/S/Stínový sluha\|Stínový sluha]] svými [[z_Atomy/0-9/⚔️\|⚔️]] můžou způsobit **ledové** nebo **nekrotické poškození**, a kdykoli by udělili [[z_Atomy/0-9/💥\|💥]], získáte ([[z_Atomy/0-9/📖\|📖]]+[[z_Atomy/L/LVL\|LVL]]) [[z_Atomy/0-9/💗\|💗]].
 
 ### LVL 7
-- **Stínomráz**. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] navíc [[z_Atomy/Z/Zpomalen\|Zpomalí]] cíl a jeho pohyb je považován za pohyb skrz [[z_Atomy/O/Obtížný terén\|Obtížný terén]] během jejich příštího [[z_Atomy/T/Tah\|Tahu]]. Můžete seslat kouzlo [[z_Atomy/M/Mrazivá nova\|Mrazivá nova]] za 0[[z_Atomy/0-9/🌀\|🌀]], ale musíte zaplatit 10 [[z_Atomy/0-9/💗\|💗]]. Naučte se 1 [[4 Kouzla/g_Tríčky\|Tríček]] z domény Ledu.
+- **Stínomráz**. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] navíc [[z_Atomy/Z/Zpomalen\|Zpomalí]] cíl a jeho pohyb je považován za pohyb skrz [[z_Atomy/O/Obtížný terén\|Obtížný terén]] během jejich příštího [[z_Atomy/T/Tah\|Tahu]]. Můžete [[z_Atomy/0-9/✨\|✨]] kouzlo [[z_Atomy/M/Mrazivá nova\|Mrazivá nova]] za 0[[z_Atomy/0-9/🌀\|🌀]], ale musíte zaplatit 10 [[z_Atomy/0-9/💗\|💗]]. Naučte se 1 [[4 Kouzla/g_Tríčky\|Tríček]] z domény Ledu.
 
 ### LVL 11
 - **Ledová odolnost**. [[z_Atomy/R/REAKCE\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]], 1/[[z_Atomy/0-9/🔋\|🔋]]. Získejte (10x[[z_Atomy/L/LVL\|LVL]]) [[z_Atomy/0-9/💗\|💗]] a ukončete VŠECHNY negativní [[z_Atomy/S/Stavy\|Stavy]], které máte. Na začátku Vašeho příštího tahu jsou všechny [[z_Atomy/0-9/💗\|💗]] ztraceny.
 
 ### LVL 15
-- **Volání Ledokněžníka**. Zaplaťte polovinu svých max [[z_Atomy/0-9/💖\|💖]] (zaokrouhleno dolů, nemůžete zaplatit [[z_Atomy/0-9/💖\|💖]], které nemáte), abyste seslali JAKÉKOLI kouzlo domény [[4 Kouzla/b_Led\|Ledu]] za 0[[z_Atomy/0-9/🌀\|🌀]].
+- **Volání Ledokněžníka**. Zaplaťte polovinu svých max [[z_Atomy/0-9/💖\|💖]] (zaokrouhleno dolů, nemůžete zaplatit [[z_Atomy/0-9/💖\|💖]], které nemáte), abyste [[z_Atomy/0-9/✨\|✨]] JAKÉKOLI kouzlo domény [[4 Kouzla/b_Led\|Ledu]] za 0[[z_Atomy/0-9/🌀\|🌀]].
 
 </div></div>
 

@@ -7,6 +7,6 @@
 **1 [[z_Atomy/A/AKCE\|AKCE]]**  
 [[z_Atomy/R/REAKCE\|REAKCE]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
-[[z_Atomy/0-9/🛡️\|🛡️]] zdarma. Odražte zářivé poškození zpět na útočníka rovné bráněnému poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].  
+[[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/A/Zdarma\|Zdarma]]. Odražte zářivé poškození zpět na útočníka rovné bráněnému poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].  
 
 **Posílení:** +5 [[z_Atomy/B/Brnění\|Brnění]] za každou další [[z_Atomy/0-9/🌀\|🌀]].

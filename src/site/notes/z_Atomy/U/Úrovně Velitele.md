@@ -16,9 +16,9 @@
 **Max Nabití ([[z_Atomy/0-9/🔀\|🔀]]) = [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🔋\|🔋]] (min. 1)**
 **1/[[z_Atomy/K/Kolo\|Kolo]] ve svém [[z_Atomy/T/Tah\|Tahu]]**
 [[z_Atomy/0-9/🫱\|🫱]] 6 metrů
-**[[z_Atomy/A/AKCE\|AKCE]] Zdarma**
+**[[z_Atomy/A/AKCE\|AKCE]] [[z_Atomy/A/Zdarma\|Zdarma]]**
 ⠀
-**Vy a spojenec** v dosahu můžete okamžitě provést [[z_Atomy/0-9/⚔️\|⚔️]] zbraní nebo seslat **Trik** zdarma.
+**Vy a spojenec** v dosahu můžete okamžitě provést [[z_Atomy/0-9/⚔️\|⚔️]] zbraní nebo [[z_Atomy/0-9/✨\|✨]] **Trik** [[z_Atomy/A/Zdarma\|Zdarma]].
 
 </div></div>
 
@@ -34,7 +34,7 @@
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/🎯\|🎯]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 6
 - **Připravený na bojiště (2).** Vyberte **další** [[z_Atomy/V/Válečné Taktiky\|Válečnou Taktiku]].
-- **Mistroství zbraní**. 2/[[z_Atomy/K/Kolo\|Kolo]] můžete vytasit jinou zbraň zdarma. Vyberte si **jedno** [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]].
+- **Mistroství zbraní**. Vyberte si **jedno** [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]].
 ## LVL 7
 - **Strategie Velitele**. Získáte schopnost **podtřídy** [[z_Atomy/S/Strategie Velitele\|Strategie Velitele]].
 ## LVL 8

@@ -19,7 +19,7 @@ První [[z_Atomy/0-9/💥\|💥]], který udělíte v každém [[z_Atomy/T/Tah\|
 
 ## LVL 2
 - **Podvodník**. Jste všestranný podvodník. Získáte následující schopnosti:
-	- 1/[[z_Atomy/K/Kolo\|Kolo]] můžete použít zdarma [[z_Atomy/0-9/🥾\|🥾]] nebo se pokusit o [[z_Atomy/S/Skrývání\|Skrývání]].
+	- 1/[[z_Atomy/K/Kolo\|Kolo]] můžete se [[z_Atomy/A/Zdarma\|Zdarma]] [[z_Atomy/0-9/🥾\|🥾]] nebo se pokusit o [[z_Atomy/S/Skrývání\|Skrývání]].
 	- Pokud hodíte méně než 10 na [[z_Atomy/0-9/🏁\|🏁]], můžete hod změnit na 10.
 	- 1/den můžete změnit svůj hod pro libovolnou [[z_Atomy/0-9/❓\|❓]] na (10+[[z_Atomy/0-9/📖\|📖]]). 
 	- Můžete mít [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] při hraní jakýchkoli her, soutěží nebo sázení. Pokud Vás ale chytí...

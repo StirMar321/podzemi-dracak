@@ -4,7 +4,7 @@
 
 ## Kolej Sarkasmu
 ### LVL 3
-- **Verbální smeč**. Můžete seslat [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] jako reakci, kdykoli nepřítel mine útok. Navíc způsobí **dvojnásobné** poškození, když je seslán tímto způsobem.
+- **Verbální smeč**. Můžete [[z_Atomy/0-9/✨\|✨]] [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] jako reakci, kdykoli nepřítel mine útok. Navíc způsobí **dvojnásobné** poškození, když je seslán tímto způsobem.
 ### LVL 7
 - **Pobuřovač**. 1/[[z_Atomy/T/Tah\|Tah]]. Když je nepřítel poškozen Vaším Trikem [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], může ho váš spojenec  [[z_Atomy/P/Provokován\|Provokovat]], až do konce [[z_Atomy/T/Tah\|Tahu]] nepřítele.
 ### LVL 11

@@ -4,7 +4,7 @@
 
 ## Štíty
 > [!NOTE]+ **Štíty**
-> Kromě zvýšení Vašeho **Brnění** mohou štíty zdarma snížit poškození z jednoho útoku za [[z_Atomy/K/Kolo\|Kolo]] o hodnotu **Brnění**, kterou poskytují.
+> Kromě zvýšení Vašeho **Brnění** mohou štíty [[z_Atomy/A/Zdarma\|Zdarma]] snížit poškození z jednoho útoku za [[z_Atomy/K/Kolo\|Kolo]] o hodnotu **Brnění**, kterou poskytují.
 
 | **Štíty**    | **[[z_Atomy/B/Brnění\|Brnění]]** | Vlastnosti                   | **Cena**    |
 | ------------ | -------------- | ---------------------------- | ----------- |

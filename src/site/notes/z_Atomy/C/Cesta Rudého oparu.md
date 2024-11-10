@@ -11,4 +11,4 @@
 ### LVL 11
 - **Příležitostná zběsilost**. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], Váš [[z_Atomy/0-9/🛑\|🛑]] nemá [[z_Atomy/0-9/👎\|👎]] a můžete provést [[z_Atomy/0-9/🛑\|🛑]], když se nepřítel **vstoupí** do [[z_Atomy/0-9/🫱\|🫱]] Vaší zbraně.
 ### LVL 15
-- **Zběsilost**. 1/[[z_Atomy/K/Kolo\|Kolo]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], získáte +2 metry [[z_Atomy/0-9/🏃\|🏃]] a můžete zdarma [[z_Atomy/0-9/🥾\|🥾]].
+- **Zběsilost**. 1/[[z_Atomy/K/Kolo\|Kolo]]. Když [[z_Atomy/Z/Zuřivost\|Zuříte]], získáte +2 metry [[z_Atomy/0-9/🏃\|🏃]] a můžete [[z_Atomy/A/Zdarma\|Zdarma]] [[z_Atomy/0-9/🥾\|🥾]].

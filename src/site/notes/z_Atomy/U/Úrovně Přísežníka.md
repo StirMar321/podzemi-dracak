@@ -42,7 +42,7 @@ Dotkněte se bytosti a obnovte jí [[z_Atomy/0-9/💖\|💖]] rovné utraceným 
 - **Posvátné Dekrety**. Naučte se **jeden** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
 ## LVL 4
 - **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a **posilovat** kouzla na 2. stupeň
-- **Můj život za mé přátele**. Můžete provést reakci [[z_Atomy/0-9/🔰\|🔰]] zdarma.
+- **Můj život za mé přátele**. Můžete provést reakci [[z_Atomy/0-9/🔰\|🔰]] [[z_Atomy/A/Zdarma\|Zdarma]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
 - **Kostky soudu (2)**. Když na Vás [[z_Atomy/0-9/⚔️\|⚔️]], získáte 2 [[z_Atomy/0-9/♎\|♎]].
@@ -90,5 +90,5 @@ Dotkněte se bytosti a obnovte jí [[z_Atomy/0-9/💖\|💖]] rovné utraceným 
 ## LVL 20
 - **Slavný Paragon**. 
 	- Zvyšte dvě své [[z_Atomy/S/Statistiky\|Statistiky]] o **+1**.
-	- Kdykoli provedete [[z_Atomy/0-9/🔰\|🔰]], můžete provést [[z_Atomy/0-9/🛡️\|🛡️]] zdarma.
+	- Kdykoli provedete [[z_Atomy/0-9/🔰\|🔰]], můžete provést [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/A/Zdarma\|Zdarma]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.

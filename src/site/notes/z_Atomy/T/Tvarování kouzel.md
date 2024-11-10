@@ -17,7 +17,7 @@
 ⠀
 - **Elementární transmutace**. (+1 [[z_Atomy/0-9/🌀\|🌀]]) Změníte typ poškození kouzla.
 ⠀
-- **Ozvěna**. (2x [[z_Atomy/0-9/🌀\|🌀]]) Když sesíláte kouzlo cílené na jeden cíl, můžete seslat kopii tohoto kouzla na druhý cíl zdarma.
+- **Ozvěna**. (2x [[z_Atomy/0-9/🌀\|🌀]]) Když sesíláte kouzlo cílené na jeden cíl, můžete [[z_Atomy/0-9/✨\|✨]] kopii tohoto kouzla na druhý cíl [[z_Atomy/A/Zdarma\|Zdarma]].
 ⠀
 - **Metodické sesílání**. (+1 [[z_Atomy/A/AKCE\|AKCE]]) Snižte cenu kouzla o -2 [[z_Atomy/0-9/🌀\|🌀]]. Kouzlo může stát minimálně 1 [[z_Atomy/0-9/🌀\|🌀]].
 ⠀

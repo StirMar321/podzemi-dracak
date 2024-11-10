@@ -3,7 +3,7 @@
 ---
 
 # Mistrovství zbraní
-2/[[z_Atomy/K/Kolo\|Kolo]] můžete tasit jinou zbraň zdarma. 
+2/[[z_Atomy/K/Kolo\|Kolo]]: Můžete tasit jinou zbraň [[z_Atomy/A/Zdarma\|Zdarma]]. 
 ⠀
 - **Drtící** Mistr. Když na [[z_Atomy/P/Primární kostka\|Primární kostce]] padne 7+ pro **drtivou** zbraň, můžete ignorovat [[z_Atomy/0-9/⛊\|⛊]].
 ⠀

@@ -66,7 +66,7 @@ Hrdinové mohou používat jakékoliv [[2 Důležité/h_Vybavení\|Vybavení]], 
 
 
 >[!NOTE]- **Výměna zbraní v boji**
->Hrdina může **jednou** za [[z_Atomy/K/Kolo\|Kolo]] **zdarma** schovat zbraň, se kterou je [[z_Atomy/Z/Zdatnost\|Zdatný]], a tasit jinou.
+>Hrdina může **jednou** za [[z_Atomy/K/Kolo\|Kolo]] [[z_Atomy/A/Zdarma\|Zdarma]] schovat zbraň, se kterou je [[z_Atomy/Z/Zdatnost\|Zdatný]], a tasit jinou.
 
 
 </div></div>
@@ -85,7 +85,9 @@ Hrdinové mohou používat jakékoliv [[2 Důležité/h_Vybavení\|Vybavení]], 
 
 
 ## 🏹 = Dostřel
-Pro [[z_Atomy/0-9/⚔️\|⚔️]] **na dálku** a vybrané schopnosti a kouzla. Pokud se vedle Vás nachází nepřítel, Vaše útoky na dálku mají [[z_Atomy/0-9/👎\|👎]].
+Pro [[z_Atomy/0-9/⚔️\|⚔️]]/[[z_Atomy/0-9/✨\|✨]] **na dálku** a vybrané schopnosti. 
+Pokud se vedle Vás nachází nepřítel, Vaše [[z_Atomy/0-9/⚔️\|⚔️]]/[[z_Atomy/0-9/✨\|✨]] **na dálku** mají [[z_Atomy/0-9/👎\|👎]].
+Pokud cílíte na nepřítele mimo Váš **dostřel**, přidejte 1[[z_Atomy/0-9/👎\|👎]] za každé 2 metry.
 
 </div></div>
 
@@ -325,7 +327,7 @@ Představuje schopnost Vašeho hrdiny vyhnout se nebo blokovat poškození. **Br
 
 ## Štíty
 > [!NOTE]+ **Štíty**
-> Kromě zvýšení Vašeho **Brnění** mohou štíty zdarma snížit poškození z jednoho útoku za [[z_Atomy/K/Kolo\|Kolo]] o hodnotu **Brnění**, kterou poskytují.
+> Kromě zvýšení Vašeho **Brnění** mohou štíty [[z_Atomy/A/Zdarma\|Zdarma]] snížit poškození z jednoho útoku za [[z_Atomy/K/Kolo\|Kolo]] o hodnotu **Brnění**, kterou poskytují.
 
 | **Štíty**    | **[[z_Atomy/B/Brnění\|Brnění]]** | Vlastnosti                   | **Cena**    |
 | ------------ | -------------- | ---------------------------- | ----------- |

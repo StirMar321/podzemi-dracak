@@ -42,8 +42,8 @@ Vyvolejte magickou **Kostěnou kosu**: zbraň na blízko ([[z_Atomy/0-9/🫱\|�
 - **Drancování**. Kdykoli s **Kostěnou kosou** způsobíte [[z_Atomy/0-9/💥\|💥]] nebo zabijete, přivoláte [[z_Atomy/S/Stínový sluha\|Stínového sluhu]].
 
 ### LVL 11
-- **Má krev, má síla**. Můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste mohli seslat kouzlo.
+- **Má krev, má síla**. Můžete utrpět 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste mohli [[z_Atomy/0-9/✨\|✨]] kouzlo.
 - **Nadzemská moc**. Máte ([[z_Atomy/0-9/👍\|👍]]) na [[z_Atomy/K/Koncentrace\|Koncentrace]] (místo ([[z_Atomy/0-9/👎\|👎]])), pokud máte alespoň 1 [[z_Atomy/S/Stínový sluha\|Stínového sluhu]].
 
 ### LVL 15
-- **Teď jsem patron já!** Přivolejte 2 [[z_Atomy/S/Stínový sluha\|Stínové sluhy]] zdarma, když se hází [[z_Atomy/0-9/🏁\|🏁]].
+- **Teď jsem patron já!** Přivolejte 2 [[z_Atomy/S/Stínový sluha\|Stínové sluhy]] [[z_Atomy/A/Zdarma\|Zdarma]], když se hází [[z_Atomy/0-9/🏁\|🏁]].
