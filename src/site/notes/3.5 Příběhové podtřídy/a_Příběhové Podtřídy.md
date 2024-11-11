@@ -9,7 +9,7 @@ Tyto okamžiky mohou vyžadovat stejně dramatický posun v [[2 Důležité/e1_P
 
 Tyto podtřídy mohou být mechanicky náročnější a lépe se hodí pro zkušenější hráče, ale nejsou silnější než ostatní podtřídy, pouze odlišné.
 
-[[3.5 Příběhové podtřídy/Křivopřísežník\|Křivopřísežník]]
-[[3.5 Příběhové podtřídy/Magické ostří\|Magické ostří]]
-[[3.5 Příběhové podtřídy/Pán zvířat\|Pán zvířat]]
-[[3.5 Příběhové podtřídy/Plenitel\|Plenitel]]
+[[3.5 Příběhové podtřídy/Podtřídy/Křivopřísežník\|Křivopřísežník]]
+[[3.5 Příběhové podtřídy/Podtřídy/Magické ostří\|Magické ostří]]
+[[3.5 Příběhové podtřídy/Podtřídy/Pán zvířat\|Pán zvířat]]
+[[3.5 Příběhové podtřídy/Podtřídy/Plenitel\|Plenitel]]

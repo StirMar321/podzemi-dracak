@@ -3,7 +3,7 @@
 ---
 
 # Tvorba Hrdiny
-Vezměte si [Kartu Hrdiny](https://drive.google.com/file/d/14pi0J4nvj7RvSwbVuuvb9p-qMiI0nJK-/view?usp=sharing) a následujte tento návod odshora dolů.
+Vezměte si [Kartu Hrdiny](https://drive.google.com/file/d/1o2nPmScr9st6ECUxwZxcMuAX4DsYSgRV/view?usp=sharing) a následujte tento návod odshora dolů.
 Vždy když splníte krok, můžete ho **"složit"**.
 
 >[!NOTE]+ **Vyberte si [[2 Důležité/e1_Povolání\|Povolání]]?**
@@ -37,7 +37,7 @@ Vždy když splníte krok, můžete ho **"složit"**.
 >Zaznamenejte si jaké [[z_Atomy/J/Jazyky\|Jazyky]] znáte.
 
 >[!NOTE]+ **Peníze**
->Do začátku Vašeho dobrodružství máte **20** [[z_Atomy/0-9/🟡\|🟡]] (**2k4**x10).
+>Zaznamenejte si své [[z_Atomy/0-9/💰\|💰]]. Do začátku Vašeho dobrodružství máte **2k4**x10 [[z_Atomy/0-9/🟡\|🟡]] (**20**).
 
 >[!NOTE]+ **Vybavení**
 >**Vybavení**: Můžete použít [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]] vašeho [[2 Důležité/e1_Povolání\|Povolání]]. 

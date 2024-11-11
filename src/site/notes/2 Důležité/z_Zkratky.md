@@ -625,7 +625,7 @@ Hrdina **Zemře** (💀), když nashromáždí příliš [[z_Atomy/0-9/❤️‍
 
 
 # 💰 = Peníze 
-Hrdinové začínají na 1. [[z_Atomy/L/LVL\|LVL]] s vybavením uvedeným pro jejich [[2 Důležité/e1_Povolání\|Povolání]] a [[2 Důležité/e3_Původ\|Původu]] **NEBO** mohou hodit 2k4×10 [[z_Atomy/0-9/🟡\|🟡]] na nákup počátečního vybavení. Pokud začínají na vyšším [[z_Atomy/L/LVL\|LVL]], tuto částku vynásobí svým [[z_Atomy/L/LVL\|LVL]].
+Hrdinové začínají na 1. [[z_Atomy/L/LVL\|LVL]] s vybavením uvedeným pro jejich [[2 Důležité/e1_Povolání\|Povolání]] a [[2 Důležité/e3_Původ\|Původu]] **NEBO** si můžete hodit **2k4**×10 [[z_Atomy/0-9/🟡\|🟡]] na nákup [[2 Důležité/h_Vybavení\|Vybavení]]. Pokud začínáte na vyšším [[z_Atomy/L/LVL\|LVL]], tuto částku vynásobte svým [[z_Atomy/L/LVL\|LVL]].
 
 > [!NOTE]- **Jak fungují peníze?**
 > Měna se skládá z **měděných** ([[z_Atomy/0-9/🟠\|🟠]]), **stříbrných** ([[z_Atomy/0-9/⚪\|⚪]]) a **zlatých** ([[z_Atomy/0-9/🟡\|🟡]]) mincí. 
