@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/cernokneznik/","title":"Černokněžník"}
 ---
 
-![Cernokneznik.png](/img/user/z_img/Cernokneznik.png)
+![Cernokneznik.png|500](/img/user/z_img/Cernokneznik.png)
 # **Vůbec nejsem zlý... Proč se vůbec ptáš?** 
 Velká moc někdy pochází z... hrozných míst. Ale jaká je alternativa, strávit celý život... STUDOVÁNÍM?! To je teprve hrozné. Kdo by chtěl promarnit svůj život čtením knih a učením se magie těžkou cestou - když máte dostatek charismatu, abyste požádali prastarou hrůzu, která která je za hranicemi chápání, aby to udělala za Vás? Pokud se rozdává moc, kdo jsem já, abych byl vybíravý? Bylo by nevděčné odmítnout.
 

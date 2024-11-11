@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/mag/","title":"Mág"}
 ---
 
-![Mag.png](/img/user/z_img/Mag.png)
+![Mag.png|500](/img/user/z_img/Mag.png)
 # **Elementární Tapiserie je všudypřítomná. Najděte ji, zkoumejte ji a ovládněte ji!**
 Mág získává svou první nit Tapiserie při narození; avšak skutečné mistrovství uniká tomu, kdo nerozvíjí tento vrozený dar. Mág pilně rozvíjí své vrozené dary skrze studium a cvičení. S knihami a svitky jako společníky a s moudrými radami zkušených mentorů či celých škol! To je cesta těch, kdo by chtěli vládnout nad elementy.
 

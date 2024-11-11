@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/lovec/"}
 ---
 
-![Lovec.png](/img/user/z_img/Lovec.png)
+![Lovec.png|500](/img/user/z_img/Lovec.png)
 # **Respektuj les a jeho děti a obdaří vás mnoha dary**
 Dlouho před tím, než byly položeny základní kameny velkých království, existovala *Divočina*. My lovci jsme nazývali háje a pole domovem, stejně jako jelen nebo kanec. Trénovali jsme svojí mysl a těla, stejně tak s luky a šípy.
 

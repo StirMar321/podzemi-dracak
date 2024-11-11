@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/pastyr/","title":"Pastýř"}
 ---
 
-![Pastyr.png](/img/user/z_img/Pastyr.png)
+![Pastyr.png|500](/img/user/z_img/Pastyr.png)
 # **Nechť všichni kdo jsou trýzněni přijdou. Narovnám tvé kosti a vyléčím tvé rány.**
 Rozdávejte dary života a smrti. Ani jeden není darován nebo brán, jsou pouze propůjčeny na cestě mezi tímto světem a tím na druhé straně. Avšak často se putující duše ocitnou bez vedení. A tak na Pastýře spadá posvátná povinnost. Být majákem světla pro ty, kteří jsou uvězněni v temnotě, a temnotou pro ty, kteří se ve své pýše považují za světlo.
 

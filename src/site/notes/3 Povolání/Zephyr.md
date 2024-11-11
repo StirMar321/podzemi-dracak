@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/zephyr/"}
 ---
 
-![Zephyr.png](/img/user/z_img/Zephyr.png)
+![Zephyr.png|500](/img/user/z_img/Zephyr.png)
 # **Ocel rodí lenost. Cesta pěstí rodí disciplínu.**
 Váleční mniši, zruční a disciplinovaní, zasvětili své životy bojovému umění a disciplíně mysli a těla. Často začínají trénovat v klášterech v divočině téměř od okamžiku, kdy se naučí chodit, a neúnavně praktikují posvátná bojová umění svého řádu.
 Úplně ovládli své tělo i mysl a dokážou svou disciplínu přeměnit na nadpřirozenou hbitost, přesnost a především rychlost.
