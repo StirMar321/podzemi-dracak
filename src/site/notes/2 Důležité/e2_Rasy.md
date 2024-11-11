@@ -13,8 +13,8 @@
 
 ## Lidé
 
-| ![Člověk.png](/img/user/z_img/%C4%8Clov%C4%9Bk.png) | Nacházejí se na všech kontinentech a prostředích. **Lidská** zvědavost a ambice je ženou do každého koutu světa, což z nich dělá všudypřítomnou a univerzální rasu.<br><br>**Přizpůsobivost**: **+1** pro všechny [[z_Atomy/0-9/⚙️\|⚙️]]. **+1** [[z_Atomy/0-9/🏁\|🏁]].<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Člověk-1.png](/img/user/z_img/%C4%8Clov%C4%9Bk-1.png) | Nacházejí se na všech kontinentech a prostředích. **Lidská** zvědavost a ambice je ženou do každého koutu světa, což z nich dělá všudypřítomnou a univerzální rasu.<br><br>**Přizpůsobivost**: **+1** pro všechny [[z_Atomy/0-9/⚙️\|⚙️]]. **+1** [[z_Atomy/0-9/🏁\|🏁]].<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 </div></div>
@@ -27,8 +27,8 @@
 
 ## Elf
 
-| ![elf.png](/img/user/z_img/elf.png) | **Elfové** ztělesňují rychlost a půvab, jejich vysoké štíhlé postavy mají vrozenou rychlost, půvab a bystrost. Jsou silní jak v diplomacii, tak v boji. **Elfové** jsou rychlí a často zabrání nejhoršímu tím, že jednají s předstihem.<br><br>**Půvabná rychlost**: ([[z_Atomy/0-9/👍\|👍]]) pro [[z_Atomy/0-9/🏁\|🏁]]. +1 metr [[z_Atomy/0-9/🏃\|🏃]] <br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Elfština (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Elf.png](/img/user/z_img/Elf.png) | **Elfové** ztělesňují rychlost a půvab, jejich vysoké štíhlé postavy mají vrozenou rychlost, půvab a bystrost. Jsou silní jak v diplomacii, tak v boji. **Elfové** jsou rychlí a často zabrání nejhoršímu tím, že jednají s předstihem.<br><br>**Půvabná rychlost**: [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/🏁\|🏁]]. +1 metr [[z_Atomy/0-9/🏃\|🏃]] <br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Elfština (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 </div></div>
@@ -41,7 +41,7 @@
 
 ## Trpaslík
 
-| ![trpaslik.png](/img/user/z_img/trpaslik.png) | **Trpaslík** v Trpasličtině znamená kámen. Jsou odolní, pevní, statní. Když jsou dohnáni k vyčerpání, vydrží odolávat. Místo rychlosti mají nadání pro fyzickou vitalitu a žaludek, který zvládne i ty nejhorší pochutiny, které svět nabízí.<br><br>**Statnost**: +2 max počet [[z_Atomy/0-9/🟥\|🟥]], +1 max počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], -1 metr [[z_Atomy/0-9/🏃\|🏃]].<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Trpasličtina (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
+| ![Trpaslík.png](/img/user/z_img/Trpasl%C3%ADk.png) | **Trpaslík** v Trpasličtině znamená kámen. Jsou odolní, pevní, statní. Když jsou dohnáni k vyčerpání, vydrží odolávat. Místo rychlosti mají nadání pro fyzickou vitalitu a žaludek, který zvládne i ty nejhorší pochutiny, které svět nabízí.<br><br>**Statnost**: +2 max počet [[z_Atomy/0-9/🟥\|🟥]], +1 max počet [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], -1 metr [[z_Atomy/0-9/🏃\|🏃]].<br>**[[z_Atomy/J/Jazyky\|Jazyky]]**: Trpasličtina (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)<br>**[[z_Atomy/V/Velikost\|Velikost]]**: Střední |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
