@@ -13,7 +13,7 @@ Pravidla jsou z velké části překlad **Nimble 5e** a pár mých úprav.
 >Martin
 
 Pro nedočkavce -> [[1 Začni ZDE/c_Tvorba Hrdiny\|Tvorba Hrdiny]] <-
-Zde je odkaz na **[Kartu hrdiny](https://docs.google.com/spreadsheets/d/11W7PySs31Y6oRy6VHrtDuCUBzXOrV9LvvMbDaOu21D0/edit?usp=sharing)** *(doporučuju vytisknout)*
+Zde je odkaz na **[Kartu hrdiny](https://drive.google.com/file/d/14pi0J4nvj7RvSwbVuuvb9p-qMiI0nJK-/view?usp=sharing)** *(doporučuju vytisknout)*
 
 Pokud nevíš kde začít -> [[1 Začni ZDE/b_Začněte zde\|Začněte ZDE]]
 # Pravidla

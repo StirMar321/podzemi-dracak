@@ -3,7 +3,7 @@
 ---
 
 # Tvorba Hrdiny
-Vezměte si [Kartu Hrdiny](https://docs.google.com/spreadsheets/d/11W7PySs31Y6oRy6VHrtDuCUBzXOrV9LvvMbDaOu21D0/edit?usp=sharing) a následujte tento návod odshora dolů.
+Vezměte si [Kartu Hrdiny](https://drive.google.com/file/d/14pi0J4nvj7RvSwbVuuvb9p-qMiI0nJK-/view?usp=sharing) a následujte tento návod odshora dolů.
 Vždy když splníte krok, můžete ho **"složit"**.
 
 >[!NOTE]+ **Vyberte si [[2 Důležité/e1_Povolání\|Povolání]]?**
@@ -48,7 +48,7 @@ Vždy když splníte krok, můžete ho **"složit"**.
 >  Zaznamenejte si, kolik máte [[z_Atomy/I/Inventární Sloty\|Inventárních slotů]].
 
 >[!NOTE]+ **Zdroje**
->Zaznamenejte si speciální zdroje Vašeho [[2 Důležité/e1_Povolání\|Povolání]]. ([[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/0-9/♈\|♈]], [[z_Atomy/0-9/♎\|♎]], atd.)
+>Zaznamenejte si speciální zdroje Vašeho [[2 Důležité/e1_Povolání\|Povolání]]. ([[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/0-9/♈\|♈]], [[z_Atomy/0-9/♎\|♎]], různá nabití schopností atd.)
 
 >[!NOTE]+ **Schopnosti**
 >Zaznamenejte si speciální schopnosti Vašeho [[2 Důležité/e1_Povolání\|Povolání]] a [[z_Atomy/R/Rasy a Původ\|Rasy a původu]]
