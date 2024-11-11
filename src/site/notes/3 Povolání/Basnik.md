@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/basnik/","title":"Básník"}
 ---
 
-![Basnik.png](/img/user/z_img/Basnik.png)
+![Básník.png](/img/user/z_img/B%C3%A1sn%C3%ADk.png)
 # **Zkus odolat mému šarmu… Ne, radši to nezkoušej!**
 Každý Básník má v sobě jiskru, darovanou múzou při narození. Tato jiskra pohání jeho tvůrčí energii, která se projevuje ostrým důvtipem, nekonečným humorem a dojemnými uměleckými baladami.
 
