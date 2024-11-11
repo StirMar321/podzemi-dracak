@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/berserk/","title":"Berserk"}
 ---
 
-![Berserk.png|500](/img/user/z_img/Berserk.png)
-*Autor: SEAN VIMES*
-
+![Berserk.png](/img/user/z_img/Berserk.png)
 # **Hněv a Zkáza** 
 Berserk je čistou esencí destrukce. Nezná únavu ani zdrženlivost – divoká zuřivost je tvým denním chlebem. O Bersercích se říká, že jedí prach války, který zapíjí krví svých nepřátel.
 

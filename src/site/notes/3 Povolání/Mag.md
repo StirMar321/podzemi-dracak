@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/mag/","title":"Mág"}
 ---
 
-![Mág.png|500](/img/user/z_img/M%C3%A1g.png)
-*Autor: EARL LAN*
-
+![Mag.png](/img/user/z_img/Mag.png)
 # **Elementární Tapiserie je všudypřítomná. Najděte ji, zkoumejte ji a ovládněte ji!**
 Mág získává svou první nit Tapiserie při narození; avšak skutečné mistrovství uniká tomu, kdo nerozvíjí tento vrozený dar. Mág pilně rozvíjí své vrozené dary skrze studium a cvičení. S knihami a svitky jako společníky a s moudrými radami zkušených mentorů či celých škol! To je cesta těch, kdo by chtěli vládnout nad elementy.
 
@@ -42,7 +40,20 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 - **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a **posílit** kouzla na 2. stupeň.
 - **Zvýšení klíčové statistiky**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 5
-- **Elementární vlna**. Vlna adrenalinu a Vaše hluboké spojení s elementy vám na začátku boje poskytují dodatečnou sílu. Když se hází [[z_Atomy/0-9/🏁\|🏁]], získejte **(1k4+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/🌀\|🌀]] (tato [[z_Atomy/0-9/🌀\|🌀]] zmizí, když [[z_Atomy/S/Střetnutí\|Střetnutí]] skončí).
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/u/elementarni-vlna/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Elementární vlna
+![Elementární vlna.png|300](/img/user/z_img/Element%C3%A1rn%C3%AD%20vlna.png)
+*Vlna adrenalinu a Vaše hluboké spojení s elementy vám na začátku boje poskytují dodatečnou sílu.* 
+
+Když se hází [[z_Atomy/0-9/🏁\|🏁]], získejte **(1k4+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** [[z_Atomy/0-9/🌀\|🌀]]. (Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]]).
+
+</div></div>
+
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6

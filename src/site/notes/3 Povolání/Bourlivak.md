@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/bourlivak/","title":"Bouřlivák"}
 ---
 
-![Bouřlivák.png|500](/img/user/z_img/Bou%C5%99liv%C3%A1k.png)
-*Autor: EARL LAN*
-
+![Bourlivak.png](/img/user/z_img/Bourlivak.png)
 # **Stromy šeptají radostí, mraky zpívají nadšením. Radujte se! Pán bouří a tesáků přichází.**  
 Všichni, kteří hledají cestu prastarým lesem, mějte se na pozoru: neprovokujte les ani jeho obyvatele. Žádejte o průchod s pokorou. I když strážce nemusí být vidět, vězte, že les Vás sleduje.
 Poutníci, kteří procházejí lesem, mohou cítit přítomnost Bouřliváka. Legendy vypráví o pradávném spojení mezi smrtelníky a dryádami, z něhož vznikly bytosti schopné ovládat blesky a bouře stejně snadno, jako jiní ovládají meč a štít. To však není celý příběh.

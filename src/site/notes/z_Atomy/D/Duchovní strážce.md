@@ -3,6 +3,7 @@
 ---
 
 ### Duchovní strážce
+![Duchovní strážce.png|300](/img/user/z_img/Duchovn%C3%AD%20str%C3%A1%C5%BEce.png)
 **X Nabití** 
 X = [[z_Atomy/0-9/🌀\|🌀]] při seslání
 [[z_Atomy/0-9/🫱\|🫱]] 4m

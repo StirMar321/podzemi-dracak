@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-5-pribehove-podtridy/podtridy/plenitel/"}
 ---
 
-![Hubitel_stínů.png|500](/img/user/z_img/Hubitel_st%C3%ADn%C5%AF.png)
+![[Hubitel_stínů.png\|500]]
 *AUTOR:  CHEN GUIXIN*
 # plenitel
 *Podtřída [[3 Povolání/Cernokneznik\|Černokněžníka]]*

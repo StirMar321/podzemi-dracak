@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/velitel/"}
 ---
 
-![Velitel.png|500](/img/user/z_img/Velitel.png)
-*Autor: EARL LAN*
-
+![Velitel.png](/img/user/z_img/Velitel.png)
 # **Voják, Bojovník, Nebojácný Vůdce**
 Patří mezi nejzkušenějšími vojáky na světě! Velitelé jsou mistři všech zbraní a forem blízkého boje. Malá skupina vojáků vedená vycvičeným Velitelem je obávanější než nespočetné legie bez vedení.
 

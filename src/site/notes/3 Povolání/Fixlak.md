@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/fixlak/","title":"Fixlák"}
 ---
 
-![Fixlák.png|500](/img/user/z_img/Fixl%C3%A1k.png)
-*Autor: JOSEPH QIU*
-
+![Fixlak.png](/img/user/z_img/Fixlak.png)
 # **Plášť, dýka… a další dýka**
 Obyčejný podvodník se samozřejmě neoznačuje za fixláka – spíše za tuláka, přeživšího, pouličního chytráka nebo osvoboditele nepoužívaných cenností. Jsou mistři plížení, kapsářství a sladkých řečiček. Ti ostřejší mohou nabízet své služby, když potřebujete nechat někoho zmizet...
 

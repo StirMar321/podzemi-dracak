@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/3-povolani/priseznik/","title":"Přísežník"}
 ---
 
-![Přísežník.png|500](/img/user/z_img/P%C5%99%C3%ADse%C5%BEn%C3%ADk.png)
-*Autor: WARMTAIL*
-
+![Priseznik.png](/img/user/z_img/Priseznik.png)
 # **Ochráním své společníky a zničím zlo za každou cenu!** 
 Různé řády těchto horlivých, svatých válečníků dosáhly velké a oslnivé moci díky absolutní oddanosti vyšší moci ve formě přísah. Nic je nemůže odvrátit od jejich touhy po spravedlnosti a vášnivé nenávisti ke zlu. Jejich síla, jak fyzická, tak magická, je poháněna jejich horlivou snahou zbavit tento svět všeho zla.
 
