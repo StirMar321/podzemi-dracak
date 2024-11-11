@@ -3,6 +3,7 @@
 ---
 
 ## Exkomunikace
+![Exkomunikace.png|300](/img/user/z_img/Exkomunikace.png)
 **STUPEŇ 5**  
 **2 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🏹\|🏹]] 4 metry

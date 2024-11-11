@@ -3,6 +3,7 @@
 ---
 
 ## Svatá záře
+![Svatá záře.png|300](/img/user/z_img/Svat%C3%A1%20z%C3%A1%C5%99e.png)
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/✴️\|✴️]] = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/0-9/🫱\|🫱]] 6 metrů

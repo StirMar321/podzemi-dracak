@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/z-atomy/n/nevyslovitelne-slovo/"}
 ---
 
-## Nevyslovitelné slovo  
+## Nevyslovitelné slovo
+![Nevyslovitelné slovo.png|300](/img/user/z_img/Nevysloviteln%C3%A9%20slovo.png)
 **STUPEŇ 6**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 8m

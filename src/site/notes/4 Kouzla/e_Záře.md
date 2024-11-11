@@ -30,6 +30,7 @@ Dvojnásobné poškození proti *nemrtvým* a cílům za [[z_Atomy/K/Kryt\|Kryte
 
 
 ## Čestný úder
+![Čestný úder.png|300](/img/user/z_img/%C4%8Cestn%C3%BD%20%C3%BAder.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 2m
@@ -48,6 +49,7 @@ Dejte sobě/spojenci v dosahu [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔�
 
 
 ## Uzdravení
+![Uzdravení.png|300](/img/user/z_img/Uzdraven%C3%AD.png)
 **STUPEŇ 1**
 **1 AKCE**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
@@ -69,6 +71,7 @@ Pokud je utraceno 5+ [[z_Atomy/0-9/🌀\|🌀]], můžete také vyléčit 1 nega
 
 
 ## Ochrana
+![Ochrana.png|300](/img/user/z_img/Ochrana.png)
 **STUPEŇ 2**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/T/Trvání\|Trvání]]: 1 hodina
@@ -85,9 +88,10 @@ Označte ochotnou bytost jako svého chráněnce na 1 hodinu. Přijímá **polov
 
 
 
-## Štít spravedlnosti  
-**STUPEŇ 3**  
-**1 [[z_Atomy/A/Akce\|Akce]]**  
+## Štít spravedlnosti
+![Štít spravedlnosti.png|300](/img/user/z_img/%C5%A0t%C3%ADt%20spravedlnosti.png)
+**STUPEŇ 3**
+**1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/R/Reakce\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]]
 
 [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]]. Odražte zářivé poškození zpět na útočníka rovné bráněnému poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].  
@@ -103,6 +107,7 @@ Označte ochotnou bytost jako svého chráněnce na 1 hodinu. Přijímá **polov
 
 
 ## Odsouzení
+![Odsouzení.png|300](/img/user/z_img/Odsouzen%C3%AD.png)
 **STUPEŇ 4**  
 **2 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🏹\|🏹]] 4m
@@ -121,6 +126,7 @@ Udělte **2k12+20** zářivého poškození bytosti. Ignoruje [[z_Atomy/0-9/⛉�
 
 
 ## Exkomunikace
+![Exkomunikace.png|300](/img/user/z_img/Exkomunikace.png)
 **STUPEŇ 5**  
 **2 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🏹\|🏹]] 4 metry
@@ -138,7 +144,8 @@ Neomylně bytosti udělíte **50** zářivého poškození. Toto poškození nel
 
 
 
-## Oběť  
+## Oběť
+![Oběť.png|300](/img/user/z_img/Ob%C4%9B%C5%A5.png)
 **STUPEŇ 6**  
 **1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 4m
@@ -159,7 +166,8 @@ Můžete oživit bytost, která zemřela ([[z_Atomy/0-9/💀\|💀]]) během pos
 
 
 
-## Vykoupení  
+## Vykoupení
+![Vykoupení.png|300](/img/user/z_img/Vykoupen%C3%AD.png)
 **STUPEŇ 9**  
 Čas sesílání: 24 hodin
 *Vyžaduje diamant v hodnotě alespoň 10 000 [[z_Atomy/0-9/🟡\|🟡]], který toto kouzlo spotřebuje*
@@ -176,7 +184,8 @@ Oživte libovolný počet zesnulých bytostí do vzdálenosti 2 kilometrů, kte�
 
 
 
-## Přivolání Duchovního strážce  
+## Přivolání Duchovního strážce
+![Přivolání Duchovního strážce.png|300](/img/user/z_img/P%C5%99ivol%C3%A1n%C3%AD%20Duchovn%C3%ADho%20str%C3%A1%C5%BEce.png)
 **STUPEŇ 1**  
 **1 [[z_Atomy/A/Akce\|Akce]]**
 

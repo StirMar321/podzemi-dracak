@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/z-atomy/p/privolani-stinu/"}
 ---
 
-## Přivolání stínu  
+## Přivolání stínu
+![Přivolání Stínu.png|300](/img/user/z_img/P%C5%99ivol%C3%A1n%C3%AD%20St%C3%ADnu.png)
+
 **TRIK**  
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m

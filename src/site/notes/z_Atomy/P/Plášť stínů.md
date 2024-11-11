@@ -3,6 +3,7 @@
 ---
 
 ## Plášť stínů
+![Plášť stínů.png|300](/img/user/z_img/Pl%C3%A1%C5%A1%C5%A5%20st%C3%ADn%C5%AF.png)
 **STUPEŇ 2**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m

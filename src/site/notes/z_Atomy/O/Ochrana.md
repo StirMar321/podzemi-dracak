@@ -3,6 +3,7 @@
 ---
 
 ## Ochrana
+![Ochrana.png|300](/img/user/z_img/Ochrana.png)
 **STUPEŇ 2**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/T/Trvání\|Trvání]]: 1 hodina

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/z-atomy/o/obet/"}
 ---
 
-## Oběť  
+## Oběť
+![Oběť.png|300](/img/user/z_img/Ob%C4%9B%C5%A5.png)
 **STUPEŇ 6**  
 **1 [[z_Atomy/A/Akce\|Akce]]**  
 [[z_Atomy/0-9/🫱\|🫱]] 4m

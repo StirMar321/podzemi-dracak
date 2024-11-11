@@ -3,6 +3,7 @@
 ---
 
 ## Zlomyslný výsměch
+![Zlomyslný výsměch.png|300](/img/user/z_img/Zlomysln%C3%BD%20v%C3%BDsm%C4%9Bch.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m

@@ -3,6 +3,7 @@
 ---
 
 ## Lákání
+![Lákání.png|300](/img/user/z_img/L%C3%A1k%C3%A1n%C3%AD.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m

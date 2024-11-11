@@ -12,6 +12,7 @@
 
 
 ## Svatá záře
+![Svatá záře.png|300](/img/user/z_img/Svat%C3%A1%20z%C3%A1%C5%99e.png)
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/✴️\|✴️]] = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/0-9/🫱\|🫱]] 6 metrů
@@ -30,7 +31,8 @@ Vyberte jednu možnost:
 
 
 
-## Přivolání Duchovního strážce  
+## Přivolání Duchovního strážce
+![Přivolání Duchovního strážce.png|300](/img/user/z_img/P%C5%99ivol%C3%A1n%C3%AD%20Duchovn%C3%ADho%20str%C3%A1%C5%BEce.png)
 **STUPEŇ 1**  
 **1 [[z_Atomy/A/Akce\|Akce]]**
 

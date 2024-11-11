@@ -3,6 +3,7 @@
 ---
 
 ## Chřadnoucí dotek
+![Chřadnoucí dotek.png|300](/img/user/z_img/Ch%C5%99adnouc%C3%AD%20dotek.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk

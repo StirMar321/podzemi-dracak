@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/z-atomy/v/vykoupeni/"}
 ---
 
-## Vykoupení  
+## Vykoupení
+![Vykoupení.png|300](/img/user/z_img/Vykoupen%C3%AD.png)
 **STUPEŇ 9**  
 Čas sesílání: 24 hodin
 *Vyžaduje diamant v hodnotě alespoň 10 000 [[z_Atomy/0-9/🟡\|🟡]], který toto kouzlo spotřebuje*

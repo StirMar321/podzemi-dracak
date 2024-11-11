@@ -3,6 +3,7 @@
 ---
 
 ## Větší stín
+![Větší stín.png|300](/img/user/z_img/V%C4%9Bt%C5%A1%C3%AD%20st%C3%ADn.png)
 **STUPEŇ 4**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 

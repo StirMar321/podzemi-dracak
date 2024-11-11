@@ -10,7 +10,9 @@
 
 
 
-## Stínový výbuch  
+## Stínový výbuch
+![Stínový výbuch.png|300](/img/user/z_img/St%C3%ADnov%C3%BD%20v%C3%BDbuch.png)
+
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
@@ -27,7 +29,9 @@ Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození.
 
 
 
-## Přivolání stínu  
+## Přivolání stínu
+![Přivolání Stínu.png|300](/img/user/z_img/P%C5%99ivol%C3%A1n%C3%AD%20St%C3%ADnu.png)
+
 **TRIK**  
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m

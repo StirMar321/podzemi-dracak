@@ -11,6 +11,7 @@
 
 
 ## Lákání
+![Lákání.png|300](/img/user/z_img/L%C3%A1k%C3%A1n%C3%AD.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m
@@ -29,6 +30,7 @@ Pokud cíl neuspěje na [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤
 
 
 ## Chřadnoucí dotek
+![Chřadnoucí dotek.png|300](/img/user/z_img/Ch%C5%99adnouc%C3%AD%20dotek.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk
@@ -48,6 +50,7 @@ Cíl je považován za *nemrtvého* do konce Vašeho příštího [[z_Atomy/T/Ta
 
 
 ## Past temnoty
+![Past temnoty.png|300](/img/user/z_img/Past%20temnoty.png)
 **STUPEŇ 1**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
@@ -66,6 +69,7 @@ První bytost, která vstoupí do dosahu utrží **3k12** nekrotického poškoze
 
 
 ## Plášť stínů
+![Plášť stínů.png|300](/img/user/z_img/Pl%C3%A1%C5%A1%C5%A5%20st%C3%ADn%C5%AF.png)
 **STUPEŇ 2**
 **2 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
@@ -84,6 +88,7 @@ Obklopíte se stínem. [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti Vám maj�
 
 
 ## Upíří žízeň
+![Upíří žízeň.png|300](/img/user/z_img/Up%C3%AD%C5%99%C3%AD%20%C5%BE%C3%ADze%C5%88.png)
 **STUPEŇ 3**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m
@@ -103,6 +108,7 @@ Bytosti provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Za každý 
 
 
 ## Větší stín
+![Větší stín.png|300](/img/user/z_img/V%C4%9Bt%C5%A1%C3%AD%20st%C3%ADn.png)
 **STUPEŇ 4**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 
@@ -120,6 +126,7 @@ Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|Stínových sl
 
 
 ## Hnisající rány
+![Hnisající rány.png|300](/img/user/z_img/Hnisaj%C3%ADc%C3%AD%20r%C3%A1ny.png)
 **STUPEŇ 5**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m
@@ -138,7 +145,8 @@ Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]
 
 
 
-## Nevyslovitelné slovo  
+## Nevyslovitelné slovo
+![Nevyslovitelné slovo.png|300](/img/user/z_img/Nevysloviteln%C3%A9%20slovo.png)
 **STUPEŇ 6**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 8m
@@ -159,6 +167,7 @@ Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]
 
 
 ## Nakažlivá smrt
+![Nakažlivá smrt.png|300](/img/user/z_img/Naka%C5%BEliv%C3%A1%20smrt.png)
 **STUPEŇ 7**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m
@@ -177,7 +186,9 @@ Tento proces se opakuje, dokud nějaká bytost přežije nebo pokud se v dosahu 
 
 
 
-## Stínový výbuch  
+## Stínový výbuch
+![Stínový výbuch.png|300](/img/user/z_img/St%C3%ADnov%C3%BD%20v%C3%BDbuch.png)
+
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🏹\|🏹]] 12m
@@ -194,7 +205,9 @@ Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození.
 
 
 
-## Přivolání stínu  
+## Přivolání stínu
+![Přivolání Stínu.png|300](/img/user/z_img/P%C5%99ivol%C3%A1n%C3%AD%20St%C3%ADnu.png)
+
 **TRIK**  
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m

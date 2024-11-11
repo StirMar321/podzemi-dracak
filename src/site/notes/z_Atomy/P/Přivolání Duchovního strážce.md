@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/z-atomy/p/privolani-duchovniho-strazce/"}
 ---
 
-## Přivolání Duchovního strážce  
+## Přivolání Duchovního strážce
+![Přivolání Duchovního strážce.png|300](/img/user/z_img/P%C5%99ivol%C3%A1n%C3%AD%20Duchovn%C3%ADho%20str%C3%A1%C5%BEce.png)
 **STUPEŇ 1**  
 **1 [[z_Atomy/A/Akce\|Akce]]**
 

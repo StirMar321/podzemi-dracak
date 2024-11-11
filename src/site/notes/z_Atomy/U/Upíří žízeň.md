@@ -3,6 +3,7 @@
 ---
 
 ## Upíří žízeň
+![Upíří žízeň.png|300](/img/user/z_img/Up%C3%AD%C5%99%C3%AD%20%C5%BE%C3%ADze%C5%88.png)
 **STUPEŇ 3**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 1m

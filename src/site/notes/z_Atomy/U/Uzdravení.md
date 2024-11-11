@@ -3,6 +3,7 @@
 ---
 
 ## Uzdravení
+![Uzdravení.png|300](/img/user/z_img/Uzdraven%C3%AD.png)
 **STUPEŇ 1**
 **1 AKCE**
 [[z_Atomy/0-9/🫱\|🫱]] Dotyk

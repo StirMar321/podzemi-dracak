@@ -3,6 +3,7 @@
 ---
 
 ## Hnisající rány
+![Hnisající rány.png|300](/img/user/z_img/Hnisaj%C3%ADc%C3%AD%20r%C3%A1ny.png)
 **STUPEŇ 5**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m

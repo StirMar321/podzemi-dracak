@@ -36,6 +36,7 @@ Pomoci svým spojencům v jakékoli roli, kterou potřebují, ať se pustíte do
 
 
 ## Divotvar
+![Divotvar.png|300](/img/user/z_img/Divotvar.png)
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🐾\|🐾]] = [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 

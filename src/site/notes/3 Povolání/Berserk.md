@@ -38,6 +38,7 @@ Smrt pro Berserka není cizí – říká se, že i ona se ho bojí, dokud není
 
 
 ## Zuřivost
+![Zuřivost.png|300](/img/user/z_img/Zu%C5%99ivost.png)
 **1 [[z_Atomy/A/Akce\|Akce]]**
 **1/[[z_Atomy/K/Kolo\|Kolo]]**
 

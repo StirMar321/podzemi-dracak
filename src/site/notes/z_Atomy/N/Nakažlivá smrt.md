@@ -3,6 +3,7 @@
 ---
 
 ## Nakažlivá smrt
+![Nakažlivá smrt.png|300](/img/user/z_img/Naka%C5%BEliv%C3%A1%20smrt.png)
 **STUPEŇ 7**
 **3 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 8m

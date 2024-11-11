@@ -11,6 +11,7 @@
 
 
 ## Zlomyslný výsměch
+![Zlomyslný výsměch.png|300](/img/user/z_img/Zlomysln%C3%BD%20v%C3%BDsm%C4%9Bch.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
 [[z_Atomy/0-9/🫱\|🫱]] 12m
@@ -27,7 +28,8 @@ Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškozen�
 
 
 
-## Básníkova Inspirace  
+## Básníkova Inspirace
+![Básníkova Inspirace.png|300](/img/user/z_img/B%C3%A1sn%C3%ADkova%20Inspirace.png)
 **[[z_Atomy/R/Reakce\|Reakce]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
 [[z_Atomy/0-9/🔔\|🔔]] = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
 [[z_Atomy/R/Reakce\|Reakce]]: spojenec hodí kostku
