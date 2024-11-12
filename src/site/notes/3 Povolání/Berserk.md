@@ -18,7 +18,7 @@ Smrt pro Berserka není cizí – říká se, že i ona se ho bojí, dokud není
 (Barbar)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]       | [[z_Atomy/0-9/🟥\|🟥]]   | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]                  | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]                 |
+| [[z_Atomy/0-9/🗝\|🗝]]       | [[z_Atomy/0-9/🟥\|🟥]]   | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/0-9/Hrdinské❗\|Hrdinské❗]]                  | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]                 |
 | ------------ | -------- | --------------- | ------------------------------ | -------------------------------- | -------------------------------- | ------------------------------------ |
 | [[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/🎯\|🎯]] | **1k12** | **20**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/B/Beze Zbroje\|Beze Zbroje]]                  | [[z_Atomy/0-9/💪\|💪]]                           | Dvoubřitá Sekera, zásoby(maso), Lano |
 
@@ -134,7 +134,7 @@ Maximální počet [[z_Atomy/0-9/♈\|♈]] je roven Vašemu [[z_Atomy/L/LVL\|LV
 ⠀
 - **Hromové kroky.** Když [[z_Atomy/Z/Zuřivost\|Zuříte]] a pohnete se o 4+ metrů, způsobíte všem přilehlým bytostem na místě, kde se zastavíte, [[z_Atomy/0-9/💪\|💪]] drtivého poškození.
 ⠀
-- **Jsi další!** **1 [[z_Atomy/A/Akce\|Akce]]**. Musíte [[z_Atomy/Z/Zuřivost\|Zuřit]]. [[z_Atomy/0-9/❓\|❓]][[z_Atomy/M/Nezdolnost (💪)\|Nezdolnost (💪)]] může demoralizovat nepřítele do 12 metrů. Pokud hodíte vyšší hodnotu než jeho zbývající [[z_Atomy/0-9/💖\|💖]], okamžitě uprchne.
+- **Jsi další!** **1 [[z_Atomy/A/Akce\|Akce]]**. Musíte [[z_Atomy/Z/Zuřivost\|Zuřit]]. [[z_Atomy/0-9/❓\|❓]][[z_Atomy/N/Nezdolnost (💪)\|Nezdolnost (💪)]] může demoralizovat nepřítele do 12 metrů. Pokud hodíte vyšší hodnotu než jeho zbývající [[z_Atomy/0-9/💖\|💖]], okamžitě uprchne.
 ⠀
 - **Smršť.** **2 [[z_Atomy/A/Akce\|Akce]]**. [[z_Atomy/0-9/⚔️\|⚔️]] na VŠECHNY cíle v dosahu vaší [[z_Atomy/Z/Zbraně na blízko\|Zbraně na blízko]].
 ⠀

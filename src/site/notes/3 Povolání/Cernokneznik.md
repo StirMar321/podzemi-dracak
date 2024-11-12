@@ -18,7 +18,7 @@ Ne každá PRASTARÁ HRŮZA je stejná. To je jako říkat, že havraní černá
 # Černokněžník
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]       | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]<br>                 | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]]<br> | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]]<br> | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]             |
+| [[z_Atomy/0-9/🗝\|🗝]]       | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/0-9/Hrdinské❗\|Hrdinské❗]]<br>                 | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]]<br> | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]]<br> | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]             |
 | ------------ | ------- | --------------- | --------------------------------- | ------------------------------------ | ------------------------------------ | -------------------------------- |
 | [[z_Atomy/0-9/📖\|📖]][[z_Atomy/0-9/🎯\|🎯]] | **1k8** | **13**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/T/Tkanina\|Tkanina]]                          | [[z_Atomy/L/Lehká\|Lehká]] ostří, [[z_Atomy/K/Kouzelné hůlky\|Kouzelné hůlky]]  | Oblečení dobrodruha, Srp, Lopata |
 

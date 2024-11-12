@@ -17,7 +17,7 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 # Básník
 (Bard)
 
-| [[z_Atomy/0-9/🗝\|🗝]]          | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]                     | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]               |
+| [[z_Atomy/0-9/🗝\|🗝]]          | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/0-9/Hrdinské❗\|Hrdinské❗]]                     | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]               |
 | --------------- | ------- | --------------- | --------------------------------- | -------------------------------- | -------------------------------- | ---------------------------------- |
 | [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/📖\|📖]] | **1k8** | **13**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/T/Tkanina\|Tkanina]], [[z_Atomy/K/Kůže\|Kůže]]            | [[z_Atomy/0-9/🎯\|🎯]], [[z_Atomy/K/Kouzelné hůlky\|Kouzelné hůlky]]       | 2x Dýka, Levná kožená zbroj, Křída |
 
@@ -64,7 +64,7 @@ Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z 
 
 ## LVL 2
 - **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** ve školách, které znáte. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se během [[z_Atomy/0-9/🔋\|🔋]].
-- **Všeuměl**. Během [[z_Atomy/0-9/🔋\|🔋]] můžete přesunout **jeden** [[z_Atomy/B/Body ⚙️\|Bod ⚙️]], jako byste získali další [[z_Atomy/L/LVL\|LVL]].
+- **Všeuměl**. Během [[z_Atomy/0-9/🔋\|🔋]] můžete přesunout **jeden** [[z_Atomy/0-9/Body ⚙️\|Bod ⚙️]], jako byste získali další [[z_Atomy/L/LVL\|LVL]].
 - **Píseň odpočinku**. 1/Den. Kdykoli za [[z_Atomy/0-9/🪫\|🪫]] můžete spojencům zahrát a umožnit každému, kdo použil [[z_Atomy/0-9/🟥\|🟥]], obnovit [[z_Atomy/0-9/💖\|💖]] rovné Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 ## LVL 3
 - **Básnické Koleje**. Vyberte si **podtřídu**. [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].

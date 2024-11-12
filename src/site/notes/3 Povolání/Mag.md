@@ -18,7 +18,7 @@ Pochopení Tapiserie není triviální úsilí - svá mystická tajemství odhal
 (Kouzelník, Čaroděj)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]          | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]<br>              | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]]<br> | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]            |
+| [[z_Atomy/0-9/🗝\|🗝]]          | [[z_Atomy/0-9/🟥\|🟥]]  | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/0-9/Hrdinské❗\|Hrdinské❗]]<br>              | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]]<br> | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]            |
 | --------------- | ------- | --------------- | ------------------------------ | ------------------------------------ | -------------------------------- | ------------------------------- |
 | [[z_Atomy/0-9/📖\|📖]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] | **1k6** | **10**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/T/Tkanina\|Tkanina]]                          | Ostří, Hole, [[z_Atomy/K/Kouzelné hůlky\|Kouzelné hůlky]]  | Oblečení dobrodruha, Hůl, Mýdlo |
 

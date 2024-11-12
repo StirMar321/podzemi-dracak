@@ -21,7 +21,7 @@ Každé [[2 Důležité/e1_Povolání\|Povolání]] má **dvě klíčové [[z_At
 
 
 ## 💪 = Síla
-Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbraní a schopností, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], udržení [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Nezdolnost (💪)\|Nezdolnost (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
+Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbraní a schopností, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], udržení [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/N/Nezdolnost (💪)\|Nezdolnost (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
 
 </div></div>
 
@@ -461,7 +461,8 @@ Pokud hodíte na kostkách stejně, odstranění kostek zleva doprava vždy vede
 Když chtějí Hrdinové ovlivňovat svět hry při provádění něčeho náročného (přesvědčování [[z_Atomy/N/NPC\|NPC]], odhalení skryté bytosti, odemykání zámku atd.) [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požádat hrdinu o provedení **kontroly dovednosti**. 
 
 **Pro provedení ❓ hoďte 1k20 a přidejte bonus dané [[z_Atomy/0-9/⚙️\|⚙️]] k výsledku.** 
-Výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán pro **úspěch**. Když je hodnota menší jedná se o **neúspěch**. [[z_Atomy/0-9/📶\|📶]] určuje [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] v závislosti na tom, co se pokoušíte udělat.
+Výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán pro **úspěch**. Když je hodnota menší jedná se o **neúspěch**. 
+[[z_Atomy/0-9/📶\|📶]] určuje [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] v závislosti na tom, co se pokoušíte udělat.
 
 > [!FAQ]- Pro [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]
 > **Odhalit [[z_Atomy/0-9/📶\|📶]] nebo ho nechat tajný?** Obvykle je stupeň obtížnosti skrytá informace pouze pro [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]. Existují však situace, kdy odhalení stupně obtížnosti před hodem může skutečně zvýšit dramatičnost okamžiku. Podívejte se do knihy [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] pro více informací o tom, kdy a jak vyvolat **kontrolu dovednosti**.
@@ -475,7 +476,7 @@ Výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán 
 
 
 # ❗ = Záchranný hod
-Když svět hry ovlivňuje Hrdiny, **pro provedení záchranného hodu hoďte 1k20 a přidejte modifikace**. 
+Když svět hry ovlivňuje Hrdiny, **pro provedení záchranného hodu hoďte 1k20 a přidejte jednu základní [[z_Atomy/S/Statistiky\|Statistiku]]**.
 Každý záchranný hod má [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán hodem a modifikátory pro **úspěch**, jinak se jedná o **neúspěch**. Hod "*přirozené*" 20 vždy uspěje! Bytost si může záměrně neuspět.
 
 - ❗[[z_Atomy/0-9/💪\|💪]] 

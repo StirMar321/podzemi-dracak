@@ -17,7 +17,7 @@ Pro mnohé je cesta služby obtížnou - přesto v tomto úkolu nejsme osamoceni
 (Klerik)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]              | [[z_Atomy/0-9/🟥\|🟥]]       | Počáteční[[z_Atomy/0-9/💖\|💖]]  | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]                     | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]                  |
+| [[z_Atomy/0-9/🗝\|🗝]]              | [[z_Atomy/0-9/🟥\|🟥]]       | Počáteční[[z_Atomy/0-9/💖\|💖]]  | [[z_Atomy/0-9/Hrdinské❗\|Hrdinské❗]]                     | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]                  |
 | ------------------- | ------------ | ---------------- | --------------------------------- | -------------------------------- | -------------------------------- | ------------------------------------- |
 | [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]][[z_Atomy/0-9/💪\|💪]]<br> | **1k10**<br> | **17**[[z_Atomy/0-9/💖\|💖]]<br> | [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👎\|👎]] | [[z_Atomy/K/Kroužky\|Kroužky]], [[z_Atomy/S/Štíty\|Štíty]]           | [[z_Atomy/0-9/💪\|💪]], [[z_Atomy/K/Kouzelné hůlky\|Kouzelné hůlky]]       | Rezavá košile, Palice, Pukléř, Zvonek |
 

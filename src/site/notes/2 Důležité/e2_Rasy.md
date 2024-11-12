@@ -148,7 +148,7 @@ Vaše [[z_Atomy/0-9/❓\|❓]] týkajících se draků mají ([[z_Atomy/0-9/👍
 ![Tiefling.png|300](/img/user/z_img/Tiefling.png)
 Říká se, že byli zrozeni spojením člověka a démona, **Tieflingové** se často ocitají na okraji společnosti. Přesto ztělesňují odhodlání čelit nepřízni osudu. Jejich předci nevystoupili z hlubin Pekel, aby podlehli pozemským překážkám!
 
-**Zrozen z plamenů**: Váš *neutrální* hod [[z_Atomy/H/Hrdinské❗\|Hrdinských❗]] má vždy [[z_Atomy/0-9/👍\|👍]].
+**Zrozen z plamenů**: Váš *neutrální* hod [[z_Atomy/0-9/Hrdinské❗\|Hrdinských❗]] má vždy [[z_Atomy/0-9/👍\|👍]].
 **[[z_Atomy/J/Jazyky\|Jazyky]]**: Ďábelský (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)
 **[[z_Atomy/V/Velikost\|Velikost]]**: Střední
 
@@ -181,7 +181,7 @@ Zelení, mazaní a neustále haněni. **Goblini** vzkvétají v chaosu. Na každ
 Když si myslíš, že jsi porazil **Orka**, akorát jsi probudil jeho hněv. Pustit se do boje s **Orkem** není úkol pro slabé. Zatímco jiní před příchodem smrti ustupují, **Orkové** ji vítají.
 
 **Nezdolný**: 1/[[z_Atomy/0-9/🔋\|🔋]]. Kdykoli začnete [[z_Atomy/0-9/🩸\|Umírat]], můžete místo toho nastavit své [[z_Atomy/0-9/💖\|💖]] na hodnotu [[z_Atomy/L/LVL\|LVL]].
-**Silný**: +1 [[z_Atomy/M/Nezdolnost (💪)\|Nezdolnost (💪)]]
+**Silný**: +1 [[z_Atomy/N/Nezdolnost (💪)\|Nezdolnost (💪)]]
 **[[z_Atomy/J/Jazyky\|Jazyky]]**: Orkština (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)
 **[[z_Atomy/V/Velikost\|Velikost]]**: Střední
 
@@ -264,7 +264,7 @@ Co vlastně znamená být „Hrdina“? Pokud se dokážeš nacpat do kalhot neb
 Mohutné bytosti, jejichž síla je stejně neotřesitelná jako hory, které nazývají svým domovem. Díky své velikosti a odolnosti jsou **Polobři** obávanými protivníky, schopní přežít i ty nejsmrtelnější údery.
 
 **Síla kamene**: 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. Můžeš přinutit nepřítele přehodit [[z_Atomy/0-9/💥\|💥]] mířený proti tobě.
-**Síla hor**: +2 [[z_Atomy/M/Nezdolnost (💪)\|Nezdolnost (💪)]].
+**Síla hor**: +2 [[z_Atomy/N/Nezdolnost (💪)\|Nezdolnost (💪)]].
 **[[z_Atomy/J/Jazyky\|Jazyky]]**: Trpasličtina (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)
 **[[z_Atomy/V/Velikost\|Velikost]]**: Velký
 
@@ -280,8 +280,8 @@ Mohutné bytosti, jejichž síla je stejně neotřesitelná jako hory, které na
 ![Měňavec.png|300](/img/user/z_img/M%C4%9B%C5%88avec.png)
 **Měňavci** jsou často loveni pro svou stříbřitou krev, ale jako přirození chameleoni se s lehkostí ukrývají pod novými identitami. Ti, kteří se však přetvářejí příliš často, obvykle dlouho nepřežijí. Mohou začít zapomínat, kým kdysi byli, a stanou se pouhými odrazy tváří, které nosí.
 
-**Nové místo**: +2 *měnivé* [[z_Atomy/B/Body ⚙️\|Body ⚙️]]. 
-**Nová tvář**: 3/Den. Můžeš přijmout *vzhled* jakékoli rasy. Když to uděláš, můžeš umístit své 2 *měnivé* [[z_Atomy/B/Body ⚙️\|Body ⚙️]] do jakékoli jedné [[z_Atomy/0-9/⚙️\|⚙️]].
+**Nové místo**: +2 *měnivé* [[z_Atomy/0-9/Body ⚙️\|Body ⚙️]]. 
+**Nová tvář**: 3/Den. Můžeš přijmout *vzhled* jakékoli rasy. Když to uděláš, můžeš umístit své 2 *měnivé* [[z_Atomy/0-9/Body ⚙️\|Body ⚙️]] do jakékoli jedné [[z_Atomy/0-9/⚙️\|⚙️]].
 
 </div></div>
 
@@ -295,7 +295,7 @@ Mohutné bytosti, jejichž síla je stejně neotřesitelná jako hory, které na
 ![Nebešťan.png|300](/img/user/z_img/Nebe%C5%A1%C5%A5an.png)
 Potomci **nebeských bytostí** vyzařují auru vznešenosti a elegance. Díky svému vrozenému spojení s vyššími sférami dokáží odolávat nepřízni osudu a mít jistotu tam, kde by jiní mohli selhat.
 
-**Urozený**: Váš [[z_Atomy/0-9/👎\|👎]] Vašich [[z_Atomy/H/Hrdinské❗\|Hrdinských❗]] je pro Vás *neutrální*.
+**Urozený**: Váš [[z_Atomy/0-9/👎\|👎]] Vašich [[z_Atomy/0-9/Hrdinské❗\|Hrdinských❗]] je pro Vás *neutrální*.
 **[[z_Atomy/J/Jazyky\|Jazyky]]**: Nebeský jazyk (pokud je [[z_Atomy/0-9/📖\|📖]]>=0)
 **[[z_Atomy/V/Velikost\|Velikost]]**: Střední
 

@@ -18,7 +18,7 @@ Opravdová známka pravého Přísežníka je jeho ochota položit svůj život 
 (Paladin)
 **Doporučené počáteční vybavení:** viz [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]
 
-| [[z_Atomy/0-9/🗝\|🗝]]              | [[z_Atomy/0-9/🟥\|🟥]]       | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/H/Hrdinské❗\|Hrdinské❗]]                  | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]                 |
+| [[z_Atomy/0-9/🗝\|🗝]]              | [[z_Atomy/0-9/🟥\|🟥]]       | Počáteční[[z_Atomy/0-9/💖\|💖]] | [[z_Atomy/0-9/Hrdinské❗\|Hrdinské❗]]                  | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbroje\|Zbrojí]] | [[z_Atomy/Z/Zdatnost\|Zdatnost]]  [[z_Atomy/Z/Zbraně\|Zbraní]] | [[z_Atomy/V/Výchozí vybavení\|Výchozí vybavení]]                 |
 | ------------------- | ------------ | --------------- | ------------------------------ | -------------------------------- | -------------------------------- | ------------------------------------ |
 | [[z_Atomy/0-9/💪\|💪]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]<br> | **1k10**<br> | **17**[[z_Atomy/0-9/💖\|💖]]    | [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👍\|👍]]<br>[[z_Atomy/0-9/🎯\|🎯]]=[[z_Atomy/0-9/👎\|👎]] | Všechny                          | [[z_Atomy/0-9/💪\|💪]]                           | Palcát, Rezavá košile, Pukléř, Pouta |
 
