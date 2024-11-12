@@ -12,7 +12,7 @@ Hrdinové mají **5 hlavních statistik**. Dvě z nich jsou **Klíčové statist
 
 
 ## 💪 = Síla
-Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbraní a schopností, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], udržení [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/N/Nezdolnost (💪)\|Nezdolnost (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
+Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbraní a schopností, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], maximální [[z_Atomy/0-9/💖\|💖]], udržení [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/N/Nezdolnost (💪)\|Nezdolnost (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
 
 </div></div>
 

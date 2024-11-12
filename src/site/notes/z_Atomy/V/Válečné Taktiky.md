@@ -4,18 +4,18 @@
 
 # Válečné Taktiky
 >[!NOTE]- **Změna je život**
->Kdykoli trénujete se svou skupinou nebo jinými vojáky během [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu schopnost [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]], [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] nebo [[z_Atomy/R/Rozkazy\|Rozkazy]], kterou znáte za jinou, stejného typu.
+>Kdykoli trénujete se svou skupinou nebo jinými vojáky během [[z_Atomy/0-9/🔋\|🔋]], můžete si vyměnit jednu schopnost [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]], [[z_Atomy/M/Mistrovství zbraní\|Mistrovství zbraní]] nebo [[z_Atomy/R/Rozkazy\|Rozkazy]], které znáte za jinou, stejného typu.
 
 > [!NOTE]+ **Kostky Války**
-> Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], získáte **Kostky Války** ([[z_Atomy/0-9/♐\|♐]]) rovné Vaší [[z_Atomy/0-9/📖\|📖]]. Jednou za útok můžete utratit jednu **Válečnou Kostku** pro provedení [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]].
+> Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], získáte **Kostky Války** ([[z_Atomy/0-9/♐\|♐]]) rovné Vaší [[z_Atomy/0-9/📖\|📖]]. Jednou za útok můžete utratit jednu [[z_Atomy/0-9/♐\|♐]] pro provedení [[z_Atomy/V/Válečné Taktiky\|Válečné Taktiky]].
 
 Velikost je v základu **k6** a zvyšuje se na **určitých** [[z_Atomy/L/LVL\|LVL]].
 
 - **Silný úder**. **1** [[z_Atomy/0-9/♐\|♐]]: Když Váš [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, odstrčíte **Střední** bytost o [[z_Atomy/0-9/💪\|💪]] metrů a udělíte dodatečné poškození rovné hodnotě hodu **[[z_Atomy/0-9/♐\|♐]]**. **Malá** bytost je odstrčena dvakrát tak daleko; **Velká** jen o polovinu (zaokrouhleno dolů). (viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])
 ⠀
-- **Neomylný úder**. **1** [[z_Atomy/0-9/♐\|♐]]: Když mine Váš [[z_Atomy/0-9/⚔️\|⚔️]], utraťte **1** [[z_Atomy/0-9/♐\|♐]] a zaútočte znovu na stejný cíl. Způsobte dodatečné poškození rovné vaší **[[z_Atomy/0-9/♐\|♐]]**. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
+- **Neomylný úder**. **1** [[z_Atomy/0-9/♐\|♐]]: Když Váš [[z_Atomy/0-9/⚔️\|⚔️]] mine, utraťte **1** [[z_Atomy/0-9/♐\|♐]] a [[z_Atomy/0-9/⚔️\|⚔️]] znovu na stejný cíl. Způsobte dodatečné poškození rovné vaší **[[z_Atomy/0-9/♐\|♐]]**. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
 ⠀
-- **Výpad**. **1** [[z_Atomy/0-9/♐\|♐]]: Přidejte 1 metr k [[z_Atomy/0-9/🫱\|🫱]] Vašeho útoku a způsobte dodatečné poškození rovné **2x([[z_Atomy/0-9/♐\|♐]])**.
+- **Výpad**. **1** [[z_Atomy/0-9/♐\|♐]]: Přidejte 1 metr k [[z_Atomy/0-9/🫱\|🫱]] Vašeho [[z_Atomy/0-9/⚔️\|⚔️]] a způsobte dodatečné poškození rovné **2x([[z_Atomy/0-9/♐\|♐]])**.
 ⠀
 - **Široký úder**. **1** [[z_Atomy/0-9/♐\|♐]] a **1** [[z_Atomy/A/Akce\|Akce]]: Vyberte libovolný počet sousedních políček ve Vašem dosahu a zasáhnete VŠECHNY cíle v oblasti. Tento [[z_Atomy/0-9/⚔️\|⚔️]] **nemine** při hodu 1.
 ⠀

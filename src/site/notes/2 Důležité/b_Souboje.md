@@ -75,7 +75,7 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 
 
 ## ✨ = Čarování
-[[2 Důležité/Kouzla\|Kouzla]] vyžadují, aby měl hrdina jednu ruku volnou nebo v ní měl kouzelný fokus, schopnost volně mluvit a stojí typicky [[z_Atomy/0-9/🌀\|🌀]] (náklady na manu jsou rovny **Stupni** kouzla. **Triky** a **Tríčky** manu nestojí).
+[[2 Důležité/Kouzla\|Kouzla]] vyžadují, aby měl hrdina jednu ruku volnou nebo v ní měl kouzelný fokus, schopnost volně mluvit a stojí typicky [[z_Atomy/0-9/🌀\|🌀]] (náklady na manu jsou rovny **Stupni** kouzla. **Triky** a **Tríčky** [[z_Atomy/0-9/🌀\|🌀]] nestojí).
 
 **Posilování kouzel**. Většina **Kouzel** mají vylepšený účinek, když na ně hrdina použije více [[z_Atomy/0-9/🌀\|🌀]]. Hrdina může posílit kouzlo nejvýše do **Stupně**, který má odemčen! (viz [[2 Důležité/Kouzla\|Kouzla]])
 
@@ -191,7 +191,8 @@ Zaútočte na **blízko** s [[z_Atomy/0-9/👎\|👎]], když se nepřítel pohy
 
 
 ## 🆘 = Pomoc
-Dejte spojenci [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]], [[z_Atomy/0-9/❓\|❓]] nebo [[z_Atomy/0-9/❗\|❗]], pokud můžete **rozumně** vysvětlit, jak byste mohli v dané situaci pomoct. **Lze pomoci pouze jednou!** [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požadovat [[z_Atomy/0-9/❓\|❓]] nebo automaticky uznat [[z_Atomy/0-9/👍\|👍]], v závislosti na tom, jak dobrý máte nápad nebo důvod. Skvělý způsob, jak přinést hraní rolí a kreativitu do bojového [[z_Atomy/S/Střetnutí\|Střetnutí]]!
+Dejte spojenci [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]], [[z_Atomy/0-9/❓\|❓]] nebo [[z_Atomy/0-9/❗\|❗]], pokud můžete **rozumně** vysvětlit, jak byste mohli v dané situaci pomoct. **Lze pomoci pouze jednou!** [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požadovat [[z_Atomy/0-9/❓\|❓]] nebo automaticky uznat [[z_Atomy/0-9/👍\|👍]], v závislosti na tom, jak dobrý máte nápad nebo důvod. 
+Skvělý způsob, jak přinést hraní rolí a kreativitu do bojového [[z_Atomy/S/Střetnutí\|Střetnutí]]!
 
 </div></div>
 

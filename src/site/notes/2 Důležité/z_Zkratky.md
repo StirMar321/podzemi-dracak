@@ -21,7 +21,7 @@ Každé [[2 Důležité/e1_Povolání\|Povolání]] má **dvě klíčové [[z_At
 
 
 ## 💪 = Síla
-Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbraní a schopností, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], udržení [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/N/Nezdolnost (💪)\|Nezdolnost (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
+Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbraní a schopností, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], maximální [[z_Atomy/0-9/💖\|💖]], udržení [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/N/Nezdolnost (💪)\|Nezdolnost (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
 
 </div></div>
 
@@ -276,7 +276,7 @@ Kdykoli je [[z_Atomy/P/Primární kostka\|Primární kostka]] hozena s nejvyšš
 
 
 ### ⛉ = Střední brnění = Pouze kostky!
-Monstra se středním brněním ignorují všechny bonusy poškození. Utrží poškození pouze z hodu kostek.
+Monstra se **středním brněním** ignorují všechny bonusy poškození. Utrží poškození pouze z hodu kostek.
 
 </div></div>
 
@@ -287,7 +287,7 @@ Monstra se středním brněním ignorují všechny bonusy poškození. Utrží p
 
 
 ### ⛊ = Těžké brnění = Kostky/2
-Monstra s těžkým brněním ignorují bonusy poškození a utrží polovinu poškození z hodu kostek (zaokrouhleno nahoru).
+Monstra s **těžkým brněním** ignorují bonusy poškození a utrží polovinu poškození z hodu kostek (zaokrouhleno nahoru).
 
 </div></div>
 
@@ -298,7 +298,7 @@ Monstra s těžkým brněním ignorují bonusy poškození a utrží polovinu po
 
 
 ## ✨ = Čarování
-[[2 Důležité/Kouzla\|Kouzla]] vyžadují, aby měl hrdina jednu ruku volnou nebo v ní měl kouzelný fokus, schopnost volně mluvit a stojí typicky [[z_Atomy/0-9/🌀\|🌀]] (náklady na manu jsou rovny **Stupni** kouzla. **Triky** a **Tríčky** manu nestojí).
+[[2 Důležité/Kouzla\|Kouzla]] vyžadují, aby měl hrdina jednu ruku volnou nebo v ní měl kouzelný fokus, schopnost volně mluvit a stojí typicky [[z_Atomy/0-9/🌀\|🌀]] (náklady na manu jsou rovny **Stupni** kouzla. **Triky** a **Tríčky** [[z_Atomy/0-9/🌀\|🌀]] nestojí).
 
 **Posilování kouzel**. Většina **Kouzel** mají vylepšený účinek, když na ně hrdina použije více [[z_Atomy/0-9/🌀\|🌀]]. Hrdina může posílit kouzlo nejvýše do **Stupně**, který má odemčen! (viz [[2 Důležité/Kouzla\|Kouzla]])
 
@@ -311,8 +311,8 @@ Monstra s těžkým brněním ignorují bonusy poškození a utrží polovinu po
 
 
 ## 🌀 = Mana
-**Kouzla** vyžadují část životní síly: **Manu**. Cena kouzla v maně odpovídá jeho **Stupni**. 
-**Triky** a **Tríčky** nestojí žádnou manu.
+**Kouzla** vyžadují část životní síly: **Manu**. Cena kouzla v **maně** odpovídá jeho **Stupni**. 
+**Triky** a **Tríčky** nestojí žádnou **manu**.
 
 </div></div>
 
@@ -353,9 +353,7 @@ Hráč může použít akci k **Pohybu** do vzdálenosti své [[z_Atomy/0-9/🏃
 
 
 # 🏃 = Rychlost (pohybu)
-**Hrdinové mají výchozí rychlost pohybu 6 metrů.** Rychlost hrdiny určuje, jak daleko se může pohnout akcí [[z_Atomy/0-9/🥾\|🥾]] ve svém tahu. 
-
-
+**Hrdinové mají výchozí rychlost pohybu 6 metrů.** Rychlost hrdiny určuje, jak daleko se může pohnout akcí [[z_Atomy/0-9/🥾\|🥾]] ve svém tahu.
 
 </div></div>
 
@@ -409,7 +407,8 @@ Zaútočte na **blízko** s [[z_Atomy/0-9/👎\|👎]], když se nepřítel pohy
 
 
 ## 🆘 = Pomoc
-Dejte spojenci [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]], [[z_Atomy/0-9/❓\|❓]] nebo [[z_Atomy/0-9/❗\|❗]], pokud můžete **rozumně** vysvětlit, jak byste mohli v dané situaci pomoct. **Lze pomoci pouze jednou!** [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požadovat [[z_Atomy/0-9/❓\|❓]] nebo automaticky uznat [[z_Atomy/0-9/👍\|👍]], v závislosti na tom, jak dobrý máte nápad nebo důvod. Skvělý způsob, jak přinést hraní rolí a kreativitu do bojového [[z_Atomy/S/Střetnutí\|Střetnutí]]!
+Dejte spojenci [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]], [[z_Atomy/0-9/❓\|❓]] nebo [[z_Atomy/0-9/❗\|❗]], pokud můžete **rozumně** vysvětlit, jak byste mohli v dané situaci pomoct. **Lze pomoci pouze jednou!** [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může požadovat [[z_Atomy/0-9/❓\|❓]] nebo automaticky uznat [[z_Atomy/0-9/👍\|👍]], v závislosti na tom, jak dobrý máte nápad nebo důvod. 
+Skvělý způsob, jak přinést hraní rolí a kreativitu do bojového [[z_Atomy/S/Střetnutí\|Střetnutí]]!
 
 </div></div>
 

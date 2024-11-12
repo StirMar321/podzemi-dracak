@@ -36,9 +36,9 @@ Opravdová známka pravého Přísežníka je jeho ochota položit svůj život 
 
 
 ## ♎ = Kostky Soudu
-Kdykoli na Vás zaútočí, získáte **1k8 Kostku soudu** (♎). 
-Když provedete [[z_Atomy/0-9/⚔️\|⚔️]] na blízko, přidejte všechny své ♎ k [[z_Atomy/0-9/⚔️\|⚔️]]. Pokud [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, způsobí navíc **zářivé poškození** rovné vašim **Kostkám soudu**. 
-Maximální počet **Kostek soudu** které můžete mít, je roven Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
+Kdykoli na Vás zaútočí, získáte **1k8 Kostku soudu** (♎).
+Když provedete [[z_Atomy/0-9/⚔️\|⚔️]] na blízko, přidejte všechny své ♎ k [[z_Atomy/0-9/⚔️\|⚔️]]. Pokud [[z_Atomy/0-9/⚔️\|⚔️]] zasáhne, způsobí navíc **zářivé poškození** rovné vašim **Kostkám soudu**.
+Maximální počet **Kostek soudu** které můžete mít, je rovno Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
 
 </div></div>
 

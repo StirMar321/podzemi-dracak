@@ -14,8 +14,8 @@ Hrdinové mohou sesílat jakákoli kouzla domén, které znají, až do **nejvy�
 
 
 ## 🌀 = Mana
-**Kouzla** vyžadují část životní síly: **Manu**. Cena kouzla v maně odpovídá jeho **Stupni**. 
-**Triky** a **Tríčky** nestojí žádnou manu.
+**Kouzla** vyžadují část životní síly: **Manu**. Cena kouzla v **maně** odpovídá jeho **Stupni**. 
+**Triky** a **Tríčky** nestojí žádnou **manu**.
 
 </div></div>
 
