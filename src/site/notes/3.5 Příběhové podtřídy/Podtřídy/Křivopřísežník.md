@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/3-5-pribehove-podtridy/podtridy/krivopriseznik/"}
 ---
 
-![[Křivopřísežník.png\|500]]
-*AUTOR:  EDWARD YORKE*
+![Křivopřísežník.png|500](/img/user/z_img/K%C5%99ivop%C5%99%C3%ADse%C5%BEn%C3%ADk.png)
 # Křivopřísežník
 *Podtřída [[3 Povolání/Priseznik\|Přísežníka]]*
 ## **Padlý, hledající vykoupení**

@@ -2,8 +2,17 @@
 {"dg-publish":true,"permalink":"/2-dulezite/g-karta-hrdiny/","title":"Karta Hrdiny"}
 ---
 
-Zde je odkaz na **[Kartu hrdiny](https://drive.google.com/file/d/1o2nPmScr9st6ECUxwZxcMuAX4DsYSgRV/view?usp=sharing)**
-Vytiskněte si jí a začněte vyplňovat:
+Zde je odkaz na: 
+**[Kartu hrdiny V1](https://drive.google.com/file/d/1o2nPmScr9st6ECUxwZxcMuAX4DsYSgRV/view?usp=sharing)**
+**[Kartu Hrdiny V2](https://drive.google.com/file/d/1-AVz_KoB9Hcbcrq89IlFg325WKjF4uJz/view?usp=sharing)**
+**[Kartu Hrdiny V3](https://drive.google.com/file/d/1-2xd5Cbr_1uOgn9s9lAA_zxMM3BPez6z/view?usp=sharing)**
+
+> [!NOTE] **Co jsou to ty hexy?**
+> Na první pohled si asi říkáte, co jsou to ty hexy všude na listu Hrdiny.
+> Na tenhle chyták jsem narazil v českém TTRPG *Svitky Hrdinů*. Pokud si potřebujete rychle zaznamenat nějakou měnící se statistiku ([[z_Atomy/0-9/💖\|💖]], [[z_Atomy/0-9/💗\|💗]], [[z_Atomy/0-9/🌀\|🌀]] atd.), tak si stačí do jednoho hexu "škrtnout" jednu úhlopříčku na znamení jednoho bodu. Na listě jsem jich dal schválně hodně navíc na okraje listu, aby jste si mohli podle potřeby škrtat a nemuseli gumovat nebo bělit, což by zdržovalo hru :)
+> Pokud máte sponku, můžete jí také značit na okraji listu věci podle potřeby.
+
+Vytiskněte si List a začněte vyplňovat:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/z/zakladni-udaje/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -140,7 +149,8 @@ Každý hrdina má **Inventární Sloty** rovné **(10+[[z_Atomy/0-9/💪\|💪]
 
 **Na 1. úrovni** to může být něco tak jednoduchého, jako vyčištění sklepa od naštvaných krys nebo záchrana někoho z lesa. Jednoduchý úkol, který by neměl trvat déle než pár hodin herního času nebo půl dne času ve hře. Každé další dobrodružství odpovídající úrovni bude obecně trvat déle.
 **Úrovně 2–5**: Můžete postoupit na vyšší úroveň po každém sezení nebo každé druhé sezení; dny až týdny času ve hře. 
-**Úrovně 6–12**: Přibližně po každých 2 nebo 3 sezeních, nebo měsíce/roky času ve hře; a dál dosáhnete úrovní skutečně epických hrdinů, postoupíte na vyšší úroveň možná každých 3–5+ sezení nebo roky až desetiletí času ve hře. 
+**Úrovně 6–12**: Přibližně po každých 2 nebo 3 sezeních, nebo měsíce/roky času ve hře; a dál dosáhnete úrovní skutečně epických hrdinů, postoupíte na vyšší úroveň možná každých 3–5+ sezení nebo roky až desetiletí času ve hře.
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-dulezite/z-zvyseni-urovne/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -149,13 +159,13 @@ Každý hrdina má **Inventární Sloty** rovné **(10+[[z_Atomy/0-9/💪\|💪]
 
 ## Zvýšení úrovně
 
-| Kroky                    | Instrukce                                                                                                                                                                                               |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Zvyšte své max [[z_Atomy/0-9/💖\|💖]]** | Hod **1** [[z_Atomy/0-9/🟥\|🟥]] s [[z_Atomy/0-9/👍\|👍]] a přičtěte výsledek k vašim maximálním **Bodům Výdrže** [[z_Atomy/0-9/💖\|💖]].                                                                                                               |
-| **Větší výdrž**          | Váš maximální počet [[z_Atomy/0-9/🟥\|🟥]] se **zvýší** o **1** (obvykle jsou rovny [[z_Atomy/L/LVL\|LVL]]).                                                                                                                          |
-| **Lepší Dovednosti**     | Získáte **1** [[z_Atomy/B/Body ⚙️\|bod dovednosti]] a můžete **přesunout** **1** kladný bod dovednosti k jiné dovednosti.                                                                                         |
-| **Schopnosti povolání**  | Získáte **nové** schopnosti [[2 Důležité/e1_Povolání\|Povolání]] pro vaši úroveň. To může znamenat **+max** [[z_Atomy/0-9/🌀\|🌀]], **nové** [[2 Důležité/Kouzla\|Kouzla]] nebo výběr **podtřídy**!                                                   |
-| **Další úpravy**         | Pokud se některá z vašich základních statistik zvýší, **nezapomeňte** podle potřeby upravit závislé bonusy na Vašem **Listu Hrdiny**.<br>([[z_Atomy/0-9/⚙️\|⚙️]], [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], [[z_Atomy/0-9/🏁\|🏁]], [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/J/Jazyky\|Jazyky]]...) |
+| Kroky                   | Instrukce                                                                                                                                                                                                            |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Zvyšte max [[z_Atomy/0-9/💖\|💖]]**   | Hoďte **1** [[z_Atomy/0-9/🟥\|🟥]] s [[z_Atomy/0-9/👍\|👍]] a přičtěte výsledek k Vašim **maximálním** [[z_Atomy/0-9/💖\|💖]].                                                                                                                                       |
+| **Větší výdrž**         | Váš maximální počet [[z_Atomy/0-9/🟥\|🟥]] se **zvýší** o **1** (obvykle jsou rovny [[z_Atomy/L/LVL\|LVL]]).                                                                                                                                        |
+| **Lepší Dovednosti**    | Získáte **1** [[z_Atomy/B/Body ⚙️\|Bod ⚙️]] a můžete **přesunout** **1** kladný [[z_Atomy/B/Body ⚙️\|Bod ⚙️]]  k jiné [[z_Atomy/0-9/⚙️\|⚙️]].                                                                                                            |
+| **Schopnosti povolání** | Získáte **nové** schopnosti [[2 Důležité/e1_Povolání\|Povolání]] podle Vašeho [[z_Atomy/L/LVL\|LVL]]. To může znamenat **+max** [[z_Atomy/0-9/🌀\|🌀]], **nová** [[2 Důležité/Kouzla\|Kouzla]] nebo výběr **Podtřídy**!                                                           |
+| **Další úpravy**        | Pokud se některá z Vašich základních [[z_Atomy/S/Statistiky\|Statistik]] zvýší, **nezapomeňte** podle potřeby upravit závislé bonusy na Vašem **Listu Hrdiny**. ([[z_Atomy/0-9/⚙️\|⚙️]], [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], [[z_Atomy/0-9/🏁\|🏁]], [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/0-9/🌀\|🌀]], [[z_Atomy/J/Jazyky\|Jazyky]]...) |
 
 
 </div></div>

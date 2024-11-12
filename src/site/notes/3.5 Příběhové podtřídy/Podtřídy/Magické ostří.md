@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/3-5-pribehove-podtridy/podtridy/magicke-ostri/"}
 ---
 
-![Spellblade.png|500](/img/user/z_img/Spellblade.png)
-*AUTOR: EDWARD YORKE*
+![Magické ostří.png|500](/img/user/z_img/Magick%C3%A9%20ost%C5%99%C3%AD.png)
 # Magické ostří
 *Podtřída [[3 Povolání/Velitel\|Velitele]]*
 ## **Střet oceli a magie**

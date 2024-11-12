@@ -20,7 +20,7 @@ Každé [[2 Důležité/e1_Povolání\|Povolání]] má **dvě klíčové [[z_At
 
 
 
-## 💪 = SÍLA
+## 💪 = Síla
 Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbraní a schopností, odolnost proti [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], udržení [[z_Atomy/K/Koncentrace\|Koncentrace]], [[z_Atomy/I/Inventární Sloty\|Inventární Sloty]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Nezdolnost (💪)\|Nezdolnost (💪)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]].
 
 </div></div>
@@ -31,7 +31,7 @@ Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbr
 
 
 
-## 🎯 = OBRATNOST
+## 🎯 = Obratnost
  Vaše obratnost, reflexy a přesnost s čepelemi a luky. Ovlivňuje poškození 🎯 zbraní a schopností, [[z_Atomy/0-9/🏁\|🏁]], [[z_Atomy/B/Brnění\|Brnění]], [[z_Atomy/CH/Chycení\|Chycení]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Plížení (🎯)\|Plížení (🎯)]] a [[z_Atomy/Z/Zručnost (🎯)\|Zručnost (🎯)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
 
 </div></div>
@@ -42,7 +42,7 @@ Vaše hrubá fyzická síla, odolnost a výdrž. Ovlivňuje poškození 💪 zbr
 
 
 
-## 📖 = INTELIGENCE
+## 📖 = Inteligence
 Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a mazanosti. Ovlivňuje [[z_Atomy/J/Jazyky\|Jazyky]], [[z_Atomy/0-9/✨\|✨]], používaní [[z_Atomy/K/Kouzelný svitek\|Kouzelných svitků]] a [[z_Atomy/K/Kouzelné hůlky\|Kouzelných hůlek]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]], [[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].
 
 </div></div>
@@ -53,7 +53,7 @@ Váš intelekt, znalosti a rozumové schopnosti v oblastech mystiky, taktiky a m
 
 
 
-## ❤️‍🔥 = VŮLE
+## ❤️‍🔥 = Vůle
 Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodou a společností. Ovlivňuje Vaše [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]], [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]], [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] a [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 
 </div></div>
@@ -64,7 +64,7 @@ Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodo
 
 
 
-## ❤️‍🔥 = VŮLE
+## ❤️‍🔥 = Vůle
 Vaše síla osobnosti a moudrost, které ovlivňují Vaše interakce s přírodou a společností. Ovlivňuje Vaše [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]], [[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]], [[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]] a [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] a [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 
 </div></div>

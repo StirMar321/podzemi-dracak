@@ -3,7 +3,7 @@
 ---
 
 # Tvorba Hrdiny
-Vezměte si [Kartu Hrdiny](https://drive.google.com/file/d/1o2nPmScr9st6ECUxwZxcMuAX4DsYSgRV/view?usp=sharing) a následujte tento návod odshora dolů.
+Vezměte si [Kartu Hrdiny](https://drive.google.com/file/d/1-2xd5Cbr_1uOgn9s9lAA_zxMM3BPez6z/view?usp=sharing) a následujte tento návod odshora dolů.
 Vždy když splníte krok, můžete ho **"složit"**.
 
 >[!NOTE]+ **Vyberte si [[2 Důležité/e1_Povolání\|Povolání]]?**

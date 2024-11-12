@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/3-5-pribehove-podtridy/podtridy/pan-zvirat/"}
 ---
 
-![[Pan_zvirat.png\|500]]
-*AUTOR: EARL LAN*
+![Pán zvířat.png|500](/img/user/z_img/P%C3%A1n%20zv%C3%AD%C5%99at.png)
 # Pán zvířat
 *Podtřída [[3 Povolání/Lovec\|Lovce]]*
 ## **Spolu, nezastavitelní**
