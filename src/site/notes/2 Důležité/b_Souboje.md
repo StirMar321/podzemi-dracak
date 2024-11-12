@@ -10,7 +10,7 @@
 
 
 # Akce
-Hrdinové mají typicky **3 akce** v každém [[z_Atomy/K/Kolo\|Kole]], které mohou během svého tahu použít k útokům, pohybu po bojišti, sesílání kouzel apod. Obecně jakákoli **Akce** během [[z_Atomy/S/Střetnutí\|Střetnutí]] stojí **1 Akci**. Některé schopnosti jsou "[[z_Atomy/Z/Zdarma\|Zdarma]]“ nebo "volné", tedy nevyžadují **Akci**. Jiná, velmi silná kouzla nebo speciální schopnosti, mohou zabrat delší dobu a proto stojí více **Akcí**. 
+Hrdinové mají typicky **3 Akce** v každém [[z_Atomy/K/Kolo\|Kole]], které mohou během svého tahu použít k útokům, pohybu po bojišti, sesílání kouzel apod. Obecně jakákoli **Akce** během [[z_Atomy/S/Střetnutí\|Střetnutí]] stojí **1 Akci**. Některé schopnosti jsou "[[z_Atomy/Z/Zdarma\|Zdarma]]“ nebo "volné", tedy nevyžadují **Akci**. Jiná, velmi silná kouzla nebo speciální schopnosti, mohou zabrat delší dobu a proto stojí více **Akcí**. 
 
 **Všechny 3 akce se obnoví na KONCI Vašeho [[z_Atomy/T/Tah\|Tahu]]**, takže není potřeba si je šetřit. Využijte je všechny během svého tahu, protože když ukončíte svůj [[z_Atomy/T/Tah\|Tah]], nevyužité **Akce** budou ztraceny!
 
@@ -303,9 +303,9 @@ Bez ohledu na **iniciativu** si na **konci** svého tahu obnovte **všechny 3 ak
 
 
 ### Překvapení
-Občas může skupina manévrovat tak obratně, že je jejich nepřítel **úplně zaskočen**. V tomto případě může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] udělit skupině [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/🏁\|🏁]] nebo v extrémních případech nemusí házet na **Iniciativu** vůbec a začít svůj první [[z_Atomy/T/Tah\|Tah]] se všemi 3 akcemi. Pouhé skrytí nebo první úder není dostačující k získání překvapení. Pokud je nepřítel ve střehu nebo je si vědom vaší přítomnosti, nemůže být překvapen. 
+Občas může skupina manévrovat tak obratně, že je jejich nepřítel **úplně zaskočen**. V tomto případě může [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] udělit skupině [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/🏁\|🏁]] nebo v extrémních případech nemusí házet na **Iniciativu** vůbec a začít svůj první [[z_Atomy/T/Tah\|Tah]] se všemi **3 [[z_Atomy/A/Akce\|Akcemi]]**. Pouhé skrytí nebo první úder není dostačující k získání překvapení. Pokud je nepřítel ve střehu nebo je si vědom vaší přítomnosti, nemůže být překvapen.
 
-Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🏁\|🏁]] s [[z_Atomy/0-9/👎\|👎]] nebo v extrémních případech automaticky začínají [[z_Atomy/S/Střetnutí\|Střetnutí]] pouze s 1 akcí.
+Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🏁\|🏁]] s [[z_Atomy/0-9/👎\|👎]] nebo v extrémních případech automaticky začínají [[z_Atomy/S/Střetnutí\|Střetnutí]] pouze s **1 [[z_Atomy/A/Akce\|Akcí]]**.
 
 </div></div>
 
