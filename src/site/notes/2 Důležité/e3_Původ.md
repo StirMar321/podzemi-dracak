@@ -213,9 +213,9 @@ Máte potíže odpočívat (proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖
 
 
 ## (Tajný) Nemrtvý
-**Neobvyklá odolnost**: Jste [[z_Atomy/I/Imunita\|Imunní]] vůči nemocem a jedům, utrpíte *poloviční* poškození z nekrotických efektů a nepotřebujete jíst, pít nebo dýchat.
+**Neobvyklá odolnost**: Jste [[z_Atomy/I/Imunita\|Imunní]] vůči nemocem a jedům, utrpíte *poloviční* poškození z nekrotických efektů a nepotřebujete jíst, pít nebo dýchat. Při [[z_Atomy/H/Hraní mrtvého\|Hraní mrtvého]] nemusíte provádět [[z_Atomy/0-9/❓\|❓]].
 Děti, zvířata a nebeské bytosti jsou ve tvé přítomnosti nesvé.
-**-1** k [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]
+Máte **-1** k [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
 
 </div></div>
 
@@ -228,6 +228,17 @@ Děti, zvířata a nebeské bytosti jsou ve tvé přítomnosti nesvé.
 ## Ošklivá jizva
 Exotické rasy a divoká zvířata jsou k Vám příznivěji nakloněna, "civilizovaní" lidé už méně. 
 [[z_Atomy/0-9/👍\|👍]] při *zastrašování* (viz [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]])
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/v/vychovan-gobliny/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Vychován Gobliny
+Znáte [[z_Atomy/J/Jazyky\|Goblinštinu]] jako svůj mateřský jazyk. Automaticky si všimnete jednoduchých pastí a máte výhodu pro zpozorování a zneškodnění složitějších pastí.
 
 </div></div>
 
@@ -255,7 +266,19 @@ Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/H/Histor
 
 </div></div>
 
-# Voják
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/z/zaskolak/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Záškolák
+Akademické prostředí není pro každého. Více se učíte ve skutečném světě a nebojíte si zašpinit ruce.
+Naučte se jeden [[4 Kouzla/g_Tríčky\|Tríček]].
+
+</div></div>
+
+# Rváč
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/n/nebojacny/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -263,8 +286,8 @@ Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/H/Histor
 
 
 ## Nebojácný
-Nic tě nemůže vyděsit. Nikdo tě nemůže zastrašit. 
-**-1** [[z_Atomy/B/Brnění\|Brnění]].
+Nic tě nemůže vyděsit. Nikdo tě nemůže zastrašit.
+Máte **+1** k [[z_Atomy/0-9/🏁\|🏁]] a **-1** [[z_Atomy/B/Brnění\|Brnění]].
 
 </div></div>
 

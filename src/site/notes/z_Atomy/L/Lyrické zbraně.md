@@ -12,6 +12,6 @@
 ⠀
 - **Hrdinská balada**. +2[[z_Atomy/0-9/🔔\|🔔]]. Vaše [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]] navíc přidává spojenci **(+[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]])** k poškození jeho [[z_Atomy/0-9/⚔️\|⚔️]].
 ⠀
-- **Inspirativní Hymna**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **1 [[z_Atomy/A/Akce\|Akce]]**. Dáte všem [[z_Atomy/0-9/🩸\|🩸]] spojencům: 1 [[z_Atomy/0-9/💖\|💖]] a 1 Akci.
+- **Inspirativní Hymna**. 1/[[z_Atomy/S/Střetnutí\|Střetnutí]]. **1 [[z_Atomy/A/Akce\|Akce]]**. Dáte všem [[z_Atomy/0-9/🩸\|🩸]] spojencům: 1[[z_Atomy/0-9/💖\|💖]] a 1 [[z_Atomy/A/Akce\|Akci]].
 ⠀
 - **Pýcha předchází pád**. Když hodíte 4+ pro [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]], můžete použít 1[[z_Atomy/0-9/🔔\|🔔]], abyste dočasně potlačili jakékoli speciální schopnosti cíle až do konce jeho příštího [[z_Atomy/T/Tah\|Tahu]]. Mohou dělat jen to, co by zvládl průměrný vesničan: útočit pouze jednou za **1k4** poškození a pohybovat se až o 6 metrů (nemají **žádné** [[z_Atomy/0-9/⛉⛊\|⛉⛊]], [[z_Atomy/0-9/✨\|✨]], [[z_Atomy/L/Létání\|Létání]], regenerace, [[z_Atomy/O/Odolnost\|odolnosti]]/[[z_Atomy/I/Imunita\|imunity]], další vrozené nebo získané schopnosti).
