@@ -23,9 +23,9 @@ Po dokončení krátkého odpočinku můžete utratit [[z_Atomy/0-9/🟥\|🟥]]
 
 
 # 🔋 = Dlouhý odpočinek
-**Dlouhé odpočinky** typicky vyžadují alespoň 6 hodin spánku na bezpečném místě určeném vaším [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], obvykle ubytování v hostinci; může to být také v tajné oáze, dobře zásobené chatě v lese, poblíž posvátné svatyně nebo na podobném místě. Kempování v otevřené divočině nebo v podzemí není běžně dostatečné pro získání plnohodnotného **Dlouhého odpočinku**.
+**Dlouhé odpočinky** typicky vyžadují alespoň 6 hodin spánku na bezpečném místě určeném vaším [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], obvykle ubytování v hostinci (viz [[z_Atomy/U/Ubytování\|Ubytování]]); může to být také v tajné oáze, dobře zásobené chatě v lese, poblíž posvátné svatyně nebo na podobném místě. Kempování v otevřené divočině nebo v podzemí není běžně dostatečné pro získání plnohodnotného **Dlouhého odpočinku**.
 
-Po **dlouhém odpočinku** se hrdinové obnoví všechny [[z_Atomy/0-9/💖\|💖]], many (a dalších specifických zdrojů třídy), [[z_Atomy/0-9/🟥\|🟥]] rovno [[z_Atomy/0-9/💪\|💪]] (minimálně 1) a vyléčí jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. **Dlouhé odpočinky** jsou také skvělou příležitostí pro aktivity v [[z_Atomy/M/Mezidobí\|Mezidobí]].
+Po **dlouhém odpočinku** si Hrdinové obnoví všechny [[z_Atomy/0-9/💖\|💖]], [[z_Atomy/0-9/🌀\|🌀]] (a další zdroje [[2 Důležité/e1_Povolání\|Povolání]]), všechny [[z_Atomy/0-9/🟥\|🟥]] a vyléčí **jedno** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. **Dlouhé odpočinky** jsou také skvělou příležitostí pro aktivity v [[z_Atomy/M/Mezidobí\|Mezidobí]].
 
 </div></div>
 
@@ -64,7 +64,8 @@ Několik nápadů na aktivity během času mimo dobrodružství:
 
 # Ubytování
 Nejlevnější pokoje v hostinci vám ušetří peníze, ale mohou vést ke komplikacím. Některé hostince vám mohou umožnit připlatit za luxusnější pokoj, což vám následující den přinese dočasný [[z_Atomy/D/Dar\|Dar]]. 
-Typické ceny (za osobu/den) jsou: 
+
+Typické ceny za osobu/noc:
 - Chudé (1 [[z_Atomy/0-9/🟠\|🟠]]). Můžete narazit na komplikace...
 - Pohodlné (5 [[z_Atomy/0-9/⚪\|⚪]])
 - Luxusní (5 [[z_Atomy/0-9/🟡\|🟡]]). Můžete získat jeden dočasný [[z_Atomy/D/Dar\|Dar]] následující den.

@@ -3,4 +3,4 @@
 ---
 
 ## (Bývalý) Podvodník
-Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš kriminální kontakt ve většině velkých měst. Nicméně, tvá pověst tě často předchází - dokud se neprokážeš jako důvěryhodný.
+Můžete falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máte kriminální kontakt ve většině velkých měst. Nicméně Vaše pověst Vás často předchází - dokud se neprokážete jako důvěryhodný.

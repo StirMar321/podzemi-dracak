@@ -12,9 +12,9 @@
 
 
 ## Návrat z Výslužby
-Zapomněl jsi více, než většina dnešních dobrodruhů vůbec ví! Popovídej si s [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], co tě přimělo vrátit se z odpočinku?
+Zapomněl jsi více, než většina dnešních dobrodruhů vůbec ví! Popovídej si s [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], co tě přimělo vrátit se z odpočinku.
 - **Uvidíme, jestli si to ještě pamatuji...** Můžete utrpět **1** [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], abyste použili schopnost nebo [[z_Atomy/0-9/✨\|✨]] kouzlo, jako byste měli o 1 [[z_Atomy/L/LVL\|LVL]] více.
-- **Ty moje staré kosti.** Váš věk se na Vás podepsal. **-1** k maximálním [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
+- **Ty moje staré kosti.** Váš věk se na Vás podepsal. **-1** maximálních [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
 </div></div>
 
@@ -25,7 +25,7 @@ Zapomněl jsi více, než většina dnešních dobrodruhů vůbec ví! Popovíde
 
 
 ## Oddaný Ochránce
-Vyber si jednoho spojence ve své partě. Můžeš přežít o +3 více [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], pokud je nablízku. Když utrpí [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], ty také. Pokud zemřou, ty také.
+Vyberte si jednoho spojence ve své partě. Můžete přežít o +3[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] více, pokud je nablízku. Když utrpí [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], Vy také. Pokud zemře, Vy také.
 
 </div></div>
 
@@ -37,7 +37,7 @@ Vyber si jednoho spojence ve své partě. Můžeš přežít o +3 více [[z_Atom
 
 
 ## Udělal jsem ŠPATNÉ rozhodnutí
-Zdvojnásob (nebo čtyřnásob) své počáteční zlato. Získáš (neuvěřitelně mocného) nepřítele, který chce své peníze zpět. Popovídej si s [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], co jsi udělal a kdo tě teď nenávidí?
+Zdvojnásobte (nebo čtyřnásobte) své počáteční [[z_Atomy/0-9/💰\|💰]]. Získáte (neuvěřitelně mocného) nepřítele, který chce své peníze zpět. Popovídej si s [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]], co jsi udělal a kdo tě teď nenávidí?
 
 </div></div>
 
@@ -48,7 +48,7 @@ Zdvojnásob (nebo čtyřnásob) své počáteční zlato. Získáš (neuvěřite
 
 
 ## Strašidelná minulost
-Pronásledují tě hlasy, které ti občas dávají kryptická doporučení. Hlasy jsou někdy velmi užitečné, jindy tě chtějí jen vidět trpět.
+Pronásledují Vás hlasy, které občas dávají kryptická doporučení. Hlasy jsou někdy velmi užitečné, jindy Vás chtějí jen vidět trpět.
 
 </div></div>
 
@@ -59,7 +59,7 @@ Pronásledují tě hlasy, které ti občas dávají kryptická doporučení. Hla
 
 
 ## (Bývalý) Podvodník
-Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš kriminální kontakt ve většině velkých měst. Nicméně, tvá pověst tě často předchází - dokud se neprokážeš jako důvěryhodný.
+Můžete falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máte kriminální kontakt ve většině velkých měst. Nicméně Vaše pověst Vás často předchází - dokud se neprokážete jako důvěryhodný.
 
 </div></div>
 
@@ -70,7 +70,8 @@ Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš
 
 
 ## Sympatický smolař
-(Požadavek: 0 >= [[z_Atomy/0-9/💪\|💪]]). Jednou za den můžeš přehodit neúspěšný hod související s [[z_Atomy/0-9/💪\|💪]] a místo toho použít jiný atribut.
+*Požadavek: 0 >= [[z_Atomy/0-9/💪\|💪]]*
+Jednou za den můžete přehodit neúspěšný hod související s [[z_Atomy/0-9/💪\|💪]] a použít jinou [[z_Atomy/S/Statistiky\|Statistiku]] nebo [[z_Atomy/0-9/⚙️\|⚙️]].
 
 </div></div>
 
@@ -81,7 +82,7 @@ Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš
 
 
 ## Ucho u země
-[[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] ohledně získání nebo vědění klepů o událostech, které se brzy stanou nebo se staly před méně než rokem.
+[[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] ohledně získání nebo znalosti klepů o událostech, které se brzy stanou nebo se staly před méně než rokem.
 
 </div></div>
 
@@ -93,11 +94,13 @@ Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš
 
 
 ## Už jsem tu byl
-1/lokaci (nebo podle uvážení [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]). Náhodou znáš přesně tu osobu, která má informace, které hledáš, nebo by tě mohla dostat z problému, a... Hoď si 1k20.
-  - 1–5: Chtějí tě mrtvého.
-  - 6–12: Dlužíš jim peníze.
-  - 13–19: Mohou být přesvědčeni, aby ti pomohli.
-  - 20+: Jsou tví největší fanoušci nebo tě bláznivě milují.
+*1/lokaci (nebo podle uvážení [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]])*
+Náhodou znáte přesně tu osobu, která má informace, které hledáte, nebo by Vás mohla dostat z problému, a...
+Hoďte **1k20**:
+  - 1–5: Chtějí Vás mrtvého.
+  - 6–12: Dlužíte jim peníze.
+  - 13–19: Mohou být přesvědčeni, aby Vám pomohli.
+  - 20+: Jsou největší fanoušci nebo Vás bláznivě milují.
 
 </div></div>
 
@@ -108,7 +111,8 @@ Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš
 
 
 ## Pardón, chtěl jsem říci...
-(Požadavek: 0 >= [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]) Kdykoli selžeš v [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] [[z_Atomy/0-9/❓\|❓]], můžeš utržit jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (ze ztrapnění) a hodit znovu.
+*Požadavek: 0 >= [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]*
+Kdykoli selžete v [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] [[z_Atomy/0-9/❓\|❓]], můžete utržit [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (ze studu) a hodit znovu.
 
 </div></div>
 
@@ -119,8 +123,8 @@ Můžeš falšovat většinu dokumentů nebo bezchybně napodobovat hlasy. Máš
 
 
 ## Akrobat/Gymnasta
-(Požadavek: Malá [[z_Atomy/V/Velikost\|Velikost]]) 
-Silný spojenec tě může hodit. OPRAVDU daleko. Poloviční poškození z pádu. Viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]].
+*Požadavek: Malá [[z_Atomy/V/Velikost\|Velikost]]*
+Silný spojenec Vámi může hodit. OPRAVDU daleko. Poloviční poškození z pádů. (viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])
 
 </div></div>
 
@@ -131,7 +135,8 @@ Silný spojenec tě může hodit. OPRAVDU daleko. Poloviční poškození z pád
 
 
 ## Nemotorný akrobat
-(Požadavek: 0 >= [[z_Atomy/0-9/🎯\|🎯]]) Kdykoli selžeš v [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/🎯\|🎯]], můžeš hodit znovu. Pokud opět selžeš, následky jsou ŠPATNÉ.
+*Požadavek: 0 >= [[z_Atomy/0-9/🎯\|🎯]]*
+Kdykoli selžete v [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]], můžete hodit znovu. Pokud opět selžete, následky jsou ŠPATNÉ.
 
 </div></div>
 
@@ -143,10 +148,9 @@ Silný spojenec tě může hodit. OPRAVDU daleko. Poloviční poškození z pád
 
 
 ## Divoch
-Ať už jsou to větvičky a květiny ve tvých vlasech, tvůj pach, nebo tvůj způsob chování, divoké bytosti se tě méně bojí a jsou ochotnější ti pomoci. 
-+1 [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]].
+Ať už jsou to větvičky a květiny ve vlasech, pach, nebo Vás způsob chování, divoké bytosti se Vás méně bojí a jsou ochotnější pomoci. **+1** k [[z_Atomy/P/Příroda (❤️‍🔥)\|Přírodě]].
 
-Bezpečná lokace v lese je pro tebe vždy považována za Pohodlné ubytování.
+Bezpečná lokace v lese je pro tebe vždy považována za *Pohodlné ubytování* pro [[z_Atomy/0-9/🔋\|🔋]].
 
 </div></div>
 
@@ -157,7 +161,7 @@ Bezpečná lokace v lese je pro tebe vždy považována za Pohodlné ubytování
 
 
 ## Dotek Víl
-Utržíte polovinu poškození ze všech magických efektů, dvojnásobné poškození od zbraní vyrobených z kovu.
+Utržíte *polovinu* poškození ze všech magických efektů a *dvojnásobné* poškození ze zbraní vyrobených z kovu.
 
 </div></div>
 
@@ -168,7 +172,9 @@ Utržíte polovinu poškození ze všech magických efektů, dvojnásobné pošk
 
 
 ## Survivalista
-Nikdy ti nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně snažíš! [[z_Atomy/0-9/👍\|👍]] pro jedové [[z_Atomy/0-9/❗\|❗]]. +1 k maximálním [[z_Atomy/0-9/🟥\|🟥]].
+Nikdy Vám nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně snažíte! 
+[[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❗\|❗]] související s jedem. 
+**+1** k maximálním [[z_Atomy/0-9/🟥\|🟥]].
 
 </div></div>
 
@@ -179,7 +185,9 @@ Nikdy ti nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně sna�
 
 
 ## Domov na Moři
-Zotavíš se dvakrát tolik [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a [[z_Atomy/0-9/💖\|💖]] při odpočinku na lodi nebo blízko vody. V případě nouze můžeš nahradit prvního důstojníka nebo kapitána. [[z_Atomy/0-9/👍\|👍]] na kontroly související s vodou.
+Uzdravíte si *dvakrát* tolik [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a [[z_Atomy/0-9/💖\|💖]] při [[z_Atomy/O/Odpočinek\|Odpočinku]] na lodi nebo blízko vody. 
+V případě nouze můžete nahradit prvního důstojníka nebo kapitána. 
+[[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] související s vodou.
 
 </div></div>
 
@@ -190,7 +198,10 @@ Zotavíš se dvakrát tolik [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a [[z_A
 
 
 ## Domov v Podzemí
-Můžeš kopat dvakrát rychleji než ostatní. Bezpečné odpočinkové lokace v podzemí pro tebe vždy považují za Luxusní ubytování. Máš potíže odpočívat (proveď [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]]), když prší. 
+Můžete kopat *dvakrát* rychleji než ostatní. 
+Bezpečné lokace v podzemí pro tebe vždy považují za Luxusní [[z_Atomy/U/Ubytování\|Ubytování]]. 
+Máte potíže odpočívat (proveďte [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]]), když prší. 
+
 *"Voda... z NEBE?!"*
 
 </div></div>
@@ -202,7 +213,9 @@ Můžeš kopat dvakrát rychleji než ostatní. Bezpečné odpočinkové lokace 
 
 
 ## (Tajný) Nemrtvý
-**Neobvyklá odolnost**: Jsi imunní vůči nemocem a jedům, utrpíš poloviční poškození z nekrotických efektů a nepotřebuješ jíst, pít nebo dýchat. Děti, zvířata a nebeské bytosti jsou ve tvé přítomnosti nesvé. **-1** [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+**Neobvyklá odolnost**: Jste [[z_Atomy/I/Imunita\|Imunní]] vůči nemocem a jedům, utrpíte *poloviční* poškození z nekrotických efektů a nepotřebujete jíst, pít nebo dýchat.
+Děti, zvířata a nebeské bytosti jsou ve tvé přítomnosti nesvé.
+**-1** k [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]
 
 </div></div>
 
@@ -213,7 +226,8 @@ Můžeš kopat dvakrát rychleji než ostatní. Bezpečné odpočinkové lokace 
 
 
 ## Ošklivá jizva
-Exotické rasy a divoká zvířata jsou k tobě příznivěji nakloněna, "civilizovaní" lidé už méně. [[z_Atomy/0-9/👍\|👍]] při zastrašování.
+Exotické rasy a divoká zvířata jsou k Vám příznivěji nakloněna, "civilizovaní" lidé už méně. 
+[[z_Atomy/0-9/👍\|👍]] při *zastrašování* (viz [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]])
 
 </div></div>
 
@@ -225,7 +239,8 @@ Exotické rasy a divoká zvířata jsou k tobě příznivěji nakloněna, "civil
 
 
 ## Vytříbený vkus
-Vždy máš aktuální znalosti o zvycích a oblékání vyšší třídy a můžeš znát mnoho jejich tajemství. [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] kontroly s vyšší třídou, dokud neuspěješ.
+Vždy máš aktuální znalosti o zvycích a oblékání lepší společnosti. A můžeš znát mnoho jejich tajemství. 
+[[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] na šlechtu, dokud poprvé neuspěješ.
 
 </div></div>
 
@@ -248,7 +263,8 @@ Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] [[z_Atomy/H/Histor
 
 
 ## Nebojácný
-Nic tě nemůže vyděsit. Nikdo tě nemůže zastrašit. **-1** [[z_Atomy/B/Brnění\|Brnění]].
+Nic tě nemůže vyděsit. Nikdo tě nemůže zastrašit. 
+**-1** [[z_Atomy/B/Brnění\|Brnění]].
 
 </div></div>
 
@@ -259,8 +275,9 @@ Nic tě nemůže vyděsit. Nikdo tě nemůže zastrašit. **-1** [[z_Atomy/B/Brn
 
 
 ## Tak hloupý, až jsem občas chytrý
-(Požadavek: 0 >= [[z_Atomy/0-9/📖\|📖]]) Jednou za den můžeš přehodit [[z_Atomy/0-9/📖\|📖]] [[z_Atomy/0-9/❓\|❓]]. 
-Jednou za [[z_Atomy/0-9/🔋\|🔋]]  můžeš přehodit [[z_Atomy/0-9/❗\|❗]] [[z_Atomy/0-9/📖\|📖]].
+*Požadavek: 0 >= [[z_Atomy/0-9/📖\|📖]]*
+Jednou za den můžeš přehodit [[z_Atomy/0-9/📖\|📖]][[z_Atomy/0-9/❓\|❓]].
+Jednou za [[z_Atomy/0-9/🔋\|🔋]] můžeš přehodit [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].
 
 </div></div>
 
@@ -271,6 +288,7 @@ Jednou za [[z_Atomy/0-9/🔋\|🔋]]  můžeš přehodit [[z_Atomy/0-9/❗\|❗]
 
 
 ## Neználek
-(Požadavek: 0 >= [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]). Výsledek 1 nebo méně na jakémkoli hodu souvisejícím s [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se počítá jako přirozená 20.
+*Požadavek: 0 >= [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]*
+Výsledek 1 (nebo méně) na jakémkoli hodu souvisejícím s [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] se počítá jako přirozená **20**.
 
 </div></div>

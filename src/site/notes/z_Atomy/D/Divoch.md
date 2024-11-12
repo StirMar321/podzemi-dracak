@@ -3,7 +3,6 @@
 ---
 
 ## Divoch
-Ať už jsou to větvičky a květiny ve tvých vlasech, tvůj pach, nebo tvůj způsob chování, divoké bytosti se tě méně bojí a jsou ochotnější ti pomoci. 
-+1 [[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]].
+Ať už jsou to větvičky a květiny ve vlasech, pach, nebo Vás způsob chování, divoké bytosti se Vás méně bojí a jsou ochotnější pomoci. **+1** k [[z_Atomy/P/Příroda (❤️‍🔥)\|Přírodě]].
 
-Bezpečná lokace v lese je pro tebe vždy považována za Pohodlné ubytování.
+Bezpečná lokace v lese je pro tebe vždy považována za *Pohodlné ubytování* pro [[z_Atomy/0-9/🔋\|🔋]].

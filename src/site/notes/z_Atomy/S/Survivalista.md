@@ -3,4 +3,6 @@
 ---
 
 ## Survivalista
-Nikdy ti nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně snažíš! [[z_Atomy/0-9/👍\|👍]] pro jedové [[z_Atomy/0-9/❗\|❗]]. +1 k maximálním [[z_Atomy/0-9/🟥\|🟥]].
+Nikdy Vám nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně snažíte! 
+[[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❗\|❗]] související s jedem. 
+**+1** k maximálním [[z_Atomy/0-9/🟥\|🟥]].

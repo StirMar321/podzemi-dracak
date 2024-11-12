@@ -3,4 +3,6 @@
 ---
 
 ## (Tajný) Nemrtvý
-**Neobvyklá odolnost**: Jsi imunní vůči nemocem a jedům, utrpíš poloviční poškození z nekrotických efektů a nepotřebuješ jíst, pít nebo dýchat. Děti, zvířata a nebeské bytosti jsou ve tvé přítomnosti nesvé. **-1** [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
+**Neobvyklá odolnost**: Jste [[z_Atomy/I/Imunita\|Imunní]] vůči nemocem a jedům, utrpíte *poloviční* poškození z nekrotických efektů a nepotřebujete jíst, pít nebo dýchat.
+Děti, zvířata a nebeské bytosti jsou ve tvé přítomnosti nesvé.
+**-1** k [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]

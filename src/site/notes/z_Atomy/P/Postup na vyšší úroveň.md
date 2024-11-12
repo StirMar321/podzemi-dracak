@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/z-atomy/p/postup-na-vyssi-uroven/"}
 ---
 
-# Postup na vyšší úroveň
+## Postup na vyšší úroveň
 [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] **rozhoduje**, kdy umožnit hrdinům postoupit na **vyšší úroveň** ([[z_Atomy/L/LVL\|LVL]]). Typicky kdykoli skupina dokončí dobrodružství odpovídající jejich úrovni. 
 
 **Na 1. úrovni** to může být něco tak jednoduchého, jako vyčištění sklepa od naštvaných krys nebo záchrana někoho z lesa. Jednoduchý úkol, který by neměl trvat déle než pár hodin herního času nebo půl dne času ve hře. Každé další dobrodružství odpovídající úrovni bude obecně trvat déle.
@@ -14,7 +14,7 @@
 
 
 
-# Zvýšení úrovně
+## Zvýšení úrovně
 
 | Kroky                    | Instrukce                                                                                                                                                                                               |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

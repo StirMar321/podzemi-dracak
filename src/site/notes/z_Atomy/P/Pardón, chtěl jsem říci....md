@@ -3,4 +3,5 @@
 ---
 
 ## Pardón, chtěl jsem říci...
-(Požadavek: 0 >= [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]) Kdykoli selžeš v [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] [[z_Atomy/0-9/❓\|❓]], můžeš utržit jedno [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (ze ztrapnění) a hodit znovu.
+*Požadavek: 0 >= [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]*
+Kdykoli selžete v [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]] [[z_Atomy/0-9/❓\|❓]], můžete utržit [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] (ze studu) a hodit znovu.

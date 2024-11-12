@@ -3,4 +3,4 @@
 ---
 
 ## Strašidelná minulost
-Pronásledují tě hlasy, které ti občas dávají kryptická doporučení. Hlasy jsou někdy velmi užitečné, jindy tě chtějí jen vidět trpět.
+Pronásledují Vás hlasy, které občas dávají kryptická doporučení. Hlasy jsou někdy velmi užitečné, jindy Vás chtějí jen vidět trpět.

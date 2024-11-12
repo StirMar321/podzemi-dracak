@@ -3,4 +3,4 @@
 ---
 
 ## Dotek Víl
-Utržíte polovinu poškození ze všech magických efektů, dvojnásobné poškození od zbraní vyrobených z kovu.
+Utržíte *polovinu* poškození ze všech magických efektů a *dvojnásobné* poškození ze zbraní vyrobených z kovu.

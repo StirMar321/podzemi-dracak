@@ -3,5 +3,5 @@
 ---
 
 ## Akrobat/Gymnasta
-(Požadavek: Malá [[z_Atomy/V/Velikost\|Velikost]]) 
-Silný spojenec tě může hodit. OPRAVDU daleko. Poloviční poškození z pádu. Viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]].
+*Požadavek: Malá [[z_Atomy/V/Velikost\|Velikost]]*
+Silný spojenec Vámi může hodit. OPRAVDU daleko. Poloviční poškození z pádů. (viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])

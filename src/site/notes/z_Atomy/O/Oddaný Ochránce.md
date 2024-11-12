@@ -3,4 +3,4 @@
 ---
 
 ## Oddaný Ochránce
-Vyber si jednoho spojence ve své partě. Můžeš přežít o +3 více [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], pokud je nablízku. Když utrpí [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], ty také. Pokud zemřou, ty také.
+Vyberte si jednoho spojence ve své partě. Můžete přežít o +3[[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] více, pokud je nablízku. Když utrpí [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]], Vy také. Pokud zemře, Vy také.
