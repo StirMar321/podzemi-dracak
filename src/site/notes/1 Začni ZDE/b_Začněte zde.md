@@ -9,7 +9,6 @@ Pokud máte zkušenosti s RPG, klidně si vytvořte vlastního hrdinu od začát
 
 > [!NOTE]- **Pro zkušené**
 > Alternativně, pokud se chcete rovnou vrhnout do hlubších vod, váš [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může zahájit vaše dobrodružství na úrovni 3, kdy je vaše [[2 Důležité/e1_Povolání\|Povolání]] již plně rozvinuté a získáte více hrdinských schopností!
-
 # Jak hrát
 Typické herní sezení sestává z jednoho hráče (Průvodce Hrou, dále [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]]), který popisuje scénář, a dalších 3–5 hráčů (skupina Hrdinů), kteří na něj reagují.
 
@@ -60,7 +59,7 @@ Pokud tě zajímají pravidla, jsou vypsaná zde:
 - [[2 Důležité/e2_Rasy\|Rasy]]
 - [[2 Důležité/e3_Původ\|Původ]]
 - [[2 Důležité/f_Motivace Dobrodruha\|Motivace dobrodruha]]
-- [[2 Důležité/g_Karta Hrdiny\|Herní mechaniky]]
+- [[2 Důležité/g_Karta Hrdiny\|Karta Hrdiny]]
 - [[2 Důležité/h_Vybavení\|Vybavení]]
 - [[2 Důležité/i_Magické zbraně\|Magické zbraně]]
 - [[2 Důležité/j_Magické předměty\|Magické předměty]]
