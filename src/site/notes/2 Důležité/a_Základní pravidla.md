@@ -6,12 +6,12 @@
 ## Obsah
 - [[z_Atomy/S/Statistiky\|Statistiky]]
 	- [[z_Atomy/0-9/⚙️\|⚙️]]
+- [[z_Atomy/0-9/📶\|📶]]
 - [[z_Atomy/0-9/❓\|❓]]
 	- [[z_Atomy/P/Příklady ❓\|Příklady ❓]]
 - [[z_Atomy/0-9/❗\|❗]]
 	- [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]
 	- [[z_Atomy/0-9/Hrdinské❗\|Hrdinské❗]]
-- [[z_Atomy/0-9/📶\|📶]]
 - [[z_Atomy/V/Výhody a Nevýhody\|Výhody a Nevýhody]]
 - [[z_Atomy/0-9/💖\|💖]]
 	- [[z_Atomy/0-9/💗\|💗]]
@@ -225,6 +225,20 @@ Využijte [[z_Atomy/0-9/⚙️\|⚙️]] **Vliv** k spřátelení nebo klamání
 </div></div>
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Stupeň obtížnosti/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# 📶 = Stupeň obtížnosti
+- 📶 **8** je snadný
+- 📶 **12** je průměrný
+- 📶 **16** je obtížný
+- 📶 **20+** je extrémně obtížný
+
+</div></div>
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Kontrola Dovedností/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -306,20 +320,6 @@ Každý hrdina **má** pro:
 
 >[!NOTE]- **Příklad**
 >Například [[3 Povolání/Berserk\|Berserk]] má pro [[z_Atomy/0-9/❗\|❗]]:[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👍\|👍]] a [[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👎\|👎]]. Takže by házel všechny své [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] s [[z_Atomy/0-9/👍\|👍]] a všechny své [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]] s [[z_Atomy/0-9/👎\|👎]].
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Stupeň obtížnosti/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-# 📶 = Stupeň obtížnosti
-- 📶 **8** je snadný
-- 📶 **12** je průměrný
-- 📶 **16** je obtížný
-- 📶 **20+** je extrémně obtížný
 
 </div></div>
 
