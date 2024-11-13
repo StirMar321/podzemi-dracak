@@ -3,6 +3,33 @@
 ---
 
 # Základní pravidla
+## Obsah
+- [[z_Atomy/S/Statistiky\|Statistiky]]
+- [[z_Atomy/0-9/⚙️\|⚙️]]
+- [[z_Atomy/0-9/❓\|❓]]
+- [[z_Atomy/P/Příklady ❓\|Příklady ❓]]
+- [[z_Atomy/0-9/❗\|❗]]
+- [[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]
+- [[z_Atomy/0-9/Hrdinské❗\|Hrdinské❗]]
+- [[z_Atomy/0-9/📶\|📶]]
+- [[z_Atomy/V/Výhody a Nevýhody\|Výhody a Nevýhody]]
+- [[z_Atomy/0-9/💖\|💖]]
+- [[z_Atomy/0-9/💗\|💗]]
+- [[z_Atomy/0-9/🩸\|🩸]]
+- [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]
+- [[z_Atomy/0-9/💀\|💀]]
+- [[z_Atomy/0-9/🟥\|🟥]]
+- [[z_Atomy/O/Obnova 🟥\|Obnova 🟥]]
+- [[z_Atomy/V/Velikost\|Velikost]]
+- [[z_Atomy/K/Koncentrace\|Koncentrace]]
+- [[z_Atomy/0-9/🏃\|🏃]]
+- [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]]
+- [[z_Atomy/V/Vzdálenost\|Vzdálenost]]
+- [[z_Atomy/K/Kryt\|Kryt]]
+- [[z_Atomy/S/Skrývání\|Skrývání]]
+- [[z_Atomy/CH/Chycení\|Chycení]]
+- [[z_Atomy/S/Stavy\|Stavy]]
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/s/statistiky/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -216,14 +243,14 @@ Výsledek se porovná s [[z_Atomy/0-9/📶\|📶]], který musí být dorovnán 
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/p/priklady-kontrol-dovednosti/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/p/priklady/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 
-> [!NOTE]- **Příklady kontrol dovedností**
-> Zpozorování velkého Zlobra schovaného za malým keřem může být hod na **[[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]]:[[z_Atomy/0-9/📶\|📶]] 8**
+> [!NOTE]- **Příklady [[z_Atomy/0-9/❓\|❓]]**
+>Zpozorování velkého Zlobra schovaného za malým keřem může být hod na **[[z_Atomy/V/Vnímání (❤️‍🔥)\|Vnímání (❤️‍🔥)]]:[[z_Atomy/0-9/📶\|📶]] 8**
 >Skrytý průchod za knihovnou může být hod na **[[z_Atomy/Z/Zkoumání (📖)\|Zkoumání (📖)]]:[[z_Atomy/0-9/📶\|📶]] 12**
 >Pokus o uklidnění zraněného Sovověda uvězněného v pasti může být hod na **[[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]]:[[z_Atomy/0-9/📶\|📶]] 16**
 >Určit skutečné úmysly vycvičeného Špióna může být hod na **[[z_Atomy/V/Vhled (❤️‍🔥)\|Vhled (❤️‍🔥)]]:[[z_Atomy/0-9/📶\|📶]] 18**
@@ -273,13 +300,12 @@ Efekty ❗ ignorují [[z_Atomy/0-9/⛉⛊\|⛉⛊]], **nemohou** udělit [[z_Ato
 
 
 ### Hrdinské❗
-Každý hrdina má: 
+Každý hrdina **má** pro:
 - jeden typ [[z_Atomy/0-9/❗\|❗]] **vždy** [[z_Atomy/0-9/👍\|👍]]
 - jiný typ [[z_Atomy/0-9/❗\|❗]] **vždy** [[z_Atomy/0-9/👎\|👎]]
-- dva [[z_Atomy/0-9/❗\|❗]] *neutrální*
 
 >[!NOTE]- **Příklad**
->Například [[3 Povolání/Berserk\|Berserk]] má [[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👍\|👍]], [[z_Atomy/0-9/📖\|📖]] [[z_Atomy/0-9/👎\|👎]]. Takže by házel všechny své [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] s [[z_Atomy/0-9/👍\|👍]] a všechny své [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]] s [[z_Atomy/0-9/👎\|👎]].
+>Například [[3 Povolání/Berserk\|Berserk]] má pro [[z_Atomy/0-9/❗\|❗]]:[[z_Atomy/0-9/💪\|💪]]=[[z_Atomy/0-9/👍\|👍]] a [[z_Atomy/0-9/📖\|📖]]=[[z_Atomy/0-9/👎\|👎]]. Takže by házel všechny své [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] s [[z_Atomy/0-9/👍\|👍]] a všechny své [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]] s [[z_Atomy/0-9/👎\|👎]].
 
 </div></div>
 
