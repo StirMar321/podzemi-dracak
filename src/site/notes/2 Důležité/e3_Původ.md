@@ -185,7 +185,7 @@ Nikdy Vám nedojdou zásoby. Cokoli může být jídlo, pokud se dostatečně sn
 
 
 ## Domov na Moři
-Uzdravíte si *dvakrát* tolik [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a [[z_Atomy/0-9/💖\|💖]] při [[z_Atomy/O/Odpočinek\|Odpočinku]] na lodi nebo blízko vody. 
+Uzdravíte si *dvakrát* tolik [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] a [[z_Atomy/0-9/💖\|💖]] při  [[z_Atomy/0-9/🪫\|🪫]]/[[z_Atomy/0-9/🔋\|🔋]] na lodi nebo blízko vody. 
 V případě nouze můžete nahradit prvního důstojníka nebo kapitána. 
 [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]] související s vodou.
 

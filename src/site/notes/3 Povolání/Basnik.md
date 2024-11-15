@@ -36,13 +36,13 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 
 ## Zlomyslný výsměch
 ![Zlomyslný výsměch.png|300](/img/user/z_img/Zlomysln%C3%BD%20v%C3%BDsm%C4%9Bch.png)
-**TRIK**
-**1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🏹\|🏹]] 12m
 
-Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
+| TRIK                  | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                     |
+| --------------------- | ---------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🏹\|🏹]]                | 12 metrů                                                                                       |
+| **Zlomyslný výsměch** | Cíl utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]]. |
+| Vyšší úrovně          | +**3** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)                                                |
 
-**Vyšší úrovně**: +**3** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
 </div></div>
 
@@ -54,11 +54,12 @@ Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškozen�
 
 ## Básníkova Inspirace
 ![Básníkova Inspirace.png|300](/img/user/z_img/B%C3%A1sn%C3%ADkova%20Inspirace.png)
-**[[z_Atomy/R/Reakce\|Reakce]] [[z_Atomy/Z/Zdarma\|Zdarma]]**
-[[z_Atomy/0-9/🔔\|🔔]] = 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]
-[[z_Atomy/R/Reakce\|Reakce]]: spojenec hodí kostku
 
-Spojenec může znovu hodit jednou libovolnou kostku. Musí si ponechat jeden z výsledků.
+| [[z_Atomy/R/Reakce\|Reakce]]              | [[z_Atomy/Z/Zdarma\|Zdarma]], spojenec hodí kostku                                                           |
+| ----------------------- | ------------------------------------------------------------------------------------------ |
+| Max [[z_Atomy/0-9/🔔\|🔔]]              | 2x[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🔋\|🔋]]                                                                         |
+| **Básníkova Inspirace** | Spojenec může znovu hodit jednou libovolnou kostku. <br>Musí si ponechat jeden z výsledků. |
+
 
 </div></div>
 

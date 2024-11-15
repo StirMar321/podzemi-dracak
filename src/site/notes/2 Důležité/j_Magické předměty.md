@@ -83,7 +83,7 @@ Neobvyklá hůlka (2 nabití)
 **Nabíjení**: Dejte ji divokému ptákovi a nechte ho volně létat. Vyzdvihněte ji tam, kde ji pták upustí.
 
 **Hůlka Ledového auroru** 
-(stupeň 4 [[z_Atomy/L/Ledová Aura\|Ledová Aura]])  
+(stupeň 4 [[z_Atomy/L/Náledí\|Náledí]])  
 Vzácná hůlka (2 nabití)  
 **Nabíjení**: Nechte hůlku na dně jezera, dokud jezero nezamrzne.
 

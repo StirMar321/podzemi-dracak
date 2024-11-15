@@ -12,14 +12,13 @@
 
 ## Lákání
 ![Lákání.png|300](/img/user/z_img/L%C3%A1k%C3%A1n%C3%AD.png)
-**TRIK**
-**1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] 8m
-[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Pokud cíl neuspěje na [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]], utrpí **1k6** nekrotického poškození a přesune se 2 metry blíže k Vám. Opakujte [[z_Atomy/0-9/❗\|❗]], dokud cíl uspěje nebo se nemůže pohnout blíž.
-
-**Vyšší úrovně**: Velikost kostky se zvětší každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20) *(k6»k8»k10»k12»k20)*
+| TRIK         | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                             |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]       | 8 metrů                                                                                                                                                                                |
+| **Lákání**   | Cíl provede[[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].<br>Při neúspěchu utrpí **1k6** nekrotického poškození a přesune se o 2 metry blíže k Vám. <br>Opakujte [[z_Atomy/0-9/❗\|❗]], dokud cíl uspěje nebo se nemůže pohnout blíž. |
+| Vyšší úrovně | Velikost kostky se zvětší každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20) *(k6»k8»k10»k12»k20)*                                                                                                         |
+*[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]*
 
 </div></div>
 
@@ -29,16 +28,15 @@ Pokud cíl neuspěje na [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤
 
 
 
-## Chřadnoucí dotek
+## Chřadnoucí Dotek
 ![Chřadnoucí dotek.png|300](/img/user/z_img/Ch%C5%99adnouc%C3%AD%20dotek.png)
-**TRIK**
-**1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] Dotyk
 
-Cíl utrží **1k12** nekrotického poškození. 
-Cíl je považován za *nemrtvého* do konce Vašeho příštího [[z_Atomy/T/Tah\|Tahu]].
+| TRIK                 | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                             |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]               | Dotyk                                                                                                                  |
+| **Chřadnoucí Dotek** | Cíl utrží **1k12** nekrotického poškození. <br>Cíl je považován za *nemrtvého* do konce Vašeho příštího [[z_Atomy/T/Tah\|Tahu]]. |
+| Vyšší úrovně         | +**6** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)                                                                        |
 
-**Vyšší úrovně**: +**6** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
 </div></div>
 
@@ -49,16 +47,16 @@ Cíl je považován za *nemrtvého* do konce Vašeho příštího [[z_Atomy/T/Ta
 
 
 
-## Past temnoty
+## Past Temnoty
 ![Past temnoty.png|300](/img/user/z_img/Past%20temnoty.png)
-**STUPEŇ 1**
-**2 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] 1m
-[[z_Atomy/K/Koncentrace\|Koncentrace]]: 1 minuta
 
-První bytost, která vstoupí do dosahu utrží **3k12** nekrotického poškození. Středně [[z_Atomy/V/Velikost\|velká]] nebo menší bytost je navíc [[z_Atomy/CH/Chycen\|Chycena]] stínovými chapadly.
+| [[z_Atomy/S/Stupeň\|Stupeň]] 1     | 2 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]           | 1 metr                                                                                                                                                                          |
+| [[z_Atomy/K/Koncentrace\|Koncentrace]]  | 1 minuta                                                                                                                                                                        |
+| **Past Temnoty** | První bytost, která vstoupí do dosahu utrží **3k12** nekrotického poškození. <br>Středně [[z_Atomy/V/Velikost\|velká]] nebo menší bytost je navíc [[z_Atomy/CH/Chycen\|Chycena]] stínovými chapadly. |
+| **[[z_Atomy/P/Posílení\|Posílení]]** | +**1k12** poškození                                                                                                                                                             |
 
-**[[z_Atomy/P/Posílení\|Posílení]]**: +**1k12** poškození.
 
 </div></div>
 
@@ -68,16 +66,16 @@ První bytost, která vstoupí do dosahu utrží **3k12** nekrotického poškoze
 
 
 
-## Plášť stínů
+## Plášť Stínů
 ![Plášť stínů.png|300](/img/user/z_img/Pl%C3%A1%C5%A1%C5%A5%20st%C3%ADn%C5%AF.png)
-**STUPEŇ 2**
-**2 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] 1m
-[[z_Atomy/K/Koncentrace\|Koncentrace]] 1 minuta
 
-Obklopíte se stínem. [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti Vám mají [[z_Atomy/0-9/👎\|👎]] a první útočník za [[z_Atomy/K/Kolo\|Kolo]] navíc utrží **1k12** nekrotického poškození.
+| [[z_Atomy/S/Stupeň\|Stupeň]] 2     | 2 [[z_Atomy/A/Akce\|Akce]]                                                                                                                               |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]           | 1 metr                                                                                                                                   |
+| [[z_Atomy/K/Koncentrace\|Koncentrace]]  | 1 minuta                                                                                                                                 |
+| **Plášť Stínů**  | Obklopíte se stínem. [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti Vám mají [[z_Atomy/0-9/👎\|👎]] <br>a první útočník za [[z_Atomy/K/Kolo\|Kolo]] navíc utrží **1k12** nekrotického poškození. |
+| **[[z_Atomy/P/Posílení\|Posílení]]** | +**1k12** poškození                                                                                                                      |
 
-**[[z_Atomy/P/Posílení\|Posílení]]**: +**1k12** poškození.
 
 </div></div>
 
@@ -87,17 +85,15 @@ Obklopíte se stínem. [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti Vám maj�
 
 
 
-## Upíří žízeň
+## Upíří Žízeň
 ![Upíří žízeň.png|300](/img/user/z_img/Up%C3%AD%C5%99%C3%AD%20%C5%BE%C3%ADze%C5%88.png)
-**STUPEŇ 3**
-**3 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] 1m
-[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Udělte **4k12** poškození všem bytostem v dosahu a obnovte své [[z_Atomy/0-9/💖\|💖]] rovnající se poškození. 
-Bytosti provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Za každý úspěch utržíte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
+| [[z_Atomy/S/Stupeň\|Stupeň]] 3     | 3 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                           |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]           | 1 metr                                                                                                                                                               |
+| **Upíří Žízeň**  | Udělte **4k12** poškození všem bytostem v dosahu a obnovte své [[z_Atomy/0-9/💖\|💖]] rovnající se poškození. <br>Bytosti provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Za každý úspěch utržíte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]. |
+| **[[z_Atomy/P/Posílení\|Posílení]]** | +1[[z_Atomy/0-9/📶\|📶]]                                                                                                                                                             |
 
-**[[z_Atomy/P/Posílení\|Posílení]]**: +1[[z_Atomy/0-9/📶\|📶]].
 
 </div></div>
 
@@ -107,15 +103,14 @@ Bytosti provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Za každý 
 
 
 
-## Větší stín
+## Větší Stín
 ![Větší stín.png|300](/img/user/z_img/V%C4%9Bt%C5%A1%C3%AD%20st%C3%ADn.png)
-**STUPEŇ 4**
-**3 [[z_Atomy/A/Akce\|Akce]]**
 
-Přivolejte vedle sebe **5k12 Větší Stín** (viz [[z_Atomy/P/Poskoci\|Poskoci]]). Můžete mít maximálně **1 Větší stín**. 
-Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|Stínových sluhů]]. Umístěte je kamkoliv do 8m od **Většího stínu**.
+| [[z_Atomy/S/Stupeň\|Stupeň]] 4     | 3 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Větší Stín**   | Přivolejte vedle sebe **5k12 Větší Stín** (viz [[z_Atomy/P/Poskoci\|Poskoci]]). Můžete mít maximálně **1 Větší stín**. <br>Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|Stínových sluhů]]. Umístěte je kamkoliv do 8m od **Většího stínu**. |
+| **[[z_Atomy/P/Posílení\|Posílení]]** | +**1k12** poškození a +1 [[z_Atomy/S/Stínový sluha\|Stínový sluha]].                                                                                                                                                                                    |
 
-**[[z_Atomy/P/Posílení\|Posílení]]**: +**1k12** poškození a +1 [[z_Atomy/S/Stínový sluha\|Stínový sluha]].
 
 </div></div>
 
@@ -125,17 +120,16 @@ Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|Stínových sl
 
 
 
-## Hnisající rány
+## Hnisající Rány
 ![Hnisající rány.png|300](/img/user/z_img/Hnisaj%C3%ADc%C3%AD%20r%C3%A1ny.png)
-**STUPEŇ 5**
-**3 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] 8m
-[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Zraněné bytosti v dosahu, které neuspějí [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] utrpí **6k12** nekrotického poškození.
-Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]].
+| [[z_Atomy/S/Stupeň\|Stupeň]] 5       | 3 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                          |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]             | 8 metry                                                                                                                                             |
+| **Hnisající Rány** | Zraněné bytosti v dosahu, které neuspějí [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]], utrpí **6k12** nekrotického poškození.<br>Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]]. |
+| **[[z_Atomy/P/Posílení\|Posílení]]**   | +**1k12** poškození                                                                                                                                 |
+*[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]*
 
-**[[z_Atomy/P/Posílení\|Posílení]]**: +**1k12** poškození.
 
 </div></div>
 
@@ -147,16 +141,14 @@ Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]
 
 ## Nevyslovitelné slovo
 ![Nevyslovitelné slovo.png|300](/img/user/z_img/Nevysloviteln%C3%A9%20slovo.png)
-**STUPEŇ 6**
-**3 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🏹\|🏹]] 8m
-[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]
 
-Nelegendární bytost **zemře** při neúspěšné [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].
-Pokud uspěje, **Sesílatel** ztratí všechny své [[z_Atomy/0-9/💖\|💖]] a začne [[z_Atomy/0-9/🩸\|🩸]].
-Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]] nebo [[z_Atomy/0-9/👍\|👍]], pokud má všechny [[z_Atomy/0-9/💖\|💖]].
+| [[z_Atomy/S/Stupeň\|Stupeň]] 6             | 3 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                                                    |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🏹\|🏹]]                   | 8 metry                                                                                                                                                                                                                       |
+| **Nevyslovitelné slovo** | Nelegendární bytost **zemře** při neúspěchu [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].<br>Pokud uspěje, **Sesílatel** ztratí všechny své [[z_Atomy/0-9/💖\|💖]] a začne [[z_Atomy/0-9/🩸\|🩸]].<br>Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]] nebo [[z_Atomy/0-9/👍\|👍]], pokud má všechny [[z_Atomy/0-9/💖\|💖]]. |
+| **[[z_Atomy/P/Posílení\|Posílení]]**         | +1 [[z_Atomy/0-9/📶\|📶]] a +2 metry [[z_Atomy/0-9/🏹\|🏹]].                                                                                                                                                                                                  |
+*[[z_Atomy/0-9/📶 Hrdinských efektů\|📶 Hrdinských efektů]]: 10+[[z_Atomy/0-9/🗝\|🗝]]*
 
-**[[z_Atomy/P/Posílení\|Posílení]]**: +1 [[z_Atomy/0-9/📶\|📶]] a +2 metry [[z_Atomy/0-9/🏹\|🏹]].
 
 </div></div>
 
@@ -166,15 +158,14 @@ Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]
 
 
 
-## Nakažlivá smrt
+## Nakažlivá Smrt
 ![Nakažlivá smrt.png|300](/img/user/z_img/Naka%C5%BEliv%C3%A1%20smrt.png)
-**STUPEŇ 7**
-**3 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] 8m
 
-Udělí **8k12** nekrotického poškození bytosti v dosahu. 
-Pokud bytost zemře, násilně exploduje a MUSÍTE udělit stejné poškození jiné bytosti do vzdálenosti **12 metrů** od původního cíle, která ještě nebyla tímto efektem zasažena. 
-Tento proces se opakuje, dokud nějaká bytost přežije nebo pokud se v dosahu nenacházejí žádná nezasažená bytost. *Může zasáhnout i spojence.*
+| STUPEŇ 7           | 3 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]             | 8m                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Nakažlivá Smrt** | Udělí **8k12** nekrotického poškození bytosti v dosahu. <br>Pokud bytost zemře, násilně exploduje a **musíte** udělit stejné poškození jiné bytosti do vzdálenosti **12 metrů** od původního cíle, která ještě nebyla tímto efektem zasažena. <br>Tento proces se opakuje, dokud nějaká bytost přežije nebo pokud se v dosahu nenacházejí žádná nezasažená bytost. *Může zasáhnout i spojence.* |
+
 
 </div></div>
 

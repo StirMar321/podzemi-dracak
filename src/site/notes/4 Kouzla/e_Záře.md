@@ -12,14 +12,13 @@
 
 ## Kázání
 ![Kázání.png|300](/img/user/z_img/K%C3%A1z%C3%A1n%C3%AD.png)
-**TRIK**
-**1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] 4m
 
-Cíl utrží **1k6** zářivé poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. 
-Dvojnásobné poškození proti *nemrtvým* a cílům za [[z_Atomy/K/Kryt\|Krytem]].
+| TRIK         | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                   |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]       | 4 metry                                                                                                                      |
+| **Kázání**   | Cíl utrží **1k6** zářivé poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. <br>Dvojnásobné poškození proti *nemrtvým* a cílům za [[z_Atomy/K/Kryt\|Krytem]]. |
+| Vyšší úrovně | +**1k6** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)                                                                            |
 
-**Vyšší úrovně**: +**1k6** poškození každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
 </div></div>
 
@@ -29,15 +28,15 @@ Dvojnásobné poškození proti *nemrtvým* a cílům za [[z_Atomy/K/Kryt\|Kryte
 
 
 
-## Čestný úder
+## Čestný Úder
 ![Čestný úder.png|300](/img/user/z_img/%C4%8Cestn%C3%BD%20%C3%BAder.png)
-**TRIK**
-**1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] 2m
 
-Dejte sobě/spojenci v dosahu [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]] až do konce příštího tahu.
+| TRIK            | 1 [[z_Atomy/A/Akce\|Akce]]                                                                |
+| --------------- | ------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]          | 2m                                                                        |
+| **Čestný úder** | Dejte sobě/spojenci v dosahu [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]] až do konce příštího tahu. |
+| Vyšší úrovně    | +1 metr [[z_Atomy/0-9/🫱\|🫱]] každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)                             |
 
-**Vyšší úrovně**: +1 metr [[z_Atomy/0-9/🫱\|🫱]] každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
 
 </div></div>
 
@@ -50,17 +49,13 @@ Dejte sobě/spojenci v dosahu [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔�
 
 ## Uzdravení
 ![Uzdravení.png|300](/img/user/z_img/Uzdraven%C3%AD.png)
-**STUPEŇ 1**
-**1 AKCE**
-[[z_Atomy/0-9/🫱\|🫱]] Dotyk
 
-Dotkněte se bytosti a obnovte **1k6+[[z_Atomy/0-9/🗝\|🗝]]**[[z_Atomy/0-9/💖\|💖]].
+| STUPEŇ 1         | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                         |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]           | Dotyk                                                                                                                                                                                              |
+| **Uzdravení**    | Dotkněte se bytosti a obnovte **1k6+[[z_Atomy/0-9/🗝\|🗝]]**[[z_Atomy/0-9/💖\|💖]].                                                                                                                                                |
+| **[[z_Atomy/P/Posílení\|Posílení]]** | Vyberte jednu z možností:<br>+1 Cíl<br>+6 metrů [[z_Atomy/0-9/🫱\|🫱]]<br>+**1k6** [[z_Atomy/0-9/💖\|💖]]<br>Pokud je utraceno 5+ [[z_Atomy/0-9/🌀\|🌀]], zrušte 1 negativní stav *(např. [[z_Atomy/O/Oslepen\|Oslepen]], [[z_Atomy/O/Ohlušen\|Ohlušen]], [[z_Atomy/Z/Zkameněn\|Zkameněn]], [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] atd.)* |
 
-**[[z_Atomy/P/Posílení\|Posílení]]**: Vyberte jednu z možností:
-- +1 Cíl
-- +6 metrů [[z_Atomy/0-9/🫱\|🫱]]
-- +**1k6** [[z_Atomy/0-9/💖\|💖]]
-- Pokud je utraceno 5+ [[z_Atomy/0-9/🌀\|🌀]], zrušte 1 negativní stav *(např. [[z_Atomy/O/Oslepen\|Oslepen]], [[z_Atomy/O/Ohlušen\|Ohlušen]], [[z_Atomy/Z/Zkameněn\|Zkameněn]], [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] atd.)*
 
 </div></div>
 
@@ -72,13 +67,13 @@ Dotkněte se bytosti a obnovte **1k6+[[z_Atomy/0-9/🗝\|🗝]]**[[z_Atomy/0-9/�
 
 ## Ochrana
 ![Ochrana.png|300](/img/user/z_img/Ochrana.png)
-**STUPEŇ 2**
-**2 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/T/Trvání\|Trvání]]: 1 hodina
 
-Označte ochotnou bytost jako svého chráněnce na 1 hodinu. Přijímá **polovinu poškození** ze všech útoků, Vy přijmete druhou polovinu.
+| [[z_Atomy/S/Stupeň\|Stupeň]] 2     | 2 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/T/Trvání\|Trvání]]       | 1 hodina                                                                                                                                  |
+| **Ochrana**      | Označte ochotnou bytost jako svého chráněnce na 1 hodinu.<br>Přijímá **polovinu poškození** ze všech [[z_Atomy/0-9/⚔️\|⚔️]], Vy přijmete druhou polovinu. |
+| **[[z_Atomy/P/Posílení\|Posílení]]** | +1 hodina [[z_Atomy/T/Trvání\|Trvání]]                                                                                                                      |
 
-**[[z_Atomy/P/Posílení\|Posílení]]**: +1 hodina [[z_Atomy/T/Trvání\|Trvání]].
 
 </div></div>
 
@@ -88,15 +83,15 @@ Označte ochotnou bytost jako svého chráněnce na 1 hodinu. Přijímá **polov
 
 
 
-## Štít spravedlnosti
+## Štít Spravedlnosti
 ![Štít spravedlnosti.png|300](/img/user/z_img/%C5%A0t%C3%ADt%20spravedlnosti.png)
-**STUPEŇ 3**
-**1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/R/Reakce\|Reakce]]: při [[z_Atomy/0-9/🛡️\|🛡️]]
 
-[[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]]. Odražte zářivé poškození zpět na útočníka rovné bráněnému poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]].  
+| [[z_Atomy/S/Stupeň\|Stupeň]] 3           | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                    |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/R/Reakce\|Reakce]]             | při [[z_Atomy/0-9/🛡️\|🛡️]]                                                                                                   |
+| **Štít Spravedlnosti** | [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]]. Odražte zářivé poškození zpět na útočníka rovné bráněnému poškození. <br>Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. |
+| **Posílení**           | +5 [[z_Atomy/B/Brnění\|Brnění]]                                                                                                 |
 
-**Posílení:** +5 [[z_Atomy/B/Brnění\|Brnění]].
 
 </div></div>
 
@@ -108,14 +103,13 @@ Označte ochotnou bytost jako svého chráněnce na 1 hodinu. Přijímá **polov
 
 ## Odsouzení
 ![Odsouzení.png|300](/img/user/z_img/Odsouzen%C3%AD.png)
-**STUPEŇ 4**  
-**2 [[z_Atomy/A/Akce\|Akce]]**  
-[[z_Atomy/0-9/🫱\|🫱]] 4m
-*Můžete zacílit pouze na bytost, která Vám nebo spojenci zasadila [[z_Atomy/0-9/💥\|💥]] od Vašeho posledního [[z_Atomy/T/Tah\|Tahu]].*
 
-Udělte **2k12+20** zářivého poškození bytosti. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]] a [[z_Atomy/K/Kryt\|Kryt]].
+| [[z_Atomy/S/Stupeň\|Stupeň]] 4     | 2 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                      |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]           | 4 metry                                                                                                                                                                                         |
+| **Odsouzení**    | *Můžete zacílit pouze na bytost, která Vám nebo spojenci zasadila [[z_Atomy/0-9/💥\|💥]] od Vašeho posledního [[z_Atomy/T/Tah\|Tahu]].*<br>Udělte **2k12+20** zářivého poškození bytosti. <br>Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]] a [[z_Atomy/K/Kryt\|Kryt]]. |
+| **[[z_Atomy/P/Posílení\|Posílení]]** | +**1k12** poškození.                                                                                                                                                                            |
 
-**[[z_Atomy/P/Posílení\|Posílení]]**: +**1k12** poškození.
 
 </div></div>
 
@@ -127,14 +121,13 @@ Udělte **2k12+20** zářivého poškození bytosti. Ignoruje [[z_Atomy/0-9/⛉�
 
 ## Exkomunikace
 ![Exkomunikace.png|300](/img/user/z_img/Exkomunikace.png)
-**STUPEŇ 5**  
-**2 [[z_Atomy/A/Akce\|Akce]]**  
-[[z_Atomy/0-9/🫱\|🫱]] 4 metry
-*Můžete zacílit pouze bytost, která snížila spojenci [[z_Atomy/0-9/💖\|💖]] na **0** nebo způsobila [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] od Vašeho posledního [[z_Atomy/T/Tah\|Tahu]].*
 
-Neomylně bytosti udělíte **50** zářivého poškození. Toto poškození nelze žádným způsobem snížit ani zmírnit.
+| STUPEŇ 5         | 2 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                                                                                 |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]           | 4 metry                                                                                                                                                                                                                                                    |
+| **Exkomunikace** | *Můžete zacílit pouze bytost, která snížila spojenci [[z_Atomy/0-9/💖\|💖]] na **0** <br>nebo způsobila [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]] od Vašeho posledního [[z_Atomy/T/Tah\|Tahu]].*<br>Neomylně bytosti udělíte **50** zářivého poškození. <br>Toto poškození nelze žádným způsobem snížit ani zmírnit. |
+| **[[z_Atomy/P/Posílení\|Posílení]]** | +2 metry [[z_Atomy/0-9/🫱\|🫱]]                                                                                                                                                                                                                                            |
 
-**[[z_Atomy/P/Posílení\|Posílení]]**: +2 metry [[z_Atomy/0-9/🫱\|🫱]].
 
 </div></div>
 
@@ -146,17 +139,13 @@ Neomylně bytosti udělíte **50** zářivého poškození. Toto poškození nel
 
 ## Oběť
 ![Oběť.png|300](/img/user/z_img/Ob%C4%9B%C5%A5.png)
-**STUPEŇ 6**  
-**1 [[z_Atomy/A/Akce\|Akce]]**  
-[[z_Atomy/0-9/🫱\|🫱]] 4m
 
-Snižte své [[z_Atomy/0-9/💖\|💖]] na **0**. Nemůžete mít více než 0 [[z_Atomy/0-9/💖\|💖]] do konce [[z_Atomy/0-9/🔋\|🔋]].
+| [[z_Atomy/S/Stupeň\|Stupeň]] 6     | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]           | 4 metry                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Oběť**         | Snižte své [[z_Atomy/0-9/💖\|💖]] na **0**. Nemůžete mít více než 0 [[z_Atomy/0-9/💖\|💖]] do konce [[z_Atomy/0-9/🔋\|🔋]].<br>Uzdravte [[z_Atomy/0-9/💖\|💖]] rovnající se Vašim **maximálním** [[z_Atomy/0-9/💖\|💖]], <br>rozdělený podle vašeho výběru mezi libovolný počet bytostí.<br>Můžete oživit bytost, která zemřela ([[z_Atomy/0-9/💀\|💀]]) během poslední minuty, <br>pokud mu obnovíte alespoň **20** [[z_Atomy/0-9/💖\|💖]] (což navíc vyléčí 2 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]), <br>pokud nebyla tímto kouzlem oživena dříve. |
+| **[[z_Atomy/P/Posílení\|Posílení]]** | +6 metrů [[z_Atomy/0-9/🫱\|🫱]].                                                                                                                                                                                                                                                                                                                                                                                          |
 
-Uzdravte [[z_Atomy/0-9/💖\|💖]] rovnající se Vašim **maximálním** [[z_Atomy/0-9/💖\|💖]], rozdělený podle vašeho výběru mezi libovolný počet bytostí v dosahu.
-
-Můžete oživit bytost, která zemřela ([[z_Atomy/0-9/💀\|💀]]) během poslední minuty, pokud mu obnovíte alespoň **20** [[z_Atomy/0-9/💖\|💖]] (což navíc vyléčí 2 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]), pokud nebyla tímto kouzlem oživena dříve.
-
-**[[z_Atomy/P/Posílení\|Posílení]]**: +6 metrů [[z_Atomy/0-9/🫱\|🫱]].
 
 </div></div>
 
@@ -168,11 +157,12 @@ Můžete oživit bytost, která zemřela ([[z_Atomy/0-9/💀\|💀]]) během pos
 
 ## Vykoupení
 ![Vykoupení.png|300](/img/user/z_img/Vykoupen%C3%AD.png)
-**STUPEŇ 9**  
-Čas sesílání: 24 hodin
-*Vyžaduje diamant v hodnotě alespoň 10 000 [[z_Atomy/0-9/🟡\|🟡]], který toto kouzlo spotřebuje*
 
-Oživte libovolný počet zesnulých bytostí do vzdálenosti 2 kilometrů, kteří zemřeli v posledním roce, pokud nezemřeli stářím nebo nebyli dříve oživeni tímto kouzlem.
+| [[z_Atomy/S/Stupeň\|Stupeň]] 9  | 24 Hodin                                                                                                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Požadavek     | *Vyžaduje diamant v hodnotě alespoň 10 000 [[z_Atomy/0-9/🟡\|🟡]], který toto kouzlo spotřebuje*                                                                                         |
+| **Vykoupení** | Oživte libovolný počet zesnulých bytostí do vzdálenosti 2 kilometrů, <br>kteří zemřeli v posledním roce, pokud nezemřeli stářím nebo nebyli dříve oživeni tímto kouzlem. |
+
 
 </div></div>
 
@@ -186,14 +176,11 @@ Oživte libovolný počet zesnulých bytostí do vzdálenosti 2 kilometrů, kte�
 
 ## Přivolání Duchovního strážce
 ![Přivolání Duchovního strážce.png|300](/img/user/z_img/P%C5%99ivol%C3%A1n%C3%AD%20Duchovn%C3%ADho%20str%C3%A1%C5%BEce.png)
-**STUPEŇ 1**  
-**1 [[z_Atomy/A/Akce\|Akce]]**
 
-Přivolejte duchovního společníka, který Vás věrně následuje. Má [[z_Atomy/I/Imunita\|Imunitu]] vůči všemu poškození a škodlivým efektům. 
-Trvá, dokud: toto kouzlo nevyvoláte znovu,[[z_Atomy/0-9/🔋\|🔋]], nebo dokud nevyléčí tolikrát, kolik bylo utraceno many při jeho přivolání.
-
-**[[z_Atomy/P/Posílení\|Posílení]]**: Větší kostka (k12 je max). *(1k6 » 1k8 » 1k10 » 1k12)*
-
+| STUPEŇ 1                         | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                                                                                                |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Přivolání Duchovního strážce** | Přivolejte duchovního společníka, který Vás věrně následuje. <br>Má [[z_Atomy/I/Imunita\|Imunitu]] vůči všemu poškození a škodlivým efektům. <br>Trvá, dokud: toto kouzlo nevyvoláte znovu,[[z_Atomy/0-9/🔋\|🔋]], nebo dokud nevyléčí tolikrát, <br>kolik bylo utraceno [[z_Atomy/0-9/🌀\|🌀]] při jeho přivolání. |
+| **[[z_Atomy/P/Posílení\|Posílení]]**                 | Větší kostka (k12 je max). <br>*(1k6 » 1k8 » 1k10 » 1k12)*                                                                                                                                                                                                                |
 >[!NOTE]- **Vzhled je na Vás**
 >Váš Duchovní strážce může mít podobu jakéhokoli malého přátelského zvířete nebo podobného tvora (pes, jehně, králík, vrabec atd.). Nezapomeňte dát svému kamarádovi také jméno! *Expecto Patronum!*
 

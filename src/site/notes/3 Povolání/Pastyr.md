@@ -57,14 +57,11 @@ Vyberte jednu možnost:
 
 ## Přivolání Duchovního strážce
 ![Přivolání Duchovního strážce.png|300](/img/user/z_img/P%C5%99ivol%C3%A1n%C3%AD%20Duchovn%C3%ADho%20str%C3%A1%C5%BEce.png)
-**STUPEŇ 1**  
-**1 [[z_Atomy/A/Akce\|Akce]]**
 
-Přivolejte duchovního společníka, který Vás věrně následuje. Má [[z_Atomy/I/Imunita\|Imunitu]] vůči všemu poškození a škodlivým efektům. 
-Trvá, dokud: toto kouzlo nevyvoláte znovu,[[z_Atomy/0-9/🔋\|🔋]], nebo dokud nevyléčí tolikrát, kolik bylo utraceno many při jeho přivolání.
-
-**[[z_Atomy/P/Posílení\|Posílení]]**: Větší kostka (k12 je max). *(1k6 » 1k8 » 1k10 » 1k12)*
-
+| STUPEŇ 1                         | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                                                                                                |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Přivolání Duchovního strážce** | Přivolejte duchovního společníka, který Vás věrně následuje. <br>Má [[z_Atomy/I/Imunita\|Imunitu]] vůči všemu poškození a škodlivým efektům. <br>Trvá, dokud: toto kouzlo nevyvoláte znovu,[[z_Atomy/0-9/🔋\|🔋]], nebo dokud nevyléčí tolikrát, <br>kolik bylo utraceno [[z_Atomy/0-9/🌀\|🌀]] při jeho přivolání. |
+| **[[z_Atomy/P/Posílení\|Posílení]]**                 | Větší kostka (k12 je max). <br>*(1k6 » 1k8 » 1k10 » 1k12)*                                                                                                                                                                                                                |
 >[!NOTE]- **Vzhled je na Vás**
 >Váš Duchovní strážce může mít podobu jakéhokoli malého přátelského zvířete nebo podobného tvora (pes, jehně, králík, vrabec atd.). Nezapomeňte dát svému kamarádovi také jméno! *Expecto Patronum!*
 
