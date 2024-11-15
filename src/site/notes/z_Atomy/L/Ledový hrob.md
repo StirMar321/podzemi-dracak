@@ -13,4 +13,4 @@ Bytost v dosahu provede [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Kdy�
 Nemůže jednat a je imunní vůči poškození. Kouzlo trvá dokud sesílatel žije, dokud led neroztaje nebo není zničen.
 Cíl může zopakovat [[z_Atomy/0-9/❗\|❗]]/10 dní. Velké bytosti mají [[z_Atomy/0-9/👍\|👍]], malé bytosti mají [[z_Atomy/0-9/👎\|👎]].
 
-**Posílení**: +5 [[z_Atomy/0-9/📶\|📶]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +5[[z_Atomy/0-9/📶\|📶]].

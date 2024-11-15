@@ -60,7 +60,7 @@ Kouzlo navíc zasáhne jednu další nejbližší bytost u cíle.
 
 Pokud **Elektrický oblouk** mine cíl, zasáhne sesílatele. Získá stav [[z_Atomy/Z/Zkrat\|Zkrat]].
 
-**Posílení**: **+1k8** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: **+1k8** poškození.
 
 </div></div>
 
@@ -77,7 +77,7 @@ Pokud **Elektrický oblouk** mine cíl, zasáhne sesílatele. Získá stav [[z_
 
 Když se hází [[z_Atomy/0-9/🏁\|🏁]], přičtěte k hodu svůj [[z_Atomy/0-9/🗝\|🗝]]. (*Lze seslat pouze jednou za [[z_Atomy/S/Střetnutí\|Střetnutí]].*)
 
-**Posílení:** +1 [[z_Atomy/0-9/🏁\|🏁]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]:** +1[[z_Atomy/0-9/🏁\|🏁]].
 
 </div></div>
 
@@ -100,7 +100,7 @@ Při neúspěchu utrpí **5k8** bleskového poškození.
 Při úspěchu poloviční poškození.
 Bytosti, které se dotýkají většího množství kovu automaticky neuspějí.
 
-**Posílení:** **+1k8** za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]:** **+1k8** poškození.
 
 </div></div>
 
@@ -121,7 +121,7 @@ Bytosti, které se dotýkají většího množství kovu automaticky neuspějí.
 
 Prohoďte místa jednoho ochotného cíle a jiného cíle v dosahu. Pokud byl jeden z nich cílem útoku/kouzla, druhý se stává novým cílem. Aby neochotný cíl odolal kouzlu, musí uspět [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].  
 
-**Posílení:** +1 [[z_Atomy/0-9/📶\|📶]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]:** +1[[z_Atomy/0-9/📶\|📶]].
 
 </div></div>
 
@@ -140,7 +140,7 @@ Prohoďte místa jednoho ochotného cíle a jiného cíle v dosahu. Pokud byl je
 
 Cíl získá: +1 [[z_Atomy/A/Akce\|AKCI]], +5 [[z_Atomy/B/Brnění\|Brnění]], 2x[[z_Atomy/0-9/🏃\|🏃]] pohyb a [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
 
-**Posílení:** +1 minuta [[z_Atomy/T/Trvání\|Trvání]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]:** +1 minuta [[z_Atomy/T/Trvání\|Trvání]].
 
 </div></div>
 
@@ -161,7 +161,7 @@ Cíl získá: +1 [[z_Atomy/A/Akce\|AKCI]], +5 [[z_Atomy/B/Brnění\|Brnění]], 
 Teleportujte se do cíle. Pokud se v cíli nachází ochotná bytost, prohodíte se.
 Bytosti kolem cíle utrpí **10k8** bleskového poškození a provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Při neúspěchu jsou odhozeny 4 metry, [[z_Atomy/S/Sražen\|Sraženy]] a Ohlušeny na 1 den. Neúspěch o 10+ znamená [[z_Atomy/O/Omráčen\|Omráčení]] na 1 [[z_Atomy/K/Kolo\|Kolo]].
 
-**Posílení:** +12 metrů [[z_Atomy/0-9/🏹\|🏹]] a +**10** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]:** +12 metrů [[z_Atomy/0-9/🏹\|🏹]] a +**10** poškození.
 
 </div></div>
 

@@ -10,4 +10,4 @@
 
 Útoky na dálku proti Vám mají [[z_Atomy/0-9/👎\|👎]] až do začátku Vašeho příštího [[z_Atomy/T/Tah\|Tahu]] (včetně útoku, kterému se bráníte). Proveďte reakci [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 
-**Posílení**: +2 [[z_Atomy/B/Brnění\|Brnění]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +2 [[z_Atomy/B/Brnění\|Brnění]].

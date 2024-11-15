@@ -338,7 +338,7 @@ Pokud je překvapena skupina, mohou házet [[z_Atomy/0-9/🏁\|🏁]] s [[z_Atom
 
 
 
-### Pořadí tahů
+### Pořadí Tahů
 **Když boj začne, hrdinové hrají první.** První hraje ten hráč, který je připravený jako první nebo u kterého to dává největší smysl, a hra pokračuje **kolem stolu ve směru hodinových ručiček**. 
 
 [[z_Atomy/0-9/🧙🏼‍♂️\|🧙🏼‍♂️]] může provést všechny tahy monster na **konci** [[z_Atomy/K/Kolo\|Kola]] nebo je prokládat mezi tahy hrdinů podle jeho uvážení nebo potřeby příběhu. Monstrum (nebo skupina monster) by mělo jednat vždy ve stejném pořadí každé kolo.

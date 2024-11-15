@@ -12,4 +12,4 @@
 Udělte **4k12** poškození všem bytostem v dosahu a obnovte své [[z_Atomy/0-9/💖\|💖]] rovnající se poškození. 
 Bytosti provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Za každý úspěch utržíte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
-**Posílení:** +1 [[z_Atomy/0-9/📶\|📶]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +1[[z_Atomy/0-9/📶\|📶]].

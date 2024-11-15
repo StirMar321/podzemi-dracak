@@ -12,4 +12,4 @@
 Povrch v dosahu je [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 Vy a jeden spojenec jste [[z_Atomy/I/Imunita\|imunní]] vůči tomuto kouzlu.
 
-**Posílení**: +2 spojenci za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +2 spojenci.

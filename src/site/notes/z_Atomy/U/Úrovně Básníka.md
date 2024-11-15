@@ -14,7 +14,7 @@
 ![Zlomyslný výsměch.png|300](/img/user/z_img/Zlomysln%C3%BD%20v%C3%BDsm%C4%9Bch.png)
 **TRIK**
 **1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] 12m
+[[z_Atomy/0-9/🏹\|🏹]] 12m
 
 Cíl v dosahu utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]].
 

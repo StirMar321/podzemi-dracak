@@ -311,8 +311,9 @@ Monstra s **těžkým brněním** ignorují bonusy poškození a utrží polovin
 
 
 ## 🌀 = Mana
-**Kouzla** vyžadují část životní síly: **Manu**. Cena kouzla v **maně** odpovídá jeho **Stupni**. 
-**Triky** a **Tríčky** nestojí žádnou **manu**.
+**Kouzla** vyžadují část životní síly: **Manu** (🌀) . 
+Cena kouzla v 🌀 odpovídá jeho **Stupni**. 
+**Triky** a **Tríčky** nestojí 🌀.
 
 </div></div>
 

@@ -58,7 +58,7 @@ Bytosti v ní obdrží **1k6** ledového poškození při seslání a na konci j
 
 Cíl utrží **3k6** ledového poškození. [[z_Atomy/0-9/💥\|💥]] [[z_Atomy/S/Sražen\|Srazí]] **střední** a menší cíle. (viz [[z_Atomy/V/Velikost\|Velikost]]) a má [[z_Atomy/0-9/👍\|👍]] proti stavu [[z_Atomy/Z/Zpomalen\|Zpomalen]].
 
-**Posílení**: [[z_Atomy/S/Sražen\|Srazí]] o 1 velikost větší cíle a **+1k6** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: [[z_Atomy/S/Sražen\|Srazí]] o 1 [[z_Atomy/V/Velikost\|Velikost]] větší cíle a **+1k6** poškození.
 
 </div></div>
 
@@ -76,7 +76,7 @@ Cíl utrží **3k6** ledového poškození. [[z_Atomy/0-9/💥\|💥]] [[z_Atomy
 
 Obdržíte [[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] a použijte [[z_Atomy/R/Reakce\|Reakci]] [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 
-**Posílení**: +[[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +[[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]].
 
 </div></div>
 
@@ -98,7 +98,7 @@ Dále provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]], při neúspě
 Pokud již byly [[z_Atomy/S/Sražen\|Sraženy]], budou [[z_Atomy/O/Omráčen\|Omráčeny]] do konce svého příštího [[z_Atomy/T/Tah\|Tahu]].
 [[z_Atomy/O/Oblast\|Oblast]] je [[z_Atomy/O/Obtížný terén\|Obtížný terén]] až do konce Vašeho příštího [[z_Atomy/T/Tah\|Tahu]].
 
-**Posílení**: +1 metr [[z_Atomy/0-9/🫱\|🫱]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +1 metr [[z_Atomy/0-9/🫱\|🫱]].
 
 </div></div>
 
@@ -118,7 +118,7 @@ Pokud již byly [[z_Atomy/S/Sražen\|Sraženy]], budou [[z_Atomy/O/Omráčen\|Om
 Povrch v dosahu je [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 Vy a jeden spojenec jste [[z_Atomy/I/Imunita\|imunní]] vůči tomuto kouzlu.
 
-**Posílení**: +2 spojenci za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +2 spojenci.
 
 </div></div>
 
@@ -137,7 +137,7 @@ Vy a jeden spojenec jste [[z_Atomy/I/Imunita\|imunní]] vůči tomuto kouzlu.
 
 Vyberte [[z_Atomy/O/Oblast\|Oblast]] 2x2 m v dosahu. Bytosti v oblasti utrpí **8k6** ledového poškození, bytosti sousedící s oblastí utrpí polovinu poškození. [[z_Atomy/O/Oblast\|Oblast]] je trvale [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 
-**Posílení**: +1 metr [[z_Atomy/O/Oblast\|Oblasti]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +1 metr [[z_Atomy/O/Oblast\|Oblasti]].
 
 </div></div>
 
@@ -158,7 +158,7 @@ Bytost v dosahu provede [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Kdy�
 Nemůže jednat a je imunní vůči poškození. Kouzlo trvá dokud sesílatel žije, dokud led neroztaje nebo není zničen.
 Cíl může zopakovat [[z_Atomy/0-9/❗\|❗]]/10 dní. Velké bytosti mají [[z_Atomy/0-9/👍\|👍]], malé bytosti mají [[z_Atomy/0-9/👎\|👎]].
 
-**Posílení**: +5 [[z_Atomy/0-9/📶\|📶]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +5[[z_Atomy/0-9/📶\|📶]].
 
 </div></div>
 

@@ -58,7 +58,7 @@ Cíl je považován za *nemrtvého* do konce Vašeho příštího [[z_Atomy/T/Ta
 
 První bytost, která vstoupí do dosahu utrží **3k12** nekrotického poškození. Středně [[z_Atomy/V/Velikost\|velká]] nebo menší bytost je navíc [[z_Atomy/CH/Chycen\|Chycena]] stínovými chapadly.
 
-**Posílení**: +**1k12** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +**1k12** poškození.
 
 </div></div>
 
@@ -77,7 +77,7 @@ První bytost, která vstoupí do dosahu utrží **3k12** nekrotického poškoze
 
 Obklopíte se stínem. [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti Vám mají [[z_Atomy/0-9/👎\|👎]] a první útočník za [[z_Atomy/K/Kolo\|Kolo]] navíc utrží **1k12** nekrotického poškození.
 
-**Posílení:** +**1k12** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +**1k12** poškození.
 
 </div></div>
 
@@ -97,7 +97,7 @@ Obklopíte se stínem. [[z_Atomy/0-9/⚔️\|⚔️]] na blízko proti Vám maj�
 Udělte **4k12** poškození všem bytostem v dosahu a obnovte své [[z_Atomy/0-9/💖\|💖]] rovnající se poškození. 
 Bytosti provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Za každý úspěch utržíte 1 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]].
 
-**Posílení:** +1 [[z_Atomy/0-9/📶\|📶]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +1[[z_Atomy/0-9/📶\|📶]].
 
 </div></div>
 
@@ -115,7 +115,7 @@ Bytosti provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]]. Za každý 
 Přivolejte vedle sebe **5k12 Větší Stín** (viz [[z_Atomy/P/Poskoci\|Poskoci]]). Můžete mít maximálně **1 Větší stín**. 
 Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|Stínových sluhů]]. Umístěte je kamkoliv do 8m od **Většího stínu**.
 
-**Posílení:** +**1k12** poškození, +1 [[z_Atomy/S/Stínový sluha\|Stínový sluha]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +**1k12** poškození a +1 [[z_Atomy/S/Stínový sluha\|Stínový sluha]].
 
 </div></div>
 
@@ -135,7 +135,7 @@ Když **zemře**, exploduje do pěti [[z_Atomy/S/Stínový sluha\|Stínových sl
 Zraněné bytosti v dosahu, které neuspějí [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/💪\|💪]] utrpí **6k12** nekrotického poškození.
 Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]].
 
-**Posílení**: +**1k12** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +**1k12** poškození.
 
 </div></div>
 
@@ -156,7 +156,7 @@ Nelegendární bytost **zemře** při neúspěšné [[z_Atomy/0-9/❗\|❗]][[z_
 Pokud uspěje, **Sesílatel** ztratí všechny své [[z_Atomy/0-9/💖\|💖]] a začne [[z_Atomy/0-9/🩸\|🩸]].
 Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]] nebo [[z_Atomy/0-9/👍\|👍]], pokud má všechny [[z_Atomy/0-9/💖\|💖]].
 
-**Posílení:** +1 [[z_Atomy/0-9/📶\|📶]] a +2 metry [[z_Atomy/0-9/🏹\|🏹]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +1 [[z_Atomy/0-9/📶\|📶]] a +2 metry [[z_Atomy/0-9/🏹\|🏹]].
 
 </div></div>
 

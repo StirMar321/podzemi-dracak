@@ -10,4 +10,4 @@
 
 Spojenec získá extra **[[z_Atomy/A/Akce\|AKCI]]**.
 
-**Posílení**: +2 metry [[z_Atomy/0-9/🏹\|🏹]] každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)
+**Vyšší úrovně**: +2 metry [[z_Atomy/0-9/🏹\|🏹]] každých 5 [[z_Atomy/L/LVL\|LVL]] (5/10/15/20)

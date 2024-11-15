@@ -11,4 +11,4 @@
 
 První bytost, která vstoupí do dosahu utrží **3k12** nekrotického poškození. Středně [[z_Atomy/V/Velikost\|velká]] nebo menší bytost je navíc [[z_Atomy/CH/Chycen\|Chycena]] stínovými chapadly.
 
-**Posílení**: +**1k12** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +**1k12** poškození.

@@ -13,4 +13,4 @@ Nelegendární bytost **zemře** při neúspěšné [[z_Atomy/0-9/❗\|❗]][[z_
 Pokud uspěje, **Sesílatel** ztratí všechny své [[z_Atomy/0-9/💖\|💖]] a začne [[z_Atomy/0-9/🩸\|🩸]].
 Bytost má [[z_Atomy/0-9/👎\|👎]], pokud je [[z_Atomy/Z/Zkrvaven\|Zkrvavena]] nebo [[z_Atomy/0-9/👍\|👍]], pokud má všechny [[z_Atomy/0-9/💖\|💖]].
 
-**Posílení:** +1 [[z_Atomy/0-9/📶\|📶]] a +2 metry [[z_Atomy/0-9/🏹\|🏹]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +1 [[z_Atomy/0-9/📶\|📶]] a +2 metry [[z_Atomy/0-9/🏹\|🏹]].

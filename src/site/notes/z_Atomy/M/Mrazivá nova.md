@@ -14,4 +14,4 @@ Dále provedou [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]], při neúspě
 Pokud již byly [[z_Atomy/S/Sražen\|Sraženy]], budou [[z_Atomy/O/Omráčen\|Omráčeny]] do konce svého příštího [[z_Atomy/T/Tah\|Tahu]].
 [[z_Atomy/O/Oblast\|Oblast]] je [[z_Atomy/O/Obtížný terén\|Obtížný terén]] až do konce Vašeho příštího [[z_Atomy/T/Tah\|Tahu]].
 
-**Posílení**: +1 metr [[z_Atomy/0-9/🫱\|🫱]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +1 metr [[z_Atomy/0-9/🫱\|🫱]].

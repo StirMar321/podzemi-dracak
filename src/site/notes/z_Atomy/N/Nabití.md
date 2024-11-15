@@ -11,4 +11,4 @@
 
 Cíl získá: +1 [[z_Atomy/A/Akce\|AKCI]], +5 [[z_Atomy/B/Brnění\|Brnění]], 2x[[z_Atomy/0-9/🏃\|🏃]] pohyb a [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/🎯\|🎯]].
 
-**Posílení:** +1 minuta [[z_Atomy/T/Trvání\|Trvání]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]:** +1 minuta [[z_Atomy/T/Trvání\|Trvání]].

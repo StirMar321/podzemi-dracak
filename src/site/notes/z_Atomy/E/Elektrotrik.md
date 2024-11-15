@@ -13,4 +13,4 @@
 
 Prohoďte místa jednoho ochotného cíle a jiného cíle v dosahu. Pokud byl jeden z nich cílem útoku/kouzla, druhý se stává novým cílem. Aby neochotný cíl odolal kouzlu, musí uspět [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/📖\|📖]].  
 
-**Posílení:** +1 [[z_Atomy/0-9/📶\|📶]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]:** +1[[z_Atomy/0-9/📶\|📶]].

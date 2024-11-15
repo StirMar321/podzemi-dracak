@@ -11,4 +11,4 @@
 
 Vyberte [[z_Atomy/O/Oblast\|Oblast]] 2x2 m v dosahu. Bytosti v oblasti utrpí **8k6** ledového poškození, bytosti sousedící s oblastí utrpí polovinu poškození. [[z_Atomy/O/Oblast\|Oblast]] je trvale [[z_Atomy/O/Obtížný terén\|Obtížný terén]].
 
-**Posílení**: +1 metr [[z_Atomy/O/Oblast\|Oblasti]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +1 metr [[z_Atomy/O/Oblast\|Oblasti]].

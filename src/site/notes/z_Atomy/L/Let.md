@@ -11,4 +11,4 @@
 
 Bytost, které se dotknete, je nadnášena proudem silného větru. Po dobu [[z_Atomy/K/Koncentrace\|Koncentrace]] získá schopnost **[[z_Atomy/L/Létání\|Létání]]** a [[z_Atomy/0-9/🏃\|🏃]] 12 metrů.
 
-**Posílení**: +1 bytost za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +1 Bytost.

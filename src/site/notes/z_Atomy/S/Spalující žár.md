@@ -12,4 +12,4 @@
 Zasažené bytosti získají stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
 Zasažené bytosti mají své [[z_Atomy/O/Odolnost\|Odolnosti]] zrušeny a své [[z_Atomy/I/Imunita\|Imunity]] sníženy na [[z_Atomy/O/Odolnost\|Odolnosti]].
 
-**Posílení**: +4 metry k [[z_Atomy/0-9/🫱\|🫱]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +4 metry k [[z_Atomy/0-9/🫱\|🫱]].

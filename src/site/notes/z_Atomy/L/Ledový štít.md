@@ -10,4 +10,4 @@
 
 Obdržíte [[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] a použijte [[z_Atomy/R/Reakce\|Reakci]] [[z_Atomy/0-9/🛡️\|🛡️]] [[z_Atomy/Z/Zdarma\|Zdarma]].
 
-**Posílení**: +[[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +[[z_Atomy/0-9/🗝\|🗝]] [[z_Atomy/0-9/💗\|💗]].

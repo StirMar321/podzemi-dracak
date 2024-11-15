@@ -15,4 +15,4 @@ Při neúspěchu utrpí **5k8** bleskového poškození.
 Při úspěchu poloviční poškození.
 Bytosti, které se dotýkají většího množství kovu automaticky neuspějí.
 
-**Posílení:** **+1k8** za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]:** **+1k8** poškození.

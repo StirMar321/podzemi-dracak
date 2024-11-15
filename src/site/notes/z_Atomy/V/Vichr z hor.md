@@ -14,4 +14,4 @@ Nepřátelé v oblasti budou provádět [[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/�
 Na konci Vašeho [[z_Atomy/T/Tah\|Tahu]] nepřátelé spadnou a mají stav [[z_Atomy/S/Sražen\|Sražen]]. 
 Utrpí **1k6** drtivého poškození za 2 metry pádu. *(viz [[z_Atomy/P/Pády a Nucený pohyb\|Pády a Nucený pohyb]])*
 
-**Posílení**: +1 [[z_Atomy/0-9/📶\|📶]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +1[[z_Atomy/0-9/📶\|📶]].

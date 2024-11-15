@@ -14,4 +14,4 @@ Uzdravte [[z_Atomy/0-9/💖\|💖]] rovnající se Vašim **maximálním** [[z_A
 
 Můžete oživit bytost, která zemřela ([[z_Atomy/0-9/💀\|💀]]) během poslední minuty, pokud mu obnovíte alespoň **20** [[z_Atomy/0-9/💖\|💖]] (což navíc vyléčí 2 [[z_Atomy/0-9/❤️‍🩹\|❤️‍🩹]]), pokud nebyla tímto kouzlem oživena dříve.
 
-**Posílení:** +6 metrů [[z_Atomy/0-9/🫱\|🫱]] za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: +6 metrů [[z_Atomy/0-9/🫱\|🫱]].

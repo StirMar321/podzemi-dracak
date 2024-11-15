@@ -12,4 +12,4 @@
 Zbraň, které se dotknete, je očarována magickým plamenem.
 Přidejte k poškození [[z_Atomy/Z/Zbraně\|Zbraně]] +[[z_Atomy/0-9/🗝\|🗝]] a [[z_Atomy/0-9/💥\|💥]] způsobuje stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]].
 
-**Posílení**: **+[[z_Atomy/0-9/🗝\|🗝]]** poškození za každou další [[z_Atomy/0-9/🌀\|🌀]].
+**[[z_Atomy/P/Posílení\|Posílení]]**: **+[[z_Atomy/0-9/🗝\|🗝]]** poškození.
