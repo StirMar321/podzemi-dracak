@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/z-atomy/d/duchovni-strazce/"}
 ---
 
-### Duchovní strážce
+### Duchovní Strážce
 ![Duchovní strážce.png|300](/img/user/z_img/Duchovn%C3%AD%20str%C3%A1%C5%BEce.png)
 
 | X [[z_Atomy/0-9/⚕️\|⚕️]]             | X = [[z_Atomy/0-9/🌀\|🌀]] při seslání                                                 |
