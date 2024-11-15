@@ -11,7 +11,7 @@
 
 ## Kruh nebe a bouře
 ### LVL 3
-- **Prohlubující  studium**. Můžete se naučit kouzla domén [[4 Kouzla/b_Led\|Ledu]] nebo [[4 Kouzla/e_Záře\|Záře]]. Pokaždé, když postoupíte na další [[z_Atomy/L/LVL\|LVL]], můžete změnit vybranou školu.
+- **Prohlubující  studium**. Můžete se naučit kouzla domén [[4 Kouzla/ab_Led\|Ledu]] nebo [[4 Kouzla/ae_Záře\|Záře]]. Pokaždé, když postoupíte na další [[z_Atomy/L/LVL\|LVL]], můžete změnit vybranou školu.
 - **Plemeno víl**. Můžete sesílat kouzla když jste proměněni schopností [[z_Atomy/D/Divotvar\|Divotvar]].
 - **Sladěný s přírodou**. 1/den. Vaše [[z_Atomy/0-9/❓\|❓]][[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]] má +[[z_Atomy/L/LVL\|LVL]].
 ### LVL 7

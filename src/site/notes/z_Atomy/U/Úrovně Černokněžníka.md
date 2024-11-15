@@ -59,7 +59,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 </div></div>
 
 ## LVL 2
-- **Důvěryhodné médium**. Váš Patron vám propůjčuje přístup ke [[2 Důležité/Kouzla\|Kouzlům a Trikům ]] **1. stupně** domény [[4 Kouzla/f_Nekro\|Nekro]] a poskytuje vám část své vlastní [[z_Atomy/0-9/🌀\|🌀]]. Její množství je rovno Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Vaše Kouzla stojí **vždy** 1[[z_Atomy/0-9/🌀\|🌀]] a jsou **vždy** [[z_Atomy/0-9/✨\|✨]] na nejvyšším stupni, který máte odemčen. [[z_Atomy/0-9/🌀\|🌀]] se obnovuje během [[z_Atomy/0-9/🔋\|🔋]] při komunikaci s vaším patronem.
+- **Důvěryhodné médium**. Váš Patron vám propůjčuje přístup ke [[2 Důležité/Kouzla\|Kouzlům a Trikům ]] **1. stupně** domény [[4 Kouzla/af_Nekro\|Nekro]] a poskytuje vám část své vlastní [[z_Atomy/0-9/🌀\|🌀]]. Její množství je rovno Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Vaše Kouzla stojí **vždy** 1[[z_Atomy/0-9/🌀\|🌀]] a jsou **vždy** [[z_Atomy/0-9/✨\|✨]] na nejvyšším stupni, který máte odemčen. [[z_Atomy/0-9/🌀\|🌀]] se obnovuje během [[z_Atomy/0-9/🔋\|🔋]] při komunikaci s vaším patronem.
 ## LVL 3
 - **PAKT JE SPEČETĚN**. Vyberte si [[z_Atomy/P/Pakty Černokněžníka\|Pakt]] a jednu [[z_Atomy/M/Menší stínové invokace\|Menší stínovou invokaci]].
 ## LVL 4
@@ -71,13 +71,13 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
 - **Dar od Pána (2)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
-- **Stínové mistrovství**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z domény Nekro.
+- **Stínové mistrovství**. Naučte se **jeden** [[4 Kouzla/Nekrotické Tríčky\|Nekrotický tríček]].
 ## LVL 7
 - **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a Vaše Kouzla jsou **posílená*** na 3. stupeň.
 - **Pakt**. Získáte schopnost **podtřídy** [[z_Atomy/P/Pakty Černokněžníka\|Paktu]].
 ## LVL 8
 - **Nižší invokace (2)**. Vyberte si **další** [[z_Atomy/M/Menší stínové invokace\|Menší stínovou invokaci]].
-- **Stínové mistrovství (2)**. Vyberte si **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z domény Nekro.
+- **Stínové mistrovství (2)**. Vyberte si **druhý** [[4 Kouzla/Nekrotické Tríčky\|Nekrotický tríček]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 9
 - **Dar od Pána (3)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
@@ -96,7 +96,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
 - **Dar od Pána (4)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
-- **Stínové mistrovství (3)**. Znáte **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z domény Nekro.
+- **Stínové mistrovství (3)**. Znáte **všechny** [[4 Kouzla/Nekrotické Tríčky\|Nekrotické Tríčky]].
 ## LVL 15
 - **Pakt**. Získáte schopnost **podtřídy** [[z_Atomy/P/Pakty Černokněžníka\|Paktu]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.

@@ -3,7 +3,7 @@
 ---
 
 ## LVL 1
-- **Strážce života a smrti**. Znáte **Triky** domén [[4 Kouzla/e_Záře\|Záře]] a [[4 Kouzla/f_Nekro\|Nekro]]. 
+- **Strážce života a smrti**. Znáte **Triky** domén [[4 Kouzla/ae_Záře\|Záře]] a [[4 Kouzla/af_Nekro\|Nekro]]. 
 - **Svatá záře**. Naučíte se schopnost [[z_Atomy/S/Svatá záře\|Svatá záře]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/s/svata-zare/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -24,7 +24,7 @@ Vyberte jednu možnost:
 </div></div>
 
 ## LVL 2
-- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/e_Záře\|Záře]] a [[4 Kouzla/f_Nekro\|Nekro]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se během [[z_Atomy/0-9/🔋\|🔋]].
+- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/ae_Záře\|Záře]] a [[4 Kouzla/af_Nekro\|Nekro]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se během [[z_Atomy/0-9/🔋\|🔋]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/p/privolani-duchovniho-strazce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -64,7 +64,7 @@ X = [[z_Atomy/0-9/🌀\|🌀]] při seslání
 
 ## LVL 3
 - **Vyznání Pastýře**. Vyberte si **podtřídu**. [[z_Atomy/V/Vyznání Pastýře\|Vyznání Pastýře]].
-- **Mistr soumraku**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z domén Záře a Nekro.
+- **Mistr soumraku**. Naučte se **jeden** [[4 Kouzla/Zářivé Tríčky\|Zářivý tríček]] a [[4 Kouzla/Nekrotické Tríčky\|Nekrotický tríček]].
 ## LVL 4
 - **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a **posilovat** kouzla na 2. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].
@@ -74,7 +74,7 @@ X = [[z_Atomy/0-9/🌀\|🌀]] při seslání
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a **posilovat** kouzla na 3. stupeň.
-- **Mistr soumraku (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z domén Záře a Nekro.
+- **Mistr soumraku (2)**. Naučte se **druhý** [[4 Kouzla/Zářivé Tríčky\|Zářivý tríček]] a [[4 Kouzla/Nekrotické Tríčky\|Nekrotický tríček]].
 ## LVL 7
 - **Vyznání Pastýře**. Získáte schopnost **podtřídy** [[z_Atomy/V/Vyznání Pastýře\|Vyznání Pastýře]].
 ## LVL 8
@@ -88,7 +88,7 @@ X = [[z_Atomy/0-9/🌀\|🌀]] při seslání
 - **Vylepšené Triky**. Vaše kouzelné triky sílí.
 ## LVL 11
 - **Vyznání Pastýře**. Získáte schopnost **podtřídy** [[z_Atomy/V/Vyznání Pastýře\|Vyznání Pastýře]].
-- **Mistr soumraku (3)**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z domén Záře a Nekro.
+- **Mistr soumraku (3)**. Naučte se **všechny** [[4 Kouzla/Zářivé Tríčky\|Zářivé Tríčky]] a [[4 Kouzla/Nekrotické Tríčky\|Nekrotické Tríčky]].
 ## LVL 12
 - **Kouzla 6. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **6. stupně** a **posilovat** kouzla na 6. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/💪\|💪]].

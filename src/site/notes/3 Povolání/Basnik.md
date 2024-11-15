@@ -27,7 +27,7 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 
 
 ## LVL 1
-- **Triky Větru a…** Naučíte se triky z domény [[4 Kouzla/d_Vítr\|Větru]] a z jedné další domény podle Vašeho výběru. Také znáte Triky [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] a [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]].
+- **Triky Větru a…** Naučíte se triky z domény [[4 Kouzla/ad_Vítr\|Větru]] a z jedné další domény podle Vašeho výběru. Také znáte Triky [[z_Atomy/Z/Zlomyslný výsměch\|Zlomyslný výsměch]] a [[z_Atomy/B/Básníkova Inspirace\|Básníkova Inspirace]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/z/zlomyslny-vysmech/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -70,7 +70,7 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 ## LVL 3
 - **Básnické Koleje**. Vyberte si **podtřídu**. [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
 - **Pohotový důvtip**. Kdykoli se hází [[z_Atomy/0-9/🏁\|🏁]], můžete obnovit 2[[z_Atomy/0-9/🔔\|🔔]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
-- **Kecálek**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
+- **Kecálek**. Naučte se **jeden** [[4 Kouzla/ag_Tríčky\|Tríček]] z každé známé domény.
 ## LVL 4
 - **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a **posilovat** kouzla na 2. stupeň.
 - **Lyrické zbraně**. Vyberte si 1 schopnost [[z_Atomy/L/Lyrické zbraně\|Lyrických zbraní]].
@@ -81,7 +81,7 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a **posilovat** kouzla na 3. stupeň.
-- **Kecálek (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
+- **Kecálek (2)**. Naučte se **druhý** [[4 Kouzla/ag_Tríčky\|Tríček]] z každé známé domény.
 ## LVL 7
 - **Básnické Koleje**. Získáte schopnost [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
 ## LVL 8
@@ -103,7 +103,7 @@ Básníkova jiskra se také projevuje v jeho vlivu na ostatní. Dokáže dodat o
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
 - **Kouzla 7. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **7. stupně** a **posilovat** kouzla na 7. stupeň.
-- **Kecálek (3)**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z každé známé domény.
+- **Kecálek (3)**. Naučte se **všechny** [[4 Kouzla/ag_Tríčky\|Tríčky]] z každé známé domény.
 ## LVL 15
 - **Básnické Koleje**. Získáte schopnost [[z_Atomy/B/Básnické Koleje\|Básnické Koleje]].
 - **Vylepšené Triky**. Vaše Triky sílí.

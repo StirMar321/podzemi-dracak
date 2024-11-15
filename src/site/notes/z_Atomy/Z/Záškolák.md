@@ -4,4 +4,4 @@
 
 ## Záškolák
 Akademické prostředí není pro každého. Více se učíte ve skutečném světě a nebojíte si zašpinit ruce.
-Naučte se jeden [[4 Kouzla/g_Tríčky\|Tríček]].
+Naučte se jeden [[4 Kouzla/ag_Tríčky\|Tríček]].

@@ -25,7 +25,7 @@ Pomoci svým spojencům v jakékoli roli, kterou potřebují, ať se pustíte do
 
 
 ## LVL 1
-- **Mistr bouří**. Znáte triky z domén [[4 Kouzla/c_Blesk\|Blesku]] a [[4 Kouzla/d_Vítr\|Větru]].
+- **Mistr bouří**. Znáte triky z domén [[4 Kouzla/ac_Blesk\|Blesku]] a [[4 Kouzla/ad_Vítr\|Větru]].
 - Znáte schopnost [[z_Atomy/D/Divotvar\|Divotvar]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/d/divotvar/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -46,7 +46,7 @@ Tato podoba trvá, dokud neklesnou Vaše [[z_Atomy/0-9/💖\|💖]] na **0**, [[
 </div></div>
 
 ## LVL 2
-- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/d_Vítr\|Větru]] a [[4 Kouzla/c_Blesk\|Blesku]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je **([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2** a obnoví se během [[z_Atomy/0-9/🔋\|🔋]].
+- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** z domén [[4 Kouzla/ad_Vítr\|Větru]] a [[4 Kouzla/ac_Blesk\|Blesku]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je **([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]])x2** a obnoví se během [[z_Atomy/0-9/🔋\|🔋]].
 - **Divoká přeměna**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Smečky\|Bestie Smečky]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/b/bestie-smecky/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -117,7 +117,7 @@ Když použijete [[z_Atomy/0-9/🔰\|🔰]] nebo [[z_Atomy/0-9/🛡️\|🛡️]
 
 ## LVL 4
 - **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a **posilovat** kouzla na 2. stupeň.
-- **Přivolávač bouří**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
+- **Přivolávač bouří**. Naučte se **jeden** [[4 Kouzla/Bleskové Tríčky\|Bleskový tríček]] a [[4 Kouzla/Větrné Tríčky\|Větrný tríček]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 5
 - **Divoká přeměna (3)**. Můžete použít schopnost [[z_Atomy/D/Divotvar\|Divotvar]] pro podobu [[z_Atomy/B/Bestie Nočních Můr\|Bestie Nočních Můr]].
@@ -169,7 +169,7 @@ Získáte schopnosti [[z_Atomy/P/Píchnutí\|Píchnutí]] a [[z_Atomy/T/Tichý a
 - **Zkušený měnič**. +1 [[z_Atomy/0-9/🐾\|🐾]]/[[z_Atomy/0-9/🔋\|🔋]].
 ## LVL 7
 - **Kruh Bouřliváků**. Získáte schopnost **podtřídy** [[z_Atomy/K/Kruhy Bouřliváků\|Kruhu Bouřliváků]].
-- **Přivolávač bouří (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z každé známé domény.
+- **Přivolávač bouří (2)**. Naučte se **druhý** [[4 Kouzla/Bleskové Tríčky\|Bleskový tríček]] a [[4 Kouzla/Větrné Tríčky\|Větrný tríček]].
 ## LVL 8
 - **Kouzla 4. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **4. stupně** a **posilovat** kouzla na 4. stupeň.
 - **Bouřerozený**. 1/den. Získáte [[z_Atomy/O/Odolnost\|Odolnost]] vůči poškození bleskem. Máte [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/❓\|❓]][[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]] a [[z_Atomy/K/Koncentrace\|Koncentrace]].
@@ -190,7 +190,7 @@ Získáte schopnosti [[z_Atomy/P/Píchnutí\|Píchnutí]] a [[z_Atomy/T/Tichý a
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 13
 - **Bouřerozený (2)**. Získáte následující schopnosti:
-	- Místo hodu kostkami můžete způsobit maximální poškození kouzel domény [[4 Kouzla/d_Vítr\|Vítr]] za 1[[z_Atomy/0-9/🐾\|🐾]] (nepočítá se jako [[z_Atomy/0-9/💥\|💥]]).
+	- Místo hodu kostkami můžete způsobit maximální poškození kouzel domény [[4 Kouzla/ad_Vítr\|Vítr]] za 1[[z_Atomy/0-9/🐾\|🐾]] (nepočítá se jako [[z_Atomy/0-9/💥\|💥]]).
 	- Když ukončíte [[z_Atomy/D/Divotvar\|Divotvar]], [[z_Atomy/0-9/✨\|✨]] Trik [[z_Atomy/Z/Zdarma\|Zdarma]].
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 14
@@ -376,7 +376,7 @@ Získáte schopnosti [[z_Atomy/P/Píchnutí\|Píchnutí]] a [[z_Atomy/T/Tichý a
 
 ## Kruh nebe a bouře
 ### LVL 3
-- **Prohlubující  studium**. Můžete se naučit kouzla domén [[4 Kouzla/b_Led\|Ledu]] nebo [[4 Kouzla/e_Záře\|Záře]]. Pokaždé, když postoupíte na další [[z_Atomy/L/LVL\|LVL]], můžete změnit vybranou školu.
+- **Prohlubující  studium**. Můžete se naučit kouzla domén [[4 Kouzla/ab_Led\|Ledu]] nebo [[4 Kouzla/ae_Záře\|Záře]]. Pokaždé, když postoupíte na další [[z_Atomy/L/LVL\|LVL]], můžete změnit vybranou školu.
 - **Plemeno víl**. Můžete sesílat kouzla když jste proměněni schopností [[z_Atomy/D/Divotvar\|Divotvar]].
 - **Sladěný s přírodou**. 1/den. Vaše [[z_Atomy/0-9/❓\|❓]][[z_Atomy/P/Příroda (❤️‍🔥)\|Příroda (❤️‍🔥)]] má +[[z_Atomy/L/LVL\|LVL]].
 ### LVL 7

@@ -3,13 +3,13 @@
 ---
 
 ## LVL 1
-- **Elementární kouzlení**. Znáte Triky domén [[4 Kouzla/a_Oheň\|Ohně]], [[4 Kouzla/b_Led\|Ledu]] a [[4 Kouzla/c_Blesk\|Blesku]].
+- **Elementární kouzlení**. Znáte Triky domén [[4 Kouzla/aa_Oheň\|Ohně]], [[4 Kouzla/ab_Led\|Ledu]] a [[4 Kouzla/ac_Blesk\|Blesku]].
 ## LVL 2
-- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** pro [[4 Kouzla/a_Oheň\|Oheň]], [[4 Kouzla/b_Led\|Led]] a [[4 Kouzla/c_Blesk\|Blesk]] a Vaše [[z_Atomy/0-9/🌀\|🌀]] je rovna ([[z_Atomy/0-9/📖\|📖]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
+- **Kouzla 1. stupně**. Odemknete kouzla **1. stupně** pro [[4 Kouzla/aa_Oheň\|Oheň]], [[4 Kouzla/ab_Led\|Led]] a [[4 Kouzla/ac_Blesk\|Blesk]] a Vaše [[z_Atomy/0-9/🌀\|🌀]] je rovna ([[z_Atomy/0-9/📖\|📖]]+[[z_Atomy/L/LVL\|LVL]])x2 a obnoví se za [[z_Atomy/0-9/🔋\|🔋]].
 - **Talentovaný výzkumník**. [[z_Atomy/0-9/❓\|❓]][[z_Atomy/0-9/⚙️\|⚙️]] [[z_Atomy/M/Mystika (📖)\|Mystika (📖)]] a [[z_Atomy/H/Historie (📖)\|Historie (📖)]] mají [[z_Atomy/0-9/👍\|👍]], když máte přístup k většímu množství knih a čas na výzkum.
 ## LVL 3
 - **Studia Mága**. Vyberte si **podtřídu**. [[z_Atomy/S/Studia Mága\|Studia Mága]].
-- **Elementální mistrovství**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] **jedné** známé domény. Můžete vyměnit doménu, když studujete mystické knihy nebo Vás učí Mág vyšší úrovně.
+- **Elementální mistrovství**. Naučte se **všechny** [[4 Kouzla/ag_Tríčky\|Tríčky]] **jedné** známé domény. Můžete vyměnit doménu, když studujete mystické knihy nebo Vás učí Mág vyšší úrovně.
 ## LVL 4
 - **Tvarování kouzel**. Získáte schopnost [[z_Atomy/T/Tvarování kouzel\|Tvarovat kouzla]] mocnými efekty. Vyberte si **2 schopnosti**. 
 - **Kouzla 2. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **2. stupně** a **posílit** kouzla na 2. stupeň.
@@ -33,7 +33,7 @@ Když se hází [[z_Atomy/0-9/🏁\|🏁]], získejte **(1k4+[[z_Atomy/0-9/❤�
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
 - **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a **posílit** kouzla na 3. stupeň.
-- **Elementální mistrovství (2)**. Naučte se **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] **další** známé domény.
+- **Elementální mistrovství (2)**. Naučte se **všechny** [[4 Kouzla/ag_Tríčky\|Tríčky]] **další** známé domény.
 ## LVL 7
 - **Studia Mága**. Získáte schopnost **podtřídy** [[z_Atomy/S/Studia Mága\|Studia Mága]].
 ## LVL 8
@@ -56,7 +56,7 @@ Když se hází [[z_Atomy/0-9/🏁\|🏁]], získejte **(1k4+[[z_Atomy/0-9/❤�
 - **Zvýšení sekundární statistiky**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
 - **Kouzla 7. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **7. stupně** a **posílit** kouzla na 7. stupeň.
-- **Elementální mistrovství (3)**. Znáte **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] **všech** známých domén.
+- **Elementální mistrovství (3)**. Znáte **všechny** [[4 Kouzla/ag_Tríčky\|Tríčky]] **všech** známých domén.
 ## LVL 15
 - **Studia Mága**. Získáte schopnost **podtřídy** [[z_Atomy/S/Studia Mága\|Studia Mága]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.

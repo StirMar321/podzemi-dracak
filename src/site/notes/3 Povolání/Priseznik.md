@@ -59,7 +59,7 @@ Dotkněte se bytosti a obnovte jí [[z_Atomy/0-9/💖\|💖]] rovné utraceným 
 </div></div>
 
 ## LVL 2
-- **Kouzla záře**. Odemknete [[2 Důležité/Kouzla\|Kouzla]] **1. stupně** domény [[4 Kouzla/e_Záře\|Záře]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]]) a obnoví se během [[z_Atomy/0-9/🔋\|🔋]].
+- **Kouzla záře**. Odemknete [[2 Důležité/Kouzla\|Kouzla]] **1. stupně** domény [[4 Kouzla/ae_Záře\|Záře]]. Vaše [[z_Atomy/0-9/🌀\|🌀]] je ([[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]+[[z_Atomy/L/LVL\|LVL]]) a obnoví se během [[z_Atomy/0-9/🔋\|🔋]].
 - **Odsuzující úder**. Když zasáhnete [[z_Atomy/0-9/⚔️\|⚔️]] na blízko, můžete utratit [[z_Atomy/0-9/🌀\|🌀]] a hodit další [[z_Atomy/0-9/♎\|♎]] za každou utracenou [[z_Atomy/0-9/🌀\|🌀]] (až do stupně kouzel, který máte odemčen, toto může překročit limit [[z_Atomy/0-9/♎\|♎]]).
 - **Paragon ctnosti**. [[z_Atomy/0-9/❓\|❓]][[z_Atomy/V/Vliv (❤️‍🔥)\|Vliv (❤️‍🔥)]] má [[z_Atomy/0-9/👍\|👍]] když mluvíte upřímně; [[z_Atomy/0-9/👎\|👎]] při lhaní, zatajování nebo jiném klamání.
 ## LVL 3
@@ -78,7 +78,7 @@ Dotkněte se bytosti a obnovte jí [[z_Atomy/0-9/💖\|💖]] rovné utraceným 
 - **Posvátné Dekrety (2)**. Naučte se **další** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
 ## LVL 7
 - **Přísahy Přísežníka**. Získáváte schopnost **podtřídy** [[z_Atomy/P/Přísahy Přísežníka\|Přísahy Přísežníka]].
-- **Mistr záře**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] domény Záře.
+- **Mistr záře**. Naučte se **jeden** [[4 Kouzla/Zářivé Tríčky\|Zářivý tríček]].
 ## LVL 8
 - **Kouzla 4. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **4. stupně** a **posilovat** kouzla na 4. stupeň.
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].
@@ -90,7 +90,7 @@ Dotkněte se bytosti a obnovte jí [[z_Atomy/0-9/💖\|💖]] rovné utraceným 
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
 ## LVL 11
 - **Přísahy Přísežníka**. Získáváte schopnost **podtřídy** [[z_Atomy/P/Přísahy Přísežníka\|Přísahy Přísežníka]].
-- **Mistr záře (2)**. Naučte se **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] domény Záře.
+- **Mistr záře (2)**. Naučte se **druhý** [[4 Kouzla/Zářivé Tríčky\|Zářivý tríček]].
 ## LVL 12
 - **Posvátné Dekrety (4)**. Naučte se **další** [[z_Atomy/P/Posvátné Dekrety\|Posvátný Dekret]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].

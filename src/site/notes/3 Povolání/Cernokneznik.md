@@ -84,7 +84,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 </div></div>
 
 ## LVL 2
-- **Důvěryhodné médium**. Váš Patron vám propůjčuje přístup ke [[2 Důležité/Kouzla\|Kouzlům a Trikům ]] **1. stupně** domény [[4 Kouzla/f_Nekro\|Nekro]] a poskytuje vám část své vlastní [[z_Atomy/0-9/🌀\|🌀]]. Její množství je rovno Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Vaše Kouzla stojí **vždy** 1[[z_Atomy/0-9/🌀\|🌀]] a jsou **vždy** [[z_Atomy/0-9/✨\|✨]] na nejvyšším stupni, který máte odemčen. [[z_Atomy/0-9/🌀\|🌀]] se obnovuje během [[z_Atomy/0-9/🔋\|🔋]] při komunikaci s vaším patronem.
+- **Důvěryhodné médium**. Váš Patron vám propůjčuje přístup ke [[2 Důležité/Kouzla\|Kouzlům a Trikům ]] **1. stupně** domény [[4 Kouzla/af_Nekro\|Nekro]] a poskytuje vám část své vlastní [[z_Atomy/0-9/🌀\|🌀]]. Její množství je rovno Vaší [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]. Vaše Kouzla stojí **vždy** 1[[z_Atomy/0-9/🌀\|🌀]] a jsou **vždy** [[z_Atomy/0-9/✨\|✨]] na nejvyšším stupni, který máte odemčen. [[z_Atomy/0-9/🌀\|🌀]] se obnovuje během [[z_Atomy/0-9/🔋\|🔋]] při komunikaci s vaším patronem.
 ## LVL 3
 - **PAKT JE SPEČETĚN**. Vyberte si [[z_Atomy/P/Pakty Černokněžníka\|Pakt]] a jednu [[z_Atomy/M/Menší stínové invokace\|Menší stínovou invokaci]].
 ## LVL 4
@@ -96,13 +96,13 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 6
 - **Dar od Pána (2)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
-- **Stínové mistrovství**. Naučte se **jeden** [[4 Kouzla/g_Tríčky\|Tríček]] z domény Nekro.
+- **Stínové mistrovství**. Naučte se **jeden** [[4 Kouzla/Nekrotické Tríčky\|Nekrotický tríček]].
 ## LVL 7
 - **Kouzla 3. stupně**. Nyní můžete [[z_Atomy/0-9/✨\|✨]] kouzla **3. stupně** a Vaše Kouzla jsou **posílená*** na 3. stupeň.
 - **Pakt**. Získáte schopnost **podtřídy** [[z_Atomy/P/Pakty Černokněžníka\|Paktu]].
 ## LVL 8
 - **Nižší invokace (2)**. Vyberte si **další** [[z_Atomy/M/Menší stínové invokace\|Menší stínovou invokaci]].
-- **Stínové mistrovství (2)**. Vyberte si **druhý** [[4 Kouzla/g_Tríčky\|Tríček]] z domény Nekro.
+- **Stínové mistrovství (2)**. Vyberte si **druhý** [[4 Kouzla/Nekrotické Tríčky\|Nekrotický tríček]].
 - **Zvýšení klíčového atributu**. +1 [[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]]/[[z_Atomy/0-9/📖\|📖]].
 ## LVL 9
 - **Dar od Pána (3)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
@@ -121,7 +121,7 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 - **Zvýšení sekundárního atributu**. +1 [[z_Atomy/0-9/💪\|💪]]/[[z_Atomy/0-9/🎯\|🎯]].
 ## LVL 14
 - **Dar od Pána (4)**. Vyberte si **další** [[z_Atomy/V/Větší stínové invokace\|Větší stínovou invokaci]].
-- **Stínové mistrovství (3)**. Znáte **všechny** [[4 Kouzla/g_Tríčky\|Tríčky]] z domény Nekro.
+- **Stínové mistrovství (3)**. Znáte **všechny** [[4 Kouzla/Nekrotické Tríčky\|Nekrotické Tríčky]].
 ## LVL 15
 - **Pakt**. Získáte schopnost **podtřídy** [[z_Atomy/P/Pakty Černokněžníka\|Paktu]].
 - **Vylepšené Triky**. Vaše kouzelné Triky sílí.
@@ -225,10 +225,10 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 
 ## Pakt Červeného draka
 ### LVL 3
-- **Dračí pokrevní přísaha**. Váš Patron vám propůjčí znalost kouzel domény [[4 Kouzla/a_Oheň\|Ohně]]. Vaši [[z_Atomy/S/Stínový sluha\|Stínoví sluhové]] se promění v plamenný stín červeného dráčata. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] a [[z_Atomy/S/Stínový sluha\|Stínový sluha]] svými [[z_Atomy/0-9/⚔️\|⚔️]] můžou způsobit **ohnivé** nebo **nekrotické poškození** a způsobují cíli stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], kdykoli by udělili [[z_Atomy/0-9/💥\|💥]].
+- **Dračí pokrevní přísaha**. Váš Patron vám propůjčí znalost kouzel domény [[4 Kouzla/aa_Oheň\|Ohně]]. Vaši [[z_Atomy/S/Stínový sluha\|Stínoví sluhové]] se promění v plamenný stín červeného dráčata. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] a [[z_Atomy/S/Stínový sluha\|Stínový sluha]] svými [[z_Atomy/0-9/⚔️\|⚔️]] můžou způsobit **ohnivé** nebo **nekrotické poškození** a způsobují cíli stav [[z_Atomy/Z/Žhnoucí\|Žhnoucí]], kdykoli by udělili [[z_Atomy/0-9/💥\|💥]].
 
 ### LVL 7
-- **VŠICHNI shoříme!** Můžete [[z_Atomy/0-9/✨\|✨]] kouzlo [[z_Atomy/O/Ohnivá koule\|Ohnivá koule]] za 0[[z_Atomy/0-9/🌀\|🌀]], ale zahrnete do poškození také sebe. Máte [[z_Atomy/0-9/👍\|👍]] pro[[z_Atomy/0-9/❗\|❗]]. Naučte se 1 [[4 Kouzla/g_Tríčky\|Tríček]] z domény Ohně.
+- **VŠICHNI shoříme!** Můžete [[z_Atomy/0-9/✨\|✨]] kouzlo [[z_Atomy/O/Ohnivá koule\|Ohnivá koule]] za 0[[z_Atomy/0-9/🌀\|🌀]], ale zahrnete do poškození také sebe. Máte [[z_Atomy/0-9/👍\|👍]] pro[[z_Atomy/0-9/❗\|❗]]. Naučte se 1 [[4 Kouzla/ag_Tríčky\|Tríček]] z domény Ohně.
 
 ### LVL 11
 - **Srdce spalujícího žáru**. Obnovte si 1[[z_Atomy/0-9/🌀\|🌀]], když se hází [[z_Atomy/0-9/🏁\|🏁]]. Zmizí na konci [[z_Atomy/S/Střetnutí\|Střetnutí]].
@@ -246,16 +246,16 @@ Přikažte VŠEM svým přisluhovačům, aby se přemístili o 6 metrů a zaúto
 
 ## Pakt Ledové hlubiny
 ### LVL 3
-- **Mistr nočního mrazu**. Váš Patron vám uděluje znalost kouzel domény [[4 Kouzla/b_Led\|Ledu]]. Získáte schopnost dýchat pod vodou. Vaši [[z_Atomy/S/Stínový sluha\|Stínoví sluhové]] se stanou Stíny Nočního mrazu. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] a [[z_Atomy/S/Stínový sluha\|Stínový sluha]] svými [[z_Atomy/0-9/⚔️\|⚔️]] můžou způsobit **ledové** nebo **nekrotické poškození**, a kdykoli by udělili [[z_Atomy/0-9/💥\|💥]], získáte ([[z_Atomy/0-9/📖\|📖]]+[[z_Atomy/L/LVL\|LVL]]) [[z_Atomy/0-9/💗\|💗]].
+- **Mistr nočního mrazu**. Váš Patron vám uděluje znalost kouzel domény [[4 Kouzla/ab_Led\|Ledu]]. Získáte schopnost dýchat pod vodou. Vaši [[z_Atomy/S/Stínový sluha\|Stínoví sluhové]] se stanou Stíny Nočního mrazu. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] a [[z_Atomy/S/Stínový sluha\|Stínový sluha]] svými [[z_Atomy/0-9/⚔️\|⚔️]] můžou způsobit **ledové** nebo **nekrotické poškození**, a kdykoli by udělili [[z_Atomy/0-9/💥\|💥]], získáte ([[z_Atomy/0-9/📖\|📖]]+[[z_Atomy/L/LVL\|LVL]]) [[z_Atomy/0-9/💗\|💗]].
 
 ### LVL 7
-- **Stínomráz**. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] navíc [[z_Atomy/Z/Zpomalen\|Zpomalí]] cíl a jeho pohyb je považován za pohyb skrz [[z_Atomy/O/Obtížný terén\|Obtížný terén]] během jejich příštího [[z_Atomy/T/Tah\|Tahu]]. Můžete [[z_Atomy/0-9/✨\|✨]] kouzlo [[z_Atomy/M/Mrazivá nova\|Mrazivá nova]] za 0[[z_Atomy/0-9/🌀\|🌀]], ale musíte zaplatit 10 [[z_Atomy/0-9/💗\|💗]]. Naučte se 1 [[4 Kouzla/g_Tríčky\|Tríček]] z domény Ledu.
+- **Stínomráz**. Váš [[z_Atomy/S/Stínový výbuch\|Stínový výbuch]] navíc [[z_Atomy/Z/Zpomalen\|Zpomalí]] cíl a jeho pohyb je považován za pohyb skrz [[z_Atomy/O/Obtížný terén\|Obtížný terén]] během jejich příštího [[z_Atomy/T/Tah\|Tahu]]. Můžete [[z_Atomy/0-9/✨\|✨]] kouzlo [[z_Atomy/M/Mrazivá nova\|Mrazivá nova]] za 0[[z_Atomy/0-9/🌀\|🌀]], ale musíte zaplatit 10 [[z_Atomy/0-9/💗\|💗]]. Naučte se 1 [[4 Kouzla/ag_Tríčky\|Tríček]] z domény Ledu.
 
 ### LVL 11
 - **Ledová odolnost**. [[z_Atomy/R/Reakce\|Reakce]] při [[z_Atomy/0-9/🛡️\|🛡️]], 1/[[z_Atomy/0-9/🔋\|🔋]]. Získejte (10x[[z_Atomy/L/LVL\|LVL]]) [[z_Atomy/0-9/💗\|💗]] a ukončete VŠECHNY negativní [[z_Atomy/S/Stavy\|Stavy]], které máte. Na začátku Vašeho příštího tahu jsou všechny [[z_Atomy/0-9/💗\|💗]] ztraceny.
 
 ### LVL 15
-- **Volání Ledokněžníka**. Zaplaťte polovinu svých max [[z_Atomy/0-9/💖\|💖]] (zaokrouhleno dolů, nemůžete zaplatit [[z_Atomy/0-9/💖\|💖]], které nemáte), abyste [[z_Atomy/0-9/✨\|✨]] JAKÉKOLI kouzlo domény [[4 Kouzla/b_Led\|Ledu]] za 0[[z_Atomy/0-9/🌀\|🌀]].
+- **Volání Ledokněžníka**. Zaplaťte polovinu svých max [[z_Atomy/0-9/💖\|💖]] (zaokrouhleno dolů, nemůžete zaplatit [[z_Atomy/0-9/💖\|💖]], které nemáte), abyste [[z_Atomy/0-9/✨\|✨]] JAKÉKOLI kouzlo domény [[4 Kouzla/ab_Led\|Ledu]] za 0[[z_Atomy/0-9/🌀\|🌀]].
 
 </div></div>
 

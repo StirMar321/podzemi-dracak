@@ -32,10 +32,10 @@ Své [[z_Atomy/R/Rozkazy\|Rozkazy]] můžete naplnit magickou silou.
 </div></div>
 
 ### LVL 3
-- **Hluboké znalosti**. Vyber si jakékoli kouzlo stupně 1 (nebo nižší) a jeden [[4 Kouzla/g_Tríčky\|Tríček]].
+- **Hluboké znalosti**. Vyber si jakékoli kouzlo stupně 1 (nebo nižší) a jeden [[4 Kouzla/ag_Tríčky\|Tríček]].
 ### LVL 7
-- **Hluboké znalosti (2)**. Vyber si jakékoli kouzlo stupně 2 (nebo nižší) a jeden [[4 Kouzla/g_Tríčky\|Tríček]].
+- **Hluboké znalosti (2)**. Vyber si jakékoli kouzlo stupně 2 (nebo nižší) a jeden [[4 Kouzla/ag_Tríčky\|Tríček]].
 ### LVL 11
-- **Hluboké znalosti (3)**. Vyber si jakékoli kouzlo stupně 3 (nebo nižší) a jeden [[4 Kouzla/g_Tríčky\|Tríček]].
+- **Hluboké znalosti (3)**. Vyber si jakékoli kouzlo stupně 3 (nebo nižší) a jeden [[4 Kouzla/ag_Tríčky\|Tríček]].
 ### LVL 15
-- **Hluboké znalosti (4)**. Vyber si jakékoli kouzlo stupně 4 (nebo nižší) a jeden [[4 Kouzla/g_Tríčky\|Tríček]].
+- **Hluboké znalosti (4)**. Vyber si jakékoli kouzlo stupně 4 (nebo nižší) a jeden [[4 Kouzla/ag_Tríčky\|Tríček]].
