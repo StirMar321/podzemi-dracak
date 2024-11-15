@@ -5,7 +5,7 @@
 ## Ledová mlha
 ![Ledová mlha.png|300](/img/user/z_img/Ledov%C3%A1%20mlha.png)
 
-| TRIK            | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                          |
+| [[z_Atomy/T/Trik\|Trik]]        | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                          |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[z_Atomy/0-9/🏹\|🏹]]          | 1 metr                                                                                                                                              |
 | [[z_Atomy/O/Oblast\|Oblast]]      | 2x2x2 metry                                                                                                                                         |

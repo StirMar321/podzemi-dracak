@@ -5,7 +5,7 @@
 ## Čestný Úder
 ![Čestný úder.png|300](/img/user/z_img/%C4%8Cestn%C3%BD%20%C3%BAder.png)
 
-| TRIK            | 1 [[z_Atomy/A/Akce\|Akce]]                                                                |
+| [[z_Atomy/T/Trik\|Trik]]        | 1 [[z_Atomy/A/Akce\|Akce]]                                                                |
 | --------------- | ------------------------------------------------------------------------- |
 | [[z_Atomy/0-9/🫱\|🫱]]          | 2m                                                                        |
 | **Čestný úder** | Dejte sobě/spojenci v dosahu [[z_Atomy/0-9/👍\|👍]] pro [[z_Atomy/0-9/⚔️\|⚔️]] až do konce příštího tahu. |

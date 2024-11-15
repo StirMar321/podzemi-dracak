@@ -5,7 +5,7 @@
 ## Dech života
 ![Dech života.png|300](/img/user/z_img/Dech%20%C5%BEivota.png)
 
-| TRIK            | 1 [[z_Atomy/A/Akce\|Akce]]                                     |
+| [[z_Atomy/T/Trik\|Trik]]        | 1 [[z_Atomy/A/Akce\|Akce]]                                     |
 | --------------- | ---------------------------------------------- |
 | [[z_Atomy/0-9/🏹\|🏹]]          | 6m                                             |
 | **Dech života** | Obnovte 1[[z_Atomy/0-9/💖\|💖]] bytosti, která [[z_Atomy/0-9/🩸\|🩸]].         |

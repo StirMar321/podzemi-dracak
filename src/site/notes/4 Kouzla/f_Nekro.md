@@ -13,7 +13,7 @@
 ## Lákání
 ![Lákání.png|300](/img/user/z_img/L%C3%A1k%C3%A1n%C3%AD.png)
 
-| TRIK         | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                             |
+| [[z_Atomy/T/Trik\|Trik]]     | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                             |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[z_Atomy/0-9/🫱\|🫱]]       | 8 metrů                                                                                                                                                                                |
 | **Lákání**   | Cíl provede[[z_Atomy/0-9/❗\|❗]][[z_Atomy/0-9/❤️‍🔥\|❤️‍🔥]].<br>Při neúspěchu utrpí **1k6** nekrotického poškození a přesune se o 2 metry blíže k Vám. <br>Opakujte [[z_Atomy/0-9/❗\|❗]], dokud cíl uspěje nebo se nemůže pohnout blíž. |
@@ -31,7 +31,7 @@
 ## Chřadnoucí Dotek
 ![Chřadnoucí dotek.png|300](/img/user/z_img/Ch%C5%99adnouc%C3%AD%20dotek.png)
 
-| TRIK                 | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                             |
+| [[z_Atomy/T/Trik\|Trik]]             | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                             |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [[z_Atomy/0-9/🫱\|🫱]]               | Dotyk                                                                                                                  |
 | **Chřadnoucí Dotek** | Cíl utrží **1k12** nekrotického poškození. <br>Cíl je považován za *nemrtvého* do konce Vašeho příštího [[z_Atomy/T/Tah\|Tahu]]. |
@@ -177,16 +177,15 @@
 
 
 
-## Stínový výbuch
+## Stínový Výbuch
 ![Stínový výbuch.png|300](/img/user/z_img/St%C3%ADnov%C3%BD%20v%C3%BDbuch.png)
 
-**1/[[z_Atomy/K/Kolo\|Kolo]]**
-**1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🏹\|🏹]] 12m
-⠀
-Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození.
-⠀
-**Vyšší úrovně**: +**1d12** poškození každých 5 [[z_Atomy/L/LVL\|LVL]]. (5/10/15/20)
+| **1/[[z_Atomy/K/Kolo\|Kolo]]**     | **1 [[z_Atomy/A/Akce\|Akce]]**                                      |
+| ------------------ | --------------------------------------------------- |
+| [[z_Atomy/0-9/🏹\|🏹]]             | 12m                                                 |
+| **Stínový Výbuch** | Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození. |
+| Vyšší úrovně       | +**1d12** poškození každých 5 [[z_Atomy/L/LVL\|LVL]]. (5/10/15/20) |
+
 
 </div></div>
 
@@ -196,15 +195,15 @@ Cíl utrží **(1k12+[[z_Atomy/0-9/📖\|📖]])** nekrotického poškození.
 
 
 
-## Přivolání stínu
+## Přivolání Stínu
 ![Přivolání Stínu.png|300](/img/user/z_img/P%C5%99ivol%C3%A1n%C3%AD%20St%C3%ADnu.png)
-**TRIK**  
-**1 [[z_Atomy/A/Akce\|Akce]]**
-[[z_Atomy/0-9/🫱\|🫱]] 1m
-[[z_Atomy/P/Poskoci\|Poskoci]]
 
-Přivolejte **k12 stínového sluhu**.
-Můžete mít maximálně tolik poskoků, kolik je Vaše nižší hodnota z ([[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/L/LVL\|LVL]])
+| [[z_Atomy/T/Trik\|Trik]]            | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [[z_Atomy/0-9/🫱\|🫱]]              | 1 metry                                                                                                                   |
+| **Přivolání Stínu** | Přivolejte **k12 stínového sluhu**.<br>Můžete mít maximálně tolik poskoků, kolik je Vaše nižší hodnota z ([[z_Atomy/0-9/📖\|📖]]/[[z_Atomy/L/LVL\|LVL]]) |
+*[[z_Atomy/P/Poskoci\|Poskoci]]*
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-atomy/s/stinovy-sluha/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

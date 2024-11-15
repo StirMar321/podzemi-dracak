@@ -5,7 +5,7 @@
 ## Výboj
 ![Výboj.png|300](/img/user/z_img/V%C3%BDboj.png)
 
-| TRIK         | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                       |
+| [[z_Atomy/T/Trik\|Trik]]     | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                       |
 | ------------ | ---------------------------------------------------------------------------------------------------------------- |
 | [[z_Atomy/0-9/🏹\|🏹]]       | 12 metrů                                                                                                         |
 | **Výboj**    | Cíl utrží **2k8** bleskového poškození. <br>Pokud **Výboj** mine cíl, zasáhne sesílatele, který získá [[z_Atomy/Z/Zkrat\|Zkrat]]. |

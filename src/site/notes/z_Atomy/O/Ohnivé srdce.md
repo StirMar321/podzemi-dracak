@@ -5,7 +5,7 @@
 ## Ohnivé srdce
 ![Ohnivé srdce.png|300](/img/user/z_img/Ohniv%C3%A9%20srdce.png)
 
-| TRIK             | 1 [[z_Atomy/A/Akce\|Akce]]                                     |
+| [[z_Atomy/T/Trik\|Trik]]         | 1 [[z_Atomy/A/Akce\|Akce]]                                     |
 | ---------------- | ---------------------------------------------- |
 | [[z_Atomy/0-9/🏹\|🏹]]           | 4 metry                                        |
 | **Ohnivé srdce** | Spojenec získá extra **[[z_Atomy/A/Akce\|AKCI]]**.       |

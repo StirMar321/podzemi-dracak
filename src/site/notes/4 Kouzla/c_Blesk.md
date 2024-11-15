@@ -13,7 +13,7 @@
 ## Výboj
 ![Výboj.png|300](/img/user/z_img/V%C3%BDboj.png)
 
-| TRIK         | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                       |
+| [[z_Atomy/T/Trik\|Trik]]     | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                       |
 | ------------ | ---------------------------------------------------------------------------------------------------------------- |
 | [[z_Atomy/0-9/🏹\|🏹]]       | 12 metrů                                                                                                         |
 | **Výboj**    | Cíl utrží **2k8** bleskového poškození. <br>Pokud **Výboj** mine cíl, zasáhne sesílatele, který získá [[z_Atomy/Z/Zkrat\|Zkrat]]. |
@@ -31,7 +31,7 @@
 ## Uzemnění
 ![Uzemnění.png|300](/img/user/z_img/Uzemn%C4%9Bn%C3%AD.png)
 
-| TRIK         | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                 |
+| [[z_Atomy/T/Trik\|Trik]]     | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                 |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[z_Atomy/0-9/🏹\|🏹]]       | 2 metry                                                                                                                                                                    |
 | **Uzemění**  | Lze seslat pouze, pokud má sesílatel [[z_Atomy/Z/Zkrat\|Zkrat]]. <br>Sesílatel ukončí svůj [[z_Atomy/Z/Zkrat\|Zkrat]] a bytosti v dosahu utrží **2k8** bleskového poškození. <br>**Uzemnění** nemůže minout. |

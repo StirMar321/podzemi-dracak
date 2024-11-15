@@ -13,7 +13,7 @@
 ## Ostrý vítr
 ![Ostrý vítr.png|300](/img/user/z_img/Ostr%C3%BD%20v%C3%ADtr.png)
 
-| TRIK           | 1 [[z_Atomy/A/Akce\|Akce]]                                                        |
+| [[z_Atomy/T/Trik\|Trik]]       | 1 [[z_Atomy/A/Akce\|Akce]]                                                        |
 | -------------- | ----------------------------------------------------------------- |
 | [[z_Atomy/0-9/🏹\|🏹]]         | 12 metrů                                                          |
 | **Ostrý vítr** | Až 2 sousedící cíle utrží **1k4** sečného poškození. [[z_Atomy/Z/Zákeřný\|Zákeřný]]. |
@@ -31,7 +31,7 @@
 ## Dech života
 ![Dech života.png|300](/img/user/z_img/Dech%20%C5%BEivota.png)
 
-| TRIK            | 1 [[z_Atomy/A/Akce\|Akce]]                                     |
+| [[z_Atomy/T/Trik\|Trik]]        | 1 [[z_Atomy/A/Akce\|Akce]]                                     |
 | --------------- | ---------------------------------------------- |
 | [[z_Atomy/0-9/🏹\|🏹]]          | 6m                                             |
 | **Dech života** | Obnovte 1[[z_Atomy/0-9/💖\|💖]] bytosti, která [[z_Atomy/0-9/🩸\|🩸]].         |
@@ -198,7 +198,7 @@
 ## Zlomyslný výsměch
 ![Zlomyslný výsměch.png|300](/img/user/z_img/Zlomysln%C3%BD%20v%C3%BDsm%C4%9Bch.png)
 
-| TRIK                  | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                     |
+| [[z_Atomy/T/Trik\|Trik]]              | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                     |
 | --------------------- | ---------------------------------------------------------------------------------------------- |
 | [[z_Atomy/0-9/🏹\|🏹]]                | 12 metrů                                                                                       |
 | **Zlomyslný výsměch** | Cíl utrží **1k4+[[z_Atomy/0-9/📖\|📖]]** psychického poškození. Ignoruje [[z_Atomy/0-9/⛉⛊\|⛉⛊]]. Příští [[z_Atomy/0-9/⚔️\|⚔️]] cíle má [[z_Atomy/0-9/👎\|👎]]. |
