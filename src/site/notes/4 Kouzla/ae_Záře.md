@@ -177,7 +177,7 @@
 ## Přivolání Duchovního Strážce
 ![Přivolání Duchovního strážce.png|300](/img/user/z_img/P%C5%99ivol%C3%A1n%C3%AD%20Duchovn%C3%ADho%20str%C3%A1%C5%BEce.png)
 
-| STUPEŇ 1                         | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                                                         |
+| [[z_Atomy/S/Stupeň\|Stupeň]] 1                     | 1 [[z_Atomy/A/Akce\|Akce]]                                                                                                                                                                                                                         |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Přivolání Duchovního strážce** | Přivolejte **duchovního společníka**, který Vás věrně následuje. <br>Má [[z_Atomy/I/Imunita\|Imunitu]] vůči všemu poškození a škodlivým efektům. <br>Trvá, dokud: toto kouzlo nevyvoláte znovu, [[z_Atomy/0-9/🔋\|🔋]],<br>nebo dokud má **Strážce** [[z_Atomy/0-9/⚕️\|⚕️]]. |
 | **[[z_Atomy/P/Posílení\|Posílení]]**                 | Větší kostka (k12 je max). <br>*(1k6 » 1k8 » 1k10 » 1k12)*                                                                                                                                                                         |

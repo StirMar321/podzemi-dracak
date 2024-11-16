@@ -11,4 +11,5 @@
 
 >[!NOTE]- **Vaše zuřivost skončí, když:** 
 >Opustíte boj, Vaše [[z_Atomy/0-9/💖\|💖]] klesnou na **0**, uběhne 1 [[z_Atomy/K/Kolo\|Kolo]] boje, kdy neudělíte poškození.
->**Ano!** Můžete aktivovat **Zuřivost** i v případě, že už zuříte. Pokud máte víc [[z_Atomy/0-9/♈\|♈]] než je Váš limit, můžete si vybrat, které se zbavíte.
+>**Ano!** Můžete aktivovat **Zuřivost** i v případě, že už zuříte. 
+>Pokud máte víc [[z_Atomy/0-9/♈\|♈]] než je Váš limit, můžete si vybrat, které se zbavíte.
