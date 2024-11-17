@@ -14,9 +14,9 @@ Všichni hrdinové mluví automaticky **Obecným jazykem**, některé [[2 Důle�
 - **Goblinština**. Obvykle jí mluví Goblini a Orkové.
 
 **Exotické jazyky**
-- **Ďábelský**. Obvykle jí mluví různé druhy démonů.
 - **Zlodějská hantýrka**. Znají ho lotři různých zázemí. viz [[3 Povolání/Fixlak\|Fixlák]].
 - **Nebeský jazyk**. Nebeská stvoření.
+- **Ďábelský**. Obvykle jí mluví různé druhy démonů.
 - **Dračí jazyk**. Draci, Drakorození, Koboldi.
 - **Elementální jazyk**. Elementálové.
 - **Zapomenutý jazyk**. Prastaré bytosti.
